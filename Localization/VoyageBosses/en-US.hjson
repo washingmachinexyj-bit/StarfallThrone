@@ -1,0 +1,112 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "StarportSovereignNPC": {
+          "DisplayName": "Starport Gel Sovereign"
+        },
+        "FarwatcherNPC": {
+          "DisplayName": "Farwatcher, the Surveying Eye"
+        },
+        "BeltDevourerNPC": {
+          "DisplayName": "Starwreck Belt Devourer"
+        },
+        "ConsensusBrainNPC": {
+          "DisplayName": "Consensus, the Many-Mind Nexus"
+        },
+        "HiveCarrierNPC": {
+          "DisplayName": "Hive Carrier of the Golden Court"
+        },
+        "OrbitalAnchorNPC": {
+          "DisplayName": "The Orbital Anchor Marshal"
+        },
+        "WarpBulwarkNPC": {
+          "DisplayName": "Warp Bulwark, Ark Blockade"
+        },
+        "CrystalOrbitQueenNPC": {
+          "DisplayName": "Scintilla, Queen of Crystal Orbits"
+        },
+        "BinaryHuntersNPC": {
+          "DisplayName": "Binary Hunters, Redshift and Blueshift"
+        },
+        "FourArmTribunalNPC": {
+          "DisplayName": "Four-Armed Orbital Tribunal"
+        },
+        "SunpiercerFleetNPC": {
+          "DisplayName": "Sunpiercer, the Warship Train"
+        },
+        "WorldseedNPC": {
+          "DisplayName": "Worldseed, the Interstellar Flora"
+        },
+        "PrecursorGuardianNPC": {
+          "DisplayName": "Precursor Guardian of the Megastructure"
+        },
+        "AetherLeviathanNPC": {
+          "DisplayName": "Leviathan, Aether-Cruising Beast"
+        },
+        "SolarSailEmpressNPC": {
+          "DisplayName": "Solar Sail Empress"
+        },
+        "StarNavigatorNPC": {
+          "DisplayName": "Star Navigator, Keeper of Coordinates"
+        },
+        "CelestialArkNPC": {
+          "DisplayName": "Celestial Ark, Sovereign of the Star Sea"
+        },
+        "VoyageDeviceNPC": {
+          "DisplayName": "Voyage Device"
+        }
+      },
+      "Projectiles": {
+        "VoyageHazard": {
+          "DisplayName": "Star-Sea Combat Energy"
+        }
+      },
+      "VoyageBestiary": {
+        "StarportSovereign": "A derelict freight port still operates inside its gel. Destroy cargo before it opens. Low-gravity pockets alter falling but deal no damage.",
+        "Farwatcher": "It remembers your recent path, not your next decision. Faint traces record the route; bright beams are the actual shots.",
+        "BeltDevourer": "Nine independently damageable sections share one fixed encounter budget. Breaking middle sections forms a second short body without adding health.",
+        "ConsensusBrain": "Neural satellites relay attacks in order. Breaking a node cancels its attacks and staggers the brain. Disconnected decoys have no hitbox.",
+        "HiveCarrier": "Two destructible hangars launch bounded drone formations. Destroy them to stop reinforcements and force the carrier to use its own cannon.",
+        "OrbitalAnchor": "Two docking anchors define the chains. Breaking one staggers the marshal. Watch which cable it begins to retrieve.",
+        "WarpBulwark": "The advancing living bulkhead always leaves a traversable lane. There is no solid contact wall, and no attack changes player-built tiles.",
+        "CrystalOrbitQueen": "Three breakable crystals define the reflected paths. Every segment is shown before firing; a broken crystal opens a route.",
+        "BinaryHunters": "Redshift intercepts while Blueshift covers. Each eye owns half the total budget. The survivor inherits one reduced tactic, never extra life.",
+        "FourArmTribunal": "Four non-respawning weapon arms are scheduled two at a time. Dismantle difficult weapons while the central chassis remains vulnerable.",
+        "SunpiercerFleet": "The bow and eight ship sections have separate budgets. Breaking cooling sections two or five slows the train; detached escorts add no health.",
+        "Worldseed": "Four root nodes connect temporary routes. Breaking a node opens space, and seeds never turn into permanent world tiles.",
+        "PrecursorGuardian": "Precursor blocks rearrange between attacks, then activate their geometric stamps in sequence. Breaking a block creates a recovery opening.",
+        "AetherLeviathan": "It hunts along committed flight paths. Wakes become dangerous after a delay; the later inhale clears old wakes for another hunt.",
+        "SolarSailEmpress": "The optical film carries the light, but the path is what matters. Destroy sails to simplify reflection. Daytime never adds an instant-kill rule.",
+        "StarNavigator": "Real gates fire in coordinate order; hollow disconnected beacons are illusions. Breaking a real gate disrupts the ritual and staggers its navigator.",
+        "CelestialArk": "Left city: 2 million. Right city: 2 million. Array: 2.5 million. Core: 3.5 million. Exactly ten million before difficulty scaling; the final voyage previews a curved safe route."
+      },
+      "VoyageParts": {
+        "Cargo": "Sealed Cargo",
+        "NeuralNode": "Consensus Neural Node",
+        "Hangar": "Royal Hangar",
+        "Anchor": "Docking Anchor",
+        "Bulkhead": "Bulkhead Turret",
+        "Mirror": "Orbit Prism",
+        "Weapon": "Tribunal Armament",
+        "RootNode": "Living Root Node",
+        "Geometry": "Precursor Block",
+        "Sail": "Solar Sail",
+        "Gate": "True Navigation Gate",
+        "Segment": "Starwreck Section",
+        "RedEye": "Redshift",
+        "BlueEye": "Blueshift",
+        "LeftCity": "Left Orbital City",
+        "RightCity": "Right Orbital City",
+        "Array": "Main Observation Array",
+        "Asteroid": "Drifting Starwreck",
+        "Drone": "Escort Drone",
+        "SeedFlower": "Living Spore Blossom"
+      },
+      "VoyageCombat": {
+        "Phase1": "Voyage structures are reconfiguring...",
+        "Phase2": "The core systems begin their final voyage!"
+      }
+    }
+  }
+}

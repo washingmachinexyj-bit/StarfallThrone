@@ -1,0 +1,253 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "MiningTool0": {
+          "DisplayName": "Dewshell Hand Pick",
+          "Tooltip": "35% pickaxe power; +0 tile mining reach\nProvides faint light while held\nMines mossvein ore"
+        },
+        "MiningTool1": {
+          "DisplayName": "Coppermarrow Chisel Pick",
+          "Tooltip": "40% pickaxe power; +0 tile mining reach\nAdds one legal pick strike when mining coppermarrow ore"
+        },
+        "MiningTool2": {
+          "DisplayName": "Frosthorn Prospecting Pick",
+          "Tooltip": "45% pickaxe power; +0 tile mining reach\nLights nearby rock while held"
+        },
+        "MiningTool3": {
+          "DisplayName": "Dawn Survey Pick",
+          "Tooltip": "50% pickaxe power; +1 tile mining reach\nLights exposed early mod ores within 10 tiles while held"
+        },
+        "MiningTool4": {
+          "DisplayName": "Imperial Rockbreaker",
+          "Tooltip": "240% pickaxe power; +4 tile mining reach\nMines imperial crystal ore"
+        },
+        "MiningTool5": {
+          "DisplayName": "Doomfire Melting Drill",
+          "Tooltip": "270% pickaxe power; +4 tile mining reach\nProvides light and mines doomfire ore"
+        },
+        "MiningTool6": {
+          "DisplayName": "Star-Magnet Rail Pick",
+          "Tooltip": "300% pickaxe power; +5 tile mining reach\nAttracts only blocks and ore you just mined, never loot"
+        },
+        "MiningTool7": {
+          "DisplayName": "Silentmoon Pioneer Pick",
+          "Tooltip": "330% pickaxe power; +5 tile mining reach\nRight click: single / horizontal three / vertical three\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningTool9": {
+          "DisplayName": "Prismatic Splitting Pick",
+          "Tooltip": "390% pickaxe power; +6 tile mining reach\nRight click: single / horizontal three / vertical three\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningTool10": {
+          "DisplayName": "Everlife Root Drill",
+          "Tooltip": "440% pickaxe power; +6 tile mining reach\nRight click: single / matching vein\nUp to 6 extra strikes on connected matching ore; respects pick requirements\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningTool11": {
+          "DisplayName": "Star Coordinate Cutter",
+          "Tooltip": "490% pickaxe power; +8 tile mining reach\nRight click: single / 3x3 cutting\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningTool12": {
+          "DisplayName": "Ark Genesis Drill",
+          "Tooltip": "560% pickaxe power; +10 tile mining reach\nRight click: single / 5x3 excavation\nAttracts only blocks and ore you just mined\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningTool13": {
+          "DisplayName": "Ark Genesis Drill: Engineering",
+          "Tooltip": "600% pickaxe power; +10 tile mining reach\nRight click: single / 5x3 / 3x5 / 3x3\nAttracts only blocks and ore you just mined\nArea mode is off by default and checks every block's pick requirement\nProtects furniture, chests, walls, marked boundaries and protected regions"
+        },
+        "MiningAccessory0": {
+          "DisplayName": "Moss Gatherer's Ring",
+          "Tooltip": "Reduces mining time by 5%; +1 placement reach\nDoes not stack with Dawn Gatherer's Badge or Genesis Gathering Core"
+        },
+        "MiningAccessory1": {
+          "DisplayName": "Dawn Gatherer's Badge",
+          "Tooltip": "Reduces mining time by 8%; +1 placement reach\nProvides faint light\nOnly the strongest gathering tier applies"
+        },
+        "MiningAccessory2": {
+          "DisplayName": "Magnetic Mining Collector",
+          "Tooltip": "Attracts only ore and blocks you mined within the last 15 seconds; at least 240 pixel pickup range\nNever attracts treasure bags, coins, weapons or player-thrown items\nDoes not stack with tool mining magnets"
+        },
+        "MiningAccessory3": {
+          "DisplayName": "Ore Spectrum Goggles",
+          "Tooltip": "Highlights exposed selected ore within 20 tiles\nClick the mining panel to select a world-unlocked mod ore\nDoes not reveal buried veins or increase ore yield"
+        },
+        "MiningAccessory4": {
+          "DisplayName": "Genesis Gathering Core",
+          "Tooltip": "Reduces mining time by 15%; +3 placement reach\nProvides light and attracts only your freshly mined blocks and ore\nOnly the strongest gathering tier applies; does not increase pick power"
+        },
+        "MiningSurvey0": {
+          "DisplayName": "Coppermarrow Ore Probe",
+          "Tooltip": "While held, locates the nearest unlocked early mod ore within 45 tiles\nShows direction and near/far; right click cycles ore\nDoes not reveal the map or locate chests"
+        },
+        "MiningSurvey1": {
+          "DisplayName": "Silentmoon Ore Surveyor",
+          "Tooltip": "While held, locates the nearest unlocked mod ore within 100 tiles\nRight click cycles ore; shows direction and distance bands\nDoes not reveal the map or mine automatically"
+        },
+        "MiningSurvey2": {
+          "DisplayName": "Star-Chart Ore Navigator",
+          "Tooltip": "While held, locates up to three nearby vein candidates within 160 tiles\nRight click cycles ore; left click remembers the nearest deposit\nShows approximate distance; never teleports or automatically mines"
+        },
+        "MiningSurvey3": {
+          "DisplayName": "Construction Boundary Marker",
+          "Tooltip": "Left click two corners; right click clears\nMaximum 200x200 tiles; corners must be within 75 tiles of the player\nArea tools respect the boundary; ordinary single-tile mining is unchanged\nPreview only; never automatically destroys blocks"
+        },
+        "MiningUtilityItem0": {
+          "DisplayName": "Mosslight Waymarker",
+          "Tooltip": "Green mine light\nRight click after placing to cycle four arrow directions"
+        },
+        "MiningUtilityItem1": {
+          "DisplayName": "Dewdrop Lamp",
+          "Tooltip": "Soft permanent cyan light woven from moss fibers"
+        },
+        "MiningUtilityItem2": {
+          "DisplayName": "Dewshell Lamp",
+          "Tooltip": "Warm light resting inside a shell; no fuel required"
+        },
+        "MiningUtilityItem3": {
+          "DisplayName": "Mossvein Planter",
+          "Tooltip": "Decorative woodland planter; never spreads or changes biomes"
+        },
+        "MiningUtilityItem4": {
+          "DisplayName": "Frostrune Survey Lamp",
+          "Tooltip": "Permanent cool light\nHighlights exposed unlocked mod ore within 18 tiles"
+        },
+        "MiningUtilityItem5": {
+          "DisplayName": "Dawn Beacon",
+          "Tooltip": "Permanent strong warm light made with dawn focusing plates"
+        },
+        "MiningUtilityItem6": {
+          "DisplayName": "Doomfire Illumination Furnace",
+          "Tooltip": "Permanent red illumination powered by doomfire\nDecoration only; no combat buff or smelting recipes"
+        },
+        "MiningUtilityItem7": {
+          "DisplayName": "Moss Crystal Rack",
+          "Tooltip": "Within 7 tiles of a crystallizer, increases queued seed capacity to 2\nNever increases yield; attachments do not stack"
+        },
+        "MiningUtilityItem8": {
+          "DisplayName": "Crystal Growth Chamber",
+          "Tooltip": "Within 7 tiles, increases crystallizer speed by 25% and capacity to 2\nNever increases yield or reduces seed cost; does not stack"
+        },
+        "MiningUtilityItem9": {
+          "DisplayName": "Ring Heavy Crystal Rack",
+          "Tooltip": "Heavy-duty two-seed queue rack\nNearby crystallizers within 7 tiles hold two paid jobs; no yield bonus"
+        },
+        "MiningUtilityItem10": {
+          "DisplayName": "Genesis Crystallizer Attachment",
+          "Tooltip": "Inherits two-seed capacity and 25% cultivation speed\nWithin 7 tiles; no stacking or yield bonus\nThe Genesis Nexus also offers bulk gray brick and glass recipes"
+        },
+        "MiningUtilityItem11": {
+          "DisplayName": "Prismatic Adjustable Lamp",
+          "Tooltip": "Right click cycles white, blue, violet, green and gold light"
+        },
+        "MiningUtilityItem12": {
+          "DisplayName": "Ore Crystallizer Vat",
+          "Tooltip": "Hold a seed and right click to load; empty-hand right click shows status\nAfter 30 seconds, grows 6 crystals yielding 4 raw ore each\nRequires 3x2 empty liquid-free cells above the vat\nCrystals require the correct pick power and resist bombs and block swap\nBreaking refunds unfinished seeds only, never completed jobs"
+        },
+        "MiningUtilityItem13": {
+          "DisplayName": "Imperial Cushion Platform",
+          "Tooltip": "Prevents fall damage when actually landing on this platform\nNo bounce and no area-wide buff"
+        },
+        "MiningUtilityItem14": {
+          "DisplayName": "Engineering Scaffold",
+          "Tooltip": "Low-cost bulk construction platform\nSupports standing, dropping through and quick mine scaffolding"
+        },
+        "MiningSeed0": {
+          "DisplayName": "Mossvein Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 35% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed1": {
+          "DisplayName": "Coppermarrow Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 40% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed2": {
+          "DisplayName": "Frostrune Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 45% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed3": {
+          "DisplayName": "Dawn Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 50% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed4": {
+          "DisplayName": "Imperial Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 230% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed5": {
+          "DisplayName": "Doomfire Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 260% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed6": {
+          "DisplayName": "Star-Magnet Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 290% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed7": {
+          "DisplayName": "Silentmoon Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 320% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed8": {
+          "DisplayName": "Ringwreck Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 340% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed9": {
+          "DisplayName": "Prismphase Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 380% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed10": {
+          "DisplayName": "Everlife Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 430% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed11": {
+          "DisplayName": "Coordinate Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 480% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        },
+        "MiningSeed12": {
+          "DisplayName": "Genesis Ore Seed",
+          "Tooltip": "Hold and right click a crystallizer vat to load\nRequires the corresponding boss defeated in this world\nYields 24 raw ore in crystals requiring 550% pick power\nCrafted without current-tier ore; bombs and block swap cannot bypass the mining gate"
+        }
+      },
+      "Projectiles": {
+        "MiningDrillProjectile": {
+          "DisplayName": "Mining Drill"
+        }
+      },
+      "MiningToolsUI": {
+        "CurrentMode": "Current mode: {0}",
+        "ModeSingle": "Single",
+        "ModeVein": "Matching vein (6 extras)",
+        "ModeSquare": "3x3 cutting",
+        "ModeWide": "5x3 excavation",
+        "ModeTall": "3x5 excavation",
+        "ModeHorizontal": "Horizontal three",
+        "ModeVertical": "Vertical three",
+        "SurveySelected": "Target ore: {0}",
+        "MarkerFirst": "First corner recorded; left click the opposite corner.",
+        "MarkerTooLarge": "Boundary cannot exceed 200x200 tiles.",
+        "MarkerReady": "Enabled {0}x{1} construction boundary; right click the marker to clear.",
+        "WaypointSaved": "Nearest deposit remembered.",
+        "SeedUnlocked": "Corresponding ore-unlocking boss defeated in this world",
+        "VatStatus": "Crystallizer: {0}/{1} queued seeds; {2}% progress. Hold a seed to load; leave 3x2 cells above.",
+        "VatLocked": "This world's corresponding ore boss has not been defeated.",
+        "VatFull": "Seed queue is full. A nearby crystal rack allows two jobs.",
+        "VatLoaded": "Loaded a {0} seed. Mature crystals require {1}% pick power and yield 24 raw ore.",
+        "MarkerTitle": "Construction boundary preview",
+        "MarkerHUDActive": "Boundary active. Area mining stays inside; right click to clear.",
+        "MarkerHUDHint": "Left click two corners; right click to clear.",
+        "SurveyHUDHint": "Hold to scan · Right click cycles ore · Navigator left click saves",
+        "SurveyNone": "No target ore in range, or ore not unlocked.",
+        "Near": "near",
+        "Medium": "medium",
+        "Far": "far",
+        "Distance": "about {0} tiles",
+        "WaypointHUD": "Saved deposit: {0}, about {1} tiles",
+        "SpectrumCycle": "Cycle highlighted ore",
+        "Here": "here",
+        "East": "right",
+        "SouthEast": "down-right",
+        "South": "down",
+        "SouthWest": "down-left",
+        "West": "left",
+        "NorthWest": "up-left",
+        "North": "up",
+        "NorthEast": "up-right"
+      }
+    }
+  }
+}

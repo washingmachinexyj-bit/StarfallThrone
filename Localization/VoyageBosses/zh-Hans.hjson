@@ -1,0 +1,112 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "StarportSovereignNPC": {
+          "DisplayName": "星港凝胶君主"
+        },
+        "FarwatcherNPC": {
+          "DisplayName": "巡天之眼·远望者"
+        },
+        "BeltDevourerNPC": {
+          "DisplayName": "星骸环带吞噬者"
+        },
+        "ConsensusBrainNPC": {
+          "DisplayName": "万脑中枢·共识"
+        },
+        "HiveCarrierNPC": {
+          "DisplayName": "蜂巢母舰·金翅王庭"
+        },
+        "OrbitalAnchorNPC": {
+          "DisplayName": "轨道骸将·执锚者"
+        },
+        "WarpBulwarkNPC": {
+          "DisplayName": "跃迁壁垒·方舟封锁线"
+        },
+        "CrystalOrbitQueenNPC": {
+          "DisplayName": "晶环女皇·璨星"
+        },
+        "BinaryHuntersNPC": {
+          "DisplayName": "双星猎杀者·赤移与蓝移"
+        },
+        "FourArmTribunalNPC": {
+          "DisplayName": "轨道执刑机·四臂天衡"
+        },
+        "SunpiercerFleetNPC": {
+          "DisplayName": "列星歼灭舰·贯日者"
+        },
+        "WorldseedNPC": {
+          "DisplayName": "星际植群·世界树之种"
+        },
+        "PrecursorGuardianNPC": {
+          "DisplayName": "先驱守卫·巨构之心"
+        },
+        "AetherLeviathanNPC": {
+          "DisplayName": "以太巡洋兽·利维坦"
+        },
+        "SolarSailEmpressNPC": {
+          "DisplayName": "光帆圣后·万色航迹"
+        },
+        "StarNavigatorNPC": {
+          "DisplayName": "引航圣者·群星坐标"
+        },
+        "CelestialArkNPC": {
+          "DisplayName": "星海主宰·天穹方舟"
+        },
+        "VoyageDeviceNPC": {
+          "DisplayName": "星航装置"
+        }
+      },
+      "Projectiles": {
+        "VoyageHazard": {
+          "DisplayName": "星海战斗能量"
+        }
+      },
+      "VoyageBestiary": {
+        "StarportSovereign": "废弃货运站在凝胶中继续运行。摧毁落下的货舱可以阻止卸货；失重泡不会造成伤害，但会改变下落。",
+        "Farwatcher": "它记录航迹，却无法预测你下一次改道。虚线是记忆，亮线才是射击；不要急着沿原路折返。",
+        "BeltDevourer": "九段星骸拥有各自的生命，合计不超过整条吞噬者的生命预算。击破中段会分出第二条短躯体，绝不会再生完整生命。",
+        "ConsensusBrain": "神经卫星按连线顺序接力。打断节点会终止相关攻击并让主脑失衡；断线的虚影没有接触伤害。",
+        "HiveCarrier": "金翅王庭的机库会调度有限的无人蜂。摧毁两座机库便能停止编队增援，迫使母舰亲自使用腹炮。",
+        "OrbitalAnchor": "两枚停泊锚决定锁链的危险范围。折断锚点会让骸将短暂失衡；收链方向就是下一次位移方向。",
+        "WarpBulwark": "活体舰壁不断推进，炮口却总会留下一条航道。它没有不可穿越的接触墙，舱门与排气也不会改变你的建筑。",
+        "CrystalOrbitQueen": "三颗可以击碎的晶体决定折射路径。光线在亮起之前便展示全程，空缺晶环就是你打开的通道。",
+        "BinaryHunters": "赤移截击，蓝移掩护；两只眼球各占一半总生命。击败其中一只后，幸存者继承一种简化战术但不会回血。",
+        "FourArmTribunal": "四条武装臂按排程两两激活，毁坏后不再重建。优先拆除让你最难应对的武装，核心仍可以直接受到攻击。",
+        "SunpiercerFleet": "舰首和八节舰身拥有独立生命。第二、第五星节的散热器破坏后会迫使列舰减速；护航脱离不会创造额外生命。",
+        "Worldseed": "四个根系节点连接出临时航路。斩断节点可以开辟通道，种子不会永久生长成世界中的方块。",
+        "PrecursorGuardian": "先驱构件在出招间隙重组，几何落印按顺序激活。打坏构件会暴露更稳定的输出窗口。",
+        "AetherLeviathan": "它把高速航迹当作捕猎工具。尾流稍后才会变得危险；吞息又会吸收旧尾流，为下一轮捕猎清场。",
+        "SolarSailEmpress": "光帆上的彩色薄膜只是载体，真正需要记住的是路径。摧毁光帆可以简化折射，不论昼夜都没有强制秒杀。",
+        "StarNavigator": "星门按坐标依次启动，空心断线航标只是幻影。摧毁真实星门可以打断仪式，让引航者暂时失去平衡。",
+        "CelestialArk": "左城二百万、右城二百万、阵列二百五十万、核心三百五十万，共同构成一千万生命。最后航程会提前展示弯曲的安全路线。"
+      },
+      "VoyageParts": {
+        "Cargo": "封装货舱",
+        "NeuralNode": "共识神经节点",
+        "Hangar": "王庭机库",
+        "Anchor": "停泊锚点",
+        "Bulkhead": "舰壁炮台",
+        "Mirror": "轨道棱晶",
+        "Weapon": "天衡武装",
+        "RootNode": "恒生根结",
+        "Geometry": "先驱构件",
+        "Sail": "万色光帆",
+        "Gate": "真实引航门",
+        "Segment": "星骸舰节",
+        "RedEye": "赤移",
+        "BlueEye": "蓝移",
+        "LeftCity": "左手轨道城",
+        "RightCity": "右手轨道城",
+        "Array": "主观测阵列",
+        "Asteroid": "漂流星骸",
+        "Drone": "护航无人机",
+        "SeedFlower": "恒生孢子花"
+      },
+      "VoyageCombat": {
+        "Phase1": "星航结构正在重组……",
+        "Phase2": "核心系统进入最后航程！"
+      }
+    }
+  }
+}

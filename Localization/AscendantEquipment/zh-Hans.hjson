@@ -1,0 +1,179 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "AscendantWeapon0": {
+          "DisplayName": "八芽裁生",
+          "Tooltip": "三段交替挥斩；每次挥斩真正命中仅积累一次枝芽，最多3枚\n每第三次有效命中释放两道40%伤害的交叉枝刃\n右键消耗3枚枝芽，在准星附近释放两道85%伤害的合拢枝刃\n右键最远10格，不可选在墙后；枝刃不会积累连击"
+        },
+        "AscendantWeapon1": {
+          "DisplayName": "万籽晨弦",
+          "Tooltip": "箭矢命中同一敌人积累种印，3秒内第三次命中释放两枚65%伤害的追击露籽\n露籽先向两侧散开，再追击附近可见敌人；不会继续生成种印\n每次射击消耗一支箭，转换为晨籽箭"
+        },
+        "AscendantWeapon2": {
+          "DisplayName": "初世花典",
+          "Tooltip": "左键在准星处种下露花，最多3朵，各存在10秒\n右键依次引爆露花，间隔1/6秒，各释放100%伤害的扩散露环\n同一露环只命中每个敌人一次；放置最远45格且不能穿墙\n右键消耗4点基础魔力；露花未引爆时不造成伤害"
+        },
+        "AscendantWeapon3": {
+          "DisplayName": "八生侍芽杖",
+          "Tooltip": "召唤八生侍芽，先突刺，再散射两枚40%伤害的种弹\n每只占1个仆从栏位，完整攻击周期1.75秒\n取消增益即可遣散；服从原生召唤标记，不穿墙攻击"
+        },
+        "AscendantWeapon4": {
+          "DisplayName": "四誓断罪刃",
+          "Tooltip": "命中积累20点炉压，最多100，每次挥斩仅积累一次\n右键消耗100炉压，按镜、烛、巢、钟顺序释放四律热浪\n每道造成72%伤害，间隔1/6秒，最远约23格\n巢焰摆动，钟波更宽；热浪不能再次积累炉压"
+        },
+        "AscendantWeapon5": {
+          "DisplayName": "审律四重铳",
+          "Tooltip": "四发点射；每发消耗一颗子弹，转换为审律弹\n每轮前三发留下誓印，第四发命中时结算该目标本轮全部命中\n每层造成25%伤害的小范围爆燃，最多4层\n誓印最多存在1.5秒，不跨射击轮次累积；爆燃不递归"
+        },
+        "AscendantWeapon6": {
+          "DisplayName": "四境焚典",
+          "Tooltip": "左键依次施加镜、烛、巢、钟四种律印，律印持续4秒\n右键消耗28点基础魔力，结算45格内可见敌人的律印\n每种律印造成45%伤害的爆燃，同种印记不叠加\n结算消耗律印，爆燃不会再施加律印"
+        },
+        "AscendantWeapon7": {
+          "DisplayName": "四炉执刑杖",
+          "Tooltip": "召唤四炉执刑者：镜刃突击、烛焰直射、双巢焰、重钟弹依次接力\n后三式分别造成60%、两次30%、80%伤害\n每名占2个仆从栏位，完整攻击周期约2.67秒\n服从原生召唤标记；取消增益遣散，不提供玩家护盾"
+        },
+        "AscendantWeapon8": {
+          "DisplayName": "终命裁界锋",
+          "Tooltip": "挥斩首次命中在原位置留下65%伤害的命痕，最多5道，各存在5秒\n右键按命痕生成顺序重演，间隔约0.13秒\n命痕不追踪目标；未激活时无伤害，重演不会生成新命痕"
+        },
+        "AscendantWeapon9": {
+          "DisplayName": "第五终刻",
+          "Tooltip": "连续命中同一敌人三箭后，下一箭附带两道60%伤害的交叉回响\n回响在命中位置预告1/3秒后生效，不追踪目标，不递归\n每次射击消耗一支箭，转换为终刻命矢"
+        },
+        "AscendantWeapon10": {
+          "DisplayName": "未发生之书",
+          "Tooltip": "左键放置最多5枚刻度星，各存在10秒；未连线时没有伤害\n右键消耗30点基础魔力，连接相邻星点并消耗所有星点\n连线预告0.1秒后切割，每次造成110%伤害，最多命中3次\n同类连线对同一敌人共享0.2秒命中间隔；放置最远45格，不穿墙"
+        },
+        "AscendantWeapon11": {
+          "DisplayName": "五轮司命权杖",
+          "Tooltip": "召唤在追击突刺与五轮布阵间交替的司命者\n追击后发射两枚35%伤害命矛，布阵依次释放五种命轮攻击\n每名占2个仆从栏位，完整循环约5.33秒\n原生召唤标记可指定集火目标；取消增益遣散，不穿墙攻击"
+        },
+        "AscendantArmor0": {
+          "DisplayName": "万生战冠",
+          "Tooltip": "近战伤害增加10%\n近战攻击速度增加8%"
+        },
+        "AscendantArmor1": {
+          "DisplayName": "万生猎冠",
+          "Tooltip": "远程伤害增加10%\n远程暴击率增加6%"
+        },
+        "AscendantArmor2": {
+          "DisplayName": "万生法冠",
+          "Tooltip": "魔法伤害增加10%\n最大魔力增加40，魔力消耗减少8%"
+        },
+        "AscendantArmor3": {
+          "DisplayName": "万生灵冠",
+          "Tooltip": "召唤伤害增加10%\n最大仆从数量增加2"
+        },
+        "AscendantArmor4": {
+          "DisplayName": "万生祭衣",
+          "Tooltip": "全伤害增加4%"
+        },
+        "AscendantArmor5": {
+          "DisplayName": "万生护腿",
+          "Tooltip": "移动速度增加9%"
+        },
+        "AscendantArmor6": {
+          "DisplayName": "四律战冠",
+          "Tooltip": "近战伤害增加14%\n近战攻击速度增加10%"
+        },
+        "AscendantArmor7": {
+          "DisplayName": "四律猎冠",
+          "Tooltip": "远程伤害增加14%\n远程暴击率增加8%"
+        },
+        "AscendantArmor8": {
+          "DisplayName": "四律法冠",
+          "Tooltip": "魔法伤害增加14%\n最大魔力增加80，魔力消耗减少13%"
+        },
+        "AscendantArmor9": {
+          "DisplayName": "四律灵冠",
+          "Tooltip": "召唤伤害增加14%\n最大仆从数量增加3"
+        },
+        "AscendantArmor10": {
+          "DisplayName": "四律祭衣",
+          "Tooltip": "全伤害增加6%"
+        },
+        "AscendantArmor11": {
+          "DisplayName": "四律护腿",
+          "Tooltip": "移动速度增加12%"
+        },
+        "AscendantArmor12": {
+          "DisplayName": "终命战冠",
+          "Tooltip": "近战伤害增加18%\n近战攻击速度增加12%"
+        },
+        "AscendantArmor13": {
+          "DisplayName": "终命猎冠",
+          "Tooltip": "远程伤害增加18%\n远程暴击率增加10%"
+        },
+        "AscendantArmor14": {
+          "DisplayName": "终命法冠",
+          "Tooltip": "魔法伤害增加18%\n最大魔力增加120，魔力消耗减少18%"
+        },
+        "AscendantArmor15": {
+          "DisplayName": "终命灵冠",
+          "Tooltip": "召唤伤害增加18%\n最大仆从数量增加4"
+        },
+        "AscendantArmor16": {
+          "DisplayName": "终命祭衣",
+          "Tooltip": "全伤害增加8%"
+        },
+        "AscendantArmor17": {
+          "DisplayName": "终命护腿",
+          "Tooltip": "移动速度增加15%"
+        },
+        "AscendantExpert0": {
+          "DisplayName": "八生圣心",
+          "Tooltip": "最大生命增加35\n每15秒准备一层50点伤害的露盾，可分次抵挡敌方攻击\n被敌方攻击耗尽时，移动速度增加15%，持续3秒\n不提供额外无敌时间，不抵挡环境、自伤或PvP伤害\n与未冠圣心互斥；卸装、死亡、重进世界不重置冷却"
+        },
+        "AscendantExpert1": {
+          "DisplayName": "不灭的四律心脏",
+          "Tooltip": "最大生命增加60\n受到非致死敌方伤害时记录该次伤害的40%，最多90点\n连续4秒未受伤后，每约0.067秒返还1点生命，触发冷却20秒\n再次受伤、卸装或死亡会取消剩余返还；环境、自伤、陷阱和PvP不触发\n不复活，与不熄的第二心脏互斥；重进世界不重置冷却"
+        },
+        "AscendantExpert2": {
+          "DisplayName": "被否决的终焉",
+          "Tooltip": "全伤害增加12%\n每25秒准备一次命幕\n下一次预计伤害至少60点的敌方攻击，其伤害减少60%，最多减少180点\n不完全免伤，不复活，不处理环境、自伤或PvP伤害\n与尚未发生的终焉互斥；卸装、死亡、重进世界不重置冷却"
+        }
+      },
+      "Buffs": {
+        "AscendantMinionBuff0": {
+          "DisplayName": "八生侍芽",
+          "Description": "你的真神侍从正在守护你；取消增益即可遣散"
+        },
+        "AscendantMinionBuff1": {
+          "DisplayName": "四炉执刑者",
+          "Description": "你的真神侍从正在守护你；取消增益即可遣散"
+        },
+        "AscendantMinionBuff2": {
+          "DisplayName": "五轮司命者",
+          "Description": "你的真神侍从正在守护你；取消增益即可遣散"
+        }
+      },
+      "Projectiles": {
+        "AscendantMinion0": {
+          "DisplayName": "八生侍芽"
+        },
+        "AscendantMinion1": {
+          "DisplayName": "四炉执刑者"
+        },
+        "AscendantMinion2": {
+          "DisplayName": "五轮司命者"
+        },
+        "AscendantShot": {
+          "DisplayName": "真神武装"
+        },
+        "AscendantSummonShot": {
+          "DisplayName": "真神侍从之击"
+        }
+      },
+      "AscendantEquipment": {
+        "Set0": "借露而生：有效主攻击命中每秒最多积累1枚露芽，最多3枚\n按神明护甲技能键（默认K）消耗全部露芽，每枚释放32点基础全伤害追击露刃\n获得4秒15%移动速度，冷却12秒；露刃不再积累露芽\n卸装或死亡移除增益，但不重置技能冷却",
+        "Set1": "焚律：主攻击每0.1秒最多积累5炉温，100满温；受伤损失25炉温\n满温按神明护甲技能键（默认K），10秒内当前头盔职业伤害增加22%、移速增加12%\n期间首次敌方伤害减少25%，最多减少60点\n结束后冷却25秒（启动起35秒），卸装和死亡不刷新冷却",
+        "Set2": "改写此刻：按神明护甲技能键（默认K）记录当前位置，6秒内再按返回\n最远100格，不进入实心方块，不回滚生命、魔力或其他技能，不额外提供无敌\n返回后6秒内当前头盔职业伤害增加15%；记录起冷却30秒\n卸装、死亡或跨世界会取消标记，但不重置冷却",
+        "DewReady": "三露已满：技能就绪",
+        "HeatReady": "炉温已满：焚律就绪",
+        "ReturnReady": "再按技能键返回命点"
+      }
+    }
+  }
+}

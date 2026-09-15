@@ -1,0 +1,371 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Fable": {
+        "Title": "未写完的开场绘本",
+        "ParticipantReward": "每名参战玩家必得；遗失的武器可在绘本中补领",
+        "Sealed": "封印中：不能挖掘或放置方块，完成隐藏结局或永久跳过可解除。",
+        "Completed": "结局已完成：封印解除，所有章节可以重战。",
+        "Skipped": "此世界已永久跳过：封印解除，这组试炼已关闭。",
+        "Confirm1": "跳过会影响当前世界的所有玩家。",
+        "Confirm2": "确认后，这18个迷你 Boss 将永久无法挑战。",
+        "Confirm3": "不会补发战利品，也不会记录为已击败。此操作不可撤销。",
+        "Back": "返回",
+        "ConfirmSkip": "确认永久跳过",
+        "Replay": "重战",
+        "Challenge": "挑战",
+        "Claim": "补领",
+        "Practice": "领取练习木剑",
+        "Rest": "休息疗伤",
+        "Skip": "永久跳过本世界试炼",
+        "FourTrialTab": "微型试炼",
+        "FourTrialTitle": "金属与宝石的微型试炼",
+        "FourTrialReturn": "返回绘本",
+        "FourTrialNote": "独立的四场纪念挑战；无时期限制，不计入开场试炼顺序，也不会影响创意震撼。",
+        "FourTrialSpawnInfo": "手持绘本打开「微型试炼」页即可挑战；铜、银、金、钻石按弱到强排列。",
+        "FourTrialBusy": "请先结束当前 Boss 战、入侵或事件。",
+        "FourTrialCleared": "已留下纪念",
+        "FourTrialUnclaimed": "尚未挑战",
+        "FourTrialInfo0": "铜：经典模式生命值 1；只会发光，不会攻击。",
+        "FourTrialInfo1": "银：经典模式生命值 2；会进行一次缓慢冲撞。",
+        "FourTrialInfo2": "金：经典模式生命值 4；短冲撞后发射一枚小光点。",
+        "FourTrialInfo3": "钻石：经典模式生命值 8；三向小光点与一次短距离闪现。",
+        "FourTrialHint0": "一颗只想被收藏的铜色小铆点。",
+        "FourTrialHint1": "在月光下练习冲刺的银色小片。",
+        "FourTrialHint2": "会叮当作响、认真模仿 Boss 的金色小团。",
+        "FourTrialHint3": "把一束微光折成棱角的钻石小兵。",
+        "FourTrialVictory0": "铜色的小试炼兵留下了一点微光。",
+        "FourTrialVictory1": "银色的小试炼兵完成了自己的短冲刺。",
+        "FourTrialVictory2": "金色的小试炼兵把叮当声留在了绘本里。",
+        "FourTrialVictory3": "钻石小试炼兵的折光，成为了最后一枚纪念。",
+        "BookHint": "空手零材料合成绘本；手持左键打开。",
+        "Intro": "开场封印已生效：空手零材料合成「未写完的开场绘本」，挑战或永久跳过以解除创意震撼。",
+        "SkippedNotice": "本世界已永久跳过开场试炼；创意震撼封印已解除。",
+        "CompleteNotice": "空白的结局终于落笔！开场封印解除，所有章节现可重战。",
+        "Busy": "请先结束当前 Boss 战或入侵事件。",
+        "RemoveGear": "开场试炼仅允许初始工具及绘本武器：请卸下护甲、饰品并离开坐骑。",
+        "NoSpace": "附近没有足够的空中空间，请到开阔处再试。",
+        "HostOnly": "只有单人玩家、联机房主或服务器控制台可以永久跳过。",
+        "NeedBook": "背包中没有开场绘本",
+        "CompleteRequired": "已完成隐藏结局",
+        "ArmorSet": "移动速度提高3%",
+        "SpawnInfo": "空手零材料合成开场绘本，手持左键选择已解锁章节。依次击败，隐藏结局后解除建造封印；也可在绘本中永久跳过。",
+        "Hint0": "低跳后会停下来休息。",
+        "Hint1": "先看准位置，再慢慢冲过来。",
+        "Hint2": "短短的身体沿地面起伏。",
+        "Hint3": "漂浮、发呆，偶尔丢出小念团。",
+        "Hint4": "短距离冲刺后发射一根慢针。",
+        "Hint5": "左右交替扔出松动的小骨头。",
+        "Hint6": "缓慢挪动，吐出一小团软肉。",
+        "Hint7": "稍高的跳跃，落地后散出两片碎晶。",
+        "Hint8": "两个小眼睛轮流射击和冲刺。",
+        "Hint9": "机械声很响，小骨头却飞得很慢。",
+        "Hint10": "起伏爬行，偶尔射出一枚铆钉。",
+        "Hint11": "抱着花盆慢慢挪动，连吐两粒种子。",
+        "Hint12": "沉重的小跳之后推出一粒泥砖。",
+        "Hint13": "两次短冲刺，再吐出可击破的泡泡。",
+        "Hint14": "三发宽间隙光点，随后短距离移动。",
+        "Hint15": "慢速纸星与不会攻击的虚影。",
+        "Hint16": "慢弹之后是有明显预警的短光束。",
+        "Hint17": "轮流模仿跳跃、冲刺、射击；残血时纸星落下。"
+      },
+      "NPCs": {
+        "FableBoss0": {
+          "DisplayName": "歪冠小胶"
+        },
+        "FableBoss1": {
+          "DisplayName": "困眼小球"
+        },
+        "FableBoss2": {
+          "DisplayName": "短节啃土虫"
+        },
+        "FableBoss3": {
+          "DisplayName": "羞脑团"
+        },
+        "FableBoss4": {
+          "DisplayName": "绒针小蜂后"
+        },
+        "FableBoss5": {
+          "DisplayName": "松牙小骷髅"
+        },
+        "FableBoss6": {
+          "DisplayName": "口袋肉团"
+        },
+        "FableBoss7": {
+          "DisplayName": "碎晶小胶后"
+        },
+        "FableBoss8": {
+          "DisplayName": "吵嘴双眼"
+        },
+        "FableBoss9": {
+          "DisplayName": "发条小骨架"
+        },
+        "FableBoss10": {
+          "DisplayName": "铆钉短虫"
+        },
+        "FableBoss11": {
+          "DisplayName": "抱盆小花"
+        },
+        "FableBoss12": {
+          "DisplayName": "泥砖小像"
+        },
+        "FableBoss13": {
+          "DisplayName": "浅滩小牙鱼"
+        },
+        "FableBoss14": {
+          "DisplayName": "微光小蝶后"
+        },
+        "FableBoss15": {
+          "DisplayName": "纸帽小教徒"
+        },
+        "FableBoss16": {
+          "DisplayName": "缺月小像"
+        },
+        "FableBoss17": {
+          "DisplayName": "空白小王·未写完的结局"
+        },
+        "FourTrialBoss0": {
+          "DisplayName": "铜试炼小兵·铆点"
+        },
+        "FourTrialBoss1": {
+          "DisplayName": "银试炼小兵·月痕"
+        },
+        "FourTrialBoss2": {
+          "DisplayName": "金试炼小兵·叮当"
+        },
+        "FourTrialBoss3": {
+          "DisplayName": "钻石试炼小兵·折光"
+        }
+      },
+      "Items": {
+        "FableWeapon0": {
+          "DisplayName": "软胶弹",
+          "Tooltip": "发射短射程小弹丸，不消耗弹药"
+        },
+        "FableWeapon1": {
+          "DisplayName": "瞌睡眼针",
+          "Tooltip": "发射一枚短射程魔法小弹丸"
+        },
+        "FableWeapon2": {
+          "DisplayName": "缺牙短矛",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableWeapon3": {
+          "DisplayName": "小念团杖",
+          "Tooltip": "召唤一名小伙伴，占用1个仆从栏\n同类伙伴最多存在一个，索敌距离很短"
+        },
+        "FableWeapon4": {
+          "DisplayName": "蜡针投筒",
+          "Tooltip": "发射短射程小弹丸，不消耗弹药"
+        },
+        "FableWeapon5": {
+          "DisplayName": "松骨拍",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableWeapon6": {
+          "DisplayName": "软舌鞭",
+          "Tooltip": "一条很短的软鞭，不附加鞭笞印记伤害"
+        },
+        "FableWeapon7": {
+          "DisplayName": "碎晶小杖",
+          "Tooltip": "发射一枚短射程魔法小弹丸"
+        },
+        "FableWeapon8": {
+          "DisplayName": "双眼弹弓",
+          "Tooltip": "发射短射程小弹丸，不消耗弹药"
+        },
+        "FableWeapon9": {
+          "DisplayName": "发条小槌",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableWeapon10": {
+          "DisplayName": "铆钉短射器",
+          "Tooltip": "发射短射程小弹丸，不消耗弹药"
+        },
+        "FableWeapon11": {
+          "DisplayName": "盆芽呼唤杖",
+          "Tooltip": "召唤一名小伙伴，占用1个仆从栏\n同类伙伴最多存在一个，索敌距离很短"
+        },
+        "FableWeapon12": {
+          "DisplayName": "泥砖拳套",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableWeapon13": {
+          "DisplayName": "小泡法杖",
+          "Tooltip": "发射一枚短射程魔法小弹丸"
+        },
+        "FableWeapon14": {
+          "DisplayName": "微光蝶杖",
+          "Tooltip": "召唤一名小伙伴，占用1个仆从栏\n同类伙伴最多存在一个，索敌距离很短"
+        },
+        "FableWeapon15": {
+          "DisplayName": "纸星短杖",
+          "Tooltip": "发射一枚短射程魔法小弹丸"
+        },
+        "FableWeapon16": {
+          "DisplayName": "缺月短刃",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableWeapon17": {
+          "DisplayName": "空白小剑",
+          "Tooltip": "开场绘本的微弱武器；不提供额外装备属性"
+        },
+        "FableBook": {
+          "DisplayName": "未写完的开场绘本",
+          "Tooltip": "手持左键打开章节面板\n空手零材料合成，不消耗\n击败隐藏结局或永久跳过，解除本世界的创意震撼\n封印期间试炼内生命上限100、魔力上限20，仅可使用初始工具与绘本武器"
+        },
+        "PracticeSword": {
+          "DisplayName": "练习木剑",
+          "Tooltip": "绘本免费提供的备用武器"
+        },
+        "FableCore": {
+          "DisplayName": "未写之页",
+          "Tooltip": "空白小王掉落\n合成纸页小工台、纸页护甲与开场进阶武器"
+        },
+        "FableWorkbench": {
+          "DisplayName": "纸页小工台",
+          "Tooltip": "完成隐藏结局后，使用6张未写之页空手合成\n制作纸页装备，也可替代普通工作台"
+        },
+        "FableArmor0": {
+          "DisplayName": "折纸帽",
+          "Tooltip": "纸页套装：移动速度提高3%"
+        },
+        "FableArmor1": {
+          "DisplayName": "折页背心",
+          "Tooltip": "纸页套装：移动速度提高3%"
+        },
+        "FableArmor2": {
+          "DisplayName": "纸页绑腿",
+          "Tooltip": "纸页套装：移动速度提高3%"
+        },
+        "FableUpgrade0": {
+          "DisplayName": "订页短剑",
+          "Tooltip": "一把稍结实的开场短剑"
+        },
+        "FableUpgrade1": {
+          "DisplayName": "订页短弩",
+          "Tooltip": "消耗箭，将其转换成短射程小弹丸"
+        },
+        "FableUpgrade2": {
+          "DisplayName": "订页星杖",
+          "Tooltip": "发射一枚短射程纸星"
+        },
+        "FableUpgrade3": {
+          "DisplayName": "订页蝶杖",
+          "Tooltip": "召唤一个纸页伙伴，占用1个仆从栏\n与其他绘本伙伴互斥，索敌距离很短"
+        },
+        "FableUnfinishedBlade": {
+          "DisplayName": "未完之刃",
+          "Tooltip": "由全部18把绘本武器合成\n每第三次挥击范围增加20%，不会额外造成多段伤害"
+        },
+        "FourTrialBag0": {
+          "DisplayName": "铜试炼宝袋",
+          "Tooltip": "专家或大师模式掉落；右键打开，里面只有铜试炼的纪念物"
+        },
+        "FourTrialBag1": {
+          "DisplayName": "银试炼宝袋",
+          "Tooltip": "专家或大师模式掉落；右键打开，里面只有银试炼的纪念物"
+        },
+        "FourTrialBag2": {
+          "DisplayName": "金试炼宝袋",
+          "Tooltip": "专家或大师模式掉落；右键打开，里面只有金试炼的纪念物"
+        },
+        "FourTrialBag3": {
+          "DisplayName": "钻石试炼宝袋",
+          "Tooltip": "专家或大师模式掉落；右键打开，里面只有钻石试炼的纪念物"
+        },
+        "FourTrialWeapon0": {
+          "DisplayName": "铜锈短棍",
+          "Tooltip": "伤害只有1；挥动很慢，只适合留下纪念"
+        },
+        "FourTrialWeapon1": {
+          "DisplayName": "微光银针",
+          "Tooltip": "伤害只有1；发射速度很慢，不消耗弹药"
+        },
+        "FourTrialWeapon2": {
+          "DisplayName": "鎏金铃锤",
+          "Tooltip": "伤害只有1；消耗4点魔力，发射缓慢的金色铃光"
+        },
+        "FourTrialWeapon3": {
+          "DisplayName": "碎钻星芒",
+          "Tooltip": "伤害只有1；召唤一颗缓慢追踪敌人的碎钻，占用1个仆从栏"
+        },
+        "FourTrialMemento0": {
+          "DisplayName": "铜试炼纪念章",
+          "Tooltip": "纯粹的纪念品；没有战斗属性"
+        },
+        "FourTrialMemento1": {
+          "DisplayName": "银试炼纪念章",
+          "Tooltip": "纯粹的纪念品；没有战斗属性"
+        },
+        "FourTrialMemento2": {
+          "DisplayName": "金试炼纪念章",
+          "Tooltip": "纯粹的纪念品；没有战斗属性"
+        },
+        "FourTrialMemento3": {
+          "DisplayName": "钻石试炼纪念章",
+          "Tooltip": "纯粹的纪念品；没有战斗属性"
+        },
+        "FourTrialTrophy0": {
+          "DisplayName": "铜试炼小旗",
+          "Tooltip": "把最弱小的胜利挂起来"
+        },
+        "FourTrialTrophy1": {
+          "DisplayName": "银试炼小旗",
+          "Tooltip": "把微小的月痕挂起来"
+        },
+        "FourTrialTrophy2": {
+          "DisplayName": "金试炼小旗",
+          "Tooltip": "把叮当作响的胜利挂起来"
+        },
+        "FourTrialTrophy3": {
+          "DisplayName": "钻石试炼小旗",
+          "Tooltip": "把折光的胜利挂起来"
+        },
+        "FourTrialRelic0": {
+          "DisplayName": "铜试炼圣物",
+          "Tooltip": "大师模式纪念圣物；没有战斗属性"
+        },
+        "FourTrialRelic1": {
+          "DisplayName": "银试炼圣物",
+          "Tooltip": "大师模式纪念圣物；没有战斗属性"
+        },
+        "FourTrialRelic2": {
+          "DisplayName": "金试炼圣物",
+          "Tooltip": "大师模式纪念圣物；没有战斗属性"
+        },
+        "FourTrialRelic3": {
+          "DisplayName": "钻石试炼圣物",
+          "Tooltip": "大师模式纪念圣物；没有战斗属性"
+        },
+        "FourTrialMask0": {
+          "DisplayName": "铜试炼面具",
+          "Tooltip": "纯外观；不提供属性"
+        },
+        "FourTrialMask1": {
+          "DisplayName": "银试炼面具",
+          "Tooltip": "纯外观；不提供属性"
+        },
+        "FourTrialMask2": {
+          "DisplayName": "金试炼面具",
+          "Tooltip": "纯外观；不提供属性"
+        },
+        "FourTrialMask3": {
+          "DisplayName": "钻石试炼面具",
+          "Tooltip": "纯外观；不提供属性"
+        }
+      },
+      "Buffs": {
+        "FableCompanionBuff": {
+          "DisplayName": "绘本伙伴",
+          "Description": "小小的伙伴正在陪伴你"
+        }
+      },
+      "Tiles": {
+        "FableWorkbenchTile": {
+          "MapEntry": "纸页小工台"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      DivineBoss0: { DisplayName: "Miroen, Divinity of First Dew" }
+      DivineBoss1: { DisplayName: "Velsa, Divinity of Ember Oaths" }
+      DivineBoss2: { DisplayName: "No Day, Divinity of Destiny" }
+      DivineBrazier: { DisplayName: "Oath Brazier" }
+    }
+    Projectiles: { DivineHazard: { DisplayName: "Divine Trial" } }
+    DivineCombat: {
+      Bestiary0: Before the first crown was born, a drop of dew was already divine. Read the dew marks and choose when to land and strike.
+      Bestiary1: Before flesh tears open the world, prove your oath can withstand the fire. Fill both open braziers to break the god's balance.
+      Bestiary2: Before the moon falls, you seek to escape its destined ending. Your path will replay, but your life will never rewind.
+      Expired: "The era of {0} has ended. The divine trial is withdrawn."
+      Abandoned: "With no challenger remaining, {0} withdraws the covenant."
+      Interrupted: "Another boss has interrupted the rite. {0} withdraws the covenant."
+    }
+  }
+}

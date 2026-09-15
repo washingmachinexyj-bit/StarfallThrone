@@ -1,0 +1,90 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "OathOre0": {
+          "DisplayName": "Genesis Dew Ore",
+          "Tooltip": "Requires 600% pickaxe power\nSmelt 4 ore into 1 bar at its corresponding divine station\nAfter the corresponding supreme victory, cultivate 8 ore with 1 divine material and 10 stone"
+        },
+        "OathBar0": {
+          "DisplayName": "Genesis Dew Bar",
+          "Tooltip": "Used for the corresponding divine weapons and Triune armor"
+        },
+        "OathPick0": {
+          "DisplayName": "Genesis Branch Pick",
+          "Tooltip": "Increases mining reach by 5 tiles\nMines all three supreme ores\nMade directly from divine materials; no new bars required"
+        },
+        "OathStation0": {
+          "DisplayName": "Genesis Crystallarium",
+          "Tooltip": "Smelts and cultivates its ore, and crafts its divine weapons\nAlso counts as a work bench; does not replace the other divine stations"
+        },
+        "OathOre1": {
+          "DisplayName": "Final Ember Ore",
+          "Tooltip": "Requires 600% pickaxe power\nSmelt 4 ore into 1 bar at its corresponding divine station\nAfter the corresponding supreme victory, cultivate 8 ore with 1 divine material and 10 stone"
+        },
+        "OathBar1": {
+          "DisplayName": "Final Ember Bar",
+          "Tooltip": "Used for the corresponding divine weapons and Triune armor"
+        },
+        "OathPick1": {
+          "DisplayName": "Final Ember Wingpick",
+          "Tooltip": "Increases mining reach by 5 tiles\nMines all three supreme ores\nMade directly from divine materials; no new bars required"
+        },
+        "OathStation1": {
+          "DisplayName": "Final Ember Oathforge",
+          "Tooltip": "Smelts and cultivates its ore, and crafts its divine weapons\nAlso counts as a work bench; does not replace the other divine stations"
+        },
+        "OathOre2": {
+          "DisplayName": "Fateless Ore",
+          "Tooltip": "Requires 600% pickaxe power\nSmelt 4 ore into 1 bar at its corresponding divine station\nAfter the corresponding supreme victory, cultivate 8 ore with 1 divine material and 10 stone"
+        },
+        "OathBar2": {
+          "DisplayName": "Fateless Bar",
+          "Tooltip": "Used for the corresponding divine weapons and Triune armor"
+        },
+        "OathPick2": {
+          "DisplayName": "Fateless Pick",
+          "Tooltip": "Increases mining reach by 5 tiles\nMines all three supreme ores\nMade directly from divine materials; no new bars required"
+        },
+        "OathStation2": {
+          "DisplayName": "Fateless Loom",
+          "Tooltip": "Smelts and cultivates its ore, and crafts its divine weapons\nAlso counts as a work bench; does not replace the other divine stations"
+        }
+      },
+      "Tiles": {
+        "OathOreTile0": {
+          "MapEntry": "Genesis Dew Ore"
+        },
+        "OathStationTile0": {
+          "MapEntry": "Genesis Crystallarium"
+        },
+        "OathOreTile1": {
+          "MapEntry": "Final Ember Ore"
+        },
+        "OathStationTile1": {
+          "MapEntry": "Final Ember Oathforge"
+        },
+        "OathOreTile2": {
+          "MapEntry": "Fateless Ore"
+        },
+        "OathStationTile2": {
+          "MapEntry": "Fateless Loom"
+        }
+      },
+      "OathsMining": {
+        "Requires0": "Defeat Miroen, Genesis of All in this world",
+        "Queued0": "Genesis Dew Ore is crystallizing in protected-safe underground areas. Its pick, station and cultivation are now unlocked.",
+        "Finished0": "Genesis Dew Ore has formed underground! Requires 600% pickaxe power; cultivation is also available at its divine station.",
+        "Cultivation0": "Genesis Dew Ore cultivation unlocked. Automatic generation is disabled or no safe sites remain; cultivate it at its divine station.",
+        "Requires1": "Defeat Velsa, the Final Conflagration in this world",
+        "Queued1": "Final Ember Ore is crystallizing in protected-safe underground areas. Its pick, station and cultivation are now unlocked.",
+        "Finished1": "Final Ember Ore has formed underground! Requires 600% pickaxe power; cultivation is also available at its divine station.",
+        "Cultivation1": "Final Ember Ore cultivation unlocked. Automatic generation is disabled or no safe sites remain; cultivate it at its divine station.",
+        "Requires2": "Defeat NoDay, Beyond the Last Fate in this world",
+        "Queued2": "Fateless Ore is crystallizing in protected-safe underground areas. Its pick, station and cultivation are now unlocked.",
+        "Finished2": "Fateless Ore has formed underground! Requires 600% pickaxe power; cultivation is also available at its divine station.",
+        "Cultivation2": "Fateless Ore cultivation unlocked. Automatic generation is disabled or no safe sites remain; cultivate it at its divine station."
+      }
+    }
+  }
+}

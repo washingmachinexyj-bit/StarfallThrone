@@ -1,0 +1,74 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Projectiles": {
+        "MiniHostileProjectile": { "DisplayName": "微末异变弹幕" },
+        "MiniMagicProjectile": { "DisplayName": "微末魔法弹" }
+      },
+      "NPCs": {
+        "DewShellNPC": {
+          "DisplayName": "露壳小蜗"
+        },
+        "DandelionPuffNPC": {
+          "DisplayName": "蒲绒团团"
+        }
+      },
+      "Items": {
+        "MiniSummon6": {
+          "DisplayName": "卷露嫩叶",
+          "Tooltip": "在白天森林地表召唤露壳小蜗\n可重复使用；无需击败其他迷你Boss\n需要附近有开阔空间；其他Boss或迷你Boss存活时无法使用"
+        },
+        "MiniSummon7": {
+          "DisplayName": "轻绒种结",
+          "Tooltip": "在森林地表召唤蒲绒团团，昼夜皆可\n可重复使用；无需击败其他迷你Boss\n需要附近有开阔空间；其他Boss或迷你Boss存活时无法使用"
+        },
+        "MiniMaterial6": {
+          "DisplayName": "凝露薄膜",
+          "Tooltip": "用于制作露叶胸针和卷露小灯"
+        },
+        "MiniMaterial7": {
+          "DisplayName": "轻绒种纤",
+          "Tooltip": "用于制作轻绒脚环、蒲籽短杖和蒲绒盆栽"
+        },
+        "DewBrooch": {
+          "DisplayName": "露叶胸针",
+          "Tooltip": "增加5最大生命"
+        },
+        "FluffAnklet": {
+          "DisplayName": "轻绒脚环",
+          "Tooltip": "移动速度提高2%"
+        },
+        "DandelionWand": {
+          "DisplayName": "蒲籽短杖",
+          "Tooltip": "发射缓慢下坠的短程蒲籽\n不会追踪或穿透敌人"
+        },
+        "MiniTrophy6": {
+          "DisplayName": "卷露小灯",
+          "Tooltip": "可放置在地面上，提供柔和的蓝色照明\n不提供战斗属性"
+        },
+        "MiniTrophy7": {
+          "DisplayName": "蒲绒盆栽",
+          "Tooltip": "可放置在地面上，绒花轻轻摇曳\n不提供战斗属性"
+        }
+      },
+      "MiniChecklist": {
+        "DewShell": {
+          "SpawnInfo": "白天在森林地表使用卷露嫩叶：任意木材×3、凝胶×2，在工作台制作，可重复使用，无前置击败要求。首次击败前，也可能在白天森林遇到盖着叶片的小蜗；右键对话，点击“掀开叶片”才开始战斗。",
+          "DespawnMessage": "露壳小蜗慢慢爬回了叶片底下。"
+        },
+        "DandelionPuff": {
+          "SpawnInfo": "在森林地表使用轻绒种结，昼夜皆可：任意木材×5、橡实×1、凝胶×3，在工作台制作，可重复使用，无前置击败要求。",
+          "DespawnMessage": "蒲绒团团跳回了草丛。"
+        }
+      },
+      "MiniMessages": {
+        "SleepingDew": "叶片下面藏着一只打盹的小蜗。掀开叶片会开始一场迷你Boss战。",
+        "WakeDew": "掀开叶片"
+      },
+      "MiniBestiary": {
+        "DewShell": "它把卷起的嫩叶藏进清露做的壳中。吐水前会慢慢抬头，滑行后则要歇上好一会儿。",
+        "DandelionPuff": "尚未学会飞行的蒲公英种团，只能靠细细的根须跳着走。大跳之前会用力缩起绒毛。"
+      }
+    }
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "PantheonMaterial0": {
+          "DisplayName": "Primordial Ichor",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore0": {
+          "DisplayName": "Firstborn Starcore",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon0": {
+          "DisplayName": "Unborn Drop",
+          "Tooltip": "Use Unborn Drop in the surface.\nThis world must first defeat Celestial Ark. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag0": {
+          "DisplayName": "Treasure Bag (Aelion, Primordial Star)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic0": {
+          "DisplayName": "Aelion, Primordial Star Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy0": {
+          "DisplayName": "Aelion, Primordial Star Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask0": {
+          "DisplayName": "Aelion, Primordial Star Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem0": {
+          "DisplayName": "Dewstar Wisp Keepsake",
+          "Tooltip": "Summons Dewstar Wisp to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial1": {
+          "DisplayName": "Revelation Lens",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore1": {
+          "DisplayName": "Seal of Insight",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon1": {
+          "DisplayName": "Closed Holy Eye",
+          "Tooltip": "Use Closed Holy Eye in the surface at night.\nThis world must first defeat Aelion, Primordial Star. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag1": {
+          "DisplayName": "Treasure Bag (Ophir, All-Seeing Star)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic1": {
+          "DisplayName": "Ophir, All-Seeing Star Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy1": {
+          "DisplayName": "Ophir, All-Seeing Star Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask1": {
+          "DisplayName": "Ophir, All-Seeing Star Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem1": {
+          "DisplayName": "Little Watchlight Keepsake",
+          "Tooltip": "Summons Little Watchlight to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial2": {
+          "DisplayName": "World-Eater Scale",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore2": {
+          "DisplayName": "Void Anchorcore",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon2": {
+          "DisplayName": "Shoreless Serpentskin",
+          "Tooltip": "Use Shoreless Serpentskin in the underground or cavern layer.\nThis world must first defeat Ophir, All-Seeing Star. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag2": {
+          "DisplayName": "Treasure Bag (Uroth, World-Devouring God)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic2": {
+          "DisplayName": "Uroth, World-Devouring God Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy2": {
+          "DisplayName": "Uroth, World-Devouring God Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask2": {
+          "DisplayName": "Uroth, World-Devouring God Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem2": {
+          "DisplayName": "Voidling Serpent Keepsake",
+          "Tooltip": "Summons Voidling Serpent to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial3": {
+          "DisplayName": "Myriad Dream Marrow",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore3": {
+          "DisplayName": "Lucid Dreamcore",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon3": {
+          "DisplayName": "Unwaking Prayer",
+          "Tooltip": "Use Unwaking Prayer in night.\nThis world must first defeat Uroth, World-Devouring God. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag3": {
+          "DisplayName": "Treasure Bag (Velmora, Dream Divinity)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic3": {
+          "DisplayName": "Velmora, Dream Divinity Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy3": {
+          "DisplayName": "Velmora, Dream Divinity Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask3": {
+          "DisplayName": "Velmora, Dream Divinity Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem3": {
+          "DisplayName": "Dreammask Wisp Keepsake",
+          "Tooltip": "Summons Dreammask Wisp to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial4": {
+          "DisplayName": "Harvest Sacred Wax",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore4": {
+          "DisplayName": "Harvest Honeyseal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon4": {
+          "DisplayName": "Endless Blossom",
+          "Tooltip": "Use Endless Blossom in the jungle.\nThis world must first defeat Velmora, Dream Divinity. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag4": {
+          "DisplayName": "Treasure Bag (Melith, Harvest Starqueen)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic4": {
+          "DisplayName": "Melith, Harvest Starqueen Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy4": {
+          "DisplayName": "Melith, Harvest Starqueen Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask4": {
+          "DisplayName": "Melith, Harvest Starqueen Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem4": {
+          "DisplayName": "Honey-Star Bee Keepsake",
+          "Tooltip": "Summons Honey-Star Bee to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial5": {
+          "DisplayName": "Soulferry Amber",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore5": {
+          "DisplayName": "Soulferry Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon5": {
+          "DisplayName": "Nameless Ferry Lantern",
+          "Tooltip": "Use Nameless Ferry Lantern in night.\nThis world must first defeat Melith, Harvest Starqueen. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag5": {
+          "DisplayName": "Treasure Bag (Neroth, Ferryman of Souls)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic5": {
+          "DisplayName": "Neroth, Ferryman of Souls Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy5": {
+          "DisplayName": "Neroth, Ferryman of Souls Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask5": {
+          "DisplayName": "Neroth, Ferryman of Souls Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem5": {
+          "DisplayName": "Ferry-Lantern Ghost Keepsake",
+          "Tooltip": "Summons Ferry-Lantern Ghost to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial6": {
+          "DisplayName": "Veil of Two Shores",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore6": {
+          "DisplayName": "Other-Shore Hinge",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon6": {
+          "DisplayName": "Other-Shore Covenant",
+          "Tooltip": "Use Other-Shore Covenant in the Underworld.\nThis world must first defeat Neroth, Ferryman of Souls. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag6": {
+          "DisplayName": "Treasure Bag (Acheron, Gate of Two Worlds)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic6": {
+          "DisplayName": "Acheron, Gate of Two Worlds Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy6": {
+          "DisplayName": "Acheron, Gate of Two Worlds Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask6": {
+          "DisplayName": "Acheron, Gate of Two Worlds Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem6": {
+          "DisplayName": "Two-Shore Gatelet Keepsake",
+          "Tooltip": "Summons Two-Shore Gatelet to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial7": {
+          "DisplayName": "Crystalline Law Amber",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore7": {
+          "DisplayName": "Flawless Crystal Axis",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon7": {
+          "DisplayName": "Flawless Lawcrystal",
+          "Tooltip": "Use Flawless Lawcrystal in the Hallowed surface.\nThis world must first defeat Acheron, Gate of Two Worlds. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag7": {
+          "DisplayName": "Treasure Bag (Ilythia, Crystal Goddess)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic7": {
+          "DisplayName": "Ilythia, Crystal Goddess Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy7": {
+          "DisplayName": "Ilythia, Crystal Goddess Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask7": {
+          "DisplayName": "Ilythia, Crystal Goddess Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem7": {
+          "DisplayName": "Crystal Crownling Keepsake",
+          "Tooltip": "Summons Crystal Crownling to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial8": {
+          "DisplayName": "Eclipse Twin Ichor",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore8": {
+          "DisplayName": "Daynight Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon8": {
+          "DisplayName": "Unjoined Sunmoon Wheel",
+          "Tooltip": "Use Unjoined Sunmoon Wheel in night.\nThis world must first defeat Ilythia, Crystal Goddess. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag8": {
+          "DisplayName": "Treasure Bag (Solis and Nox, Eclipse Dyad)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic8": {
+          "DisplayName": "Solis and Nox, Eclipse Dyad Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy8": {
+          "DisplayName": "Solis and Nox, Eclipse Dyad Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask8": {
+          "DisplayName": "Solis and Nox, Eclipse Dyad Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem8": {
+          "DisplayName": "Sunmoon Companion Keepsake",
+          "Tooltip": "Summons Sunmoon Companion to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial9": {
+          "DisplayName": "Judgment Lawgold",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore9": {
+          "DisplayName": "Fourfold Verdict Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon9": {
+          "DisplayName": "Blank Divine Verdict",
+          "Tooltip": "Use Blank Divine Verdict in the surface.\nThis world must first defeat Solis and Nox, Eclipse Dyad. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag9": {
+          "DisplayName": "Treasure Bag (Valther, Four-Armed Arbiter)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic9": {
+          "DisplayName": "Valther, Four-Armed Arbiter Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy9": {
+          "DisplayName": "Valther, Four-Armed Arbiter Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask9": {
+          "DisplayName": "Valther, Four-Armed Arbiter Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem9": {
+          "DisplayName": "Bronze Adjudicator Keepsake",
+          "Tooltip": "Summons Bronze Adjudicator to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial10": {
+          "DisplayName": "Worldforged Godiron",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore10": {
+          "DisplayName": "Dragonforge Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon10": {
+          "DisplayName": "Uncooled Dragonheart",
+          "Tooltip": "Use Uncooled Dragonheart in the surface, underground or cavern layer.\nThis world must first defeat Valther, Four-Armed Arbiter. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag10": {
+          "DisplayName": "Treasure Bag (Khaldran, Worldforge Dragon)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic10": {
+          "DisplayName": "Khaldran, Worldforge Dragon Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy10": {
+          "DisplayName": "Khaldran, Worldforge Dragon Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask10": {
+          "DisplayName": "Khaldran, Worldforge Dragon Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem10": {
+          "DisplayName": "Tiny Forgedrake Keepsake",
+          "Tooltip": "Summons Tiny Forgedrake to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial11": {
+          "DisplayName": "All-Life Godseed",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore11": {
+          "DisplayName": "Everspring Wombcore",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon11": {
+          "DisplayName": "Everspring Embryoseed",
+          "Tooltip": "Use Everspring Embryoseed in the jungle.\nThis world must first defeat Khaldran, Worldforge Dragon. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag11": {
+          "DisplayName": "Treasure Bag (Ephyra, Mother of Life)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic11": {
+          "DisplayName": "Ephyra, Mother of Life Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy11": {
+          "DisplayName": "Ephyra, Mother of Life Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask11": {
+          "DisplayName": "Ephyra, Mother of Life Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem11": {
+          "DisplayName": "Blossom Spirit Keepsake",
+          "Tooltip": "Summons Blossom Spirit to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial12": {
+          "DisplayName": "Heavenbearing Corestone",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore12": {
+          "DisplayName": "Mountainbearing Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon12": {
+          "DisplayName": "Weightless Mountain Seal",
+          "Tooltip": "Use Weightless Mountain Seal in the surface.\nThis world must first defeat Ephyra, Mother of Life. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag12": {
+          "DisplayName": "Treasure Bag (Oranth, Heaven-Bearer)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic12": {
+          "DisplayName": "Oranth, Heaven-Bearer Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy12": {
+          "DisplayName": "Oranth, Heaven-Bearer Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask12": {
+          "DisplayName": "Oranth, Heaven-Bearer Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem12": {
+          "DisplayName": "Mountain Stonelet Keepsake",
+          "Tooltip": "Summons Mountain Stonelet to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial13": {
+          "DisplayName": "Stormsea Ichor",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore13": {
+          "DisplayName": "Stormeye Tideseal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon13": {
+          "DisplayName": "Windless Conch",
+          "Tooltip": "Use Windless Conch in the ocean.\nThis world must first defeat Oranth, Heaven-Bearer. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag13": {
+          "DisplayName": "Treasure Bag (Thalor, Stormsea God)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic13": {
+          "DisplayName": "Thalor, Stormsea God Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy13": {
+          "DisplayName": "Thalor, Stormsea God Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask13": {
+          "DisplayName": "Thalor, Stormsea God Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem13": {
+          "DisplayName": "Breeze Tidedrake Keepsake",
+          "Tooltip": "Summons Breeze Tidedrake to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial14": {
+          "DisplayName": "Sevenfold Radiance",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore14": {
+          "DisplayName": "Sevenfold Prismseal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon14": {
+          "DisplayName": "Colorless Holy Prism",
+          "Tooltip": "Use Colorless Holy Prism in the surface or space.\nThis world must first defeat Thalor, Stormsea God. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag14": {
+          "DisplayName": "Treasure Bag (Iriselle, Sevenfold Starqueen)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic14": {
+          "DisplayName": "Iriselle, Sevenfold Starqueen Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy14": {
+          "DisplayName": "Iriselle, Sevenfold Starqueen Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask14": {
+          "DisplayName": "Iriselle, Sevenfold Starqueen Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem14": {
+          "DisplayName": "Sevenwing Wisp Keepsake",
+          "Tooltip": "Summons Sevenwing Wisp to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial15": {
+          "DisplayName": "Nameless Scripture",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore15": {
+          "DisplayName": "Nameless Holy Seal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon15": {
+          "DisplayName": "Unwritten Apotheosis",
+          "Tooltip": "Use Unwritten Apotheosis in the surface at night.\nThis world must first defeat Iriselle, Sevenfold Starqueen. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag15": {
+          "DisplayName": "Treasure Bag (Agnostos, Nameless Celebrant)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic15": {
+          "DisplayName": "Agnostos, Nameless Celebrant Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy15": {
+          "DisplayName": "Agnostos, Nameless Celebrant Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask15": {
+          "DisplayName": "Agnostos, Nameless Celebrant Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem15": {
+          "DisplayName": "Unwritten Bookling Keepsake",
+          "Tooltip": "Summons Unwritten Bookling to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonMaterial16": {
+          "DisplayName": "Primordial Authority",
+          "Tooltip": "Craft this deity's weapons, grade armor and essence; some also craft the next summon and workstation"
+        },
+        "PantheonCore16": {
+          "DisplayName": "Genesis Crownseal",
+          "Tooltip": "Guaranteed 2 per victory (inside bags in Expert or Master)\nCraft later summons, essence and selected stations; progression never requires rare drops"
+        },
+        "PantheonSummon16": {
+          "DisplayName": "Unclaimed Crown",
+          "Tooltip": "Use Unclaimed Crown in the surface or space.\nThis world must first defeat Agnostos, Nameless Celebrant. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply."
+        },
+        "PantheonBag16": {
+          "DisplayName": "Treasure Bag (Asterion, Source of Gods)",
+          "Tooltip": "Right click to open\nContains 44–56 materials, 2 cores, 1 random weapon and the guaranteed Expert accessory"
+        },
+        "PantheonRelic16": {
+          "DisplayName": "Asterion, Source of Gods Relic",
+          "Tooltip": "A token of victory over this deity in Master Mode\nPlaceable decoration; no combat bonuses"
+        },
+        "PantheonTrophy16": {
+          "DisplayName": "Asterion, Source of Gods Trophy",
+          "Tooltip": "Place on a background wall\nNever required for progression"
+        },
+        "PantheonMask16": {
+          "DisplayName": "Asterion, Source of Gods Mask",
+          "Tooltip": "Vanity headwear; grants no defense or combat bonuses"
+        },
+        "PantheonPetItem16": {
+          "DisplayName": "Glimmering Throne Keepsake",
+          "Tooltip": "Summons Glimmering Throne to follow you\nCosmetic pet; deals no damage"
+        },
+        "PantheonStation0": {
+          "DisplayName": "Primordial Godshaping Table",
+          "Tooltip": "Craft the next grade of Pantheon equipment and summons\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence0": {
+          "DisplayName": "Nascent Star Essence",
+          "Tooltip": "Shared crafting component for grade 1 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        },
+        "PantheonStation1": {
+          "DisplayName": "Harvest Sacred Forge",
+          "Tooltip": "Craft the next grade of Pantheon equipment and summons\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence1": {
+          "DisplayName": "Divine Domain Essence",
+          "Tooltip": "Shared crafting component for grade 2 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        },
+        "PantheonStation2": {
+          "DisplayName": "Crystal Law Workshop",
+          "Tooltip": "Craft the next grade of Pantheon equipment and summons\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence2": {
+          "DisplayName": "Divine Law Essence",
+          "Tooltip": "Shared crafting component for grade 3 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        },
+        "PantheonStation3": {
+          "DisplayName": "Worldforge Furnace",
+          "Tooltip": "Craft the next grade of Pantheon equipment and summons\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence3": {
+          "DisplayName": "Elder Deity Essence",
+          "Tooltip": "Shared crafting component for grade 4 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        },
+        "PantheonStation4": {
+          "DisplayName": "Stormsea Apotheosis Altar",
+          "Tooltip": "Craft the next grade of Pantheon equipment and summons\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence4": {
+          "DisplayName": "Supreme Star Essence",
+          "Tooltip": "Shared crafting component for grade 5 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        },
+        "PantheonStation5": {
+          "DisplayName": "Unclaimed Pantheon Throne",
+          "Tooltip": "Final display and all-grade Pantheon crafting station\nPlaceable; 5×4 tiles\nSupports earlier Pantheon stations, not vanilla or earlier chapter stations\nRecipe does not consume the previous station"
+        },
+        "PantheonEssence5": {
+          "DisplayName": "Source Star Essence",
+          "Tooltip": "Shared crafting component for grade 6 equipment\n6 materials from any same-grade deity yield 3; 1 core yields 6\nNo later deity materials required"
+        }
+      },
+      "Buffs": {
+        "PantheonPetBuff0": {
+          "DisplayName": "Dewstar Wisp",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff1": {
+          "DisplayName": "Little Watchlight",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff2": {
+          "DisplayName": "Voidling Serpent",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff3": {
+          "DisplayName": "Dreammask Wisp",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff4": {
+          "DisplayName": "Honey-Star Bee",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff5": {
+          "DisplayName": "Ferry-Lantern Ghost",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff6": {
+          "DisplayName": "Two-Shore Gatelet",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff7": {
+          "DisplayName": "Crystal Crownling",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff8": {
+          "DisplayName": "Sunmoon Companion",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff9": {
+          "DisplayName": "Bronze Adjudicator",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff10": {
+          "DisplayName": "Tiny Forgedrake",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff11": {
+          "DisplayName": "Blossom Spirit",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff12": {
+          "DisplayName": "Mountain Stonelet",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff13": {
+          "DisplayName": "Breeze Tidedrake",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff14": {
+          "DisplayName": "Sevenwing Wisp",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff15": {
+          "DisplayName": "Unwritten Bookling",
+          "Description": "A wisp of divine starlight accompanies you"
+        },
+        "PantheonPetBuff16": {
+          "DisplayName": "Glimmering Throne",
+          "Description": "A wisp of divine starlight accompanies you"
+        }
+      },
+      "Projectiles": {
+        "PantheonPet0": {
+          "DisplayName": "Dewstar Wisp"
+        },
+        "PantheonPet1": {
+          "DisplayName": "Little Watchlight"
+        },
+        "PantheonPet2": {
+          "DisplayName": "Voidling Serpent"
+        },
+        "PantheonPet3": {
+          "DisplayName": "Dreammask Wisp"
+        },
+        "PantheonPet4": {
+          "DisplayName": "Honey-Star Bee"
+        },
+        "PantheonPet5": {
+          "DisplayName": "Ferry-Lantern Ghost"
+        },
+        "PantheonPet6": {
+          "DisplayName": "Two-Shore Gatelet"
+        },
+        "PantheonPet7": {
+          "DisplayName": "Crystal Crownling"
+        },
+        "PantheonPet8": {
+          "DisplayName": "Sunmoon Companion"
+        },
+        "PantheonPet9": {
+          "DisplayName": "Bronze Adjudicator"
+        },
+        "PantheonPet10": {
+          "DisplayName": "Tiny Forgedrake"
+        },
+        "PantheonPet11": {
+          "DisplayName": "Blossom Spirit"
+        },
+        "PantheonPet12": {
+          "DisplayName": "Mountain Stonelet"
+        },
+        "PantheonPet13": {
+          "DisplayName": "Breeze Tidedrake"
+        },
+        "PantheonPet14": {
+          "DisplayName": "Sevenwing Wisp"
+        },
+        "PantheonPet15": {
+          "DisplayName": "Unwritten Bookling"
+        },
+        "PantheonPet16": {
+          "DisplayName": "Glimmering Throne"
+        }
+      },
+      "Pantheon": {
+        "CommandDescription": "Show Pantheon mainline progression",
+        "CommandHeader": "Pantheon: permanent mainline, no challenge deadlines",
+        "Defeated": "Defeated",
+        "Available": "Unlocked (summon location still required)",
+        "Locked": "Prerequisite incomplete",
+        "Requires": "This world must first defeat: {0}",
+        "LootCondition": "This star deity is unlocked in the current world",
+        "StationUnlocked": "A divine authority is freed. New station available: {0}",
+        "Despawn": "The star deity dissolves into the void.",
+        "Name0": "Aelion, Primordial Star",
+        "Spawn0": "Use Unborn Drop in the surface.\nThis world must first defeat Celestial Ark. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name1": "Ophir, All-Seeing Star",
+        "Spawn1": "Use Closed Holy Eye in the surface at night.\nThis world must first defeat Aelion, Primordial Star. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name2": "Uroth, World-Devouring God",
+        "Spawn2": "Use Shoreless Serpentskin in the underground or cavern layer.\nThis world must first defeat Ophir, All-Seeing Star. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name3": "Velmora, Dream Divinity",
+        "Spawn3": "Use Unwaking Prayer in night.\nThis world must first defeat Uroth, World-Devouring God. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name4": "Melith, Harvest Starqueen",
+        "Spawn4": "Use Endless Blossom in the jungle.\nThis world must first defeat Velmora, Dream Divinity. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name5": "Neroth, Ferryman of Souls",
+        "Spawn5": "Use Nameless Ferry Lantern in night.\nThis world must first defeat Melith, Harvest Starqueen. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name6": "Acheron, Gate of Two Worlds",
+        "Spawn6": "Use Other-Shore Covenant in the Underworld.\nThis world must first defeat Neroth, Ferryman of Souls. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name7": "Ilythia, Crystal Goddess",
+        "Spawn7": "Use Flawless Lawcrystal in the Hallowed surface.\nThis world must first defeat Acheron, Gate of Two Worlds. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name8": "Solis and Nox, Eclipse Dyad",
+        "Spawn8": "Use Unjoined Sunmoon Wheel in night.\nThis world must first defeat Ilythia, Crystal Goddess. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name9": "Valther, Four-Armed Arbiter",
+        "Spawn9": "Use Blank Divine Verdict in the surface.\nThis world must first defeat Solis and Nox, Eclipse Dyad. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name10": "Khaldran, Worldforge Dragon",
+        "Spawn10": "Use Uncooled Dragonheart in the surface, underground or cavern layer.\nThis world must first defeat Valther, Four-Armed Arbiter. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name11": "Ephyra, Mother of Life",
+        "Spawn11": "Use Everspring Embryoseed in the jungle.\nThis world must first defeat Khaldran, Worldforge Dragon. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name12": "Oranth, Heaven-Bearer",
+        "Spawn12": "Use Weightless Mountain Seal in the surface.\nThis world must first defeat Ephyra, Mother of Life. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name13": "Thalor, Stormsea God",
+        "Spawn13": "Use Windless Conch in the ocean.\nThis world must first defeat Oranth, Heaven-Bearer. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name14": "Iriselle, Sevenfold Starqueen",
+        "Spawn14": "Use Colorless Holy Prism in the surface or space.\nThis world must first defeat Thalor, Stormsea God. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name15": "Agnostos, Nameless Celebrant",
+        "Spawn15": "Use Unwritten Apotheosis in the surface at night.\nThis world must first defeat Iriselle, Sevenfold Starqueen. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "Name16": "Asterion, Source of Gods",
+        "Spawn16": "Use Unclaimed Crown in the surface or space.\nThis world must first defeat Agnostos, Nameless Celebrant. Reusable; cannot summon during invasions or another boss.\nTime and biome are checked only when starting. Divine challenge deadlines do not apply.",
+        "StationCondition0": "This world has defeated Ophir, All-Seeing Star",
+        "StationCondition1": "This world has defeated Melith, Harvest Starqueen",
+        "StationCondition2": "This world has defeated Ilythia, Crystal Goddess",
+        "StationCondition3": "This world has defeated Khaldran, Worldforge Dragon",
+        "StationCondition4": "This world has defeated Thalor, Stormsea God",
+        "StationCondition5": "This world has defeated Asterion, Source of Gods"
+      }
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageArmor0": {
+          "DisplayName": "Starflight Pioneer Battle Helmet",
+          "Tooltip": "+80 maximum life; +5% all damage; +2% damage reduction\n+20% melee damage; +8% melee attack speed\nFull set bonus:\nImmune to knockback\nEmergency thrust: press the Voyage armor ability key to thrust in your movement direction; 8s cooldown\nNo invulnerability; cannot pass through solid tiles"
+        },
+        "VoyageArmor1": {
+          "DisplayName": "Starflight Pioneer Marksman Visor",
+          "Tooltip": "+80 maximum life; +5% all damage; +2% damage reduction\n+20% ranged damage; +6% ranged critical strike chance\n10% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nEmergency thrust: press the Voyage armor ability key to thrust in your movement direction; 8s cooldown\nNo invulnerability; cannot pass through solid tiles"
+        },
+        "VoyageArmor2": {
+          "DisplayName": "Starflight Pioneer Astromancer Crown",
+          "Tooltip": "+80 maximum life; +5% all damage; +2% damage reduction\n+20% magic damage; +80 maximum mana; 8% lower mana cost\nFull set bonus:\nImmune to knockback\nEmergency thrust: press the Voyage armor ability key to thrust in your movement direction; 8s cooldown\nNo invulnerability; cannot pass through solid tiles"
+        },
+        "VoyageArmor3": {
+          "DisplayName": "Starflight Pioneer Command Mask",
+          "Tooltip": "+80 maximum life; +5% all damage; +2% damage reduction\n+20% summon damage; +2 minion slots; +0 sentry slots\nFull set bonus:\nImmune to knockback\nEmergency thrust: press the Voyage armor ability key to thrust in your movement direction; 8s cooldown\nNo invulnerability; cannot pass through solid tiles"
+        },
+        "VoyageArmor4": {
+          "DisplayName": "Starflight Pioneer Breastplate",
+          "Tooltip": "+128 maximum life; +9% all damage; +3.6% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor5": {
+          "DisplayName": "Starflight Pioneer Leggings",
+          "Tooltip": "+112 maximum life; +6% all damage; +2.4% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor6": {
+          "DisplayName": "Starport Link Battle Helmet",
+          "Tooltip": "+95 maximum life; +6.5% all damage; +2.25% damage reduction\n+22% melee damage; +10% melee attack speed\nFull set bonus:\nImmune to knockback\nMaintenance escort: while in combat, deploy a drone every 12s for up to 6s\nIntercepts one small Voyage bolt or tile-colliding ordinary hostile bullet; never beams, fields or major attacks"
+        },
+        "VoyageArmor7": {
+          "DisplayName": "Starport Link Marksman Visor",
+          "Tooltip": "+95 maximum life; +6.5% all damage; +2.25% damage reduction\n+22% ranged damage; +7% ranged critical strike chance\n12% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nMaintenance escort: while in combat, deploy a drone every 12s for up to 6s\nIntercepts one small Voyage bolt or tile-colliding ordinary hostile bullet; never beams, fields or major attacks"
+        },
+        "VoyageArmor8": {
+          "DisplayName": "Starport Link Astromancer Crown",
+          "Tooltip": "+95 maximum life; +6.5% all damage; +2.25% damage reduction\n+22% magic damage; +100 maximum mana; 10% lower mana cost\nFull set bonus:\nImmune to knockback\nMaintenance escort: while in combat, deploy a drone every 12s for up to 6s\nIntercepts one small Voyage bolt or tile-colliding ordinary hostile bullet; never beams, fields or major attacks"
+        },
+        "VoyageArmor9": {
+          "DisplayName": "Starport Link Command Mask",
+          "Tooltip": "+95 maximum life; +6.5% all damage; +2.25% damage reduction\n+22% summon damage; +2 minion slots; +1 sentry slots\nFull set bonus:\nImmune to knockback\nMaintenance escort: while in combat, deploy a drone every 12s for up to 6s\nIntercepts one small Voyage bolt or tile-colliding ordinary hostile bullet; never beams, fields or major attacks"
+        },
+        "VoyageArmor10": {
+          "DisplayName": "Starport Link Breastplate",
+          "Tooltip": "+152 maximum life; +11.7% all damage; +4.05% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor11": {
+          "DisplayName": "Starport Link Leggings",
+          "Tooltip": "+133 maximum life; +7.8% all damage; +2.7% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor12": {
+          "DisplayName": "Colonial Court Battle Helmet",
+          "Tooltip": "+113 maximum life; +8% all damage; +2.5% damage reduction\n+25% melee damage; +12% melee attack speed\nFull set bonus:\nImmune to knockback\nShort warp: press the Voyage armor ability key to warp up to 12 tiles toward the cursor; 12s cooldown\nRequires line of sight and a safe destination; no wall crossing or invulnerability"
+        },
+        "VoyageArmor13": {
+          "DisplayName": "Colonial Court Marksman Visor",
+          "Tooltip": "+113 maximum life; +8% all damage; +2.5% damage reduction\n+25% ranged damage; +8% ranged critical strike chance\n14% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nShort warp: press the Voyage armor ability key to warp up to 12 tiles toward the cursor; 12s cooldown\nRequires line of sight and a safe destination; no wall crossing or invulnerability"
+        },
+        "VoyageArmor14": {
+          "DisplayName": "Colonial Court Astromancer Crown",
+          "Tooltip": "+113 maximum life; +8% all damage; +2.5% damage reduction\n+25% magic damage; +120 maximum mana; 12% lower mana cost\nFull set bonus:\nImmune to knockback\nShort warp: press the Voyage armor ability key to warp up to 12 tiles toward the cursor; 12s cooldown\nRequires line of sight and a safe destination; no wall crossing or invulnerability"
+        },
+        "VoyageArmor15": {
+          "DisplayName": "Colonial Court Command Mask",
+          "Tooltip": "+113 maximum life; +8% all damage; +2.5% damage reduction\n+25% summon damage; +3 minion slots; +1 sentry slots\nFull set bonus:\nImmune to knockback\nShort warp: press the Voyage armor ability key to warp up to 12 tiles toward the cursor; 12s cooldown\nRequires line of sight and a safe destination; no wall crossing or invulnerability"
+        },
+        "VoyageArmor16": {
+          "DisplayName": "Colonial Court Breastplate",
+          "Tooltip": "+180 maximum life; +14.4% all damage; +4.5% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor17": {
+          "DisplayName": "Colonial Court Leggings",
+          "Tooltip": "+157 maximum life; +9.6% all damage; +3% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor18": {
+          "DisplayName": "Deep-space Array Battle Helmet",
+          "Tooltip": "+133 maximum life; +9.5% all damage; +2.75% damage reduction\n+28% melee damage; +14% melee attack speed\nFull set bonus:\nImmune to knockback\nFire-support node: 8 valid hits deploy a 4s node with a 10s deployment cooldown\nCharge at most once every 0.2s; fires every 0.5s using your helmet's damage class without consuming summon slots\nEquipment-generated attacks cannot charge the node\nOnly primary weapon/whip hits charge the node; minions, sentries and secondary shots do not"
+        },
+        "VoyageArmor19": {
+          "DisplayName": "Deep-space Array Marksman Visor",
+          "Tooltip": "+133 maximum life; +9.5% all damage; +2.75% damage reduction\n+28% ranged damage; +9% ranged critical strike chance\n16% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nFire-support node: 8 valid hits deploy a 4s node with a 10s deployment cooldown\nCharge at most once every 0.2s; fires every 0.5s using your helmet's damage class without consuming summon slots\nEquipment-generated attacks cannot charge the node\nOnly primary weapon/whip hits charge the node; minions, sentries and secondary shots do not"
+        },
+        "VoyageArmor20": {
+          "DisplayName": "Deep-space Array Astromancer Crown",
+          "Tooltip": "+133 maximum life; +9.5% all damage; +2.75% damage reduction\n+28% magic damage; +150 maximum mana; 14% lower mana cost\nFull set bonus:\nImmune to knockback\nFire-support node: 8 valid hits deploy a 4s node with a 10s deployment cooldown\nCharge at most once every 0.2s; fires every 0.5s using your helmet's damage class without consuming summon slots\nEquipment-generated attacks cannot charge the node\nOnly primary weapon/whip hits charge the node; minions, sentries and secondary shots do not"
+        },
+        "VoyageArmor21": {
+          "DisplayName": "Deep-space Array Command Mask",
+          "Tooltip": "+133 maximum life; +9.5% all damage; +2.75% damage reduction\n+28% summon damage; +3 minion slots; +1 sentry slots\nFull set bonus:\nImmune to knockback\nFire-support node: 8 valid hits deploy a 4s node with a 10s deployment cooldown\nCharge at most once every 0.2s; fires every 0.5s using your helmet's damage class without consuming summon slots\nEquipment-generated attacks cannot charge the node\nOnly primary weapon/whip hits charge the node; minions, sentries and secondary shots do not"
+        },
+        "VoyageArmor22": {
+          "DisplayName": "Deep-space Array Breastplate",
+          "Tooltip": "+212 maximum life; +17.1% all damage; +4.95% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor23": {
+          "DisplayName": "Deep-space Array Leggings",
+          "Tooltip": "+185 maximum life; +11.4% all damage; +3.3% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor24": {
+          "DisplayName": "Precursor Navigator Battle Helmet",
+          "Tooltip": "+155 maximum life; +11% all damage; +3% damage reduction\n+32% melee damage; +16% melee attack speed\nFull set bonus:\nImmune to knockback\nGeometric stability: press the Voyage armor ability key for a 0.5s forward half-circle guard aimed toward the cursor; the next hit deals 40% less final damage\n10s cooldown; a successful guard consumes the stance and does not nullify damage"
+        },
+        "VoyageArmor25": {
+          "DisplayName": "Precursor Navigator Marksman Visor",
+          "Tooltip": "+155 maximum life; +11% all damage; +3% damage reduction\n+32% ranged damage; +10% ranged critical strike chance\n18% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nGeometric stability: press the Voyage armor ability key for a 0.5s forward half-circle guard aimed toward the cursor; the next hit deals 40% less final damage\n10s cooldown; a successful guard consumes the stance and does not nullify damage"
+        },
+        "VoyageArmor26": {
+          "DisplayName": "Precursor Navigator Astromancer Crown",
+          "Tooltip": "+155 maximum life; +11% all damage; +3% damage reduction\n+32% magic damage; +180 maximum mana; 16% lower mana cost\nFull set bonus:\nImmune to knockback\nGeometric stability: press the Voyage armor ability key for a 0.5s forward half-circle guard aimed toward the cursor; the next hit deals 40% less final damage\n10s cooldown; a successful guard consumes the stance and does not nullify damage"
+        },
+        "VoyageArmor27": {
+          "DisplayName": "Precursor Navigator Command Mask",
+          "Tooltip": "+155 maximum life; +11% all damage; +3% damage reduction\n+32% summon damage; +4 minion slots; +1 sentry slots\nFull set bonus:\nImmune to knockback\nGeometric stability: press the Voyage armor ability key for a 0.5s forward half-circle guard aimed toward the cursor; the next hit deals 40% less final damage\n10s cooldown; a successful guard consumes the stance and does not nullify damage"
+        },
+        "VoyageArmor28": {
+          "DisplayName": "Precursor Navigator Breastplate",
+          "Tooltip": "+248 maximum life; +19.8% all damage; +5.4% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor29": {
+          "DisplayName": "Precursor Navigator Leggings",
+          "Tooltip": "+217 maximum life; +13.2% all damage; +3.6% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor30": {
+          "DisplayName": "Celestial Ark Battle Helmet",
+          "Tooltip": "+181 maximum life; +12.5% all damage; +3.5% damage reduction\n+36% melee damage; +18% melee attack speed\nFull set bonus:\nImmune to knockback\nCivilization survives: press the Voyage armor ability key for a 5s shield worth 25% of maximum life, capped at 450; 45s cooldown\nVoyage capacity shields use the higher available capacity, never the sum"
+        },
+        "VoyageArmor31": {
+          "DisplayName": "Celestial Ark Marksman Visor",
+          "Tooltip": "+181 maximum life; +12.5% all damage; +3.5% damage reduction\n+36% ranged damage; +12% ranged critical strike chance\n20% ammo-saving chance; Voyage effects use the highest chance\nFull set bonus:\nImmune to knockback\nCivilization survives: press the Voyage armor ability key for a 5s shield worth 25% of maximum life, capped at 450; 45s cooldown\nVoyage capacity shields use the higher available capacity, never the sum"
+        },
+        "VoyageArmor32": {
+          "DisplayName": "Celestial Ark Astromancer Crown",
+          "Tooltip": "+181 maximum life; +12.5% all damage; +3.5% damage reduction\n+36% magic damage; +220 maximum mana; 18% lower mana cost\nFull set bonus:\nImmune to knockback\nCivilization survives: press the Voyage armor ability key for a 5s shield worth 25% of maximum life, capped at 450; 45s cooldown\nVoyage capacity shields use the higher available capacity, never the sum"
+        },
+        "VoyageArmor33": {
+          "DisplayName": "Celestial Ark Command Mask",
+          "Tooltip": "+181 maximum life; +12.5% all damage; +3.5% damage reduction\n+36% summon damage; +4 minion slots; +2 sentry slots\nFull set bonus:\nImmune to knockback\nCivilization survives: press the Voyage armor ability key for a 5s shield worth 25% of maximum life, capped at 450; 45s cooldown\nVoyage capacity shields use the higher available capacity, never the sum"
+        },
+        "VoyageArmor34": {
+          "DisplayName": "Celestial Ark Breastplate",
+          "Tooltip": "+288 maximum life; +22.5% all damage; +6.3% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageArmor35": {
+          "DisplayName": "Celestial Ark Leggings",
+          "Tooltip": "+251 maximum life; +15% all damage; +4.2% damage reduction\nCombine with any same-tier class helmet and the other armor piece for the full set"
+        },
+        "VoyageExpert0": {
+          "DisplayName": "Compressed Gel Habitat",
+          "Tooltip": "+120 maximum life\nAfter 12s without damage, gain a shield worth 12% of maximum life, capped at 220\nShield hits restart recharge; a fully absorbed hit gives 0.2s contact protection\nCapacity does not add to the Ark armor shield"
+        },
+        "VoyageExpert1": {
+          "DisplayName": "Farwatch Observation Core",
+          "Tooltip": "After hitting the same target continuously for 2s, deal 18% more damage to it\nEnds when changing target or not hitting for 3s; multihits cannot accelerate the timer\nOnly your primary weapon/whip hits maintain observation; not minions, sentries or secondary shots"
+        },
+        "VoyageExpert2": {
+          "DisplayName": "Belt Balancer",
+          "Tooltip": "+18% movement speed; +12% flight time\nPress the Voyage accessory thrust key to thrust in the air; 6s cooldown\nNo invulnerability or wall crossing"
+        },
+        "VoyageExpert3": {
+          "DisplayName": "Consensus Neural Knot",
+          "Tooltip": "+15% all damage\nValid hits launch one neural echo at most every second, dealing 20% of the hit's damage, capped at 8000\nBrief homing; cannot trigger equipment chains or armor charge\nTriggered only by your primary attacks; never minions, sentries or secondary shots"
+        },
+        "VoyageExpert4": {
+          "DisplayName": "Goldenwing Hangar",
+          "Tooltip": "+2 minion slots; +20% summon damage\nManually selecting a target grants pursuing minions 0.6s of pursuit assistance\nAt most 6% extra speed per frame, assistance capped at speed 20; no forced turns or ignored sight checks"
+        },
+        "VoyageExpert5": {
+          "DisplayName": "Orbital Anchor Bolt",
+          "Tooltip": "+20 defense; immune to knockback\nTaking damage grants an extra 8% damage reduction for 2s; 6s trigger cooldown"
+        },
+        "VoyageExpert6": {
+          "DisplayName": "Emergency Warp Habitat",
+          "Tooltip": "Survive a non-PvP fatal hit with 1 life and 1s protection\n120s cooldown; no teleport, healing or enemy removal\nCooldown is saved on the character and survives equipment changes and death"
+        },
+        "VoyageExpert7": {
+          "DisplayName": "Radiant Refraction Wings",
+          "Tooltip": "About 5.5s base flight; hold down and jump to hover, consuming flight time\nReversing horizontal motion above speed 2 creates a mirror for up to 3s; 6s cooldown\nIntercepts one small ordinary bullet, never beams or area attacks"
+        },
+        "VoyageExpert8": {
+          "DisplayName": "Binary Cooperation Device",
+          "Tooltip": "+18% ranged damage\nAfter four actual shots, the fifth launches a weak cooperation bolt\nDeals 33% of shot damage, capped at 9000; fragments do not count and cannot chain"
+        },
+        "VoyageExpert9": {
+          "DisplayName": "Armament Arbitration Module",
+          "Tooltip": "+1 sentry slot; +25% damage for sentries and their descendant projectiles\nA lock ring marks manually selected targets; sentries retain their range and sight restrictions"
+        },
+        "VoyageExpert10": {
+          "DisplayName": "Fleet Superconducting Coil",
+          "Tooltip": "+18% melee damage; +8% melee attack speed\n8 valid melee hits release a 280-pixel piercing arc; charge at most once every 0.2s\nArc deals 50% of the triggering damage, capped at 14000; 1.5s cooldown; blocked by tiles and cannot chain\nSecondary shots and equipment-generated attacks cannot charge the coil"
+        },
+        "VoyageExpert11": {
+          "DisplayName": "Everliving Embryo",
+          "Tooltip": "+200 maximum life\nAfter 6s without damage, regenerate an extra 6 life per second\nTaking damage immediately pauses the extra regeneration"
+        },
+        "VoyageExpert12": {
+          "DisplayName": "Megastructure Centering Ring",
+          "Tooltip": "+28 defense; +8% damage reduction\nStanding still for 1s stores stability: the next hit deals 15% less final damage\n8s cooldown after consumption; equipment changes do not refresh it"
+        },
+        "VoyageExpert13": {
+          "DisplayName": "Aether Navigation Fin",
+          "Tooltip": "+25% movement speed; +20% flight time\nPress the Voyage accessory thrust key for a short dash; 3s cooldown\nNo invulnerability or wall crossing; shares a thrust cooldown with the Belt Balancer"
+        },
+        "VoyageExpert14": {
+          "DisplayName": "Solar Sail Refractor",
+          "Tooltip": "+22% magic damage; 12% lower mana cost\nEvery sixth actual magic shot adds a colored echo for 33% of shot damage, capped at 10000\nDoes not copy the original spell or recursively trigger echoes"
+        },
+        "VoyageExpert15": {
+          "DisplayName": "Star Chart Calibrator",
+          "Tooltip": "+1 minion slot; +1 sentry slot; +20% summon damage\nAfter manually selecting a target, the first valid summon hit displays its star-chart lock ring\nSummons retain their own range and sight restrictions"
+        },
+        "VoyageExpert16": {
+          "DisplayName": "Ark Life Support Core",
+          "Tooltip": "+300 maximum life; +10% damage reduction\nSurviving damage below 30% life restores 8% of maximum life over 4s\n30s cooldown; does not prevent fatal hits; unequipping stops healing"
+        },
+        "VoyageAccessory0": {
+          "DisplayName": "Starflight Speed Regulator",
+          "Tooltip": "+18% movement speed; +12% flight time\nCannot be equipped with Precursor Solar Sail"
+        },
+        "VoyageAccessory1": {
+          "DisplayName": "Quantum Sighting Mount",
+          "Tooltip": "+16% ranged damage; 15% chance not to consume ammunition\nVoyage ammo-saving effects use the highest chance; cannot be equipped with Expedition Emblem"
+        },
+        "VoyageAccessory2": {
+          "DisplayName": "Inertial Grip",
+          "Tooltip": "+16% melee damage; +8% melee attack speed\nCannot be equipped with Expedition Emblem"
+        },
+        "VoyageAccessory3": {
+          "DisplayName": "Closed-loop Condenser",
+          "Tooltip": "+16% magic damage; +100 maximum mana\nCannot be equipped with Expedition Emblem"
+        },
+        "VoyageAccessory4": {
+          "DisplayName": "Drone Communication Link",
+          "Tooltip": "+1 minion slot; +14% summon damage\nCannot be equipped with Expedition Emblem"
+        },
+        "VoyageAccessory5": {
+          "DisplayName": "Living Life-support Liner",
+          "Tooltip": "+160 maximum life; regenerate an extra 2 life per second\nCannot be equipped with Living Buffer Habitat"
+        },
+        "VoyageAccessory6": {
+          "DisplayName": "Prismatic Buffer Layer",
+          "Tooltip": "+18 defense; +5% damage reduction\nCannot be equipped with Living Buffer Habitat"
+        },
+        "VoyageAccessory7": {
+          "DisplayName": "Route Thruster Backpack",
+          "Tooltip": "About 4.5s base flight with improved aerial acceleration\nCannot be equipped with another pair of wings or Precursor Solar Sail"
+        },
+        "VoyageAccessory8": {
+          "DisplayName": "Expedition Emblem",
+          "Tooltip": "Your equipped Voyage class helmet enables one module, adding 20% damage for that class\nMelee: +8% attack speed; ranged: 15% ammo-saving chance\nMagic: +100 maximum mana; summon: +1 minion slot\nNo module without a matching helmet; cannot be equipped with its four ingredient accessories"
+        },
+        "VoyageAccessory9": {
+          "DisplayName": "Living Buffer Habitat",
+          "Tooltip": "+200 maximum life; +20 defense; +6% damage reduction\nRegenerate an extra 2 life per second\nCannot be equipped with Living Life-support Liner or Prismatic Buffer Layer"
+        },
+        "VoyageAccessory10": {
+          "DisplayName": "Precursor Solar Sail",
+          "Tooltip": "About 6s base flight; +18% movement speed; improved horizontal acceleration and turning\nHold down and jump to hover, consuming flight time\nNo infinite flight or invulnerable dash; incompatible with Speed Regulator or other wings"
+        }
+      },
+      "Projectiles": {
+        "VoyageEquipmentPulse": {
+          "DisplayName": "Voyage equipment pulse"
+        }
+      },
+      "Keybinds": {
+        "VoyageArmorSkill": {
+          "DisplayName": "Voyage armor ability"
+        },
+        "VoyageAccessoryDash": {
+          "DisplayName": "Voyage accessory thrust"
+        }
+      },
+      "VoyageEquipment": {
+        "Controls": "Current ability key: {0}",
+        "Unbound": "Unbound; configure in Controls",
+        "Cooldowns": "Voyage ability {0}s | Thrust {1}s | Shield {2}",
+        "Set0": "Immune to knockback\nEmergency thrust: press the Voyage armor ability key to thrust in your movement direction; 8s cooldown\nNo invulnerability; cannot pass through solid tiles",
+        "Set1": "Immune to knockback\nMaintenance escort: while in combat, deploy a drone every 12s for up to 6s\nIntercepts one small Voyage bolt or tile-colliding ordinary hostile bullet; never beams, fields or major attacks",
+        "Set2": "Immune to knockback\nShort warp: press the Voyage armor ability key to warp up to 12 tiles toward the cursor; 12s cooldown\nRequires line of sight and a safe destination; no wall crossing or invulnerability",
+        "Set3": "Immune to knockback\nFire-support node: 8 valid hits deploy a 4s node with a 10s deployment cooldown\nCharge at most once every 0.2s; fires every 0.5s using your helmet's damage class without consuming summon slots\nEquipment-generated attacks cannot charge the node\nOnly primary weapon/whip hits charge the node; minions, sentries and secondary shots do not",
+        "Set4": "Immune to knockback\nGeometric stability: press the Voyage armor ability key for a 0.5s forward half-circle guard aimed toward the cursor; the next hit deals 40% less final damage\n10s cooldown; a successful guard consumes the stance and does not nullify damage",
+        "Set5": "Immune to knockback\nCivilization survives: press the Voyage armor ability key for a 5s shield worth 25% of maximum life, capped at 450; 45s cooldown\nVoyage capacity shields use the higher available capacity, never the sum"
+      }
+    }
+  }
+}

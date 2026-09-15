@@ -1,0 +1,40 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      AscendantBoss0: { DisplayName: "Miroen, First Oath of All Life" }
+      AscendantBoss1: { DisplayName: "Velsa, Arbiter of Four Burning Realms" }
+      AscendantBoss2: { DisplayName: "No Day, Verdict of Final Destiny" }
+      AscendantNode: { DisplayName: "Covenant Node" }
+    }
+    Projectiles: { AscendantHazard: { DisplayName: "Ascendant Trial" } }
+    AscendantCombat: {
+      Bestiary0: "Eight tiny lives become a divine crown. Breaking a borrowed dew core cancels its enhancement and increases damage taken by Miroen by 20% for 5 seconds. The eight-petal finale ends with 6 seconds of fatigue, without a health lock."
+      Bestiary1: "Mirror, candle, hive and bell stand in judgment. Damage a lit furnace to suppress its pressure; only one furnace can be suppressed each round, interrupting its attacks and increasing damage taken by Velsa by 25% for 6 seconds."
+      Bestiary2: "Five realms form five wheels of destiny. Your old path is recorded for 3 seconds and replayed after a 1.2-second warning. Break the knot to cancel the final replay; choose either fate seal to determine the next two laws."
+      Expired: "The era of {0} has ended. The trial withdraws without rewards."
+      Abandoned: "The challenger has left or prerequisites no longer hold. {0} withdraws the covenant."
+      Interrupted: "Another boss has interrupted the rite. {0} withdraws the covenant."
+      Exposed: "Broken covenant: increased damage taken"
+      Round0: "Rite of Eight Lives: read the fixed paths"
+      Round1: "Fourfold Judgment: strike a lit furnace"
+      Round2: "Five Realms: your old path will replay"
+      Final0: "First Bloom: eight petals unfold in order"
+      Final1: "Four Realms to Ash: follow the white-edged lane"
+      Final2: "The Hour Without Day: five laws in order"
+      Choose: "Choose fate: approach a seal to select two laws; timeout selects the nearer seal"
+      Recording: "Recording destiny: leave your old path"
+      Replay: "Replay imminent: break the knot to cancel the last replay"
+      Law0: "Backburn: delayed fire trails"
+      Law1: "Machine: committed magnetic rails"
+      Law2: "Hunger: locked mouth strikes"
+      Law3: "Sun: rings with an opening"
+      Law4: "Tide: alternating curtains"
+      Dew: "Borrowed Dew: break to cancel its enhancement"
+      Knot: "Fate Knot: break to cancel the final replay"
+      Furnace0: "Mirror Furnace: reflection"
+      Furnace1: "Candle Furnace: burning columns"
+      Furnace2: "Hive Furnace: charging ranks"
+      Furnace3: "Bell Furnace: open-ring waves"
+    }
+  }
+}

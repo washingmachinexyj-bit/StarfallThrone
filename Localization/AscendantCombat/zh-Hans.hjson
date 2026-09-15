@@ -1,0 +1,40 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      AscendantBoss0: { DisplayName: "万生初誓·弥露恩" }
+      AscendantBoss1: { DisplayName: "四境焚律·维尔萨" }
+      AscendantBoss2: { DisplayName: "终命裁决·无昼" }
+      AscendantNode: { DisplayName: "神约节点" }
+    }
+    Projectiles: { AscendantHazard: { DisplayName: "真神试炼" } }
+    AscendantCombat: {
+      Bestiary0: "八种微小生命化作神冠。击破借生露核可取消对应强化，并令弥露恩受到的伤害提高20%，持续5秒。初生大绽结束后有6秒疲惫期，不锁血。"
+      Bestiary1: "四座誓炉审判镜、烛、巢与钟。攻击激活的誓炉削减炉压，每轮只能压制一炉，打断该炉攻击并使维尔萨受到的伤害提高25%，持续6秒。"
+      Bestiary2: "五片大地的命运化为五重命轮。命线记录3秒旧路，预告1.2秒后复演。击破命结取消最后一次复演；择命时靠近左右命印，决定下一轮两种命律。"
+      Expired: "{0}的挑战时期已结束，真神试炼撤回，不结算战利品。"
+      Abandoned: "挑战者离场或前置不再满足，{0}撤回神约。"
+      Interrupted: "其他首领打断了仪式，{0}撤回神约。"
+      Exposed: "神约破绽：受到的伤害提高"
+      Round0: "八生轮礼 · 看清落点与轨迹"
+      Round1: "四律审问 · 攻击激活誓炉"
+      Round2: "五境命轨 · 旧路将被重演"
+      Final0: "初生大绽 · 八瓣依次绽放"
+      Final1: "四境归烬 · 沿白边通路移动"
+      Final2: "无昼之刻 · 五律依次裁决"
+      Choose: "择命：靠近命印选择下轮组合；超时采用较近的一侧"
+      Recording: "命线记录中：离开旧路"
+      Replay: "复演即将开始：攻击命结取消末次复演"
+      Law0: "逆烬：延迟焚线"
+      Law1: "械律：固定磁轨"
+      Law2: "饥花：定点咬合"
+      Law3: "沉日：缺口日环"
+      Law4: "虹潮：交替潮幕"
+      Dew: "借生露核 · 击破取消强化"
+      Knot: "命结 · 击破取消末次复演"
+      Furnace0: "镜炉 · 倒影之律"
+      Furnace1: "烛炉 · 燃尽之律"
+      Furnace2: "巢炉 · 队列之律"
+      Furnace3: "钟炉 · 缺口之律"
+    }
+  }
+}

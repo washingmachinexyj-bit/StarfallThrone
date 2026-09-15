@@ -1,0 +1,112 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      AelionNPC: { DisplayName: "Aelion, First Star" }
+      OphirNPC: { DisplayName: "Ophir, All-Seeing Star" }
+      UrothNPC: { DisplayName: "Uroth, World Devourer" }
+      VelmoraNPC: { DisplayName: "Velmora, Crimson Dream" }
+      MelithNPC: { DisplayName: "Melith, Queen of Plenty" }
+      NerothNPC: { DisplayName: "Neroth, Ferryman of Souls" }
+      AcheronNPC: { DisplayName: "Acheron, Gate of Two Worlds" }
+      IlythiaNPC: { DisplayName: "Ilythia, Crystal Law" }
+      EclipseDyadNPC: { DisplayName: "Solis and Nox, Eclipse Dyad" }
+      ValtherNPC: { DisplayName: "Valther, Four-Armed Judgment" }
+      KhaldranNPC: { DisplayName: "Khaldran, Worldforging Dragon" }
+      EphyraNPC: { DisplayName: "Ephyra, Mother of All Life" }
+      OranthNPC: { DisplayName: "Oranth, Bearer of Heaven" }
+      ThalorNPC: { DisplayName: "Thalor, Storm of the Seas" }
+      IriselleNPC: { DisplayName: "Iriselle, Sevenfold Star" }
+      AgnostosNPC: { DisplayName: "Agnostos, Nameless Celebrant" }
+      AsterionNPC: { DisplayName: "Asterion, Source of Divinity" }
+      PantheonNode: { DisplayName: "Divine Authority Node" }
+    }
+    Projectiles: { PantheonHazard: { DisplayName: "Astral Authority" } }
+    PantheonCombat: {
+      Bestiary0: "Primordial starlight becomes a living god. Landings leave gapped rings; three forms roll, cut and fly; matter returns inward. Breaking a form cancels its attacks and exposes the deity to 20% more damage for 4 seconds."
+      Bestiary1: "Ophir observes the unborn future through stellar mirrors. Beams commit their aim, then traverse mirrors in order. Breaking a mirror cancels its beam and exposes the eye. Dangerous paths are visible for at least one second."
+      Bestiary2: "Ten articulated bones follow the world-serpent through rifts. Parts share one life pool with throttled piercing damage. Break an anchor to dispel enclosure, or escape through the visible ring gap."
+      Bestiary3: "Velmora recalls old positions behind a crimson veil. Translucent phantoms cannot hurt; solid stars can. Breaking the lucid nerve cancels empowered echoes. Controls are never reversed and the screen is never blacked out."
+      Bestiary4: "Three honey bearers return to the amber queen. Surviving bearers strengthen the harvest. Intercept them to cancel their pollination, harvest and return-fire patterns."
+      Bestiary5: "Souls recognize Neroth's lantern. Offset ferries, converging souls and the sweeping oar test altitude changes, leaving marked positions and crossing old attack lanes. Break the authorities to interrupt their attacks."
+      Bestiary6: "Acheron is both gate and far shore. Finite moving curtains retain a white-bordered passage. Later rounds reverse direction and alternate passage height. Break contracts to remove curtains; no actual terrain changes."
+      Bestiary7: "Ilythia weaves triangular crystal laws. Telegraphs become edges, the goddess jumps between vertices, then shards follow old edges. Break a vertex to clear adjacent edges and create an escape."
+      Bestiary8: "Solis pursues while Nox supports, then their roles exchange. Independently moving eyes share one pool. Breaking either authority cancels its attacks and interrupts the gathering eclipse."
+      Bestiary9: "Sword, chain, bell and seal enforce Valther's law. Later phases combine two implements. Break one node to suppress its implement for the round, closing the others. Valther takes 20% more damage for 6 seconds."
+      Bestiary10: "Khaldran forges worlds with molten gold. Vents, hammers and heat unfold along an articulated spine. At low life the rear spine circles in reverse. Breaking a vent cancels its attacks. Segments share the boss pool and drop no separate loot."
+      Bestiary11: "Ephyra cycles through bloom, fruit and roots. Living husks block direct beams but hatch into attacks later. Destroy them early or preserve them temporarily as cover; broken husks no longer protect you."
+      Bestiary12: "Oranth bears a fallen star-mountain. Palms fall in sequence; pillars can block beams or become thrown stones. Gravity wells apply a small bounded pull without reversing gravity or removing wings. Break the central pillar to end the pull."
+      Bestiary13: "Thalor hunts through storm rifts and leaves gapped water rings after dashes. Opposing tides retain a common passage. The storm eye's inner area is free of pull. Breaking a node extinguishes the pull and its corresponding tide."
+      Bestiary14: "Seven seals express stars, lines, rings, pillars, arcs, tides and forked light. Groups teach each shape, pairs combine them, then a fixed sequence recites all seven. Color is not the only cue. Breaking a seal cancels its law; daylight adds no instant kill."
+      Bestiary15: "Agnostos borrows names to arrange rings, floral arcs and stellar lines. Breaking pages changes execution order and deletes that page's stroke and its successor. Scripture reveals its complete path before each stroke becomes real."
+      Bestiary16: "Asterion grants creation, judgment and erasure. Hands and forehead share damage with the source in the chest. Authorities combine as health falls. The final tenth triggers one finite rite without a health lock; normal combat resumes afterward."
+      Node0: "Primordial form - interrupt recollection"
+      Node1: "Stellar mirror - interrupt reflection"
+      Node2: "Boundary anchor - dispel enclosure"
+      Node3: "Lucid nerve - silence echoes"
+      Node4: "Honey bearer - interrupt harvest"
+      Node5: "Ferryman's authority - interrupt support"
+      Node6: "Gate contract - remove curtain"
+      Node7: "Crystal vertex - remove adjacent edges"
+      Node8: "Eclipse authority - interrupt alignment"
+      Node9: "Judgment - suppress one per round"
+      Node10: "Forge vent - release pressure"
+      Node11: "Seed husk - cover or hatchery"
+      Node12: "Pillar core - cover and gravity anchor"
+      Node13: "Storm node - stabilize the eye"
+      Node14: "Wing seal - silence its light law"
+      Node15: "Divine page - reorder and erase"
+      Node16: "Divinity source - suppress authority"
+      Move0_0: "Creation's landing - cross the ring gap"
+      Move0_1: "Three first forms - orb, blade, wing"
+      Move0_2: "Return to the first drop"
+      Move1_0: "Committed gaze - leave the marked line"
+      Move1_1: "Reflected heavens - mirrors fire in order"
+      Move1_2: "Revelation - a dash and twin beams"
+      Move2_0: "Rift passage - a committed serpent route"
+      Move2_1: "World enclosure - break the anchors"
+      Move2_2: "What was swallowed returns"
+      Move3_0: "Many thoughts - phantoms are harmless"
+      Move3_1: "Dream echo - stars retrace old positions"
+      Move3_2: "Lucid rift - distinguish the solid path"
+      Move4_0: "Pollination - arcs of golden pollen"
+      Move4_1: "Honey procession - intercept the bearers"
+      Move4_2: "Great harvest - numbered blooms"
+      Move5_0: "Soul ferry - offset horizontal crossings"
+      Move5_1: "Lantern's call - leave the marked point"
+      Move5_2: "Broken crossing - oar, dash, ring"
+      Move6_0: "Near shore - cross the white opening"
+      Move6_1: "Far shore - the curtain reverses"
+      Move6_2: "Life and death - change passage height"
+      Move7_0: "Crystal declaration - vertices determine edges"
+      Move7_1: "Facet leap - vertex to vertex"
+      Move7_2: "Broken order - shards follow old edges"
+      Move8_0: "Sun pursues, moon supports"
+      Move8_1: "Moon pursues, sun supports"
+      Move8_2: "Eclipse alignment - break an authority"
+      Move9_0: "Four implements - choose one to suppress"
+      Move9_1: "Choose the sentence - one choice each round"
+      Move9_2: "Final hearing - staggered paired implements"
+      Move10_0: "Heavenly furnace - sequential spine vents"
+      Move10_1: "Worldforge hammers - numbered falling seals"
+      Move10_2: "Overheated spine - break the vents"
+      Move11_0: "Bloom - a fan of floral blades"
+      Move11_1: "Fruit - preserve cover or break husks"
+      Move11_2: "Roots - sequential rising tendrils"
+      Move12_0: "Mountain palms - staggered impacts"
+      Move12_1: "Pillars of heaven - cover becomes a weapon"
+      Move12_2: "Heaven tilts - break the gravity core"
+      Move13_0: "Storm hunt - rings follow dashes"
+      Move13_1: "Opposing tides - align with the common passage"
+      Move13_2: "Storm eye - no pull in the inner eye"
+      Move14_0: "Sevenfold revelation - observe each shape"
+      Move14_1: "Two colors - paired light laws"
+      Move14_2: "White light - seven laws in fixed order"
+      Move15_0: "Read the names - ring, arc, line"
+      Move15_1: "Reorder scripture - attack a page"
+      Move15_2: "Nameless prayer - written strokes become real"
+      Move16_0: "Investiture - creation, judgment, erasure"
+      Move16_1: "Leave the throne - paired authorities"
+      Move16_2: "Reclaim divinity - strike the source"
+    }
+  }
+}

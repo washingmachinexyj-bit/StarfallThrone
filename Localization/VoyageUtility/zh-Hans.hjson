@@ -1,0 +1,439 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageUtility0": {
+          "DisplayName": "货运终端",
+          "Tooltip": "可放置\n右键打开 40 格个人货运仓库，所有货运终端共用\n仓库随角色保存；拆除终端不会掉出或清空仓库\n支持左键交换、右键拆分、Shift 点击取出及手动快速堆叠\n不会自动收走背包物品"
+        },
+        "VoyageUtility1": {
+          "DisplayName": "远望探照器",
+          "Tooltip": "召唤一台巡天探照无人机\n占用照明宠物栏，不占仆从栏；不造成伤害\n跟随玩家，并照亮前方短距离，光束不会穿过实体方块"
+        },
+        "VoyageUtility2": {
+          "DisplayName": "环带工程钻",
+          "Tooltip": "350% 镐力，工具射程增加 6 格\n持续使用进行精确采掘，可开采环骸矿\n在航行工作台用星骸甲片、环带引力核和寂月锭制作\n不进行范围挖掘，不绕过方块的挖掘条件"
+        },
+        "VoyageUtility3": {
+          "DisplayName": "蜂巢维修站",
+          "Tooltip": "可放置\n右键获得 10 分钟的「王庭维护」增益\n增加 10 点防御和 40 点最大魔力\n重复使用只刷新时间，不叠加效果，也不治疗生命"
+        },
+        "VoyageUtility4": {
+          "DisplayName": "回航定位器",
+          "Tooltip": "按住使用键并站定 2 秒，返回有效床位或世界出生点附近\n移动、受伤、松开按键或切换物品会中断定位\nBoss、小 Boss、入侵及月亮事件期间无法使用\n不会给予无敌或恢复生命，不会改变地形"
+        },
+        "VoyageUtility5": {
+          "DisplayName": "恒生生态灯",
+          "Tooltip": "可放置\n散发柔和的翠绿色光芒，可作为房屋照明\n封装的星际生态样本仅供观赏\n不会扩散生物群系或改变环境"
+        },
+        "VoyageUtility6": {
+          "DisplayName": "先驱建造仪",
+          "Tooltip": "饰品\n增加 4 格放置范围，提升 50% 方块与墙壁放置速度\n持有建材时显示放置轮廓与距离提示\n青色只表示在射程内；实际放置仍需满足支撑与空间条件\n正常消耗建材，不允许免费放置"
+        },
+        "VoyageUtility7": {
+          "DisplayName": "星图测绘台",
+          "Tooltip": "可放置\n右键查看星海远征的 17 条 Boss 航线\n显示击败记录、召唤解锁条件、材料用途、武器及护甲阶段\n多人模式读取当前世界同步的击败记录"
+        },
+        "VoyageUtility8": {
+          "DisplayName": "微型方舟陈列台",
+          "Tooltip": "可放置\n右键依次切换「方舟外壳」「轨道阵列」「人工恒星」三种陈列状态\n状态保存在家具方块中，并在多人游戏中同步\n仅供观赏，不提供战斗增益"
+        },
+        "VoyageFurniture0": {
+          "DisplayName": "星港航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture1": {
+          "DisplayName": "星港标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture2": {
+          "DisplayName": "星港纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture3": {
+          "DisplayName": "星港舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture4": {
+          "DisplayName": "星港舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture5": {
+          "DisplayName": "远望航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture6": {
+          "DisplayName": "远望标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture7": {
+          "DisplayName": "远望纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture8": {
+          "DisplayName": "远望舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture9": {
+          "DisplayName": "远望舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture10": {
+          "DisplayName": "星骸航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture11": {
+          "DisplayName": "星骸标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture12": {
+          "DisplayName": "星骸纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture13": {
+          "DisplayName": "星骸舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture14": {
+          "DisplayName": "星骸舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture15": {
+          "DisplayName": "共识航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture16": {
+          "DisplayName": "共识标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture17": {
+          "DisplayName": "共识纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture18": {
+          "DisplayName": "共识舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture19": {
+          "DisplayName": "共识舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture20": {
+          "DisplayName": "王庭航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture21": {
+          "DisplayName": "王庭标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture22": {
+          "DisplayName": "王庭纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture23": {
+          "DisplayName": "王庭舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture24": {
+          "DisplayName": "王庭舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture25": {
+          "DisplayName": "执锚航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture26": {
+          "DisplayName": "执锚标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture27": {
+          "DisplayName": "执锚纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture28": {
+          "DisplayName": "执锚舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture29": {
+          "DisplayName": "执锚舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture30": {
+          "DisplayName": "跃迁航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture31": {
+          "DisplayName": "跃迁标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture32": {
+          "DisplayName": "跃迁纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture33": {
+          "DisplayName": "跃迁舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture34": {
+          "DisplayName": "跃迁舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture35": {
+          "DisplayName": "璨星航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture36": {
+          "DisplayName": "璨星标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture37": {
+          "DisplayName": "璨星纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture38": {
+          "DisplayName": "璨星舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture39": {
+          "DisplayName": "璨星舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture40": {
+          "DisplayName": "双星航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture41": {
+          "DisplayName": "双星标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture42": {
+          "DisplayName": "双星纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture43": {
+          "DisplayName": "双星舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture44": {
+          "DisplayName": "双星舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture45": {
+          "DisplayName": "天衡航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture46": {
+          "DisplayName": "天衡标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture47": {
+          "DisplayName": "天衡纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture48": {
+          "DisplayName": "天衡舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture49": {
+          "DisplayName": "天衡舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture50": {
+          "DisplayName": "列舰航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture51": {
+          "DisplayName": "列舰标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture52": {
+          "DisplayName": "列舰纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture53": {
+          "DisplayName": "列舰舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture54": {
+          "DisplayName": "列舰舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture55": {
+          "DisplayName": "恒生航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture56": {
+          "DisplayName": "恒生标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture57": {
+          "DisplayName": "恒生纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture58": {
+          "DisplayName": "恒生舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture59": {
+          "DisplayName": "恒生舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture60": {
+          "DisplayName": "先驱航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture61": {
+          "DisplayName": "先驱标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture62": {
+          "DisplayName": "先驱纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture63": {
+          "DisplayName": "先驱舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture64": {
+          "DisplayName": "先驱舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture65": {
+          "DisplayName": "以太航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture66": {
+          "DisplayName": "以太标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture67": {
+          "DisplayName": "以太纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture68": {
+          "DisplayName": "以太舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture69": {
+          "DisplayName": "以太舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture70": {
+          "DisplayName": "光帆航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture71": {
+          "DisplayName": "光帆标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture72": {
+          "DisplayName": "光帆纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture73": {
+          "DisplayName": "光帆舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture74": {
+          "DisplayName": "光帆舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture75": {
+          "DisplayName": "引航航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture76": {
+          "DisplayName": "引航标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture77": {
+          "DisplayName": "引航纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture78": {
+          "DisplayName": "引航舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture79": {
+          "DisplayName": "引航舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        },
+        "VoyageFurniture80": {
+          "DisplayName": "方舟航徽挂饰",
+          "Tooltip": "可放置在背景墙上\n对应 Boss 的航徽装饰，无战斗效果"
+        },
+        "VoyageFurniture81": {
+          "DisplayName": "方舟标本灯",
+          "Tooltip": "可放置\n散发对应航线的主题光芒，可作为房屋照明"
+        },
+        "VoyageFurniture82": {
+          "DisplayName": "方舟纪念雕像",
+          "Tooltip": "可放置\n对应 Boss 的纪念雕像，无战斗效果"
+        },
+        "VoyageFurniture83": {
+          "DisplayName": "方舟舱桥平台",
+          "Tooltip": "可放置\n可穿过的平台，可锤击为楼梯；正常消耗建材"
+        },
+        "VoyageFurniture84": {
+          "DisplayName": "方舟舱壁砖",
+          "Tooltip": "可放置\n对应航线的舱壁建材，可用锤子改变形状；正常消耗建材"
+        }
+      },
+      "Buffs": {
+        "VoyageRepairBuff": {
+          "DisplayName": "王庭维护",
+          "Description": "防御增加 10 点，最大魔力增加 40 点"
+        },
+        "VoyageSearchlightBuff": {
+          "DisplayName": "远望探照无人机",
+          "Description": "一束可靠的光，陪你驶过黑暗"
+        }
+      },
+      "Projectiles": {
+        "VoyageSearchlightPet": {
+          "DisplayName": "巡天探照无人机"
+        },
+        "VoyageEngineeringDrill": {
+          "DisplayName": "环带工程钻"
+        }
+      },
+      "VoyageUtilityUI": {
+        "Close": "关闭",
+        "CargoTitle": "个人货运仓库 · 40 格",
+        "QuickStack": "快速堆叠",
+        "LootAll": "全部取出",
+        "CargoHint": "Shift 点击取出单格",
+        "Recalling": "回航定位中 · 请保持静止",
+        "ChartTitle": "星海远征 · 航线星图",
+        "ClearedShort": "已清",
+        "ReadyShort": "可战",
+        "LockedShort": "锁定",
+        "Cleared": "此航线已完成",
+        "Ready": "前置完成，可以发出召唤信号",
+        "Locked": "尚未完成前一条航线",
+        "Summon": "召唤信号：",
+        "Requires": "解锁条件：击败 ",
+        "OriginalFinal": "月神终焉",
+        "FirstRecipe": "在星航装配台：星航合金锭 ×8、凝胶 ×25、月神核心 ×1",
+        "LaterRecipe": "在星航装配台：星航合金锭 ×8、",
+        "Material": "主要战利品：",
+        "MaterialUses": "材料可制作对应武器、主题家具、阶段复合板，并用于下一条航线的召唤物。",
+        "CoreUses": "核心用于对应武器、高级饰品、功能工具或阶段护甲；请保留部分核心。",
+        "Weapons": "本场武器：",
+        "Plate": "复合板路线：",
+        "Armor": "护甲阶段：",
+        "ArmorTier0": "星航拓荒",
+        "ArmorTier1": "星港联结",
+        "ArmorTier2": "殖航王庭",
+        "ArmorTier3": "深空列阵",
+        "ArmorTier4": "先驱巡星",
+        "ArmorTier5": "天穹方舟",
+        "ArmorHelp": "每套提供近战、远程、魔法与召唤四种头盔。复合板需要本组 4 位 Boss 的材料，头盔、胸甲和护腿另需相应核心。",
+        "Next": "下一目标召唤物：",
+        "AllClear": "全部航线已完成！方舟终点已经抵达。",
+        "ScrollUp": "向上",
+        "ScrollDown": "向下"
+      }
+    }
+  }
+}

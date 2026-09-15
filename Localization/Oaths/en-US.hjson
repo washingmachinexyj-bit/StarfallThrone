@@ -1,0 +1,74 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Oaths": {
+        "Title": "First and Last · Three Divine Oaths",
+        "SeedTab": "Seed-god oaths",
+        "FableTab": "Fable trials",
+        "Back": "Back",
+        "Accept": "I understand. Challenge",
+        "Challenge": "Challenge",
+        "Claim": "Reclaim",
+        "Return": "Return to the Fable trials",
+        "Available": "Oath still available",
+        "Missed": "First challenge missed",
+        "SeedMet": "Corresponding seed oath fulfilled",
+        "SeedMissing": "Corresponding seed victory missing",
+        "ChoiceHint": "Optional opening trials: the first victory permanently disables world skipping.",
+        "LockedHint": "Oath sworn: defeat the hidden Fable boss to lift Creative Shock.",
+        "Consent1": "Warning: defeating any seed god permanently disables skipping in this world.",
+        "Consent2": "Finish all 17 trials and the hidden boss to lift Creative Shock.",
+        "Consent3": "This affects everyone. The host must initiate the first multiplayer challenge.",
+        "Closure1": "Defeating the first Fable boss permanently closes unbeaten seed-god trials.",
+        "Closure2": "A missed seed also locks its timed and ultimate gods in this world.",
+        "Closure3": "Other content remains playable. Confirm to begin the first Fable trial.",
+        "OathSealed": "Oath sworn! Skipping is locked. Complete the hidden Fable ending to lift Creative Shock.",
+        "HostConsent": "The first seed challenge affects this world. Ask the host to confirm in the panel.",
+        "SeedHint0": "Classic: 10 life · tiny hops and a slow dewdrop",
+        "SeedHint1": "Classic: 20 life · small steps and a fading spark",
+        "SeedHint2": "Classic: 30 life · drifting veil and a slow light",
+        "SeedRule1": "First victories must precede the Crooked Crownlet. Seeds are outside the 17 trials.",
+        "SeedRule2": "After the hidden ending, replay only defeated seeds. Tokens never import victories.",
+        "SeedSpawn": "Use the freely hand-crafted Fable summoning book and select Seed-god oaths. First victories must precede the Crooked Crownlet. Any seed victory permanently locks skipping. After the hidden ending, only previously defeated seeds can be replayed.",
+        "SupremeSpawn": "Revealed after Asterion. This world must have defeated the corresponding seed, ordinary timed god and enhanced timed god. Craft its reusable summon at the Triune Altar. The three ultimate gods do not require each other's victories."
+      },
+      "NPCs": {
+        "SeedBoss0": {
+          "DisplayName": "Miroen, the First Droplet"
+        },
+        "SeedBoss1": {
+          "DisplayName": "Velsa, the Last Little Ember"
+        },
+        "SeedBoss2": {
+          "DisplayName": "NoDay, a Fleeting Twilight"
+        }
+      },
+      "Items": {
+        "SeedToken0": {
+          "DisplayName": "First Dew Memento",
+          "Tooltip": "A memento, not a world victory\nReclaim through the Fable book after this world's victory"
+        },
+        "SeedWeapon0": {
+          "DisplayName": "Dewdrop Twig",
+          "Tooltip": "A tiny dewdrop every 0.9 seconds"
+        },
+        "SeedToken1": {
+          "DisplayName": "Last Ember Memento",
+          "Tooltip": "A memento, not a world victory\nReclaim through the Fable book after this world's victory"
+        },
+        "SeedWeapon1": {
+          "DisplayName": "Ember Poker",
+          "Tooltip": "A feeble swing every 0.75 seconds"
+        },
+        "SeedToken2": {
+          "DisplayName": "Twilight Memento",
+          "Tooltip": "A memento, not a world victory\nReclaim through the Fable book after this world's victory"
+        },
+        "SeedWeapon2": {
+          "DisplayName": "Folded Twilight Pipe",
+          "Tooltip": "A tiny shot every 0.9 seconds; requires no ammunition"
+        }
+      }
+    }
+  }
+}

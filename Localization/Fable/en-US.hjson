@@ -1,0 +1,371 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Fable": {
+        "Title": "The Unwritten Prologue",
+        "ParticipantReward": "Guaranteed for each participant; lost weapons can be reclaimed in the book",
+        "Sealed": "Sealed: building is blocked. Finish the hidden ending or skip permanently.",
+        "Completed": "Ending complete: seal lifted; every chapter can be replayed.",
+        "Skipped": "Permanently skipped in this world: seal lifted; this trial is closed.",
+        "Confirm1": "Skipping affects every player in this world.",
+        "Confirm2": "All 18 trial minibosses will become permanently unavailable.",
+        "Confirm3": "No rewards or victories are granted. This cannot be undone.",
+        "Back": "Back",
+        "ConfirmSkip": "Skip permanently",
+        "Replay": "Replay",
+        "Challenge": "Fight",
+        "Claim": "Claim",
+        "Practice": "Practice sword",
+        "Rest": "Rest",
+        "Skip": "Skip this world's trial",
+        "FourTrialTab": "Tiny Trials",
+        "FourTrialTitle": "The Tiny Trials of Metal and Gem",
+        "FourTrialReturn": "Back to book",
+        "FourTrialNote": "Four independent commemorative fights with no stage restriction. They do not affect Creative Shock or the prologue order.",
+        "FourTrialSpawnInfo": "Hold the book and open Tiny Trials; copper, silver, gold and diamond are ordered from weakest to strongest.",
+        "FourTrialBusy": "Finish the current boss, invasion or event first.",
+        "FourTrialCleared": "Commemorated",
+        "FourTrialUnclaimed": "Not challenged",
+        "FourTrialInfo0": "Copper: 1 classic life; it only glows and never attacks.",
+        "FourTrialInfo1": "Silver: 2 classic life; it makes one slow charge.",
+        "FourTrialInfo2": "Gold: 4 classic life; a short charge and one tiny spark.",
+        "FourTrialInfo3": "Diamond: 8 classic life; three tiny sparks and one short blink.",
+        "FourTrialHint0": "A copper rivet that only wants to be collected.",
+        "FourTrialHint1": "A silver shard practicing a moonlit charge.",
+        "FourTrialHint2": "A chiming gold lump taking Boss lessons seriously.",
+        "FourTrialHint3": "A diamond minion folding a glimmer into sharp little corners.",
+        "FourTrialVictory0": "The copper trial minion left behind a tiny glimmer.",
+        "FourTrialVictory1": "The silver trial minion completed its little charge.",
+        "FourTrialVictory2": "The gold trial minion left its chime in the book.",
+        "FourTrialVictory3": "The diamond minion's refraction became the final keepsake.",
+        "BookHint": "Craft freely by hand; left-click to open.",
+        "Intro": "The prologue seal is active. Craft The Unwritten Prologue for free, then finish its trials or skip permanently to lift Creative Shock.",
+        "SkippedNotice": "This world permanently skipped the prologue; its Creative Shock seal is lifted.",
+        "CompleteNotice": "The blank ending has been written! The seal is lifted and every chapter can be replayed.",
+        "Busy": "Finish the current encounter or invasion first.",
+        "RemoveGear": "Remove armor and accessories, and dismount. Sealed trials allow only starting tools and prologue weapons.",
+        "NoSpace": "No clear space overhead. Move to an open area and try again.",
+        "HostOnly": "Only the single-player user, host or server console may skip permanently.",
+        "NeedBook": "No prologue book in your inventory",
+        "CompleteRequired": "Complete the hidden ending",
+        "ArmorSet": "3% increased movement speed",
+        "SpawnInfo": "Craft the prologue book for free by hand. Left-click to select an unlocked chapter. Progress in order, finish the hidden ending to lift the building seal, or skip permanently in the book.",
+        "Hint0": "A low hop, then a long rest.",
+        "Hint1": "Locks its aim before a gentle dash.",
+        "Hint2": "A tiny body wiggles above the floor.",
+        "Hint3": "Drifts and occasionally tosses a little thought.",
+        "Hint4": "A short dash followed by one slow sting.",
+        "Hint5": "Tosses loose bones left, then right.",
+        "Hint6": "Crawls slowly and spits a soft lump.",
+        "Hint7": "Hops higher and sheds two crystal chips.",
+        "Hint8": "The eyes take turns shooting and dashing.",
+        "Hint9": "Loud clockwork, very slow little bones.",
+        "Hint10": "Wiggles around and occasionally fires a rivet.",
+        "Hint11": "Shuffles with its pot and spits two seeds.",
+        "Hint12": "A heavy little hop, then a mudbrick chip.",
+        "Hint13": "Two short dashes and a breakable bubble.",
+        "Hint14": "Three widely spaced sparks, then a short glide.",
+        "Hint15": "Slow paper stars and harmless faint doubles.",
+        "Hint16": "Slow shots, then a clearly warned short beam.",
+        "Hint17": "Mimics hops, dashes and shots; paper stars fall at low life."
+      },
+      "NPCs": {
+        "FableBoss0": {
+          "DisplayName": "Crooked-Crown Slime"
+        },
+        "FableBoss1": {
+          "DisplayName": "Sleepy Little Eye"
+        },
+        "FableBoss2": {
+          "DisplayName": "Stubby Nibbler"
+        },
+        "FableBoss3": {
+          "DisplayName": "Bashful Brain"
+        },
+        "FableBoss4": {
+          "DisplayName": "Fuzzy Queenlet"
+        },
+        "FableBoss5": {
+          "DisplayName": "Loose-Tooth Skull"
+        },
+        "FableBoss6": {
+          "DisplayName": "Pocket Flesh"
+        },
+        "FableBoss7": {
+          "DisplayName": "Crystal Slimelet"
+        },
+        "FableBoss8": {
+          "DisplayName": "Bickering Eyes"
+        },
+        "FableBoss9": {
+          "DisplayName": "Clockwork Skulllet"
+        },
+        "FableBoss10": {
+          "DisplayName": "Rivet Wormlet"
+        },
+        "FableBoss11": {
+          "DisplayName": "Potted Bloom"
+        },
+        "FableBoss12": {
+          "DisplayName": "Mudbrick Idol"
+        },
+        "FableBoss13": {
+          "DisplayName": "Puddle Fang"
+        },
+        "FableBoss14": {
+          "DisplayName": "Glimmer Queenlet"
+        },
+        "FableBoss15": {
+          "DisplayName": "Paper-Hat Acolyte"
+        },
+        "FableBoss16": {
+          "DisplayName": "Crescent Effigy"
+        },
+        "FableBoss17": {
+          "DisplayName": "Blank King: The Unwritten Ending"
+        },
+        "FourTrialBoss0": {
+          "DisplayName": "Copper Trial Minion: Rivetling"
+        },
+        "FourTrialBoss1": {
+          "DisplayName": "Silver Trial Minion: Moonmark"
+        },
+        "FourTrialBoss2": {
+          "DisplayName": "Gold Trial Minion: Gilded Chime"
+        },
+        "FourTrialBoss3": {
+          "DisplayName": "Diamond Trial Minion: Prismlet"
+        }
+      },
+      "Items": {
+        "FableWeapon0": {
+          "DisplayName": "Soft Gel Popper",
+          "Tooltip": "Fires a short-range pellet without consuming ammunition"
+        },
+        "FableWeapon1": {
+          "DisplayName": "Sleepy Eye Needle",
+          "Tooltip": "Fires one short-range magic pellet"
+        },
+        "FableWeapon2": {
+          "DisplayName": "Chipped Spear",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableWeapon3": {
+          "DisplayName": "Little Thought Staff",
+          "Tooltip": "Summons one tiny companion using 1 minion slot\nOnly one prologue companion may exist; very short targeting range"
+        },
+        "FableWeapon4": {
+          "DisplayName": "Wax-Sting Tube",
+          "Tooltip": "Fires a short-range pellet without consuming ammunition"
+        },
+        "FableWeapon5": {
+          "DisplayName": "Loose-Bone Bat",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableWeapon6": {
+          "DisplayName": "Soft Tongue Whip",
+          "Tooltip": "A very short whip with no summon-tag damage"
+        },
+        "FableWeapon7": {
+          "DisplayName": "Crystal Chip Wand",
+          "Tooltip": "Fires one short-range magic pellet"
+        },
+        "FableWeapon8": {
+          "DisplayName": "Twin-Eye Slingshot",
+          "Tooltip": "Fires a short-range pellet without consuming ammunition"
+        },
+        "FableWeapon9": {
+          "DisplayName": "Clockwork Mallet",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableWeapon10": {
+          "DisplayName": "Rivet Popgun",
+          "Tooltip": "Fires a short-range pellet without consuming ammunition"
+        },
+        "FableWeapon11": {
+          "DisplayName": "Potted Sprout Staff",
+          "Tooltip": "Summons one tiny companion using 1 minion slot\nOnly one prologue companion may exist; very short targeting range"
+        },
+        "FableWeapon12": {
+          "DisplayName": "Mudbrick Mitt",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableWeapon13": {
+          "DisplayName": "Little Bubble Wand",
+          "Tooltip": "Fires one short-range magic pellet"
+        },
+        "FableWeapon14": {
+          "DisplayName": "Glimmerwing Staff",
+          "Tooltip": "Summons one tiny companion using 1 minion slot\nOnly one prologue companion may exist; very short targeting range"
+        },
+        "FableWeapon15": {
+          "DisplayName": "Paper Star Wand",
+          "Tooltip": "Fires one short-range magic pellet"
+        },
+        "FableWeapon16": {
+          "DisplayName": "Crescent Knife",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableWeapon17": {
+          "DisplayName": "Blank Little Sword",
+          "Tooltip": "A feeble prologue weapon; grants no equipment bonuses"
+        },
+        "FableBook": {
+          "DisplayName": "The Unwritten Prologue",
+          "Tooltip": "Left-click while holding to open the chapter panel\nCrafted by hand for free; reusable\nFinish the hidden ending or skip permanently to lift this world's Creative Shock\nWhile sealed, trials cap life at 100 and mana at 20; starting tools and prologue weapons only"
+        },
+        "PracticeSword": {
+          "DisplayName": "Practice Wooden Sword",
+          "Tooltip": "A free backup weapon supplied by the book"
+        },
+        "FableCore": {
+          "DisplayName": "Unwritten Page",
+          "Tooltip": "Dropped by the Blank King\nCrafts the Paper Workbench, paper armor and prologue upgrades"
+        },
+        "FableWorkbench": {
+          "DisplayName": "Paper Workbench",
+          "Tooltip": "After the hidden ending, craft by hand with 6 Unwritten Pages\nCrafts paper equipment and also functions as a Work Bench"
+        },
+        "FableArmor0": {
+          "DisplayName": "Folded Paper Hat",
+          "Tooltip": "Paper set: 3% increased movement speed"
+        },
+        "FableArmor1": {
+          "DisplayName": "Folded Page Vest",
+          "Tooltip": "Paper set: 3% increased movement speed"
+        },
+        "FableArmor2": {
+          "DisplayName": "Paper Greaves",
+          "Tooltip": "Paper set: 3% increased movement speed"
+        },
+        "FableUpgrade0": {
+          "DisplayName": "Bound-Page Sword",
+          "Tooltip": "A slightly sturdier starting sword"
+        },
+        "FableUpgrade1": {
+          "DisplayName": "Bound-Page Crossbow",
+          "Tooltip": "Consumes arrows, converting them into short-range pellets"
+        },
+        "FableUpgrade2": {
+          "DisplayName": "Bound-Page Star Wand",
+          "Tooltip": "Fires one short-range paper star"
+        },
+        "FableUpgrade3": {
+          "DisplayName": "Bound-Page Butterfly Staff",
+          "Tooltip": "Summons one paper companion using 1 minion slot\nReplaces other prologue companions; very short targeting range"
+        },
+        "FableUnfinishedBlade": {
+          "DisplayName": "The Unfinished Blade",
+          "Tooltip": "Forged from all 18 prologue weapons\nEvery third swing has 20% more reach, without extra damage hits"
+        },
+        "FourTrialBag0": {
+          "DisplayName": "Copper Trial Bag",
+          "Tooltip": "Expert or Master drop; right-click to open for Copper Trial keepsakes"
+        },
+        "FourTrialBag1": {
+          "DisplayName": "Silver Trial Bag",
+          "Tooltip": "Expert or Master drop; right-click to open for Silver Trial keepsakes"
+        },
+        "FourTrialBag2": {
+          "DisplayName": "Gold Trial Bag",
+          "Tooltip": "Expert or Master drop; right-click to open for Gold Trial keepsakes"
+        },
+        "FourTrialBag3": {
+          "DisplayName": "Diamond Trial Bag",
+          "Tooltip": "Expert or Master drop; right-click to open for Diamond Trial keepsakes"
+        },
+        "FourTrialWeapon0": {
+          "DisplayName": "Rusty Copper Baton",
+          "Tooltip": "Deals only 1 damage; swings very slowly and is meant as a keepsake"
+        },
+        "FourTrialWeapon1": {
+          "DisplayName": "Glimmering Silver Needle",
+          "Tooltip": "Deals only 1 damage; fires very slowly without consuming ammo"
+        },
+        "FourTrialWeapon2": {
+          "DisplayName": "Gilded Chime Hammer",
+          "Tooltip": "Deals only 1 damage; costs 4 mana and launches a slow golden chime"
+        },
+        "FourTrialWeapon3": {
+          "DisplayName": "Shattered Diamond Star",
+          "Tooltip": "Deals only 1 damage; summons a slow diamond that uses 1 minion slot"
+        },
+        "FourTrialMemento0": {
+          "DisplayName": "Copper Trial Memento",
+          "Tooltip": "A purely commemorative keepsake with no combat power"
+        },
+        "FourTrialMemento1": {
+          "DisplayName": "Silver Trial Memento",
+          "Tooltip": "A purely commemorative keepsake with no combat power"
+        },
+        "FourTrialMemento2": {
+          "DisplayName": "Gold Trial Memento",
+          "Tooltip": "A purely commemorative keepsake with no combat power"
+        },
+        "FourTrialMemento3": {
+          "DisplayName": "Diamond Trial Memento",
+          "Tooltip": "A purely commemorative keepsake with no combat power"
+        },
+        "FourTrialTrophy0": {
+          "DisplayName": "Copper Trial Pennant",
+          "Tooltip": "Hang up the smallest victory"
+        },
+        "FourTrialTrophy1": {
+          "DisplayName": "Silver Trial Pennant",
+          "Tooltip": "Hang up the little moonmark victory"
+        },
+        "FourTrialTrophy2": {
+          "DisplayName": "Gold Trial Pennant",
+          "Tooltip": "Hang up the chiming victory"
+        },
+        "FourTrialTrophy3": {
+          "DisplayName": "Diamond Trial Pennant",
+          "Tooltip": "Hang up the refracted victory"
+        },
+        "FourTrialRelic0": {
+          "DisplayName": "Copper Trial Relic",
+          "Tooltip": "A Master Mode keepsake with no combat power"
+        },
+        "FourTrialRelic1": {
+          "DisplayName": "Silver Trial Relic",
+          "Tooltip": "A Master Mode keepsake with no combat power"
+        },
+        "FourTrialRelic2": {
+          "DisplayName": "Gold Trial Relic",
+          "Tooltip": "A Master Mode keepsake with no combat power"
+        },
+        "FourTrialRelic3": {
+          "DisplayName": "Diamond Trial Relic",
+          "Tooltip": "A Master Mode keepsake with no combat power"
+        },
+        "FourTrialMask0": {
+          "DisplayName": "Copper Trial Mask",
+          "Tooltip": "Vanity only; grants no stats"
+        },
+        "FourTrialMask1": {
+          "DisplayName": "Silver Trial Mask",
+          "Tooltip": "Vanity only; grants no stats"
+        },
+        "FourTrialMask2": {
+          "DisplayName": "Gold Trial Mask",
+          "Tooltip": "Vanity only; grants no stats"
+        },
+        "FourTrialMask3": {
+          "DisplayName": "Diamond Trial Mask",
+          "Tooltip": "Vanity only; grants no stats"
+        }
+      },
+      "Buffs": {
+        "FableCompanionBuff": {
+          "DisplayName": "Prologue Companion",
+          "Description": "A tiny companion stays by your side"
+        }
+      },
+      "Tiles": {
+        "FableWorkbenchTile": {
+          "MapEntry": "Paper Workbench"
+        }
+      }
+    }
+  }
+}

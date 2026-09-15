@@ -1,0 +1,1198 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "EcologyContent": {
+        "AnyGold": "任意金锭或铂金锭",
+        "AnyFragment": "任意一种天界碎片",
+        "AnyCatalyst": "任意生态触媒"
+      },
+      "Items": {
+        "EcologyMaterial0": {
+          "DisplayName": "镜质薄片",
+          "Tooltip": "来自雾镜林地生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner0": {
+          "DisplayName": "镜背蜗旗帜",
+          "Tooltip": "附近玩家对镜背蜗造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial1": {
+          "DisplayName": "雾翅粉",
+          "Tooltip": "来自雾镜林地生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner1": {
+          "DisplayName": "雾翅蛾旗帜",
+          "Tooltip": "附近玩家对雾翅蛾造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial2": {
+          "DisplayName": "雾腺",
+          "Tooltip": "来自雾镜林地生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner2": {
+          "DisplayName": "倒影獾旗帜",
+          "Tooltip": "附近玩家对倒影獾造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial3": {
+          "DisplayName": "裂镜角",
+          "Tooltip": "来自雾镜林地稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner3": {
+          "DisplayName": "裂镜鹿旗帜",
+          "Tooltip": "附近玩家对裂镜鹿造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial4": {
+          "DisplayName": "活蜡",
+          "Tooltip": "来自蜡眠荒庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner4": {
+          "DisplayName": "滴蜡虫旗帜",
+          "Tooltip": "附近玩家对滴蜡虫造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial5": {
+          "DisplayName": "蛹丝",
+          "Tooltip": "来自蜡眠荒庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner5": {
+          "DisplayName": "封蛹扑蛾旗帜",
+          "Tooltip": "附近玩家对封蛹扑蛾造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial6": {
+          "DisplayName": "残烛芯",
+          "Tooltip": "来自蜡眠荒庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner6": {
+          "DisplayName": "烛面侍从旗帜",
+          "Tooltip": "附近玩家对烛面侍从造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial7": {
+          "DisplayName": "封存琥珀",
+          "Tooltip": "来自蜡眠荒庭稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner7": {
+          "DisplayName": "凝蜡巨蛹旗帜",
+          "Tooltip": "附近玩家对凝蜡巨蛹造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial8": {
+          "DisplayName": "琥珀虫壳",
+          "Tooltip": "来自蜜珀蚀林生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner8": {
+          "DisplayName": "糖甲蚁旗帜",
+          "Tooltip": "附近玩家对糖甲蚁造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial9": {
+          "DisplayName": "凝蜜腺",
+          "Tooltip": "来自蜜珀蚀林生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner9": {
+          "DisplayName": "蜜针蜂旗帜",
+          "Tooltip": "附近玩家对蜜针蜂造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial10": {
+          "DisplayName": "育巢纤维",
+          "Tooltip": "来自蜜珀蚀林生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner10": {
+          "DisplayName": "巢枝螳旗帜",
+          "Tooltip": "附近玩家对巢枝螳造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial11": {
+          "DisplayName": "蜜珀晶核",
+          "Tooltip": "来自蜜珀蚀林稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner11": {
+          "DisplayName": "琥珀囊蛹旗帜",
+          "Tooltip": "附近玩家对琥珀囊蛹造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial12": {
+          "DisplayName": "鸣骨",
+          "Tooltip": "来自鸣骸墓原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner12": {
+          "DisplayName": "叩骨虫旗帜",
+          "Tooltip": "附近玩家对叩骨虫造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial13": {
+          "DisplayName": "空腔颅片",
+          "Tooltip": "来自鸣骸墓原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner13": {
+          "DisplayName": "空颅蝠旗帜",
+          "Tooltip": "附近玩家对空颅蝠造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial14": {
+          "DisplayName": "丧钟碎片",
+          "Tooltip": "来自鸣骸墓原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner14": {
+          "DisplayName": "执铃残骸旗帜",
+          "Tooltip": "附近玩家对执铃残骸造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial15": {
+          "DisplayName": "共鸣骨管",
+          "Tooltip": "来自鸣骸墓原稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner15": {
+          "DisplayName": "长笛骨兽旗帜",
+          "Tooltip": "附近玩家对长笛骨兽造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial16": {
+          "DisplayName": "冷烬壳",
+          "Tooltip": "来自逆烬熔原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner16": {
+          "DisplayName": "灰壳匍兽旗帜",
+          "Tooltip": "附近玩家对灰壳匍兽造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial17": {
+          "DisplayName": "逆燃粉",
+          "Tooltip": "来自逆烬熔原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner17": {
+          "DisplayName": "逆火蛾旗帜",
+          "Tooltip": "附近玩家对逆火蛾造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial18": {
+          "DisplayName": "炭生纤维",
+          "Tooltip": "来自逆烬熔原生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner18": {
+          "DisplayName": "炭枝行者旗帜",
+          "Tooltip": "附近玩家对炭枝行者造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial19": {
+          "DisplayName": "蓄热脊板",
+          "Tooltip": "来自逆烬熔原稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner19": {
+          "DisplayName": "熔脊犀旗帜",
+          "Tooltip": "附近玩家对熔脊犀造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial20": {
+          "DisplayName": "自生齿轮",
+          "Tooltip": "来自失控械土生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner20": {
+          "DisplayName": "铆足鼠旗帜",
+          "Tooltip": "附近玩家对铆足鼠造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial21": {
+          "DisplayName": "磁性叶片",
+          "Tooltip": "来自失控械土生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner21": {
+          "DisplayName": "磁叶蜂旗帜",
+          "Tooltip": "附近玩家对磁叶蜂造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial22": {
+          "DisplayName": "活性线束",
+          "Tooltip": "来自失控械土生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner22": {
+          "DisplayName": "废线傀儡旗帜",
+          "Tooltip": "附近玩家对废线傀儡造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial23": {
+          "DisplayName": "适应轴承",
+          "Tooltip": "来自失控械土稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner23": {
+          "DisplayName": "拼装履带兽旗帜",
+          "Tooltip": "附近玩家对拼装履带兽造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial24": {
+          "DisplayName": "饥露",
+          "Tooltip": "来自永饥花庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner24": {
+          "DisplayName": "吞露花旗帜",
+          "Tooltip": "附近玩家对吞露花造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial25": {
+          "DisplayName": "寄生花瓣",
+          "Tooltip": "来自永饥花庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner25": {
+          "DisplayName": "寄瓣螳旗帜",
+          "Tooltip": "附近玩家对寄瓣螳造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial26": {
+          "DisplayName": "肉质种核",
+          "Tooltip": "来自永饥花庭生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner26": {
+          "DisplayName": "果腹囊兽旗帜",
+          "Tooltip": "附近玩家对果腹囊兽造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial27": {
+          "DisplayName": "活根束",
+          "Tooltip": "来自永饥花庭稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner27": {
+          "DisplayName": "抱根巨蛛旗帜",
+          "Tooltip": "附近玩家对抱根巨蛛造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial28": {
+          "DisplayName": "日纹甲片",
+          "Tooltip": "来自沉日遗境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner28": {
+          "DisplayName": "负日甲虫旗帜",
+          "Tooltip": "附近玩家对负日甲虫造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial29": {
+          "DisplayName": "古日砂",
+          "Tooltip": "来自沉日遗境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner29": {
+          "DisplayName": "三足巡碑旗帜",
+          "Tooltip": "附近玩家对三足巡碑造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial30": {
+          "DisplayName": "刻纹鳞",
+          "Tooltip": "来自沉日遗境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner30": {
+          "DisplayName": "砂刻飞蛇旗帜",
+          "Tooltip": "附近玩家对砂刻飞蛇造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial31": {
+          "DisplayName": "守陵石髓",
+          "Tooltip": "来自沉日遗境稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner31": {
+          "DisplayName": "棺门巨卫旗帜",
+          "Tooltip": "附近玩家对棺门巨卫造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial32": {
+          "DisplayName": "棱鳍片",
+          "Tooltip": "来自虹渊潮境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner32": {
+          "DisplayName": "棱鳍游鱼旗帜",
+          "Tooltip": "附近玩家对棱鳍游鱼造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial33": {
+          "DisplayName": "虹纱",
+          "Tooltip": "来自虹渊潮境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner33": {
+          "DisplayName": "虹纱水母旗帜",
+          "Tooltip": "附近玩家对虹纱水母造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial34": {
+          "DisplayName": "潮光粉",
+          "Tooltip": "来自虹渊潮境生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner34": {
+          "DisplayName": "逐潮蝶旗帜",
+          "Tooltip": "附近玩家对逐潮蝶造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial35": {
+          "DisplayName": "深虹珍珠",
+          "Tooltip": "来自虹渊潮境稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner35": {
+          "DisplayName": "珠冠海龙旗帜",
+          "Tooltip": "附近玩家对珠冠海龙造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial36": {
+          "DisplayName": "空相甲片",
+          "Tooltip": "来自无相星壤生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner36": {
+          "DisplayName": "星壳游虫旗帜",
+          "Tooltip": "附近玩家对星壳游虫造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial37": {
+          "DisplayName": "相位绒",
+          "Tooltip": "来自无相星壤生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner37": {
+          "DisplayName": "无面漂灵旗帜",
+          "Tooltip": "附近玩家对无面漂灵造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial38": {
+          "DisplayName": "轨环碎屑",
+          "Tooltip": "来自无相星壤生物的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner38": {
+          "DisplayName": "轨环猎手旗帜",
+          "Tooltip": "附近玩家对轨环猎手造成更多伤害并受到更少伤害\n击败 50 只获得；悬挂在实心方块下方"
+        },
+        "EcologyMaterial39": {
+          "DisplayName": "稳相晶膜",
+          "Tooltip": "来自无相星壤稀有精英的材料\n用于本生态装备与工造配方"
+        },
+        "EcologyBanner39": {
+          "DisplayName": "断层巨鳐旗帜",
+          "Tooltip": "附近玩家对断层巨鳐造成更多伤害并受到更少伤害\n击败 25 只获得；悬挂在实心方块下方"
+        },
+        "EcologyCore0": {
+          "DisplayName": "巡狩镜核",
+          "Tooltip": "雾冠巡狩者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag0": {
+          "DisplayName": "雾冠巡狩者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar0": {
+          "DisplayName": "雾镜晶锭",
+          "Tooltip": "3 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent0": {
+          "DisplayName": "折镜棱片",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool0": {
+          "DisplayName": "裂雾镐",
+          "Tooltip": "镐力 50%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed0": {
+          "DisplayName": "雾镜林地结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic0": {
+          "DisplayName": "雾冠巡狩者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy0": {
+          "DisplayName": "雾冠巡狩者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask0": {
+          "DisplayName": "雾冠巡狩者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem0": {
+          "DisplayName": "碎雾小鹿信物",
+          "Tooltip": "召唤宠物：碎雾小鹿\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish0": {
+          "DisplayName": "镜鳞鲦",
+          "Tooltip": "在活动的雾镜林地水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate0": {
+          "DisplayName": "雾镜林地生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp0": {
+          "DisplayName": "雾镜林地灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore1": {
+          "DisplayName": "百烛心髓",
+          "Tooltip": "千烛合葬者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag1": {
+          "DisplayName": "千烛合葬者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar1": {
+          "DisplayName": "蜡髓锭",
+          "Tooltip": "3 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent1": {
+          "DisplayName": "封蜡储芯",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool1": {
+          "DisplayName": "封蜡凿镐",
+          "Tooltip": "镐力 60%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed1": {
+          "DisplayName": "蜡眠荒庭结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic1": {
+          "DisplayName": "千烛合葬者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy1": {
+          "DisplayName": "千烛合葬者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask1": {
+          "DisplayName": "千烛合葬者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem1": {
+          "DisplayName": "蜡眠蛾灵信物",
+          "Tooltip": "召唤宠物：蜡眠蛾灵\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish1": {
+          "DisplayName": "烛脂鳅",
+          "Tooltip": "在活动的蜡眠荒庭水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate1": {
+          "DisplayName": "蜡眠荒庭生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp1": {
+          "DisplayName": "蜡眠荒庭灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore2": {
+          "DisplayName": "育巢王髓",
+          "Tooltip": "琥珀育巢者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag2": {
+          "DisplayName": "琥珀育巢者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar2": {
+          "DisplayName": "蜜珀锭",
+          "Tooltip": "3 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent2": {
+          "DisplayName": "共巢结节",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool2": {
+          "DisplayName": "蜜棘镐",
+          "Tooltip": "镐力 65%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed2": {
+          "DisplayName": "蜜珀蚀林结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic2": {
+          "DisplayName": "琥珀育巢者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy2": {
+          "DisplayName": "琥珀育巢者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask2": {
+          "DisplayName": "琥珀育巢者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem2": {
+          "DisplayName": "蜜珀幼巢信物",
+          "Tooltip": "召唤宠物：蜜珀幼巢\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish2": {
+          "DisplayName": "蜜腹鲫",
+          "Tooltip": "在活动的蜜珀蚀林水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate2": {
+          "DisplayName": "蜜珀蚀林生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp2": {
+          "DisplayName": "蜜珀蚀林灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore3": {
+          "DisplayName": "送葬钟芯",
+          "Tooltip": "空钟送葬者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag3": {
+          "DisplayName": "空钟送葬者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar3": {
+          "DisplayName": "鸣骸锭",
+          "Tooltip": "3 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent3": {
+          "DisplayName": "回声谐管",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool3": {
+          "DisplayName": "叩钟镐",
+          "Tooltip": "镐力 70%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed3": {
+          "DisplayName": "鸣骸墓原结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic3": {
+          "DisplayName": "空钟送葬者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy3": {
+          "DisplayName": "空钟送葬者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask3": {
+          "DisplayName": "空钟送葬者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem3": {
+          "DisplayName": "迷你吊钟信物",
+          "Tooltip": "召唤宠物：迷你吊钟\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish3": {
+          "DisplayName": "钟鳃鲈",
+          "Tooltip": "在活动的鸣骸墓原水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate3": {
+          "DisplayName": "鸣骸墓原生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp3": {
+          "DisplayName": "鸣骸墓原灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore4": {
+          "DisplayName": "逆燃心核",
+          "Tooltip": "逆燃熔心的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag4": {
+          "DisplayName": "逆燃熔心宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar4": {
+          "DisplayName": "逆烬锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent4": {
+          "DisplayName": "逆热散片",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool4": {
+          "DisplayName": "逆燃掘镐",
+          "Tooltip": "镐力 110%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed4": {
+          "DisplayName": "逆烬熔原结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic4": {
+          "DisplayName": "逆燃熔心圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy4": {
+          "DisplayName": "逆燃熔心纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask4": {
+          "DisplayName": "逆燃熔心面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem4": {
+          "DisplayName": "暖烬幼兽信物",
+          "Tooltip": "召唤宠物：暖烬幼兽\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish4": {
+          "DisplayName": "炭纹鳟",
+          "Tooltip": "在活动的逆烬熔原水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate4": {
+          "DisplayName": "逆烬熔原生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp4": {
+          "DisplayName": "逆烬熔原灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore5": {
+          "DisplayName": "自律母核",
+          "Tooltip": "荒原总机的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag5": {
+          "DisplayName": "荒原总机宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar5": {
+          "DisplayName": "自律磁锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent5": {
+          "DisplayName": "自律传动组",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool5": {
+          "DisplayName": "机枢钻",
+          "Tooltip": "镐力 190%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed5": {
+          "DisplayName": "失控械土结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic5": {
+          "DisplayName": "荒原总机圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy5": {
+          "DisplayName": "荒原总机纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask5": {
+          "DisplayName": "荒原总机面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem5": {
+          "DisplayName": "迷途齿轮伴信物",
+          "Tooltip": "召唤宠物：迷途齿轮伴\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish5": {
+          "DisplayName": "磁须鲶",
+          "Tooltip": "在活动的失控械土水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate5": {
+          "DisplayName": "失控械土生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp5": {
+          "DisplayName": "失控械土灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore6": {
+          "DisplayName": "万胃种心",
+          "Tooltip": "万胃繁花的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag6": {
+          "DisplayName": "万胃繁花宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar6": {
+          "DisplayName": "饥生锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent6": {
+          "DisplayName": "饥根培养核",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool6": {
+          "DisplayName": "裂根镐",
+          "Tooltip": "镐力 210%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed6": {
+          "DisplayName": "永饥花庭结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic6": {
+          "DisplayName": "万胃繁花圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy6": {
+          "DisplayName": "万胃繁花纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask6": {
+          "DisplayName": "万胃繁花面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem6": {
+          "DisplayName": "饥花幼芽信物",
+          "Tooltip": "召唤宠物：饥花幼芽\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish6": {
+          "DisplayName": "露囊鲤",
+          "Tooltip": "在活动的永饥花庭水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate6": {
+          "DisplayName": "永饥花庭生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp6": {
+          "DisplayName": "永饥花庭灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore7": {
+          "DisplayName": "沉日核心",
+          "Tooltip": "沉日守陵兽的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag7": {
+          "DisplayName": "沉日守陵兽宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar7": {
+          "DisplayName": "沉日锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent7": {
+          "DisplayName": "古日刻盘",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool7": {
+          "DisplayName": "守陵镐",
+          "Tooltip": "镐力 220%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed7": {
+          "DisplayName": "沉日遗境结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic7": {
+          "DisplayName": "沉日守陵兽圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy7": {
+          "DisplayName": "沉日守陵兽纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask7": {
+          "DisplayName": "沉日守陵兽面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem7": {
+          "DisplayName": "袖珍守陵兽信物",
+          "Tooltip": "召唤宠物：袖珍守陵兽\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish7": {
+          "DisplayName": "日刻鲷",
+          "Tooltip": "在活动的沉日遗境水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate7": {
+          "DisplayName": "沉日遗境生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp7": {
+          "DisplayName": "沉日遗境灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore8": {
+          "DisplayName": "虹潮心核",
+          "Tooltip": "虹渊织潮者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag8": {
+          "DisplayName": "虹渊织潮者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar8": {
+          "DisplayName": "虹潮晶锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent8": {
+          "DisplayName": "双相折潮片",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool8": {
+          "DisplayName": "折潮钻",
+          "Tooltip": "镐力 225%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed8": {
+          "DisplayName": "虹渊潮境结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic8": {
+          "DisplayName": "虹渊织潮者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy8": {
+          "DisplayName": "虹渊织潮者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask8": {
+          "DisplayName": "虹渊织潮者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem8": {
+          "DisplayName": "虹潮小鳐信物",
+          "Tooltip": "召唤宠物：虹潮小鳐\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish8": {
+          "DisplayName": "虹纱灯鱼",
+          "Tooltip": "在活动的虹渊潮境水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate8": {
+          "DisplayName": "虹渊潮境生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp8": {
+          "DisplayName": "虹渊潮境灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyCore9": {
+          "DisplayName": "巡星相核",
+          "Tooltip": "无相巡星者的核心材料\n制作首把挖掘工具、生态装备和矿床结晶种；首把工具不需要本生态矿石"
+        },
+        "EcologyBag9": {
+          "DisplayName": "无相巡星者宝藏袋",
+          "Tooltip": "右键打开\n内含核心 ×30–40、四职业武器随机一件和必得的专家饰品\n另有金币、治疗药水；1/7 概率获得面具"
+        },
+        "EcologyBar9": {
+          "DisplayName": "无相晶锭",
+          "Tooltip": "4 块矿石熔炼为 1 锭\n用于本生态装备、组件与工造配方"
+        },
+        "EcologyComponent9": {
+          "DisplayName": "稳相轨环",
+          "Tooltip": "由对应矿锭 ×2 和普通生态材料 ×3 制作\n用于本分支进阶装备与工造配方"
+        },
+        "EcologyTool9": {
+          "DisplayName": "巡星镐",
+          "Tooltip": "镐力 230%；用本生态 Boss 核心与原版金属制作\n无需先挖本生态矿石\n本模组生态镐具不能在击败石巨人前开采神庙砖"
+        },
+        "EcologyMineralSeed9": {
+          "DisplayName": "无相星壤结晶种",
+          "Tooltip": "手持结晶种右键同生态的矿床槽；上方预留 3×3 空间\n一枚生成 9 块可挖掘矿石；需要本世界击败对应生态 Boss\n仍需正确镐力；每枚消耗核心 ×1 和石块 ×30，不可直接种植"
+        },
+        "EcologyRelic9": {
+          "DisplayName": "无相巡星者圣物",
+          "Tooltip": "大师模式纪念物；放置于地面"
+        },
+        "EcologyTrophy9": {
+          "DisplayName": "无相巡星者纪念章",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyMask9": {
+          "DisplayName": "无相巡星者面具",
+          "Tooltip": "仅外观，不提供战斗属性"
+        },
+        "EcologyPetItem9": {
+          "DisplayName": "空壳巡星灵信物",
+          "Tooltip": "召唤宠物：空壳巡星灵\n纯外观伙伴，不攻击、不占用召唤栏位"
+        },
+        "EcologyFish9": {
+          "DisplayName": "空相银鱼",
+          "Tooltip": "在活动的无相星壤水域钓获\n在烹饪锅制作熟鱼 ×2，或用两条换取普通生态材料 ×2"
+        },
+        "EcologyCrate9": {
+          "DisplayName": "无相星壤生态匣",
+          "Tooltip": "右键打开，获得普通生态材料，并有机会获得鱼、鱼饵和药水\n不含矿石、矿锭、Boss 核心、专家饰品或稀有精英材料"
+        },
+        "EcologyLamp9": {
+          "DisplayName": "无相星壤灯",
+          "Tooltip": "本生态主题照明；可作为房屋光源\n只提供光照，不改变或扩散地形"
+        },
+        "EcologyStation0": {
+          "DisplayName": "培境皿",
+          "Tooltip": "基础生态工作站：粉末、前四种矿锭与基础生态装备\n击败克苏鲁之眼后制作"
+        },
+        "EcologyStation1": {
+          "DisplayName": "蜜珀育境台",
+          "Tooltip": "继承培境皿；制作蜜珀进阶装备\n仅为蜜珀分支升级，不限制其他生态路线"
+        },
+        "EcologyStation2": {
+          "DisplayName": "生态调律台",
+          "Tooltip": "继承培境皿；制作溶液、生态喷壶与困难模式基础生态装备\n击败血肉墙后制作，不要求击败蜜珀生态 Boss"
+        },
+        "EcologyStation3": {
+          "DisplayName": "机枢生态实验台",
+          "Tooltip": "继承生态调律台和培境皿；制作机枢进阶装备\n仅为失控械土分支升级"
+        },
+        "EcologyStation4": {
+          "DisplayName": "古日生态铸台",
+          "Tooltip": "继承生态调律台和培境皿；制作沉日进阶装备\n不限制虹潮路线"
+        },
+        "EcologyStation5": {
+          "DisplayName": "折潮装配模块",
+          "Tooltip": "可独立摆放，继承生态调律台和培境皿\n制作双相虹潮进阶装备，不要求击败石巨人"
+        },
+        "EcologyStation6": {
+          "DisplayName": "星相织境台",
+          "Tooltip": "继承生态调律台和培境皿；制作无相基础工具与矿锭\n击败月亮领主后制作，无需完成其他生态 Boss"
+        },
+        "EcologyStation7": {
+          "DisplayName": "无相界域中枢",
+          "Tooltip": "继承全部七种生态工作站\n配方仍检查各自生态 Boss 的击败条件，不会越过支线进度"
+        }
+      },
+      "Buffs": {
+        "EcologyPetBuff0": {
+          "DisplayName": "碎雾小鹿",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff1": {
+          "DisplayName": "蜡眠蛾灵",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff2": {
+          "DisplayName": "蜜珀幼巢",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff3": {
+          "DisplayName": "迷你吊钟",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff4": {
+          "DisplayName": "暖烬幼兽",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff5": {
+          "DisplayName": "迷途齿轮伴",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff6": {
+          "DisplayName": "饥花幼芽",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff7": {
+          "DisplayName": "袖珍守陵兽",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff8": {
+          "DisplayName": "虹潮小鳐",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        },
+        "EcologyPetBuff9": {
+          "DisplayName": "空壳巡星灵",
+          "Description": "一位不伤害任何生物的生态伙伴正在跟随你"
+        }
+      },
+      "Projectiles": {
+        "EcologyPetProjectile0": {
+          "DisplayName": "碎雾小鹿"
+        },
+        "EcologyPetProjectile1": {
+          "DisplayName": "蜡眠蛾灵"
+        },
+        "EcologyPetProjectile2": {
+          "DisplayName": "蜜珀幼巢"
+        },
+        "EcologyPetProjectile3": {
+          "DisplayName": "迷你吊钟"
+        },
+        "EcologyPetProjectile4": {
+          "DisplayName": "暖烬幼兽"
+        },
+        "EcologyPetProjectile5": {
+          "DisplayName": "迷途齿轮伴"
+        },
+        "EcologyPetProjectile6": {
+          "DisplayName": "饥花幼芽"
+        },
+        "EcologyPetProjectile7": {
+          "DisplayName": "袖珍守陵兽"
+        },
+        "EcologyPetProjectile8": {
+          "DisplayName": "虹潮小鳐"
+        },
+        "EcologyPetProjectile9": {
+          "DisplayName": "空壳巡星灵"
+        },
+        "EcologyDrillProjectile": {
+          "DisplayName": "生态钻头"
+        }
+      },
+      "Tiles": {
+        "EcologyBannerTile0": {
+          "MapEntry": "镜背蜗旗帜"
+        },
+        "EcologyBannerTile1": {
+          "MapEntry": "雾翅蛾旗帜"
+        },
+        "EcologyBannerTile2": {
+          "MapEntry": "倒影獾旗帜"
+        },
+        "EcologyBannerTile3": {
+          "MapEntry": "裂镜鹿旗帜"
+        },
+        "EcologyBannerTile4": {
+          "MapEntry": "滴蜡虫旗帜"
+        },
+        "EcologyBannerTile5": {
+          "MapEntry": "封蛹扑蛾旗帜"
+        },
+        "EcologyBannerTile6": {
+          "MapEntry": "烛面侍从旗帜"
+        },
+        "EcologyBannerTile7": {
+          "MapEntry": "凝蜡巨蛹旗帜"
+        },
+        "EcologyBannerTile8": {
+          "MapEntry": "糖甲蚁旗帜"
+        },
+        "EcologyBannerTile9": {
+          "MapEntry": "蜜针蜂旗帜"
+        },
+        "EcologyBannerTile10": {
+          "MapEntry": "巢枝螳旗帜"
+        },
+        "EcologyBannerTile11": {
+          "MapEntry": "琥珀囊蛹旗帜"
+        },
+        "EcologyBannerTile12": {
+          "MapEntry": "叩骨虫旗帜"
+        },
+        "EcologyBannerTile13": {
+          "MapEntry": "空颅蝠旗帜"
+        },
+        "EcologyBannerTile14": {
+          "MapEntry": "执铃残骸旗帜"
+        },
+        "EcologyBannerTile15": {
+          "MapEntry": "长笛骨兽旗帜"
+        },
+        "EcologyBannerTile16": {
+          "MapEntry": "灰壳匍兽旗帜"
+        },
+        "EcologyBannerTile17": {
+          "MapEntry": "逆火蛾旗帜"
+        },
+        "EcologyBannerTile18": {
+          "MapEntry": "炭枝行者旗帜"
+        },
+        "EcologyBannerTile19": {
+          "MapEntry": "熔脊犀旗帜"
+        },
+        "EcologyBannerTile20": {
+          "MapEntry": "铆足鼠旗帜"
+        },
+        "EcologyBannerTile21": {
+          "MapEntry": "磁叶蜂旗帜"
+        },
+        "EcologyBannerTile22": {
+          "MapEntry": "废线傀儡旗帜"
+        },
+        "EcologyBannerTile23": {
+          "MapEntry": "拼装履带兽旗帜"
+        },
+        "EcologyBannerTile24": {
+          "MapEntry": "吞露花旗帜"
+        },
+        "EcologyBannerTile25": {
+          "MapEntry": "寄瓣螳旗帜"
+        },
+        "EcologyBannerTile26": {
+          "MapEntry": "果腹囊兽旗帜"
+        },
+        "EcologyBannerTile27": {
+          "MapEntry": "抱根巨蛛旗帜"
+        },
+        "EcologyBannerTile28": {
+          "MapEntry": "负日甲虫旗帜"
+        },
+        "EcologyBannerTile29": {
+          "MapEntry": "三足巡碑旗帜"
+        },
+        "EcologyBannerTile30": {
+          "MapEntry": "砂刻飞蛇旗帜"
+        },
+        "EcologyBannerTile31": {
+          "MapEntry": "棺门巨卫旗帜"
+        },
+        "EcologyBannerTile32": {
+          "MapEntry": "棱鳍游鱼旗帜"
+        },
+        "EcologyBannerTile33": {
+          "MapEntry": "虹纱水母旗帜"
+        },
+        "EcologyBannerTile34": {
+          "MapEntry": "逐潮蝶旗帜"
+        },
+        "EcologyBannerTile35": {
+          "MapEntry": "珠冠海龙旗帜"
+        },
+        "EcologyBannerTile36": {
+          "MapEntry": "星壳游虫旗帜"
+        },
+        "EcologyBannerTile37": {
+          "MapEntry": "无面漂灵旗帜"
+        },
+        "EcologyBannerTile38": {
+          "MapEntry": "轨环猎手旗帜"
+        },
+        "EcologyBannerTile39": {
+          "MapEntry": "断层巨鳐旗帜"
+        },
+        "EcologyRelicTile0": {
+          "MapEntry": "雾冠巡狩者圣物"
+        },
+        "EcologyTrophyTile0": {
+          "MapEntry": "雾冠巡狩者纪念章"
+        },
+        "EcologyLampTile0": {
+          "MapEntry": "雾镜林地灯"
+        },
+        "EcologyRelicTile1": {
+          "MapEntry": "千烛合葬者圣物"
+        },
+        "EcologyTrophyTile1": {
+          "MapEntry": "千烛合葬者纪念章"
+        },
+        "EcologyLampTile1": {
+          "MapEntry": "蜡眠荒庭灯"
+        },
+        "EcologyRelicTile2": {
+          "MapEntry": "琥珀育巢者圣物"
+        },
+        "EcologyTrophyTile2": {
+          "MapEntry": "琥珀育巢者纪念章"
+        },
+        "EcologyLampTile2": {
+          "MapEntry": "蜜珀蚀林灯"
+        },
+        "EcologyRelicTile3": {
+          "MapEntry": "空钟送葬者圣物"
+        },
+        "EcologyTrophyTile3": {
+          "MapEntry": "空钟送葬者纪念章"
+        },
+        "EcologyLampTile3": {
+          "MapEntry": "鸣骸墓原灯"
+        },
+        "EcologyRelicTile4": {
+          "MapEntry": "逆燃熔心圣物"
+        },
+        "EcologyTrophyTile4": {
+          "MapEntry": "逆燃熔心纪念章"
+        },
+        "EcologyLampTile4": {
+          "MapEntry": "逆烬熔原灯"
+        },
+        "EcologyRelicTile5": {
+          "MapEntry": "荒原总机圣物"
+        },
+        "EcologyTrophyTile5": {
+          "MapEntry": "荒原总机纪念章"
+        },
+        "EcologyLampTile5": {
+          "MapEntry": "失控械土灯"
+        },
+        "EcologyRelicTile6": {
+          "MapEntry": "万胃繁花圣物"
+        },
+        "EcologyTrophyTile6": {
+          "MapEntry": "万胃繁花纪念章"
+        },
+        "EcologyLampTile6": {
+          "MapEntry": "永饥花庭灯"
+        },
+        "EcologyRelicTile7": {
+          "MapEntry": "沉日守陵兽圣物"
+        },
+        "EcologyTrophyTile7": {
+          "MapEntry": "沉日守陵兽纪念章"
+        },
+        "EcologyLampTile7": {
+          "MapEntry": "沉日遗境灯"
+        },
+        "EcologyRelicTile8": {
+          "MapEntry": "虹渊织潮者圣物"
+        },
+        "EcologyTrophyTile8": {
+          "MapEntry": "虹渊织潮者纪念章"
+        },
+        "EcologyLampTile8": {
+          "MapEntry": "虹渊潮境灯"
+        },
+        "EcologyRelicTile9": {
+          "MapEntry": "无相巡星者圣物"
+        },
+        "EcologyTrophyTile9": {
+          "MapEntry": "无相巡星者纪念章"
+        },
+        "EcologyLampTile9": {
+          "MapEntry": "无相星壤灯"
+        },
+        "EcologyStationTile0": {
+          "MapEntry": "培境皿"
+        },
+        "EcologyStationTile1": {
+          "MapEntry": "蜜珀育境台"
+        },
+        "EcologyStationTile2": {
+          "MapEntry": "生态调律台"
+        },
+        "EcologyStationTile3": {
+          "MapEntry": "机枢生态实验台"
+        },
+        "EcologyStationTile4": {
+          "MapEntry": "古日生态铸台"
+        },
+        "EcologyStationTile5": {
+          "MapEntry": "折潮装配模块"
+        },
+        "EcologyStationTile6": {
+          "MapEntry": "星相织境台"
+        },
+        "EcologyStationTile7": {
+          "MapEntry": "无相界域中枢"
+        }
+      }
+    }
+  }
+}

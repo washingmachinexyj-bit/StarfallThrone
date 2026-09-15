@@ -1,0 +1,21 @@
+# Build and IDE output
+bin/
+obj/
+.vs/
+.idea/
+
+# Local generation, test, and release workspaces
+work/
+outputs/
+
+# User/local machine files
+*.user
+*.suo
+*.userprefs
+Thumbs.db
+Desktop.ini
+
+# tModLoader generated archives and logs
+*.tmod
+*.zip
+*.log

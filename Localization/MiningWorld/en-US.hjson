@@ -1,0 +1,71 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "MiningWorld": {
+        "Description": "Ore progression, legacy-world opt-in and structure protection (/starfallmining help)",
+        "Help": "/starfallmining status: show all 13 ore stages.\n/starfallmining generate confirm: host-only, one-time retro-generation for bosses already defeated in an older world. Back up the world and protect important structures first.\n/starfallmining cultivation confirm: obtain pending legacy ores from crystallizers only; do not change underground tiles. Future first kills still follow the config.\n/starfallmining pause or resume: pause/resume queued generation; progress is saved with the world.\n/starfallmining protect x1 y1 x2 y2: protect a rectangle; coordinates are tiles, not feet.\n/starfallmining regions: list protection rectangles.\n/starfallmining unprotect number: remove that rectangle.\n/starfallmining selftest: run in-memory logic checks without generating any tiles.\nChanges require single player, the multiplayer host or the server console. Protection blocks new ore generation and mod area-digging, not ordinary mining.",
+        "HostOnly": "Only the host or server console may perform this operation.",
+        "LegacyNotice": "[Mining update] Some ore bosses were already defeated in this world. No underground tiles have been changed. Back up and protect important structures, then have the host enter /starfallmining generate confirm to add ores, or /starfallmining cultivation confirm for crystallizers only. Use /starfallmining help for details.",
+        "NewerSchema": "[Mining protection] This world uses a newer mining save schema. Generation is paused and its original data is preserved. Update the mod before continuing.",
+        "ConfirmGenerate": "Back up this world and protect important structures first. Enter /starfallmining generate confirm to authorize one-time retro-generation. Completed ores will never be generated again.",
+        "ConfirmCultivation": "This permanently chooses crystallizers for currently pending legacy ores without changing underground tiles. Enter /starfallmining cultivation confirm to confirm.",
+        "LegacyQueued": "Legacy ore generation has been queued in small batches. Use pause to suspend it.",
+        "LegacyCultivation": "Pending legacy ores are now crystallizer-only. No underground tiles were changed; boss unlocks and crafting remain available.",
+        "NoPending": "No legacy ores await a choice. Completed and crystallizer-only ores will not be generated again.",
+        "Queued": "[Ore awakening] {0} is queued for generation. Requires {1}% pickaxe power; use {2}. Depth details will follow when generation completes.",
+        "Completed": "[New deposits] {0} has formed in {3}: {1} tiles. Requires {2}% pickaxe power; use {4}.",
+        "CompletedSparse": "[Ore protection] Safe generation of {0} finished with {1} tiles. Protected structures or scarce eligible rock limited the yield. Search {3}; requires {2}% pickaxe power, such as {4}. Use a crystallizer for additional ore; generation will not repeat automatically.",
+        "CultivationUnlocked": "[Crystallizer unlocked] {0} is available. Automatic generation is disabled by the host; use a crystallizer to obtain it.",
+        "Status": "Ore progress: {0}/13 generated, {1} pending legacy choices, {2} queued/generating, {3} crystallizer-only; {4} custom protected regions.",
+        "StatusOre": "{0}: {1}; {2} tiles generated.",
+        "StateDone": "one-time generation complete",
+        "StatePending": "awaiting the host's legacy choice",
+        "StateRunning": "queued/generating",
+        "StateCultivation": "crystallizer-only",
+        "StateLocked": "corresponding boss not yet defeated",
+        "Paused": "Ore generation paused. Use /starfallmining resume to continue; progress is saved with the world.",
+        "Resumed": "Ore generation resumed.",
+        "Region": "Region {0}: tile coordinates ({1}, {2}) to ({3}, {4}).",
+        "NoRegions": "No custom protected regions. Spawn, towns, chests, furniture, placed background walls and recorded edited areas still receive generation protection.",
+        "RegionAdded": "Protected region added. Queued generation will also skip it.",
+        "RegionRemoved": "Protected region removed. Previously skipped ore will not be generated again.",
+        "InvalidRegion": "Invalid region: use coordinates inside the world, with at most 64 regions. Use /starfallmining regions to check IDs.",
+        "Awakening0": "Rolling moss seeds slip into stone, kindling a gentle underground glow.",
+        "Awakening1": "Dormant copper marrow awakens beneath the earth.",
+        "Awakening2": "Frost traces new crystalline runes through the rock.",
+        "Awakening3": "The first light of dawn reaches the buried veins.",
+        "Awakening4": "Imperial crystals seep into the depths of the earth.",
+        "Awakening5": "Eternal embers begin to reforge the underground stone.",
+        "Awakening6": "Unbound stellar magnetism crystallizes in the deep rock.",
+        "Awakening7": "The moon god's fading light sinks into silent, silver-white veins.",
+        "Awakening8": "Shattered orbital debris settles into the rock and crystallizes.",
+        "Awakening9": "Underground crystals reflect colors from beyond this world.",
+        "Awakening10": "Everliving roots pierce the deep rock and nurture new veins.",
+        "Awakening11": "Stellar coordinates anchor to the earth, lighting beacons in the deep.",
+        "Awakening12": "The Ark's genesis embers nurture new stars beneath the earth.",
+        "Layer0": "the shallow underground (richer beneath forests)",
+        "Layer1": "ordinary shallow underground stone",
+        "Layer2": "the shallow underground (richer near snow biomes)",
+        "Layer3": "the shallow underground and upper caverns",
+        "Layer4": "the cavern layer",
+        "Layer5": "the deep caverns above the Underworld",
+        "Layer6": "the middle and lower caverns",
+        "Layer7": "the cavern layer",
+        "Layer8": "the cavern layer",
+        "Layer9": "the caverns (richer near the Underground Hallow)",
+        "Layer10": "the caverns (richer near the Underground Jungle)",
+        "Layer11": "the deep caverns",
+        "Layer12": "the middle and lower caverns"
+      },
+      "Configs": {
+        "MiningWorldConfig": {
+          "DisplayName": "Ore generation and preservation",
+          "GenerateOnFutureFirstKills": { "Label": "Generate ore on future first kills", "Tooltip": "When disabled, newly unlocked ores are obtained from crystallizers only. Does not change queued jobs. Legacy-world retro-generation always requires the host's explicit confirmation." },
+          "SpawnProtectionRadius": { "Label": "Spawn protection radius (tiles)", "Tooltip": "New ore skips the square around world spawn. Does not block ordinary player mining." },
+          "StructurePadding": { "Label": "Extra structure protection distance (tiles)", "Tooltip": "Checks furniture, placed walls, mechanisms, painted blocks, Dungeon and Temple nearby before generation. Unmarked old stone buildings cannot be reliably identified; add custom protected regions for them." },
+          "AttemptsPerTick": { "Label": "Maximum generation candidates per tick", "Tooltip": "Lower values reduce per-frame work. A soft 2 ms budget is also checked after each candidate. Ore targets and saved progress are unaffected." }
+        }
+      }
+    }
+  }
+}

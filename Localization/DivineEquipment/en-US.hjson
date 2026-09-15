@@ -1,0 +1,183 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "DivineWeapon0": {
+          "DisplayName": "Dewbranch Pruner",
+          "Tooltip": "Three real melee hits release a short-range crescent for 75% damage.\nEach swing charges once; crescents cannot charge another combo."
+        },
+        "DivineWeapon1": {
+          "DisplayName": "Dewcrown Bow",
+          "Tooltip": "Three consecutive arrows into the same enemy empower the next arrow.\nIts hit releases two delayed dew drops, each for 40% damage.\nConsumes one arrow per shot; converts ammunition to dew arrows."
+        },
+        "DivineWeapon2": {
+          "DisplayName": "Prayer of Germination",
+          "Tooltip": "Hold to charge, release a short-range expanding ring.\nCharge up to 1.5 seconds; ring deals 80%-150% weapon damage.\nPays 4 extra mana every 0.5 seconds; each ring hits each enemy once."
+        },
+        "DivineWeapon3": {
+          "DisplayName": "Whitebud Attendant",
+          "Tooltip": "Summons a marking-and-dashing attendant using 1 minion slot.\nAttack cycle: 1.5 seconds. Dismiss via its buff; cannot attack through walls."
+        },
+        "DivineWeapon4": {
+          "DisplayName": "Oathbreaker Furnaceblade",
+          "Tooltip": "Real melee hits charge 20 pressure, up to 100, once per swing.\nRight-click spends 100 pressure on five short-range heat waves.\nEach deals 45% damage, travelling about 16 tiles."
+        },
+        "DivineWeapon5": {
+          "DisplayName": "Judgement Burstgun",
+          "Tooltip": "Three-round bursts consume one bullet per round.\nEvery third round marks an enemy for 3 seconds.\nLater hits detonate the mark for 65% damage; 1-second per-owner/target cooldown."
+        },
+        "DivineWeapon6": {
+          "DisplayName": "Ashen Scales",
+          "Tooltip": "Alternates quick light fire (80% damage) and slower heavy fire (120%).\nBoth hitting one enemy within 2 seconds ignite a 55% damage burst.\nBurst cooldown: 1.5 seconds per owner and target."
+        },
+        "DivineWeapon7": {
+          "DisplayName": "Oathfurnace Guardian",
+          "Tooltip": "Summons a guard-then-slam guardian using 2 minion slots.\nAttack cycle: 2 seconds. Its guard is a windup, not player protection."
+        },
+        "DivineWeapon8": {
+          "DisplayName": "Fatecleaver",
+          "Tooltip": "Hits leave a stationary slash that repeats after 1/3 second for 60% damage.\nRepeated slashes cannot create more slashes."
+        },
+        "DivineWeapon9": {
+          "DisplayName": "Final Tick Bow",
+          "Tooltip": "Fast arrows leave a stationary echo that strikes after 1/3 second.\nEcho radius: 4.5 tiles; damage: 50%; no homing or recursive echoes.\nConsumes one arrow per shot."
+        },
+        "DivineWeapon10": {
+          "DisplayName": "Noonday Scripture",
+          "Tooltip": "Left-click releases up to six hovering clock blades.\nRight-click costs 30 base mana to converge uncommitted blades at the cursor.\nTarget must be within 45 tiles and visible; each blade penetrates three times.\nMaximum lifetime 2.5 seconds, never extended by converging."
+        },
+        "DivineWeapon11": {
+          "DisplayName": "Fatewheel Standardbearer",
+          "Tooltip": "Summons a standardbearer using 2 minion slots; attack cycle: 2.4 seconds.\nAlternates a thrust with three stationary-array lances dealing 45% damage.\nChanging targets restarts deployment."
+        },
+        "DivineArmor0": {
+          "DisplayName": "Primal Dew War Crown",
+          "Tooltip": "Increases melee damage by 6%.\nMelee attack speed +5%."
+        },
+        "DivineArmor1": {
+          "DisplayName": "Primal Dew Hunt Crown",
+          "Tooltip": "Increases ranged damage by 6%.\nRanged critical strike chance +4%."
+        },
+        "DivineArmor2": {
+          "DisplayName": "Primal Dew Mage Crown",
+          "Tooltip": "Increases magic damage by 6%.\nMaximum mana +20; mana cost reduced by 5%."
+        },
+        "DivineArmor3": {
+          "DisplayName": "Primal Dew Spirit Crown",
+          "Tooltip": "Increases summon damage by 6%.\nMaximum minions +1."
+        },
+        "DivineArmor4": {
+          "DisplayName": "Primal Dew Vestments",
+          "Tooltip": "Increases all damage by 2%."
+        },
+        "DivineArmor5": {
+          "DisplayName": "Primal Dew Leggings",
+          "Tooltip": "Increases movement speed by 6%."
+        },
+        "DivineArmor6": {
+          "DisplayName": "Ember Oath War Crown",
+          "Tooltip": "Increases melee damage by 8%.\nMelee attack speed +7.5%."
+        },
+        "DivineArmor7": {
+          "DisplayName": "Ember Oath Hunt Crown",
+          "Tooltip": "Increases ranged damage by 8%.\nRanged critical strike chance +6%."
+        },
+        "DivineArmor8": {
+          "DisplayName": "Ember Oath Mage Crown",
+          "Tooltip": "Increases magic damage by 8%.\nMaximum mana +60; mana cost reduced by 10%."
+        },
+        "DivineArmor9": {
+          "DisplayName": "Ember Oath Spirit Crown",
+          "Tooltip": "Increases summon damage by 8%.\nMaximum minions +2."
+        },
+        "DivineArmor10": {
+          "DisplayName": "Ember Oath Vestments",
+          "Tooltip": "Increases all damage by 4%."
+        },
+        "DivineArmor11": {
+          "DisplayName": "Ember Oath Leggings",
+          "Tooltip": "Increases movement speed by 9%."
+        },
+        "DivineArmor12": {
+          "DisplayName": "Defiant Fate War Crown",
+          "Tooltip": "Increases melee damage by 12%.\nMelee attack speed +10%."
+        },
+        "DivineArmor13": {
+          "DisplayName": "Defiant Fate Hunt Crown",
+          "Tooltip": "Increases ranged damage by 12%.\nRanged critical strike chance +8%."
+        },
+        "DivineArmor14": {
+          "DisplayName": "Defiant Fate Mage Crown",
+          "Tooltip": "Increases magic damage by 12%.\nMaximum mana +100; mana cost reduced by 15%."
+        },
+        "DivineArmor15": {
+          "DisplayName": "Defiant Fate Spirit Crown",
+          "Tooltip": "Increases summon damage by 12%.\nMaximum minions +3."
+        },
+        "DivineArmor16": {
+          "DisplayName": "Defiant Fate Vestments",
+          "Tooltip": "Increases all damage by 6%."
+        },
+        "DivineArmor17": {
+          "DisplayName": "Defiant Fate Leggings",
+          "Tooltip": "Increases movement speed by 12%."
+        },
+        "DivineExpert0": {
+          "DisplayName": "Uncrowned Sacred Heart",
+          "Tooltip": "Maximum life +20.\nEvery 20 seconds forms a non-stacking 30-damage shield.\nExcess damage applies normally; no extra invulnerability.\nUnequipping or death removes the shield, not its cooldown."
+        },
+        "DivineExpert1": {
+          "DisplayName": "Unquenchable Second Heart",
+          "Tooltip": "Maximum life +40.\nRecords 25% of enemy damage, up to 60 life.\nAfter 6 unharmed seconds, returns 1 life every 0.1 seconds.\nNew damage or unequipping cancels remaining recovery; cooldown 20 seconds.\nNo self-harm, trap, environmental or fatal-damage recovery. Does not revive."
+        },
+        "DivineExpert2": {
+          "DisplayName": "The End That Has Not Happened",
+          "Tooltip": "All damage +8%.\nEvery 35 seconds, reduces the next hit of at least 60 damage by 40%, capped at 120.\nNo extra invulnerability or complete negation.\nCooldown survives unequipping, death and saving."
+        }
+      },
+      "Buffs": {
+        "DivineMinionBuff0": {
+          "DisplayName": "Whitebud Attendant",
+          "Description": "A divine attendant accompanies you; cancel to dismiss."
+        },
+        "DivineMinionBuff1": {
+          "DisplayName": "Oathfurnace Guardian",
+          "Description": "A divine attendant accompanies you; cancel to dismiss."
+        },
+        "DivineMinionBuff2": {
+          "DisplayName": "Fatewheel Standardbearer",
+          "Description": "A divine attendant accompanies you; cancel to dismiss."
+        }
+      },
+      "Projectiles": {
+        "DivineMinion0": {
+          "DisplayName": "Whitebud Attendant"
+        },
+        "DivineMinion1": {
+          "DisplayName": "Oathfurnace Guardian"
+        },
+        "DivineMinion2": {
+          "DisplayName": "Fatewheel Standardbearer"
+        },
+        "DivineShot": {
+          "DisplayName": "Divine Strike"
+        },
+        "DivineSummonShot": {
+          "DisplayName": "Divine Lance"
+        }
+      },
+      "Keybinds": {
+        "DivineArmorSkill": {
+          "DisplayName": "Divine armor skill"
+        }
+      },
+      "DivineEquipment": {
+        "Set0": "Morning Dew: after 8 seconds without damage, your next valid attack adds a dew shot with 18 fixed base damage; resets on activation.",
+        "Set1": "Furnace Heart: valid hits charge 5 heat per 0.1 seconds, maximum 100; damage removes 25. At full heat press the armor skill key (default K) for +18% damage for 8 seconds, followed by 24 seconds of cooldown.",
+        "Set2": "Rewrite Fate: press the armor skill key (default K) to mark, then again within 4 seconds to return. 45-second cooldown; same world, within 100 tiles, destination not solid. No resource rollback or invulnerability.",
+        "HeatReady": "Furnace ready",
+        "ReturnReady": "Return available"
+      }
+    }
+  }
+}

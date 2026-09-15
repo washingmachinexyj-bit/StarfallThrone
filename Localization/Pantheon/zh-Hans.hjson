@@ -1,0 +1,774 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "PantheonMaterial0": {
+          "DisplayName": "太初凝髓",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore0": {
+          "DisplayName": "初生星核",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon0": {
+          "DisplayName": "未诞之滴",
+          "Tooltip": "使用未诞之滴，在地表召唤。\n当前世界须先击败星海主宰·天穹方舟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag0": {
+          "DisplayName": "宝藏袋（太初星神·艾利昂）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic0": {
+          "DisplayName": "太初星神·艾利昂圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy0": {
+          "DisplayName": "太初星神·艾利昂纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask0": {
+          "DisplayName": "太初星神·艾利昂面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem0": {
+          "DisplayName": "初露星灵的信物",
+          "Tooltip": "召唤初露星灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial1": {
+          "DisplayName": "洞天瞳晶",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore1": {
+          "DisplayName": "洞见圣印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon1": {
+          "DisplayName": "闭目的圣瞳",
+          "Tooltip": "使用闭目的圣瞳，在夜间的地表召唤。\n当前世界须先击败太初星神·艾利昂。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag1": {
+          "DisplayName": "宝藏袋（洞见星神·欧菲尔）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic1": {
+          "DisplayName": "洞见星神·欧菲尔圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy1": {
+          "DisplayName": "洞见星神·欧菲尔纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask1": {
+          "DisplayName": "洞见星神·欧菲尔面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem1": {
+          "DisplayName": "烛瞳幼灵的信物",
+          "Tooltip": "召唤烛瞳幼灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial2": {
+          "DisplayName": "吞界鳞骨",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore2": {
+          "DisplayName": "虚界锚核",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon2": {
+          "DisplayName": "无岸蛇蜕",
+          "Tooltip": "使用无岸蛇蜕，在地下或洞穴层召唤。\n当前世界须先击败洞见星神·欧菲尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag2": {
+          "DisplayName": "宝藏袋（吞界古神·乌洛斯）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic2": {
+          "DisplayName": "吞界古神·乌洛斯圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy2": {
+          "DisplayName": "吞界古神·乌洛斯纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask2": {
+          "DisplayName": "吞界古神·乌洛斯面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem2": {
+          "DisplayName": "虚渊幼蛇的信物",
+          "Tooltip": "召唤虚渊幼蛇跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial3": {
+          "DisplayName": "万念梦髓",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore3": {
+          "DisplayName": "清醒梦核",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon3": {
+          "DisplayName": "未醒的祷梦",
+          "Tooltip": "使用未醒的祷梦，在夜间召唤。\n当前世界须先击败吞界古神·乌洛斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag3": {
+          "DisplayName": "宝藏袋（绯梦神祇·维尔莫拉）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic3": {
+          "DisplayName": "绯梦神祇·维尔莫拉圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy3": {
+          "DisplayName": "绯梦神祇·维尔莫拉纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask3": {
+          "DisplayName": "绯梦神祇·维尔莫拉面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem3": {
+          "DisplayName": "绯梦面灵的信物",
+          "Tooltip": "召唤绯梦面灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial4": {
+          "DisplayName": "丰穰圣蜡",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore4": {
+          "DisplayName": "丰收蜜印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon4": {
+          "DisplayName": "无尽花穗",
+          "Tooltip": "使用无尽花穗，在丛林召唤。\n当前世界须先击败绯梦神祇·维尔莫拉。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag4": {
+          "DisplayName": "宝藏袋（丰穰星后·梅莉丝）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic4": {
+          "DisplayName": "丰穰星后·梅莉丝圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy4": {
+          "DisplayName": "丰穰星后·梅莉丝纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask4": {
+          "DisplayName": "丰穰星后·梅莉丝面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem4": {
+          "DisplayName": "蜜穗星蜂的信物",
+          "Tooltip": "召唤蜜穗星蜂跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial5": {
+          "DisplayName": "渡魂骨珀",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore5": {
+          "DisplayName": "归渡魂印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon5": {
+          "DisplayName": "无名渡灯",
+          "Tooltip": "使用无名渡灯，在夜间召唤。\n当前世界须先击败丰穰星后·梅莉丝。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag5": {
+          "DisplayName": "宝藏袋（渡魂冥神·奈洛斯）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic5": {
+          "DisplayName": "渡魂冥神·奈洛斯圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy5": {
+          "DisplayName": "渡魂冥神·奈洛斯纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask5": {
+          "DisplayName": "渡魂冥神·奈洛斯面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem5": {
+          "DisplayName": "渡灯幽灵的信物",
+          "Tooltip": "召唤渡灯幽灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial6": {
+          "DisplayName": "生死界膜",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore6": {
+          "DisplayName": "彼岸门枢",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon6": {
+          "DisplayName": "彼岸门契",
+          "Tooltip": "使用彼岸门契，在地狱召唤。\n当前世界须先击败渡魂冥神·奈洛斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag6": {
+          "DisplayName": "宝藏袋（两界门神·阿刻隆）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic6": {
+          "DisplayName": "两界门神·阿刻隆圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy6": {
+          "DisplayName": "两界门神·阿刻隆纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask6": {
+          "DisplayName": "两界门神·阿刻隆面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem6": {
+          "DisplayName": "双岸门灵的信物",
+          "Tooltip": "召唤双岸门灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial7": {
+          "DisplayName": "晶律神珀",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore7": {
+          "DisplayName": "无瑕晶枢",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon7": {
+          "DisplayName": "无瑕律晶",
+          "Tooltip": "使用无瑕律晶，在神圣地表召唤。\n当前世界须先击败两界门神·阿刻隆。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag7": {
+          "DisplayName": "宝藏袋（晶律女神·伊莉希娅）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic7": {
+          "DisplayName": "晶律女神·伊莉希娅圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy7": {
+          "DisplayName": "晶律女神·伊莉希娅纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask7": {
+          "DisplayName": "晶律女神·伊莉希娅面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem7": {
+          "DisplayName": "晶律幼冠的信物",
+          "Tooltip": "召唤晶律幼冠跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial8": {
+          "DisplayName": "蚀相双髓",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore8": {
+          "DisplayName": "昼夜合印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon8": {
+          "DisplayName": "未合的日月轮",
+          "Tooltip": "使用未合的日月轮，在夜间召唤。\n当前世界须先击败晶律女神·伊莉希娅。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag8": {
+          "DisplayName": "宝藏袋（日蚀双神·索利斯与诺克丝）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic8": {
+          "DisplayName": "日蚀双神·索利斯与诺克丝圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy8": {
+          "DisplayName": "日蚀双神·索利斯与诺克丝纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask8": {
+          "DisplayName": "日蚀双神·索利斯与诺克丝面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem8": {
+          "DisplayName": "日月伴星的信物",
+          "Tooltip": "召唤日月伴星跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial9": {
+          "DisplayName": "衡狱律金",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore9": {
+          "DisplayName": "四律判印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon9": {
+          "DisplayName": "空白神判书",
+          "Tooltip": "使用空白神判书，在地表召唤。\n当前世界须先击败日蚀双神·索利斯与诺克丝。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag9": {
+          "DisplayName": "宝藏袋（四臂律神·瓦尔瑟）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic9": {
+          "DisplayName": "四臂律神·瓦尔瑟圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy9": {
+          "DisplayName": "四臂律神·瓦尔瑟纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask9": {
+          "DisplayName": "四臂律神·瓦尔瑟面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem9": {
+          "DisplayName": "青铜小判官的信物",
+          "Tooltip": "召唤青铜小判官跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial10": {
+          "DisplayName": "铸世神铁",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore10": {
+          "DisplayName": "龙脊炉印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon10": {
+          "DisplayName": "未冷的龙铸心",
+          "Tooltip": "使用未冷的龙铸心，在地表、地下或洞穴层召唤。\n当前世界须先击败四臂律神·瓦尔瑟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag10": {
+          "DisplayName": "宝藏袋（铸世龙神·卡尔德兰）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic10": {
+          "DisplayName": "铸世龙神·卡尔德兰圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy10": {
+          "DisplayName": "铸世龙神·卡尔德兰纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask10": {
+          "DisplayName": "铸世龙神·卡尔德兰面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem10": {
+          "DisplayName": "小小炉龙的信物",
+          "Tooltip": "召唤小小炉龙跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial11": {
+          "DisplayName": "万生神芽",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore11": {
+          "DisplayName": "永春胎核",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon11": {
+          "DisplayName": "永春胎种",
+          "Tooltip": "使用永春胎种，在丛林召唤。\n当前世界须先击败铸世龙神·卡尔德兰。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag11": {
+          "DisplayName": "宝藏袋（万生母神·艾菲菈）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic11": {
+          "DisplayName": "万生母神·艾菲菈圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy11": {
+          "DisplayName": "万生母神·艾菲菈纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask11": {
+          "DisplayName": "万生母神·艾菲菈面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem11": {
+          "DisplayName": "花胎精灵的信物",
+          "Tooltip": "召唤花胎精灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial12": {
+          "DisplayName": "擎天玄核",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore12": {
+          "DisplayName": "群山承印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon12": {
+          "DisplayName": "失重的神山印",
+          "Tooltip": "使用失重的神山印，在地表召唤。\n当前世界须先击败万生母神·艾菲菈。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag12": {
+          "DisplayName": "宝藏袋（擎天古神·欧兰瑟）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic12": {
+          "DisplayName": "擎天古神·欧兰瑟圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy12": {
+          "DisplayName": "擎天古神·欧兰瑟纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask12": {
+          "DisplayName": "擎天古神·欧兰瑟面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem12": {
+          "DisplayName": "负山石灵的信物",
+          "Tooltip": "召唤负山石灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial13": {
+          "DisplayName": "风海神髓",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore13": {
+          "DisplayName": "风眼潮印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon13": {
+          "DisplayName": "无风海螺",
+          "Tooltip": "使用无风海螺，在海洋召唤。\n当前世界须先击败擎天古神·欧兰瑟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag13": {
+          "DisplayName": "宝藏袋（风海暴神·萨洛尔）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic13": {
+          "DisplayName": "风海暴神·萨洛尔圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy13": {
+          "DisplayName": "风海暴神·萨洛尔纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask13": {
+          "DisplayName": "风海暴神·萨洛尔面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem13": {
+          "DisplayName": "微风潮龙的信物",
+          "Tooltip": "召唤微风潮龙跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial14": {
+          "DisplayName": "七曜圣辉",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore14": {
+          "DisplayName": "七曜棱印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon14": {
+          "DisplayName": "缺色的圣棱镜",
+          "Tooltip": "使用缺色的圣棱镜，在地表或太空召唤。\n当前世界须先击败风海暴神·萨洛尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag14": {
+          "DisplayName": "宝藏袋（七曜星后·伊莉赛尔）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic14": {
+          "DisplayName": "七曜星后·伊莉赛尔圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy14": {
+          "DisplayName": "七曜星后·伊莉赛尔纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask14": {
+          "DisplayName": "七曜星后·伊莉赛尔面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem14": {
+          "DisplayName": "七彩翼灵的信物",
+          "Tooltip": "召唤七彩翼灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial15": {
+          "DisplayName": "无名神文",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore15": {
+          "DisplayName": "无名圣印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon15": {
+          "DisplayName": "无字封神录",
+          "Tooltip": "使用无字封神录，在夜间的地表召唤。\n当前世界须先击败七曜星后·伊莉赛尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag15": {
+          "DisplayName": "宝藏袋（无名司仪·阿格诺斯）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic15": {
+          "DisplayName": "无名司仪·阿格诺斯圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy15": {
+          "DisplayName": "无名司仪·阿格诺斯纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask15": {
+          "DisplayName": "无名司仪·阿格诺斯面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem15": {
+          "DisplayName": "无字书灵的信物",
+          "Tooltip": "召唤无字书灵跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonMaterial16": {
+          "DisplayName": "太初神权",
+          "Tooltip": "用于制作本位星神武器、本档护甲与星髓；部分用于下一位星神召唤物和工作站"
+        },
+        "PantheonCore16": {
+          "DisplayName": "创世冠印",
+          "Tooltip": "每次胜利固定获得2个（专家及以上位于宝藏袋中）\n用于后续召唤物、星髓和部分工作站，不依赖稀有掉落推进"
+        },
+        "PantheonSummon16": {
+          "DisplayName": "无人加冕之冠",
+          "Tooltip": "使用无人加冕之冠，在地表或太空召唤。\n当前世界须先击败无名司仪·阿格诺斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。"
+        },
+        "PantheonBag16": {
+          "DisplayName": "宝藏袋（众神之源·阿斯特里昂）",
+          "Tooltip": "右键打开\n含44—56份材料、2枚星核、1件随机武器及必得专家饰品"
+        },
+        "PantheonRelic16": {
+          "DisplayName": "众神之源·阿斯特里昂圣物",
+          "Tooltip": "大师模式战胜此星神的证明\n可放置；纯装饰，不提供战斗属性"
+        },
+        "PantheonTrophy16": {
+          "DisplayName": "众神之源·阿斯特里昂纪念章",
+          "Tooltip": "可放置在背景墙上\n不参与进度必需配方"
+        },
+        "PantheonMask16": {
+          "DisplayName": "众神之源·阿斯特里昂面具",
+          "Tooltip": "时装头饰；不提供防御或战斗属性"
+        },
+        "PantheonPetItem16": {
+          "DisplayName": "微光王座的信物",
+          "Tooltip": "召唤微光王座跟随你\n纯装饰宠物，不造成伤害"
+        },
+        "PantheonStation0": {
+          "DisplayName": "原初塑神台",
+          "Tooltip": "用于制作下一档星神装备与召唤物\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence0": {
+          "DisplayName": "初神星髓",
+          "Tooltip": "第1档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        },
+        "PantheonStation1": {
+          "DisplayName": "丰穰圣铸台",
+          "Tooltip": "用于制作下一档星神装备与召唤物\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence1": {
+          "DisplayName": "神域星髓",
+          "Tooltip": "第2档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        },
+        "PantheonStation2": {
+          "DisplayName": "晶律天工台",
+          "Tooltip": "用于制作下一档星神装备与召唤物\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence2": {
+          "DisplayName": "神律星髓",
+          "Tooltip": "第3档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        },
+        "PantheonStation3": {
+          "DisplayName": "铸世神炉",
+          "Tooltip": "用于制作下一档星神装备与召唤物\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence3": {
+          "DisplayName": "上神星髓",
+          "Tooltip": "第4档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        },
+        "PantheonStation4": {
+          "DisplayName": "风海登神坛",
+          "Tooltip": "用于制作下一档星神装备与召唤物\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence4": {
+          "DisplayName": "至高星髓",
+          "Tooltip": "第5档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        },
+        "PantheonStation5": {
+          "DisplayName": "无主万神座",
+          "Tooltip": "最终收藏与全档万神篇制作设施\n可放置；占地5×4\n兼容此前万神篇工作站，不代替原版或旧篇工作站\n配方不消耗旧工作站"
+        },
+        "PantheonEssence5": {
+          "DisplayName": "源初星髓",
+          "Tooltip": "第6档装备的通用合成组分\n同档任一星神材料6份制成3份，或星核1枚制成6份\n无需后续星神材料"
+        }
+      },
+      "Buffs": {
+        "PantheonPetBuff0": {
+          "DisplayName": "初露星灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff1": {
+          "DisplayName": "烛瞳幼灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff2": {
+          "DisplayName": "虚渊幼蛇",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff3": {
+          "DisplayName": "绯梦面灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff4": {
+          "DisplayName": "蜜穗星蜂",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff5": {
+          "DisplayName": "渡灯幽灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff6": {
+          "DisplayName": "双岸门灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff7": {
+          "DisplayName": "晶律幼冠",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff8": {
+          "DisplayName": "日月伴星",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff9": {
+          "DisplayName": "青铜小判官",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff10": {
+          "DisplayName": "小小炉龙",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff11": {
+          "DisplayName": "花胎精灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff12": {
+          "DisplayName": "负山石灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff13": {
+          "DisplayName": "微风潮龙",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff14": {
+          "DisplayName": "七彩翼灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff15": {
+          "DisplayName": "无字书灵",
+          "Description": "一缕星神残光陪伴着你"
+        },
+        "PantheonPetBuff16": {
+          "DisplayName": "微光王座",
+          "Description": "一缕星神残光陪伴着你"
+        }
+      },
+      "Projectiles": {
+        "PantheonPet0": {
+          "DisplayName": "初露星灵"
+        },
+        "PantheonPet1": {
+          "DisplayName": "烛瞳幼灵"
+        },
+        "PantheonPet2": {
+          "DisplayName": "虚渊幼蛇"
+        },
+        "PantheonPet3": {
+          "DisplayName": "绯梦面灵"
+        },
+        "PantheonPet4": {
+          "DisplayName": "蜜穗星蜂"
+        },
+        "PantheonPet5": {
+          "DisplayName": "渡灯幽灵"
+        },
+        "PantheonPet6": {
+          "DisplayName": "双岸门灵"
+        },
+        "PantheonPet7": {
+          "DisplayName": "晶律幼冠"
+        },
+        "PantheonPet8": {
+          "DisplayName": "日月伴星"
+        },
+        "PantheonPet9": {
+          "DisplayName": "青铜小判官"
+        },
+        "PantheonPet10": {
+          "DisplayName": "小小炉龙"
+        },
+        "PantheonPet11": {
+          "DisplayName": "花胎精灵"
+        },
+        "PantheonPet12": {
+          "DisplayName": "负山石灵"
+        },
+        "PantheonPet13": {
+          "DisplayName": "微风潮龙"
+        },
+        "PantheonPet14": {
+          "DisplayName": "七彩翼灵"
+        },
+        "PantheonPet15": {
+          "DisplayName": "无字书灵"
+        },
+        "PantheonPet16": {
+          "DisplayName": "微光王座"
+        }
+      },
+      "Pantheon": {
+        "CommandDescription": "查看诸神天阙的主线进度",
+        "CommandHeader": "诸神天阙：永久主线，无限时挑战期限",
+        "Defeated": "已击败",
+        "Available": "已解锁（仍需满足召唤地点）",
+        "Locked": "前置未完成",
+        "Requires": "当前世界需要先击败：{0}",
+        "LootCondition": "当前世界已解锁此星神",
+        "StationUnlocked": "星神权柄已解放，可制作新工作站：{0}",
+        "Despawn": "星神的身影消散于虚空。",
+        "Name0": "太初星神·艾利昂",
+        "Spawn0": "使用未诞之滴，在地表召唤。\n当前世界须先击败星海主宰·天穹方舟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name1": "洞见星神·欧菲尔",
+        "Spawn1": "使用闭目的圣瞳，在夜间的地表召唤。\n当前世界须先击败太初星神·艾利昂。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name2": "吞界古神·乌洛斯",
+        "Spawn2": "使用无岸蛇蜕，在地下或洞穴层召唤。\n当前世界须先击败洞见星神·欧菲尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name3": "绯梦神祇·维尔莫拉",
+        "Spawn3": "使用未醒的祷梦，在夜间召唤。\n当前世界须先击败吞界古神·乌洛斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name4": "丰穰星后·梅莉丝",
+        "Spawn4": "使用无尽花穗，在丛林召唤。\n当前世界须先击败绯梦神祇·维尔莫拉。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name5": "渡魂冥神·奈洛斯",
+        "Spawn5": "使用无名渡灯，在夜间召唤。\n当前世界须先击败丰穰星后·梅莉丝。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name6": "两界门神·阿刻隆",
+        "Spawn6": "使用彼岸门契，在地狱召唤。\n当前世界须先击败渡魂冥神·奈洛斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name7": "晶律女神·伊莉希娅",
+        "Spawn7": "使用无瑕律晶，在神圣地表召唤。\n当前世界须先击败两界门神·阿刻隆。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name8": "日蚀双神·索利斯与诺克丝",
+        "Spawn8": "使用未合的日月轮，在夜间召唤。\n当前世界须先击败晶律女神·伊莉希娅。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name9": "四臂律神·瓦尔瑟",
+        "Spawn9": "使用空白神判书，在地表召唤。\n当前世界须先击败日蚀双神·索利斯与诺克丝。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name10": "铸世龙神·卡尔德兰",
+        "Spawn10": "使用未冷的龙铸心，在地表、地下或洞穴层召唤。\n当前世界须先击败四臂律神·瓦尔瑟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name11": "万生母神·艾菲菈",
+        "Spawn11": "使用永春胎种，在丛林召唤。\n当前世界须先击败铸世龙神·卡尔德兰。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name12": "擎天古神·欧兰瑟",
+        "Spawn12": "使用失重的神山印，在地表召唤。\n当前世界须先击败万生母神·艾菲菈。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name13": "风海暴神·萨洛尔",
+        "Spawn13": "使用无风海螺，在海洋召唤。\n当前世界须先击败擎天古神·欧兰瑟。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name14": "七曜星后·伊莉赛尔",
+        "Spawn14": "使用缺色的圣棱镜，在地表或太空召唤。\n当前世界须先击败风海暴神·萨洛尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name15": "无名司仪·阿格诺斯",
+        "Spawn15": "使用无字封神录，在夜间的地表召唤。\n当前世界须先击败七曜星后·伊莉赛尔。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "Name16": "众神之源·阿斯特里昂",
+        "Spawn16": "使用无人加冕之冠，在地表或太空召唤。\n当前世界须先击败无名司仪·阿格诺斯。召唤物不消耗；入侵或其他首领存在时不能使用。\n昼夜及地形只在召唤开始时检查，不受三神挑战期限影响。",
+        "StationCondition0": "当前世界已击败洞见星神·欧菲尔",
+        "StationCondition1": "当前世界已击败丰穰星后·梅莉丝",
+        "StationCondition2": "当前世界已击败晶律女神·伊莉希娅",
+        "StationCondition3": "当前世界已击败铸世龙神·卡尔德兰",
+        "StationCondition4": "当前世界已击败风海暴神·萨洛尔",
+        "StationCondition5": "当前世界已击败众神之源·阿斯特里昂"
+      }
+    }
+  }
+}

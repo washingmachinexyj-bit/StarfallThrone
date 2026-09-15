@@ -1,0 +1,179 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "AscendantWeapon0": {
+          "DisplayName": "Eightfold Budcleaver",
+          "Tooltip": "Alternates three slashes; each successful swing earns one bud, up to 3\nEvery third successful swing launches two crossing branches at 40% damage each\nRight-click spends 3 buds to close two branches on the cursor, each at 85% damage\nAlternate range: 10 tiles with line of sight; branches cannot build combos"
+        },
+        "AscendantWeapon1": {
+          "DisplayName": "Dawnseed Bow",
+          "Tooltip": "Three hits on the same enemy within 3 seconds release two pursuing seeds at 65% damage each\nSeeds first scatter sideways, then seek nearby visible enemies; seeds cannot apply marks\nConsumes one arrow per shot and converts it into a dawnseed arrow"
+        },
+        "AscendantWeapon2": {
+          "DisplayName": "Codex of First Bloom",
+          "Tooltip": "Left-click places up to 3 dew flowers, each lasting 10 seconds\nRight-click detonates them in placement order at 1/6-second intervals, each making a 100% damage expanding ring\nEach ring hits each enemy once; placement range 45 tiles with line of sight\nAlternate fire costs 4 base mana; inactive flowers deal no damage"
+        },
+        "AscendantWeapon3": {
+          "DisplayName": "Eightlife Attendant Staff",
+          "Tooltip": "Summons an attendant that lunges, then scatters two seeds at 40% damage each\nEach attendant uses 1 minion slot; full attack cycle: 1.75 seconds\nCancel the buff to dismiss; obeys native minion targeting and cannot attack through walls"
+        },
+        "AscendantWeapon4": {
+          "DisplayName": "Four-Oath Verdict",
+          "Tooltip": "Successful swings build 20 furnace pressure, up to 100, once per swing\nRight-click spends 100 pressure to release mirror, candle, hive and bell waves in sequence\nEach deals 72% damage at 1/6-second intervals, reaching approximately 23 tiles\nHive waves sway and bell waves are wider; waves cannot build pressure"
+        },
+        "AscendantWeapon5": {
+          "DisplayName": "Fourfold Judgment",
+          "Tooltip": "Fires four-shot bursts, consuming and converting one bullet per shot\nThe first three shots mark targets; a fourth-shot hit detonates that target's hits from this burst\nEach mark deals 25% damage in a small explosion, up to 4 marks\nMarks last 1.5 seconds and cannot carry between bursts; explosions do not recurse"
+        },
+        "AscendantWeapon6": {
+          "DisplayName": "Codex of Burning Realms",
+          "Tooltip": "Left-click cycles mirror, candle, hive and bell marks lasting 4 seconds\nRight-click spends 28 base mana to consume marks on visible enemies within 45 tiles\nEach distinct mark adds 45% explosion damage; identical marks do not stack\nExplosions consume marks and cannot apply more"
+        },
+        "AscendantWeapon7": {
+          "DisplayName": "Four-Furnace Executioner Staff",
+          "Tooltip": "Summons an executioner cycling a mirror lunge, candle shot, twin hive shots and a heavy bell shot\nThe last three attacks deal 60%, two times 30%, and 80% damage respectively\nEach uses 2 minion slots; full cycle: approximately 2.67 seconds\nObeys native minion targeting; cancel buff to dismiss; grants no player shield"
+        },
+        "AscendantWeapon8": {
+          "DisplayName": "Fatecleaving Edge",
+          "Tooltip": "The first hit of each swing leaves a stationary 65% damage fate scar, up to 5, lasting 5 seconds\nRight-click replays scars in placement order, approximately 0.13 seconds apart\nScars cannot track targets, are harmless until triggered, and cannot generate more scars"
+        },
+        "AscendantWeapon9": {
+          "DisplayName": "The Fifth Final Hour",
+          "Tooltip": "Three consecutive hits on one enemy empower the next arrow with two crossing echoes at 60% damage each\nEchoes telegraph for 1/3 second at the impact position, without tracking or recursion\nConsumes one arrow per shot and converts it into a final-hour arrow"
+        },
+        "AscendantWeapon10": {
+          "DisplayName": "Book of the Unhappened",
+          "Tooltip": "Left-click places up to 5 harmless clock stars, each lasting 10 seconds\nRight-click spends 30 base mana to connect adjacent stars and consume them all\nLinks telegraph for 0.1 seconds, then deal 110% damage per hit, up to 3 hits\nAll links of this type share a 0.2-second hit interval per enemy; placement range 45 tiles with line of sight"
+        },
+        "AscendantWeapon11": {
+          "DisplayName": "Five-Wheel Fatekeeper",
+          "Tooltip": "Summons a fatekeeper alternating pursuit lunges and five-wheel formations\nAfter pursuit it fires two lances at 35% damage, then deploys five distinct wheel attacks\nEach uses 2 minion slots; full cycle: approximately 5.33 seconds\nObeys native target designation; cancel buff to dismiss; cannot attack through walls"
+        },
+        "AscendantArmor0": {
+          "DisplayName": "First-Oath War Crown",
+          "Tooltip": "Increases melee damage by 10%\nIncreases melee attack speed by 8%"
+        },
+        "AscendantArmor1": {
+          "DisplayName": "First-Oath Hunter Crown",
+          "Tooltip": "Increases ranged damage by 10%\nIncreases ranged critical strike chance by 6%"
+        },
+        "AscendantArmor2": {
+          "DisplayName": "First-Oath Mage Crown",
+          "Tooltip": "Increases magic damage by 10%\nIncreases maximum mana by 40 and reduces mana cost by 8%"
+        },
+        "AscendantArmor3": {
+          "DisplayName": "First-Oath Spirit Crown",
+          "Tooltip": "Increases summon damage by 10%\nIncreases maximum minions by 2"
+        },
+        "AscendantArmor4": {
+          "DisplayName": "First-Oath Vestments",
+          "Tooltip": "Increases all damage by 4%"
+        },
+        "AscendantArmor5": {
+          "DisplayName": "First-Oath Greaves",
+          "Tooltip": "Increases movement speed by 9%"
+        },
+        "AscendantArmor6": {
+          "DisplayName": "Four-Law War Crown",
+          "Tooltip": "Increases melee damage by 14%\nIncreases melee attack speed by 10%"
+        },
+        "AscendantArmor7": {
+          "DisplayName": "Four-Law Hunter Crown",
+          "Tooltip": "Increases ranged damage by 14%\nIncreases ranged critical strike chance by 8%"
+        },
+        "AscendantArmor8": {
+          "DisplayName": "Four-Law Mage Crown",
+          "Tooltip": "Increases magic damage by 14%\nIncreases maximum mana by 80 and reduces mana cost by 13%"
+        },
+        "AscendantArmor9": {
+          "DisplayName": "Four-Law Spirit Crown",
+          "Tooltip": "Increases summon damage by 14%\nIncreases maximum minions by 3"
+        },
+        "AscendantArmor10": {
+          "DisplayName": "Four-Law Vestments",
+          "Tooltip": "Increases all damage by 6%"
+        },
+        "AscendantArmor11": {
+          "DisplayName": "Four-Law Greaves",
+          "Tooltip": "Increases movement speed by 12%"
+        },
+        "AscendantArmor12": {
+          "DisplayName": "Final-Fate War Crown",
+          "Tooltip": "Increases melee damage by 18%\nIncreases melee attack speed by 12%"
+        },
+        "AscendantArmor13": {
+          "DisplayName": "Final-Fate Hunter Crown",
+          "Tooltip": "Increases ranged damage by 18%\nIncreases ranged critical strike chance by 10%"
+        },
+        "AscendantArmor14": {
+          "DisplayName": "Final-Fate Mage Crown",
+          "Tooltip": "Increases magic damage by 18%\nIncreases maximum mana by 120 and reduces mana cost by 18%"
+        },
+        "AscendantArmor15": {
+          "DisplayName": "Final-Fate Spirit Crown",
+          "Tooltip": "Increases summon damage by 18%\nIncreases maximum minions by 4"
+        },
+        "AscendantArmor16": {
+          "DisplayName": "Final-Fate Vestments",
+          "Tooltip": "Increases all damage by 8%"
+        },
+        "AscendantArmor17": {
+          "DisplayName": "Final-Fate Greaves",
+          "Tooltip": "Increases movement speed by 15%"
+        },
+        "AscendantExpert0": {
+          "DisplayName": "Sacred Heart of Eight Lives",
+          "Tooltip": "Increases maximum life by 35\nPrepares a 50-damage dew shield every 15 seconds; the shield may absorb several enemy hits\nWhen enemy attacks deplete it, gain 15% movement speed for 3 seconds\nGrants no extra immunity; does not block environment, self-inflicted or PvP damage\nIncompatible with the Uncrowned Sacred Heart; unequipping, death and world entry do not reset cooldown"
+        },
+        "AscendantExpert1": {
+          "DisplayName": "Undying Heart of Four Laws",
+          "Tooltip": "Increases maximum life by 60\nAfter a nonlethal enemy hit, records 40% of its damage, up to 90 life\nAfter 4 seconds without injury, refunds 1 life every approximately 0.067 seconds; 20-second trigger cooldown\nAnother injury, unequipping or death cancels remaining refund; environment, self-damage, traps and PvP cannot trigger it\nCannot revive; incompatible with the Unquenchable Second Heart; world entry does not reset cooldown"
+        },
+        "AscendantExpert2": {
+          "DisplayName": "The Rejected Ending",
+          "Tooltip": "Increases all damage by 12%\nPrepares a fate veil every 25 seconds\nReduces the next enemy hit expected to deal at least 60 damage by 60%, capped at 180 damage prevented\nNever grants complete immunity or revival; excludes environment, self-inflicted and PvP damage\nIncompatible with the Ending Yet to Happen; unequipping, death and world entry do not reset cooldown"
+        }
+      },
+      "Buffs": {
+        "AscendantMinionBuff0": {
+          "DisplayName": "Eightlife Attendant",
+          "Description": "Your ascendant attendant protects you; cancel this buff to dismiss"
+        },
+        "AscendantMinionBuff1": {
+          "DisplayName": "Four-Furnace Executioner",
+          "Description": "Your ascendant attendant protects you; cancel this buff to dismiss"
+        },
+        "AscendantMinionBuff2": {
+          "DisplayName": "Five-Wheel Fatekeeper",
+          "Description": "Your ascendant attendant protects you; cancel this buff to dismiss"
+        }
+      },
+      "Projectiles": {
+        "AscendantMinion0": {
+          "DisplayName": "Eightlife Attendant"
+        },
+        "AscendantMinion1": {
+          "DisplayName": "Four-Furnace Executioner"
+        },
+        "AscendantMinion2": {
+          "DisplayName": "Five-Wheel Fatekeeper"
+        },
+        "AscendantShot": {
+          "DisplayName": "Ascendant Armament"
+        },
+        "AscendantSummonShot": {
+          "DisplayName": "Ascendant Attendant's Strike"
+        }
+      },
+      "AscendantEquipment": {
+        "Set0": "Borrowed Dew: primary attacks earn at most 1 bud per second, up to 3\nPress the divine armor skill key (default K) to spend all buds, releasing a seeking blade with 32 base generic damage per bud\nGain 15% movement speed for 4 seconds; 12-second cooldown; blades cannot build buds\nUnequipping and death remove benefits without resetting cooldown",
+        "Set1": "Burning Law: primary hits build at most 5 heat per 0.1 seconds, up to 100; injuries remove 25 heat\nAt full heat, press the divine armor skill key (default K) for 10 seconds of 22% helmet-class damage and 12% movement speed\nThe first enemy hit during this window loses 25% damage, capped at 60\nRecovery: 25 seconds after the effect ends (35 seconds from activation); unequipping and death cannot reset it",
+        "Set2": "Rewrite This Moment: press the divine armor skill key (default K) to mark your position; press again within 6 seconds to return\nMaximum range 100 tiles; no solid destinations, life/mana/skill rollback, or extra immunity\nReturning grants 15% helmet-class damage for 6 seconds; cooldown 30 seconds from marking\nUnequipping, death and world changes cancel the mark without resetting cooldown",
+        "DewReady": "Three buds: skill ready",
+        "HeatReady": "Full heat: Burning Law ready",
+        "ReturnReady": "Press skill again to return"
+      }
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageWeapon0": {
+          "DisplayName": "Cargo-Handling Maul",
+          "Tooltip": "Three mechanical-arm strikes; the third is an overhead smash\nNear a floor, the smash releases two short ground waves at 42% damage each\nDoes not mine or destroy tiles"
+        },
+        "VoyageWeapon1": {
+          "DisplayName": "Cargo Catapult",
+          "Tooltip": "Converts a rocket into a falling cargo pod that releases two rolling gel mines\nEach mine deals 28% damage, expires quickly and cannot split further\nConsumes one rocket; never inherits terrain-destroying effects"
+        },
+        "VoyageWeapon2": {
+          "DisplayName": "Parallax Telescope",
+          "Tooltip": "Hold to focus and aim; release a concentrated ray\nMaximum focus after 1.5 seconds: 550–1400 pixels and 50%–220% damage\nStops at terrain and hits each target once; switching weapons cancels the charge"
+        },
+        "VoyageWeapon3": {
+          "DisplayName": "Skywatch Observer",
+          "Tooltip": "Summons a skywatch eye using 1 minion slot\nScans its target, then fires three short pulses at 60% damage each\nSupports manual targeting; dismiss its buff to recall it"
+        },
+        "VoyageWeapon4": {
+          "DisplayName": "Asteroid-Belt Saw",
+          "Tooltip": "Throws a ring saw that briefly circles at its far point before returning\nOnly one saw at a time; each target can be hit at most once per 0.4 seconds\nCannot damage enemies through walls while returning"
+        },
+        "VoyageWeapon5": {
+          "DisplayName": "Shattered-Star Hourglass",
+          "Tooltip": "Creates three meteors near the cursor at 48% damage each\nThey orbit briefly, then fall toward their center in sequence\nCasting positions and released projectiles respect terrain"
+        },
+        "VoyageWeapon6": {
+          "DisplayName": "Consensus Pulse Rifle",
+          "Tooltip": "A hit establishes a short neural link followed by two pulses against that same target\nFollow-up pulses deal 24% damage each and cannot change targets or spawn more pulses\nConsumes one bullet per shot"
+        },
+        "VoyageWeapon7": {
+          "DisplayName": "Neural-Bundle Whip",
+          "Tooltip": "A beaded neural whip that tags enemies for 4 seconds\nYour summons deal 6% additional damage to tagged targets and prioritize them\nOnly the stronger of this tag and Worldroot Whip's tag applies"
+        },
+        "VoyageWeapon8": {
+          "DisplayName": "Royal Fleet Lance",
+          "Tooltip": "Tap for a quick thrust or hold to extend a multi-section fleet lance\nMaximum charge in 1.5 seconds: 190–420 pixels and 85%–175% damage\nHas a fixed recovery and never propels the player through terrain"
+        },
+        "VoyageWeapon9": {
+          "DisplayName": "Hive-Delivery Crossbow",
+          "Tooltip": "Converts an arrow into a hive bolt that releases two short-lived bee shots on impact\nEach bee deals 25% damage and hits once without producing offspring\nConsumes one arrow per shot"
+        },
+        "VoyageWeapon10": {
+          "DisplayName": "Gravitational Anchor Tome",
+          "Tooltip": "Throws an energy anchor that stops at terrain or maximum range, then retracts its chain\nThe anchor and retracting chain can strike, with per-target hit intervals\nGently pulls small knockback-sensitive enemies, never bosses"
+        },
+        "VoyageWeapon11": {
+          "DisplayName": "Anchor-Keeper's Covenant",
+          "Tooltip": "Deploys an anchor-claw sentry for 2 minutes using one sentry slot\nAlternates left and right anchors at 80% damage each\nRetracting chains can hit, but cannot damage through terrain"
+        },
+        "VoyageWeapon12": {
+          "DisplayName": "Bulkhead Severance Blades",
+          "Tooltip": "Two bulkhead blades close from either side about 12 tiles ahead\nHits near their convergence point gain 40% damage\nA brief closing windup makes medium range stronger than point-blank attacks"
+        },
+        "VoyageWeapon13": {
+          "DisplayName": "Warp-Gate Matrix",
+          "Tooltip": "Opens a pair of small gates within line of sight\nThree energy bolts emerge in sequence at 48% damage each\nEntrance bolts are visual only, preventing double damage from one bolt"
+        },
+        "VoyageWeapon14": {
+          "DisplayName": "Radiant Orbital Bow",
+          "Tooltip": "Arrows trace a short arc in front of you before converging along your aim\nRewards sustained shooting from a distance; neither orbit nor arrow passes through walls\nConsumes one arrow per shot"
+        },
+        "VoyageWeapon15": {
+          "DisplayName": "Crystal-Ring Shepherd",
+          "Tooltip": "Summons a floating crystal using 1 minion slot\nIts ring leaves the core, strikes a target and returns to recharge\nSupports manual targeting; dismiss its buff to recall it"
+        },
+        "VoyageWeapon16": {
+          "DisplayName": "Red-Blue Convergence Blades",
+          "Tooltip": "Cycles through a close red slash, a ranged blue return blade and an empowered convergence slash\nThe third strike releases a short light blade at 70% damage\nWait for the returning blade before starting the next attack"
+        },
+        "VoyageWeapon17": {
+          "DisplayName": "Binary Alternating Cannon",
+          "Tooltip": "Alternates a slow red heavy round with a fast three-pulse blue burst\nRed deals 145% damage; each blue pulse deals 44%\nConsumes one bullet per firing cycle and does not duplicate its special projectile effects"
+        },
+        "VoyageWeapon18": {
+          "DisplayName": "Tribunal Armament Terminal",
+          "Tooltip": "Cycles through a cutting light blade, a directed cannon and a short magnetic burst\nThey deal 115%, 120% and 110% damage respectively\nInventory indicators show the next armament; magnetic burst radius is about 9 tiles"
+        },
+        "VoyageWeapon19": {
+          "DisplayName": "Four-Armed Execution Casket",
+          "Tooltip": "Summons a mechanical executor using 2 minion slots\nCharges with saw arms nearby or alternates ranged cannon pulses at 80% damage each\nNever fires all four arms at once; dismiss its buff to recall it"
+        },
+        "VoyageWeapon20": {
+          "DisplayName": "Sunpiercer Chain Lance",
+          "Tooltip": "Extends a segmented lance up to about 27 tiles, sending ship sections along its chain\nEach hit deals 44% damage with at least 10 ticks between hits on the same target\nOnly one chain at a time; cannot strike through walls"
+        },
+        "VoyageWeapon21": {
+          "DisplayName": "Fleet Dispatch Scroll",
+          "Tooltip": "Marks a short route for three miniature ships that pass and fire to the side\nEach fires one shipborne round at 50% damage with bounded range and lifetime\nNever creates screen-wide bombardment or an unlimited fleet"
+        },
+        "VoyageWeapon22": {
+          "DisplayName": "Worldseed Sower",
+          "Tooltip": "Converts an arrow into an embryo shot that sprouts a short-lived bud on impact\nThe bud later fires three seeds toward nearby enemies at 27% damage each\nConsumes one arrow; seeds cannot sprout additional buds"
+        },
+        "VoyageWeapon23": {
+          "DisplayName": "Worldroot Whip",
+          "Tooltip": "A slower, wider root whip that tags enemies for 6 seconds\nYour summons deal 10% additional damage to tagged targets and prioritize them\nDoes not stack with Neural-Bundle Whip's matching damage tag"
+        },
+        "VoyageWeapon24": {
+          "DisplayName": "Precursor Shaping Hammer",
+          "Tooltip": "Alternates an ordinary swing with a heavy block smash\nOn nearby ground, the smash raises three short pillars in sequence at 35% damage each\nNever creates floating ground pillars or destroys structures"
+        },
+        "VoyageWeapon25": {
+          "DisplayName": "Megastructure Pulse Cannon",
+          "Tooltip": "Fires a slow geometric core that unfolds four short cardinal rays on impact\nEach ray deals 27% damage and stops at terrain\nConsumes one rocket without destroying tiles"
+        },
+        "VoyageWeapon26": {
+          "DisplayName": "Aether Tidal Scroll",
+          "Tooltip": "Releases a curved tidal band that travels out and curls back once\nEach leg deals 80% damage and hits each target at most once\nOnly one tidal band may exist at a time"
+        },
+        "VoyageWeapon27": {
+          "DisplayName": "Leviathan Hatchling Horn",
+          "Tooltip": "Summons a young cruiser beast using 2 minion slots\nFlanks its target and charges, leaving brief wakes at 20% damage\nSupports manual targeting; dismiss its buff to recall it"
+        },
+        "VoyageWeapon28": {
+          "DisplayName": "Solar-Sail Starcutter",
+          "Tooltip": "Unfurls a fan-shaped sail while swinging; the third strike gathers it into a straight light blade\nThe straight blade deals 70% damage, has limited reach and stops at terrain\nFan slashes and straight shots reward different positioning"
+        },
+        "VoyageWeapon29": {
+          "DisplayName": "Prismatic Navigation Mirror",
+          "Tooltip": "Automatically places two temporary mirrors along your aim\nPreviews the full route, then fires a beam with two reflections\nEach target is hit once per cast; terrain interrupts all downstream segments"
+        },
+        "VoyageWeapon30": {
+          "DisplayName": "Navigation-Beacon Crossbow",
+          "Tooltip": "The first of every three arrows marks its target with a 3-second beacon\nThe next two receive limited steering toward that target, without wall penetration or permanent homing\nConsumes one arrow per shot"
+        },
+        "VoyageWeapon31": {
+          "DisplayName": "Navigator Gate Array",
+          "Tooltip": "Deploys a two-gate sentry for 2 minutes; the pair uses one sentry slot\nStar bolts enter one gate and emerge from the other at 62% damage each\nTerrain limits the exit position; supports manual targeting"
+        },
+        "VoyageWeapon32": {
+          "DisplayName": "Ark Heaven-Cleaver",
+          "Tooltip": "Cycles through a prow sweep, a wing uppercut and an armored convergence slash\nThe third strike adds a short prow shock at 70% damage\nPositioning still matters; attacks do not have unlimited range"
+        },
+        "VoyageWeapon33": {
+          "DisplayName": "Celestial Main Cannon",
+          "Tooltip": "Hold to charge and release a heavy main-cannon ray\nMaximum charge in 1.5 seconds deals 60%–240% damage; each target is hit once\nConsumes one bullet, cools for 0.7 seconds after firing, and stops at terrain"
+        },
+        "VoyageWeapon34": {
+          "DisplayName": "Artificial Stellar Instrument",
+          "Tooltip": "Hold to sustain one star, costing 12 base mana every 0.5 seconds after the initial cast\nIt releases a coronal arc at 32% damage every 0.75 seconds\nRelease to launch it; damage rises with charge to 230% after 3 seconds\nReleases when mana runs out; switching weapons or dying ends the channel"
+        },
+        "VoyageWeapon35": {
+          "DisplayName": "Civilization's Ember Staff",
+          "Tooltip": "Summons a miniature ark using 3 minion slots\nCycles through three escort launches, a main-cannon shot and recovery\nEscorts deal 46% damage each; the cannon deals 120%; escorts use no extra slots and expire\nSupports manual targeting; dismiss its buff to recall it"
+        }
+      },
+      "Projectiles": {
+        "VoyageShot": {
+          "DisplayName": "Voyage Armament"
+        },
+        "VoyageSummonShot": {
+          "DisplayName": "Voyage Summon Shot"
+        },
+        "VoyageChannel": {
+          "DisplayName": "Voyage Channeled Armament"
+        },
+        "VoyageNeuralWhip": {
+          "DisplayName": "Neural-Bundle Whip"
+        },
+        "VoyageRootWhip": {
+          "DisplayName": "Worldroot Whip"
+        },
+        "VoyageObserver": {
+          "DisplayName": "Skywatch Eye"
+        },
+        "VoyageAnchorSentry": {
+          "DisplayName": "Anchor Sentry"
+        },
+        "VoyageCrystalMinion": {
+          "DisplayName": "Floating Crystal"
+        },
+        "VoyageExecutor": {
+          "DisplayName": "Four-Armed Executor"
+        },
+        "VoyageLeviathan": {
+          "DisplayName": "Leviathan Hatchling"
+        },
+        "VoyagePortalSentry": {
+          "DisplayName": "Navigator Gate Pair"
+        },
+        "VoyageArkMinion": {
+          "DisplayName": "Miniature Ark"
+        }
+      },
+      "Buffs": {
+        "VoyageNeuralTag": {
+          "DisplayName": "Neural Tag",
+          "Description": "Tagged by a neural whip"
+        },
+        "VoyageRootTag": {
+          "DisplayName": "Worldroot Tag",
+          "Description": "Tagged by a worldroot whip"
+        },
+        "VoyageObserverBuff": {
+          "DisplayName": "Skywatch Eye",
+          "Description": "A skywatch eye fights for you"
+        },
+        "VoyageCrystalBuff": {
+          "DisplayName": "Floating Crystal",
+          "Description": "A floating crystal fights for you"
+        },
+        "VoyageExecutorBuff": {
+          "DisplayName": "Four-Armed Executor",
+          "Description": "A mechanical executor fights for you"
+        },
+        "VoyageLeviathanBuff": {
+          "DisplayName": "Leviathan Hatchling",
+          "Description": "A young cruiser beast fights for you"
+        },
+        "VoyageArkBuff": {
+          "DisplayName": "Civilization Ark",
+          "Description": "A miniature ark fights for you"
+        }
+      },
+      "VoyageWeapons": {
+        "NextArm": "Next armament: {0}",
+        "Arm0": "Cutting blade",
+        "Arm1": "Directed cannon",
+        "Arm2": "Magnetic burst"
+      }
+    }
+  }
+}

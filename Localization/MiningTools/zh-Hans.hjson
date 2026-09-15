@@ -1,0 +1,253 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "MiningTool0": {
+          "DisplayName": "露壳手镐",
+          "Tooltip": "35%镐力，挖掘距离增加0格\n手持时提供微弱照明\n可挖掘苔纹矿"
+        },
+        "MiningTool1": {
+          "DisplayName": "铜脉凿镐",
+          "Tooltip": "40%镐力，挖掘距离增加0格\n挖掘铜髓矿时每次追加一次合法镐击"
+        },
+        "MiningTool2": {
+          "DisplayName": "霜角探矿镐",
+          "Tooltip": "45%镐力，挖掘距离增加0格\n手持时照亮附近矿壁"
+        },
+        "MiningTool3": {
+          "DisplayName": "初辉勘探镐",
+          "Tooltip": "50%镐力，挖掘距离增加1格\n手持时照明，并使10格内已暴露的早期模组矿物闪烁"
+        },
+        "MiningTool4": {
+          "DisplayName": "帝凝破岩镐",
+          "Tooltip": "240%镐力，挖掘距离增加4格\n可挖掘帝凝晶矿"
+        },
+        "MiningTool5": {
+          "DisplayName": "永劫熔穿钻",
+          "Tooltip": "270%镐力，挖掘距离增加4格\n手持时照明，可挖掘劫火矿"
+        },
+        "MiningTool6": {
+          "DisplayName": "吞星磁轨镐",
+          "Tooltip": "300%镐力，挖掘距离增加5格\n吸引自己刚挖出的矿物与方块，不吸引战利品"
+        },
+        "MiningTool7": {
+          "DisplayName": "寂月开拓镐",
+          "Tooltip": "330%镐力，挖掘距离增加5格\n右键切换：单格／横向三格／纵向三格\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningTool9": {
+          "DisplayName": "璨星分光镐",
+          "Tooltip": "390%镐力，挖掘距离增加6格\n右键切换：单格／横向三格／纵向三格\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningTool10": {
+          "DisplayName": "恒生根钻",
+          "Tooltip": "440%镐力，挖掘距离增加6格\n右键切换：单格／同种矿脉\n同种矿物最多追加6次镐击，不越过镐力门槛\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningTool11": {
+          "DisplayName": "群星坐标切割器",
+          "Tooltip": "490%镐力，挖掘距离增加8格\n右键切换：单格／3×3切割\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningTool12": {
+          "DisplayName": "方舟创星钻",
+          "Tooltip": "560%镐力，挖掘距离增加10格\n右键切换：单格／5×3开掘\n吸引自己刚挖出的矿物与方块\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningTool13": {
+          "DisplayName": "方舟创星钻·工程改装",
+          "Tooltip": "600%镐力，挖掘距离增加10格\n右键切换：单格／5×3／3×5／3×3\n吸引自己刚挖出的矿物与方块\n范围模式默认关闭，逐块检查镐力；不拆家具、箱子与背景墙\n范围模式受施工标记与世界保护区域限制"
+        },
+        "MiningAccessory0": {
+          "DisplayName": "苔绒采集环",
+          "Tooltip": "挖掘耗时减少5%，放置距离增加1格\n与晨辉采集徽记、创生采集核心取最高效果，不叠加"
+        },
+        "MiningAccessory1": {
+          "DisplayName": "晨辉采集徽记",
+          "Tooltip": "挖掘耗时减少8%，放置距离增加1格\n提供微弱照明\n与其前身和创生采集核心取最高效果，不叠加"
+        },
+        "MiningAccessory2": {
+          "DisplayName": "磁轨采集器",
+          "Tooltip": "吸引自己15秒内刚挖出的矿物与方块，拾取范围至少240像素\n不吸引宝藏袋、钱币、武器或他人丢出的物品\n与工具的同类效果不叠加"
+        },
+        "MiningAccessory3": {
+          "DisplayName": "矿物光谱镜",
+          "Tooltip": "使20格内已暴露的选定矿物更容易辨认\n点击采矿面板切换矿物；只显示本世界已解锁的模组矿物\n不透视埋藏矿脉，不增加掉矿数量"
+        },
+        "MiningAccessory4": {
+          "DisplayName": "创生采集核心",
+          "Tooltip": "挖掘耗时减少15%，放置距离增加3格\n提供微弱照明，吸引自己刚挖出的矿物与方块\n与其前身取最高效果，不增加镐力"
+        },
+        "MiningSurvey0": {
+          "DisplayName": "铜髓矿脉探针",
+          "Tooltip": "手持时探测45格内最近的已解锁早期模组矿脉\n显示大致方向和远近，右键切换矿物\n不揭开地图，不探测箱子"
+        },
+        "MiningSurvey1": {
+          "DisplayName": "寂月矿脉勘探仪",
+          "Tooltip": "手持时探测100格内最近的已解锁模组矿脉\n右键切换矿物，显示方向和远近等级\n不揭开地图，不自动采矿"
+        },
+        "MiningSurvey2": {
+          "DisplayName": "星图矿脉导航仪",
+          "Tooltip": "手持时探测160格内最近的三个候选矿脉\n右键切换矿物，左键记录最近矿点\n显示方向和大致距离，不传送、不自动挖矿"
+        },
+        "MiningSurvey3": {
+          "DisplayName": "施工范围标记器",
+          "Tooltip": "左键先后标记矩形两角，右键清除\n最大200×200格；每个标记点需在玩家75格内\n范围采矿不会越过边界，单格原版采矿不受限制\n只显示预览，不自动拆除方块"
+        },
+        "MiningUtilityItem0": {
+          "DisplayName": "苔光路标",
+          "Tooltip": "绿色矿道光源\n放置后右键循环切换四个箭头方向"
+        },
+        "MiningUtilityItem1": {
+          "DisplayName": "露水灯",
+          "Tooltip": "由苔纹纤维束制作的柔和青色永久光源"
+        },
+        "MiningUtilityItem2": {
+          "DisplayName": "蜗壳灯",
+          "Tooltip": "蜗壳托着暖色灯火；无需燃料"
+        },
+        "MiningUtilityItem3": {
+          "DisplayName": "苔纹花盆",
+          "Tooltip": "装饰性林地花盆；不扩散、不改变生物群落"
+        },
+        "MiningUtilityItem4": {
+          "DisplayName": "霜纹探矿灯",
+          "Tooltip": "永久冷光照明\n使18格内已暴露的已解锁模组矿块更容易辨认"
+        },
+        "MiningUtilityItem5": {
+          "DisplayName": "晨辉灯塔",
+          "Tooltip": "由晨辉聚光片制作的强暖色永久光源"
+        },
+        "MiningUtilityItem6": {
+          "DisplayName": "劫火照明熔炉",
+          "Tooltip": "劫火动力驱动的永久红色照明\n装饰与照明设施，不提供战斗增益或冶炼配方"
+        },
+        "MiningUtilityItem7": {
+          "DisplayName": "苔纹培晶架",
+          "Tooltip": "放在培晶槽附近7格内，将待处理矿种容量提高至2份\n不增加单份产量；同类附件不叠加"
+        },
+        "MiningUtilityItem8": {
+          "DisplayName": "培晶生长舱",
+          "Tooltip": "放在培晶槽附近7格内，培养速度提高25%，容量为2份\n不增加产量，不减少矿种成本；同类附件不叠加"
+        },
+        "MiningUtilityItem9": {
+          "DisplayName": "环带重工培晶架",
+          "Tooltip": "重工版本的双份矿种架\n附近7格内培晶槽可同时排队2份矿种，不额外增产"
+        },
+        "MiningUtilityItem10": {
+          "DisplayName": "创生培晶附件",
+          "Tooltip": "继承双份容量和25%培养加速\n附近7格内生效，不叠加，不增加每份矿种产量\n创生中枢另可批量制作灰砖和玻璃"
+        },
+        "MiningUtilityItem11": {
+          "DisplayName": "璨相调光灯",
+          "Tooltip": "右键切换白、蓝、紫、绿、金五种永久光照"
+        },
+        "MiningUtilityItem12": {
+          "DisplayName": "矿脉培晶槽",
+          "Tooltip": "手持矿种右键装入一份；空手右键查看状态\n30秒长出6块矿晶，每块产出4原矿\n上方必须留出3×2格无方块、无液体空间\n矿晶需要对应镐力，不能炸毁或方块替换\n拆除返还尚未完成的矿种，不返还已产出的矿种"
+        },
+        "MiningUtilityItem13": {
+          "DisplayName": "帝凝缓冲平台",
+          "Tooltip": "落在平台上时免除该次坠落伤害\n只影响实际落点，不弹飞玩家、不提供范围光环"
+        },
+        "MiningUtilityItem14": {
+          "DisplayName": "工程支架",
+          "Tooltip": "低成本批量制作的施工平台\n支持站立、落下与快速搭设矿道"
+        },
+        "MiningSeed0": {
+          "DisplayName": "苔纹矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要35%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed1": {
+          "DisplayName": "铜髓矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要40%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed2": {
+          "DisplayName": "霜纹矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要45%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed3": {
+          "DisplayName": "晨辉矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要50%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed4": {
+          "DisplayName": "帝凝矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要230%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed5": {
+          "DisplayName": "劫火矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要260%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed6": {
+          "DisplayName": "吞星磁矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要290%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed7": {
+          "DisplayName": "寂月矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要320%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed8": {
+          "DisplayName": "环骸矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要340%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed9": {
+          "DisplayName": "璨相矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要380%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed10": {
+          "DisplayName": "恒生矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要430%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed11": {
+          "DisplayName": "坐标矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要480%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        },
+        "MiningSeed12": {
+          "DisplayName": "创星矿种",
+          "Tooltip": "手持此物右键矿脉培晶槽装入\n仅在本世界击败对应Boss后可使用\n一份矿种长出24原矿，矿晶需要550%镐力\n配方不消耗本级矿，不能用炸弹或方块替换跳过镐力"
+        }
+      },
+      "Projectiles": {
+        "MiningDrillProjectile": {
+          "DisplayName": "采掘钻头"
+        }
+      },
+      "MiningToolsUI": {
+        "CurrentMode": "当前模式：{0}",
+        "ModeSingle": "单格",
+        "ModeVein": "同种矿脉（额外6格）",
+        "ModeSquare": "3×3切割",
+        "ModeWide": "5×3开掘",
+        "ModeTall": "3×5开掘",
+        "ModeHorizontal": "横向三格",
+        "ModeVertical": "纵向三格",
+        "SurveySelected": "目标矿物：{0}",
+        "MarkerFirst": "已记录第一角，左键另一角完成范围。",
+        "MarkerTooLarge": "标记范围不能超过200×200格。",
+        "MarkerReady": "已启用{0}×{1}格施工边界；右键标记器清除。",
+        "WaypointSaved": "已记住最近的矿点。",
+        "SeedUnlocked": "已在当前世界击败对应矿物的解锁Boss",
+        "VatStatus": "培晶槽：{0}/{1}份矿种，当前进度{2}%。手持矿种右键装入，上方预留3×2格。",
+        "VatLocked": "当前世界尚未击败此矿种对应的Boss。",
+        "VatFull": "矿种队列已满。放置培晶架可容纳两份。",
+        "VatLoaded": "已装入{0}矿种。成熟矿晶需要{1}%镐力，每份产出24原矿。",
+        "MarkerTitle": "施工边界预览",
+        "MarkerHUDActive": "边界已启用；范围采矿不会越界。右键清除。",
+        "MarkerHUDHint": "左键依次标记两角；右键清除。",
+        "SurveyHUDHint": "手持持续探测 · 右键切换矿物 · 导航仪左键记录",
+        "SurveyNone": "范围内未发现目标矿物，或该矿物尚未解锁。",
+        "Near": "近处",
+        "Medium": "中距离",
+        "Far": "较远",
+        "Distance": "约{0}格",
+        "WaypointHUD": "记录矿点：{0}，约{1}格",
+        "SpectrumCycle": "切换突出显示的矿物",
+        "Here": "脚下",
+        "East": "右方",
+        "SouthEast": "右下",
+        "South": "下方",
+        "SouthWest": "左下",
+        "West": "左方",
+        "NorthWest": "左上",
+        "North": "上方",
+        "NorthEast": "右上"
+      }
+    }
+  }
+}

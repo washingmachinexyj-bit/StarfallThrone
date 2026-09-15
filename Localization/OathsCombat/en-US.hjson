@@ -1,0 +1,35 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      SupremeBoss0: { DisplayName: "Miroen, Genesis of All" }
+      SupremeBoss1: { DisplayName: "Velsa, the Final Conflagration" }
+      SupremeBoss2: { DisplayName: "NoDay, Beyond the Last Fate" }
+      SupremeNode: { DisplayName: "Supreme Oath Sigil" }
+    }
+    Projectiles: { SupremeHazard: { DisplayName: "Supreme Divine Judgment" } }
+    OathsCombat: {
+      Bestiary0: "The first droplet becomes the source of all life. Follow the white-edged gaps in water rings. Three destructible buds silence their own attacks and reduce the shield; only half of their accepted damage reaches the deity. Roots never alter real terrain. The final rain is followed by a generous recovery."
+      Bestiary1: "A tiny ember has become a six-winged final sun. One clearly announced law governs each assault: staggered sweeps, delayed ignition, diagonal lanes, or a moving passage. Breaking the lit wing interrupts that entire assault. Late fire walls travel in succession, never close simultaneously from opposing sides."
+      Bestiary2: "The little paper mask remains within the god beyond all endings. Day and night lines strike at different times. Old movement paths and new impact marks are committed before firing. Three final trials test ring gaps, remembered paths and a closing halo. No scripted instant death or screen blackout."
+      Recovery: "Divine power recedes — recovery window"
+      Phase0_0: "First Dew, First World"
+      Phase0_1: "All Life in Bloom — break the source buds"
+      Phase0_2: "Genesis Flood"
+      Phase0_3: "The First Rain"
+      Phase1_0: "The Ember Rekindled"
+      Phase1_1: "Four Laws of Conflagration"
+      Phase1_2: "The Final Coronation — break the lit wing"
+      Phase1_3: "The Burning of All Books"
+      Phase2_0: "Twilight Returns"
+      Phase2_1: "Diverging Fates — leave your old path"
+      Phase2_2: "Three Oaths as One"
+      Phase2_3: "The Unwritten Tomorrow"
+      Law0: "ASH: wait between the staggered sweeps"
+      Law1: "BLAZE: leave the marked ignition sites"
+      Law2: "FRACTURE: weave between diagonal lanes"
+      Law3: "EMBER: preserve movement for the white-edged passage"
+      Node0: "Source Bud — breaks at 0.8% of boss maximum life"
+      Node1: "Lit Wing — breaking interrupts the assault"
+    }
+  }
+}

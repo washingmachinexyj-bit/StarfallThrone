@@ -1,0 +1,594 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "EcologyAnchor": {
+          "DisplayName": "Region Anchor",
+          "Tooltip": "Right-click to preview and confirm a rectangular biome region\nDoes not convert terrain automatically; never spreads naturally\nUnbinding or breaking the anchor leaves blocks but disables its ecology"
+        },
+        "EcologyBoundaryScanner": {
+          "DisplayName": "Boundary Scanner",
+          "Tooltip": "Right-click a region anchor, then select two corners with this scanner\nConfirm in the anchor panel; shows boundaries and ecological block counts"
+        },
+        "EcologySprayCan": {
+          "DisplayName": "Ecological Sprayer",
+          "Tooltip": "Consumes ecological solution at short range\nAccepts only this mod's solutions; works inside your bound regions"
+        },
+        "EcologyRestorePowder": {
+          "DisplayName": "Restoration Powder",
+          "Tooltip": "Restores your region's ecological blocks to matching vanilla stone/dirt/grass/sand/ice\nDoes not affect ores or other mods' blocks; consumed only on successful conversion"
+        },
+        "EcologyRestoreSolution": {
+          "DisplayName": "Restoration Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nRestores only this mod's base ecological blocks in your own region"
+        },
+        "EcologyMineralBed": {
+          "DisplayName": "Ecological Mineral Bed",
+          "Tooltip": "Place in your active region; hold its mineral seed and right-click\nGrows nine mineable ore blocks in the empty 3×3 space above after 30 seconds\nRequires its defeated boss; breaking the bed refunds its unfinished seed"
+        },
+        "EcologyOre0": {
+          "DisplayName": "Mistmirror Ore",
+          "Tooltip": "Requires 45% pickaxe power and Mistcrowned Pursuer's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst0": {
+          "DisplayName": "Mistmirror Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Eye of Cthulhu; does not generate terrain automatically"
+        },
+        "EcologyPowder0": {
+          "DisplayName": "Mistmirror Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution0": {
+          "DisplayName": "Mistmirror Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant0": {
+          "DisplayName": "Mistmirror Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed0": {
+          "DisplayName": "Mistmirror Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem0": {
+          "DisplayName": "Mistmirror Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock0_0": {
+          "DisplayName": "Mistmirror Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock0_1": {
+          "DisplayName": "Mistmirror Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock0_2": {
+          "DisplayName": "Mistmirror Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock0_3": {
+          "DisplayName": "Mistmirror Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock0_4": {
+          "DisplayName": "Mistmirror Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre1": {
+          "DisplayName": "Waxsleep Ore",
+          "Tooltip": "Requires 55% pickaxe power and Thousand-Candle Sepulcher's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst1": {
+          "DisplayName": "Waxsleep Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Eater of Worlds or Brain of Cthulhu; does not generate terrain automatically"
+        },
+        "EcologyPowder1": {
+          "DisplayName": "Waxsleep Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution1": {
+          "DisplayName": "Waxsleep Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant1": {
+          "DisplayName": "Waxsleep Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed1": {
+          "DisplayName": "Waxsleep Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem1": {
+          "DisplayName": "Waxsleep Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock1_0": {
+          "DisplayName": "Waxsleep Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock1_1": {
+          "DisplayName": "Waxsleep Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock1_2": {
+          "DisplayName": "Waxsleep Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock1_3": {
+          "DisplayName": "Waxsleep Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock1_4": {
+          "DisplayName": "Waxsleep Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre2": {
+          "DisplayName": "Amberhive Ore",
+          "Tooltip": "Requires 60% pickaxe power and Amber Broodkeeper's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst2": {
+          "DisplayName": "Amberhive Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Queen Bee; does not generate terrain automatically"
+        },
+        "EcologyPowder2": {
+          "DisplayName": "Amberhive Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution2": {
+          "DisplayName": "Amberhive Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant2": {
+          "DisplayName": "Amberhive Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed2": {
+          "DisplayName": "Amberhive Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem2": {
+          "DisplayName": "Amberhive Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock2_0": {
+          "DisplayName": "Amberhive Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock2_1": {
+          "DisplayName": "Amberhive Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock2_2": {
+          "DisplayName": "Amberhive Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock2_3": {
+          "DisplayName": "Amberhive Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock2_4": {
+          "DisplayName": "Amberhive Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre3": {
+          "DisplayName": "Knellbone Ore",
+          "Tooltip": "Requires 65% pickaxe power and Hollow-Bell Mourner's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst3": {
+          "DisplayName": "Knellbone Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Skeletron; does not generate terrain automatically"
+        },
+        "EcologyPowder3": {
+          "DisplayName": "Knellbone Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution3": {
+          "DisplayName": "Knellbone Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant3": {
+          "DisplayName": "Knellbone Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed3": {
+          "DisplayName": "Knellbone Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem3": {
+          "DisplayName": "Knellbone Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock3_0": {
+          "DisplayName": "Knellbone Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock3_1": {
+          "DisplayName": "Knellbone Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock3_2": {
+          "DisplayName": "Knellbone Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock3_3": {
+          "DisplayName": "Knellbone Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock3_4": {
+          "DisplayName": "Knellbone Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre4": {
+          "DisplayName": "Backburn Ore",
+          "Tooltip": "Requires 100% pickaxe power and Backburn Heart's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst4": {
+          "DisplayName": "Backburn Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Wall of Flesh; does not generate terrain automatically"
+        },
+        "EcologyPowder4": {
+          "DisplayName": "Backburn Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution4": {
+          "DisplayName": "Backburn Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant4": {
+          "DisplayName": "Backburn Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed4": {
+          "DisplayName": "Backburn Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem4": {
+          "DisplayName": "Backburn Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock4_0": {
+          "DisplayName": "Backburn Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock4_1": {
+          "DisplayName": "Backburn Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock4_2": {
+          "DisplayName": "Backburn Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock4_3": {
+          "DisplayName": "Backburn Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock4_4": {
+          "DisplayName": "Backburn Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre5": {
+          "DisplayName": "Wildmachine Ore",
+          "Tooltip": "Requires 180% pickaxe power and Wasteland Mainframe's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst5": {
+          "DisplayName": "Wildmachine Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by all three mechanical bosses; does not generate terrain automatically"
+        },
+        "EcologyPowder5": {
+          "DisplayName": "Wildmachine Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution5": {
+          "DisplayName": "Wildmachine Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant5": {
+          "DisplayName": "Wildmachine Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed5": {
+          "DisplayName": "Wildmachine Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem5": {
+          "DisplayName": "Wildmachine Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock5_0": {
+          "DisplayName": "Wildmachine Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock5_1": {
+          "DisplayName": "Wildmachine Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock5_2": {
+          "DisplayName": "Wildmachine Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock5_3": {
+          "DisplayName": "Wildmachine Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock5_4": {
+          "DisplayName": "Wildmachine Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre6": {
+          "DisplayName": "Hungerbloom Ore",
+          "Tooltip": "Requires 200% pickaxe power and Many-Mawed Blossom's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst6": {
+          "DisplayName": "Hungerbloom Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Plantera; does not generate terrain automatically"
+        },
+        "EcologyPowder6": {
+          "DisplayName": "Hungerbloom Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution6": {
+          "DisplayName": "Hungerbloom Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant6": {
+          "DisplayName": "Hungerbloom Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed6": {
+          "DisplayName": "Hungerbloom Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem6": {
+          "DisplayName": "Hungerbloom Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock6_0": {
+          "DisplayName": "Hungerbloom Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock6_1": {
+          "DisplayName": "Hungerbloom Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock6_2": {
+          "DisplayName": "Hungerbloom Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock6_3": {
+          "DisplayName": "Hungerbloom Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock6_4": {
+          "DisplayName": "Hungerbloom Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre7": {
+          "DisplayName": "Sunken Sun Ore",
+          "Tooltip": "Requires 210% pickaxe power and Sunken-Sun Tombbeast's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst7": {
+          "DisplayName": "Sunken Sun Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Golem; does not generate terrain automatically"
+        },
+        "EcologyPowder7": {
+          "DisplayName": "Sunken Sun Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution7": {
+          "DisplayName": "Sunken Sun Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant7": {
+          "DisplayName": "Sunken Sun Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed7": {
+          "DisplayName": "Sunken Sun Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem7": {
+          "DisplayName": "Sunken Sun Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock7_0": {
+          "DisplayName": "Sunken Sun Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock7_1": {
+          "DisplayName": "Sunken Sun Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock7_2": {
+          "DisplayName": "Sunken Sun Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock7_3": {
+          "DisplayName": "Sunken Sun Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock7_4": {
+          "DisplayName": "Sunken Sun Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre8": {
+          "DisplayName": "Rainbow Tide Ore",
+          "Tooltip": "Requires 215% pickaxe power and Rainbow Tideweaver's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst8": {
+          "DisplayName": "Rainbow Tide Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by both Duke Fishron AND Empress of Light; does not generate terrain automatically"
+        },
+        "EcologyPowder8": {
+          "DisplayName": "Rainbow Tide Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution8": {
+          "DisplayName": "Rainbow Tide Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant8": {
+          "DisplayName": "Rainbow Tide Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed8": {
+          "DisplayName": "Rainbow Tide Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem8": {
+          "DisplayName": "Rainbow Tide Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock8_0": {
+          "DisplayName": "Rainbow Tide Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock8_1": {
+          "DisplayName": "Rainbow Tide Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock8_2": {
+          "DisplayName": "Rainbow Tide Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock8_3": {
+          "DisplayName": "Rainbow Tide Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock8_4": {
+          "DisplayName": "Rainbow Tide Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyOre9": {
+          "DisplayName": "Formless Ore",
+          "Tooltip": "Requires 225% pickaxe power and Formless Starwalker's defeat in this world\nCrystallizes inside matching regions; renewable with mineral beds"
+        },
+        "EcologyCatalyst9": {
+          "DisplayName": "Formless Catalyst",
+          "Tooltip": "Crafts ecological powders and solutions\nUnlocked by Moon Lord; does not generate terrain automatically"
+        },
+        "EcologyPowder9": {
+          "DisplayName": "Formless Powder",
+          "Tooltip": "Use on ordinary stone/dirt/grass/sand/ice in a 5×5 area within your matching region\nNo natural spreading; skips ores, furniture supports, walls, wires and liquids\nConsumed only when conversion succeeds"
+        },
+        "EcologySolution9": {
+          "DisplayName": "Formless Solution",
+          "Tooltip": "For the Ecological Sprayer, Clentaminator or Terraformer\nOnly affects your matching region; no natural spreading"
+        },
+        "EcologyPlant9": {
+          "DisplayName": "Formless Herb",
+          "Tooltip": "A herb from active ecology; crafts materials and regeneration potions\nDisplay mode grows no natural resources"
+        },
+        "EcologySeed9": {
+          "DisplayName": "Formless Seed",
+          "Tooltip": "Plant on matching ecological grass\nHarvest yields resources only in an unlocked, active ecological region"
+        },
+        "EcologyWallItem9": {
+          "DisplayName": "Formless Wall",
+          "Tooltip": "Safe decorative background wall suitable for housing\nDoes not spread or contribute to the ecological block count"
+        },
+        "EcologyBlock9_0": {
+          "DisplayName": "Formless Stone",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock9_1": {
+          "DisplayName": "Formless Dirt",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock9_2": {
+          "DisplayName": "Formless Grass",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock9_3": {
+          "DisplayName": "Formless Sand",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        },
+        "EcologyBlock9_4": {
+          "DisplayName": "Formless Ice",
+          "Tooltip": "Never spreads naturally; only activates ecology in a bound region\nRestoration powder returns it to the matching vanilla base block"
+        }
+      },
+      "Biomes": {
+        "EcologyBiome0": {
+          "DisplayName": "Mistmirror"
+        },
+        "EcologyBiome1": {
+          "DisplayName": "Waxsleep"
+        },
+        "EcologyBiome2": {
+          "DisplayName": "Amberhive"
+        },
+        "EcologyBiome3": {
+          "DisplayName": "Knellbone"
+        },
+        "EcologyBiome4": {
+          "DisplayName": "Backburn"
+        },
+        "EcologyBiome5": {
+          "DisplayName": "Wildmachine"
+        },
+        "EcologyBiome6": {
+          "DisplayName": "Hungerbloom"
+        },
+        "EcologyBiome7": {
+          "DisplayName": "Sunken Sun"
+        },
+        "EcologyBiome8": {
+          "DisplayName": "Rainbow Tide"
+        },
+        "EcologyBiome9": {
+          "DisplayName": "Formless"
+        }
+      },
+      "EcologyWorld": {
+        "OreAwake": "{0} has awakened underground {1} in your regions. First-victory budget: {2} blocks. Unplaced ore stays pending until you provide more eligible underground ecological stone.",
+        "RegionSaved": "Region confirmed. Convert ordinary blocks using its powder: 300 blocks activate ecology; 600 allow its boss.",
+        "RegionRejected": "Check unlock, ownership, anchor and overlaps. Width 30–180, height 20–140; bounds must contain the anchor. Restore existing blocks before changing biome.",
+        "RegionRemoved": "Region unbound. Blocks remain, special ecology stops; ore budgets never reset.",
+        "NoConversion": "No safe targets. Right-click and confirm a region anchor first, then aim at stone, dirt, grass, sand or ice and their evil, Hallow or snow variants inside your region; avoid liquids, wires, furniture, ores and protected areas.",
+        "SelectAnchor": "Right-click an anchor first, then use the boundary scanner to select two corners.",
+        "FirstCorner": "First corner selected. Choose the opposite corner, inspect the preview and confirm.",
+        "RegionStatus": "{0} · {1}/600 blocks · {2} · {3} ore pending",
+        "EcologyMode": "Ecology mode",
+        "DisplayMode": "Display mode",
+        "PanelTitle": "Region Anchor · Boundaries & Biome",
+        "PairStatus": "Duke Fishron {0}   Empress of Light {1}",
+        "Bounds": "Preview: {0} × {1} tiles (contains anchor; no overlap)",
+        "Confirm": "Confirm",
+        "Close": "Close",
+        "Unbind": "Unbind (keep blocks)",
+        "PanelHint": "Scanner selects corners; white outline is the preview\nWhitelisted conversion only; display mode grows no resources",
+        "PairGate": "Available after both Duke Fishron and Empress of Light are defeated in this world",
+        "CatalystDrop": "Direct loot in Classic; inside the corresponding vanilla boss bag in Expert/Master",
+        "BedLocked": "Requires your active matching region (300 blocks) and its defeated ecology boss.",
+        "BedWorking": "Mineral bed progress: {0}%. Clear blocked output space when ready.",
+        "BedSeed": "Hold the matching mineral seed and right-click. One seed grows nine mineable ore blocks.",
+        "BedBlocked": "Keep the 3×3 area directly above the bed inside the region, empty and free of walls, wires and liquids.",
+        "BedStarted": "Seed loaded: nine mineable ore blocks grow in 30 seconds. Breaking an unfinished bed refunds its seed once; completed batches never refund.",
+        "Unlock0": "Requires: Eye of Cthulhu",
+        "Defeat0": "Defeat Mistcrowned Pursuer",
+        "Unlock1": "Requires: Eater of Worlds or Brain of Cthulhu",
+        "Defeat1": "Defeat Thousand-Candle Sepulcher",
+        "Unlock2": "Requires: Queen Bee",
+        "Defeat2": "Defeat Amber Broodkeeper",
+        "Unlock3": "Requires: Skeletron",
+        "Defeat3": "Defeat Hollow-Bell Mourner",
+        "Unlock4": "Requires: Wall of Flesh",
+        "Defeat4": "Defeat Backburn Heart",
+        "Unlock5": "Requires: all three mechanical bosses",
+        "Defeat5": "Defeat Wasteland Mainframe",
+        "Unlock6": "Requires: Plantera",
+        "Defeat6": "Defeat Many-Mawed Blossom",
+        "Unlock7": "Requires: Golem",
+        "Defeat7": "Defeat Sunken-Sun Tombbeast",
+        "Unlock8": "Requires: both Duke Fishron AND Empress of Light",
+        "Defeat8": "Defeat Rainbow Tideweaver",
+        "Unlock9": "Requires: Moon Lord",
+        "Defeat9": "Defeat Formless Starwalker",
+        "Narrower": "Narrower",
+        "Wider": "Wider",
+        "Shorter": "Shorter",
+        "Taller": "Taller"
+      }
+    }
+  }
+}

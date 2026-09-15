@@ -1,0 +1,286 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "MiningOre0": {
+          "DisplayName": "苔纹矿",
+          "Tooltip": "需要35%镐力；可放置\n首次击败苔团滚滚后在浅层地下生成\n3块原矿可在露壳手作台加工为1个苔纹锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar0": {
+          "DisplayName": "苔纹锭",
+          "Tooltip": "用于轻型采集饰品、苔光路标与培晶附件\n可进一步加工为苔纹纤维束；向向导展示可查看配方"
+        },
+        "MiningComponent0": {
+          "DisplayName": "苔纹纤维束",
+          "Tooltip": "苔纹锭加工出的专用组件\n用于轻型采集饰品、苔光路标与培晶附件\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre1": {
+          "DisplayName": "铜髓矿",
+          "Tooltip": "需要40%镐力；可放置\n首次击败铜脉甲虫后在浅层地下生成\n3块原矿可在根火工坊加工为1个铜髓锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar1": {
+          "DisplayName": "铜髓锭",
+          "Tooltip": "用于早期装备骨架、精密工具与矿脉探针\n可进一步加工为铜髓铆件；向向导展示可查看配方"
+        },
+        "MiningComponent1": {
+          "DisplayName": "铜髓铆件",
+          "Tooltip": "铜髓锭加工出的专用组件\n用于早期装备骨架、精密工具与矿脉探针\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre2": {
+          "DisplayName": "霜纹晶矿",
+          "Tooltip": "需要45%镐力；可放置\n首次击败霜角猎兽后在浅层地下生成\n3块原矿可在霜纹工坊加工为1个霜纹晶锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar2": {
+          "DisplayName": "霜纹晶锭",
+          "Tooltip": "用于精密法器、探矿灯与初辉勘探镐\n可进一步加工为霜纹透镜；向向导展示可查看配方"
+        },
+        "MiningComponent2": {
+          "DisplayName": "霜纹透镜",
+          "Tooltip": "霜纹晶锭加工出的专用组件\n用于精密法器、探矿灯与初辉勘探镐\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre3": {
+          "DisplayName": "晨辉矿",
+          "Tooltip": "需要50%镐力；可放置\n首次击败初辉王胚后在浅层地下生成\n3块原矿可在霜纹工坊加工为1个晨辉锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar3": {
+          "DisplayName": "晨辉锭",
+          "Tooltip": "用于初辉装备、采集徽记与永久照明\n可进一步加工为晨辉聚光片；向向导展示可查看配方"
+        },
+        "MiningComponent3": {
+          "DisplayName": "晨辉聚光片",
+          "Tooltip": "晨辉锭加工出的专用组件\n用于初辉装备、采集徽记与永久照明\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre4": {
+          "DisplayName": "帝凝晶矿",
+          "Tooltip": "需要230%镐力；可放置\n首次击败史莱姆皇帝后在洞穴层生成\n4块原矿可在星落熔铸台加工为1个帝凝晶锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar4": {
+          "DisplayName": "帝凝晶锭",
+          "Tooltip": "用于月后初段装备、护盾框架与永劫熔穿钻\n可进一步加工为帝凝缓冲组件；向向导展示可查看配方"
+        },
+        "MiningComponent4": {
+          "DisplayName": "帝凝缓冲组件",
+          "Tooltip": "帝凝晶锭加工出的专用组件\n用于月后初段装备、护盾框架与永劫熔穿钻\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre5": {
+          "DisplayName": "劫火矿",
+          "Tooltip": "需要260%镐力；可放置\n首次击败永劫肉墙后在深层洞穴、地狱上方生成\n4块原矿可在永劫聚变炉加工为1个劫火锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar5": {
+          "DisplayName": "劫火锭",
+          "Tooltip": "用于热能装备、聚变炉与吞星磁轨镐\n可进一步加工为劫火动力组件；向向导展示可查看配方"
+        },
+        "MiningComponent5": {
+          "DisplayName": "劫火动力组件",
+          "Tooltip": "劫火锭加工出的专用组件\n用于热能装备、聚变炉与吞星磁轨镐\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre6": {
+          "DisplayName": "吞星磁矿",
+          "Tooltip": "需要290%镐力；可放置\n首次击败钢铁吞星者后在洞穴层生成\n4块原矿可在星界铸造台加工为1个吞星磁锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar6": {
+          "DisplayName": "吞星磁锭",
+          "Tooltip": "用于机械装备、磁力采集器与寂月开拓镐\n可进一步加工为磁轨组件；向向导展示可查看配方"
+        },
+        "MiningComponent6": {
+          "DisplayName": "磁轨组件",
+          "Tooltip": "吞星磁锭加工出的专用组件\n用于机械装备、磁力采集器与寂月开拓镐\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre7": {
+          "DisplayName": "寂月矿",
+          "Tooltip": "需要320%镐力；可放置\n首次击败月神终焉后在洞穴层生成\n4块原矿可在星界铸造台加工为1个寂月锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar7": {
+          "DisplayName": "寂月锭",
+          "Tooltip": "用于星际入门装备、勘探仪与环带工程钻\n可进一步加工为寂月稳相组件；向向导展示可查看配方"
+        },
+        "MiningComponent7": {
+          "DisplayName": "寂月稳相组件",
+          "Tooltip": "寂月锭加工出的专用组件\n用于星际入门装备、勘探仪与环带工程钻\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre8": {
+          "DisplayName": "环骸矿",
+          "Tooltip": "需要340%镐力；可放置\n首次击败星骸环带吞噬者后在洞穴层生成\n4块原矿可在环带重工台加工为1个环骸锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar8": {
+          "DisplayName": "环骸锭",
+          "Tooltip": "用于舰体装甲、重工设施与璨星分光镐\n可进一步加工为舰体骨架组件；向向导展示可查看配方"
+        },
+        "MiningComponent8": {
+          "DisplayName": "舰体骨架组件",
+          "Tooltip": "环骸锭加工出的专用组件\n用于舰体装甲、重工设施与璨星分光镐\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre9": {
+          "DisplayName": "璨相晶矿",
+          "Tooltip": "需要380%镐力；可放置\n首次击败晶环女皇·璨星后在洞穴层生成\n4块原矿可在晶环折光台加工为1个璨相晶锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar9": {
+          "DisplayName": "璨相晶锭",
+          "Tooltip": "用于光学装备、光谱镜与恒生根钻\n可进一步加工为折光组件；向向导展示可查看配方"
+        },
+        "MiningComponent9": {
+          "DisplayName": "折光组件",
+          "Tooltip": "璨相晶锭加工出的专用组件\n用于光学装备、光谱镜与恒生根钻\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre10": {
+          "DisplayName": "恒生矿",
+          "Tooltip": "需要430%镐力；可放置\n首次击败星际植群·世界树之种后在洞穴层生成\n4块原矿可在恒生反应器加工为1个恒生锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar10": {
+          "DisplayName": "恒生锭",
+          "Tooltip": "用于生态与召唤装备、培晶舱与坐标切割器\n可进一步加工为恒生组织组件；向向导展示可查看配方"
+        },
+        "MiningComponent10": {
+          "DisplayName": "恒生组织组件",
+          "Tooltip": "恒生锭加工出的专用组件\n用于生态与召唤装备、培晶舱与坐标切割器\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre11": {
+          "DisplayName": "坐标晶矿",
+          "Tooltip": "需要480%镐力；可放置\n首次击败引航圣者·群星坐标后在洞穴层生成\n4块原矿可在群星织构台加工为1个坐标晶锭\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar11": {
+          "DisplayName": "坐标晶锭",
+          "Tooltip": "用于最终战前装备、导航仪与方舟创星钻\n可进一步加工为坐标组件；向向导展示可查看配方"
+        },
+        "MiningComponent11": {
+          "DisplayName": "坐标组件",
+          "Tooltip": "坐标晶锭加工出的专用组件\n用于最终战前装备、导航仪与方舟创星钻\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningOre12": {
+          "DisplayName": "创星源矿",
+          "Tooltip": "需要550%镐力；可放置\n首次击败星海主宰·天穹方舟后在洞穴层生成\n4块原矿可在天穹创生中枢加工为1个创星源核\n爆炸和方块替换不能绕过镐力；旧世界可选择补生成或培晶"
+        },
+        "MiningBar12": {
+          "DisplayName": "创星源核",
+          "Tooltip": "用于方舟毕业装备、创生设施与工程改装\n可进一步加工为创生组件；向向导展示可查看配方"
+        },
+        "MiningComponent12": {
+          "DisplayName": "创生组件",
+          "Tooltip": "创星源核加工出的专用组件\n用于方舟毕业装备、创生设施与工程改装\n组件本身不提供装备效果；向向导展示可查看配方"
+        },
+        "MiningStationItem0": {
+          "DisplayName": "露壳手作台",
+          "Tooltip": "可放置\n用于苔纹压制、初级工具与林地探索用品\n林地手工制作的起点\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem1": {
+          "DisplayName": "根火工坊",
+          "Tooltip": "可放置\n用于铜髓冶炼与前四位原初Boss装备\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem2": {
+          "DisplayName": "霜纹工坊",
+          "Tooltip": "可放置\n用于霜纹、晨辉冶炼与后六位原初Boss装备\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem3": {
+          "DisplayName": "星落熔铸台",
+          "Tooltip": "可放置\n用于月后第一阶段装备与帝凝晶冶炼\n月后制作的新起点，不要求开荒工坊\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem4": {
+          "DisplayName": "永劫聚变炉",
+          "Tooltip": "可放置\n用于月后中段装备、劫火冶炼与热能组件\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem5": {
+          "DisplayName": "星界铸造台",
+          "Tooltip": "可放置\n用于月后终段装备、吞星磁与寂月冶炼\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem7": {
+          "DisplayName": "环带重工台",
+          "Tooltip": "可放置\n用于星际重工装备、环骸冶炼与舰体结构\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem8": {
+          "DisplayName": "晶环折光台",
+          "Tooltip": "可放置\n用于光学装备、璨相冶炼与折光组件\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem9": {
+          "DisplayName": "恒生反应器",
+          "Tooltip": "可放置\n用于生态装备、恒生冶炼与培晶设施\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem10": {
+          "DisplayName": "群星织构台",
+          "Tooltip": "可放置\n用于最终战前装备、坐标晶冶炼与空间组件\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "MiningStationItem11": {
+          "DisplayName": "天穹创生中枢",
+          "Tooltip": "可放置\n用于方舟毕业装备、创星源矿精炼与工程改装\n继承本系列之前工作站的合成能力\n新矿解锁工具在上一座工作站制作；工作站升级使用原矿"
+        },
+        "ShellPatternFragment": {
+          "DisplayName": "壳纹碎片",
+          "Tooltip": "露壳小蜗每次额外掉落6片\n用于露壳手作台、露壳手镐与采集饰品\n原有战利品不受影响"
+        }
+      },
+      "Tiles": {
+        "MiningOreTile0": {
+          "MapEntry": "苔纹矿"
+        },
+        "MiningOreTile1": {
+          "MapEntry": "铜髓矿"
+        },
+        "MiningOreTile2": {
+          "MapEntry": "霜纹晶矿"
+        },
+        "MiningOreTile3": {
+          "MapEntry": "晨辉矿"
+        },
+        "MiningOreTile4": {
+          "MapEntry": "帝凝晶矿"
+        },
+        "MiningOreTile5": {
+          "MapEntry": "劫火矿"
+        },
+        "MiningOreTile6": {
+          "MapEntry": "吞星磁矿"
+        },
+        "MiningOreTile7": {
+          "MapEntry": "寂月矿"
+        },
+        "MiningOreTile8": {
+          "MapEntry": "环骸矿"
+        },
+        "MiningOreTile9": {
+          "MapEntry": "璨相晶矿"
+        },
+        "MiningOreTile10": {
+          "MapEntry": "恒生矿"
+        },
+        "MiningOreTile11": {
+          "MapEntry": "坐标晶矿"
+        },
+        "MiningOreTile12": {
+          "MapEntry": "创星源矿"
+        },
+        "MiningStationTile0": {
+          "MapEntry": "露壳手作台"
+        },
+        "MiningStationTile1": {
+          "MapEntry": "根火工坊"
+        },
+        "MiningStationTile2": {
+          "MapEntry": "霜纹工坊"
+        },
+        "MiningStationTile3": {
+          "MapEntry": "星落熔铸台"
+        },
+        "MiningStationTile4": {
+          "MapEntry": "永劫聚变炉"
+        },
+        "MiningStationTile5": {
+          "MapEntry": "星界铸造台"
+        },
+        "MiningStationTile7": {
+          "MapEntry": "环带重工台"
+        },
+        "MiningStationTile8": {
+          "MapEntry": "晶环折光台"
+        },
+        "MiningStationTile9": {
+          "MapEntry": "恒生反应器"
+        },
+        "MiningStationTile10": {
+          "MapEntry": "群星织构台"
+        },
+        "MiningStationTile11": {
+          "MapEntry": "天穹创生中枢"
+        }
+      }
+    }
+  }
+}

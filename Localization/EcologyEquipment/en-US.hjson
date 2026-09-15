@@ -1,0 +1,547 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "EcologyWeapon0": {
+          "DisplayName": "Riftmist Twinblade",
+          "Tooltip": "Sweep a short arc and release a 45% damage mirror crescent halfway through. One blade at a time; the crescent is secondary."
+        },
+        "EcologyWeapon1": {
+          "DisplayName": "Mirrorhart Bow",
+          "Tooltip": "Arrows bounce from tiles twice and penetrate two enemies.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon2": {
+          "DisplayName": "Crossing Prism",
+          "Tooltip": "Fire two inward-curving mirror bolts, each dealing 65% damage."
+        },
+        "EcologyWeapon3": {
+          "DisplayName": "Mirrorback Writ",
+          "Tooltip": "Summon a mirrorback attendant that circles then dashes. Cycle: 1.4 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon4": {
+          "DisplayName": "Waxseal Rapier",
+          "Tooltip": "Thrust forward. The first hit leaves a stationary wax burst: 65% damage after 0.5 seconds, radius 4 tiles."
+        },
+        "EcologyWeapon5": {
+          "DisplayName": "Candle Marrow Bow",
+          "Tooltip": "An arrow's first hit leaves a stationary wax burst: 65% damage after 0.5 seconds, radius 4 tiles.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon6": {
+          "DisplayName": "Vigil Candle",
+          "Tooltip": "Place up to four candles for 6 seconds within 25 visible tiles. Every 0.9 seconds each releases a delayed 65% damage pulse, radius 4.25 tiles."
+        },
+        "EcologyWeapon7": {
+          "DisplayName": "Awakened Pupa Pact",
+          "Tooltip": "Summon a pupa that charges, fires a 70% damage bolt, then dashes. Cycle: about 1.83 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon8": {
+          "DisplayName": "Brood Scythes",
+          "Tooltip": "Alternate left and right scythes. The first hit per swing releases two 30% damage needles."
+        },
+        "EcologyWeapon9": {
+          "DisplayName": "Honeythorn Crossbow",
+          "Tooltip": "Fire three honey needles at 46% damage each, poisoning susceptible enemies for 2 seconds. Only one arrow is consumed per volley."
+        },
+        "EcologyWeapon10": {
+          "DisplayName": "Amber Hive",
+          "Tooltip": "Place up to three hives for 6 seconds within 30 visible tiles. Every 1.08 seconds each fires a 55% damage needle at a visible target within 30 tiles."
+        },
+        "EcologyWeapon11": {
+          "DisplayName": "Communal Apiary Staff",
+          "Tooltip": "Summon a circling attendant firing three 55% damage needles per 1.5-second cycle.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon12": {
+          "DisplayName": "Knell Hammer",
+          "Tooltip": "Sweep a hammer and leave a delayed 55% damage sound pulse. Radius: 4.25 tiles; each pulse hits an enemy once."
+        },
+        "EcologyWeapon13": {
+          "DisplayName": "Boneflute Bow",
+          "Tooltip": "Fire a wide sound arrow that penetrates three enemies.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon14": {
+          "DisplayName": "Silent Bell Score",
+          "Tooltip": "Fire three expanding sound rings delayed by 0.15 seconds, each at 48% damage. Each ring hits an enemy once."
+        },
+        "EcologyWeapon15": {
+          "DisplayName": "Funeral Chime",
+          "Tooltip": "Summon an attendant firing a 55% damage sound bolt, then diving. Cycle: 1.7 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon16": {
+          "DisplayName": "Backburn Lance",
+          "Tooltip": "Thrust forward and raise a 45% damage flame halfway through. Rising flames inflict On Fire for 3 seconds."
+        },
+        "EcologyWeapon17": {
+          "DisplayName": "Coldflame Twinbore",
+          "Tooltip": "Alternate fast cold rounds and slow hot rounds. Cold penetrates two enemies; hot inflicts On Fire for 3 seconds.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon18": {
+          "DisplayName": "Inverted Fire Scroll",
+          "Tooltip": "Raise three flames around the cursor at 55% damage each, inflicting On Fire for 3 seconds. Spawn points must be visible and unobstructed."
+        },
+        "EcologyWeapon19": {
+          "DisplayName": "Emberback Staff",
+          "Tooltip": "Summon an emberback making two opposing dashes every 1.67 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon20": {
+          "DisplayName": "Returning Cog",
+          "Tooltip": "Throw a returning cog that fires two 35% damage rivets. Repeat cog hits on the same enemy require about 0.42 seconds."
+        },
+        "EcologyWeapon21": {
+          "DisplayName": "Rivet Burstgun",
+          "Tooltip": "Fire three-round bursts, consuming a bullet per round. Every third round penetrates two enemies. Burst cycle: about 0.65 seconds.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon22": {
+          "DisplayName": "Magnetic Deployer",
+          "Tooltip": "Deploy up to two magnetic nodes for 6 seconds within 33.75 visible tiles. Every 0.7 seconds each fires a 50% damage rivet and guides this weapon's nearby rivets toward visible foes. Never redirects hostile or foreign projectiles."
+        },
+        "EcologyWeapon23": {
+          "DisplayName": "Crawler Beacon",
+          "Tooltip": "Summon a mobile turret attendant firing four 45% damage rivets per 1.8-second cycle. Uses a minion slot, not a sentry slot.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon24": {
+          "DisplayName": "Rootrending Lashblade",
+          "Tooltip": "Extend and retract a melee root lash up to about 15 tiles. Each swing hits each enemy once. This is melee, not a summon whip."
+        },
+        "EcologyWeapon25": {
+          "DisplayName": "Podseed Bow",
+          "Tooltip": "Fire a gravity-affected seed pod. Impact grows a two-second bud firing up to three weakened needles. Needles cannot grow further buds.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon26": {
+          "DisplayName": "Manymaw Bulb",
+          "Tooltip": "Plant up to two bulbs for 6 seconds within 33.75 visible tiles. Every 0.87 seconds each fires a 65% damage needle at a visible target within 32.5 tiles."
+        },
+        "EcologyWeapon27": {
+          "DisplayName": "Rootbound Pact",
+          "Tooltip": "Summon a root attendant that thrusts from below and fires a 60% damage needle. Cycle: 1.6 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon28": {
+          "DisplayName": "Tombwarden Sunwheel",
+          "Tooltip": "Throw a returning sunwheel that releases three 30% damage rays when returning. Repeat hits require about 0.42 seconds."
+        },
+        "EcologyWeapon29": {
+          "DisplayName": "Sunpiercer Cannon",
+          "Tooltip": "A heavy round's first hit releases two vertical rays at 35% damage each.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon30": {
+          "DisplayName": "Three Stele Orrery",
+          "Tooltip": "Place a triangular solar array at the cursor. After a 0.4-second warning its three edges strike. Lifetime: 0.9 seconds; repeat-hit interval: 0.3 seconds. Edges cannot cross walls."
+        },
+        "EcologyWeapon31": {
+          "DisplayName": "Sunburden Seal",
+          "Tooltip": "Summon a sunburden beast that charges then fires a 60% damage ray. Cycle: 2.1 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon32": {
+          "DisplayName": "Tidefold Crescent",
+          "Tooltip": "Release a wave-moving melee crescent lasting about 0.63 seconds. Only one crescent at a time."
+        },
+        "EcologyWeapon33": {
+          "DisplayName": "Rainbow Wavebow",
+          "Tooltip": "Fire a wave arrow that splits off two 30% damage prism needles after 0.4 seconds.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon34": {
+          "DisplayName": "Pearlbubble Grimoire",
+          "Tooltip": "Release a slowing bubble that bursts after 0.7 seconds into three 55% damage needles aimed toward a visible target. The bubble itself cannot hurt."
+        },
+        "EcologyWeapon35": {
+          "DisplayName": "Prismfin Staff",
+          "Tooltip": "Summon a prismfin that sways, fires two 45% damage needles, then dives. Cycle: about 1.73 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyWeapon36": {
+          "DisplayName": "Derailing Starblade",
+          "Tooltip": "Orbit a blade around yourself for 0.4 seconds, then launch it in the original aim direction. One blade at a time; hits each enemy once."
+        },
+        "EcologyWeapon37": {
+          "DisplayName": "Phasegap Rifle",
+          "Tooltip": "Fire a phase round penetrating three enemies. After 0.3 seconds it attempts a forward gap-step of up to 10 tiles. It cannot cross solid walls.\nConsumes one matching arrow or bullet per shot and converts its projectile; ammunition damage still applies."
+        },
+        "EcologyWeapon38": {
+          "DisplayName": "Paired Gate Marker",
+          "Tooltip": "Open entry and cursor exit gates within 37.5 visible tiles. The exit fires three 50% damage bolts at 0.3, 0.43 and 0.57 seconds. Never teleports players; blocked exits do not fire."
+        },
+        "EcologyWeapon39": {
+          "DisplayName": "Starwarden Ring",
+          "Tooltip": "Summon an orbiting, dashing star attendant that repositions then fires two 45% damage bolts. Cycle: about 1.67 seconds.\nUses 1 minion slot. Dismiss via its buff. All attacks require line of sight."
+        },
+        "EcologyArmor0": {
+          "DisplayName": "Mistmirror War Helm",
+          "Tooltip": "Melee damage +4%.\nMelee attack speed +4%."
+        },
+        "EcologyArmor1": {
+          "DisplayName": "Mistmirror Hunt Hood",
+          "Tooltip": "Ranged damage +4%.\nRanged critical strike chance +3 percentage points."
+        },
+        "EcologyArmor2": {
+          "DisplayName": "Mistmirror Mage Crown",
+          "Tooltip": "Magic damage +4%.\nMaximum mana +20; mana cost reduced by 5%."
+        },
+        "EcologyArmor3": {
+          "DisplayName": "Mistmirror Brood Visage",
+          "Tooltip": "Summon damage +4%.\nMaximum minions +1."
+        },
+        "EcologyArmor4": {
+          "DisplayName": "Mistmirror Cuirass",
+          "Tooltip": "All damage +2%."
+        },
+        "EcologyArmor5": {
+          "DisplayName": "Mistmirror Greaves",
+          "Tooltip": "Movement speed +5%."
+        },
+        "EcologyArmor6": {
+          "DisplayName": "Waxseal War Helm",
+          "Tooltip": "Melee damage +5%.\nMelee attack speed +4.5%."
+        },
+        "EcologyArmor7": {
+          "DisplayName": "Waxseal Hunt Hood",
+          "Tooltip": "Ranged damage +5%.\nRanged critical strike chance +3 percentage points."
+        },
+        "EcologyArmor8": {
+          "DisplayName": "Waxseal Mage Crown",
+          "Tooltip": "Magic damage +5%.\nMaximum mana +30; mana cost reduced by 5%."
+        },
+        "EcologyArmor9": {
+          "DisplayName": "Waxseal Brood Visage",
+          "Tooltip": "Summon damage +5%.\nMaximum minions +1."
+        },
+        "EcologyArmor10": {
+          "DisplayName": "Waxseal Cuirass",
+          "Tooltip": "All damage +2%."
+        },
+        "EcologyArmor11": {
+          "DisplayName": "Waxseal Greaves",
+          "Tooltip": "Movement speed +5.5%."
+        },
+        "EcologyArmor12": {
+          "DisplayName": "Amberhive War Helm",
+          "Tooltip": "Melee damage +6%.\nMelee attack speed +5%."
+        },
+        "EcologyArmor13": {
+          "DisplayName": "Amberhive Hunt Hood",
+          "Tooltip": "Ranged damage +6%.\nRanged critical strike chance +4 percentage points."
+        },
+        "EcologyArmor14": {
+          "DisplayName": "Amberhive Mage Crown",
+          "Tooltip": "Magic damage +6%.\nMaximum mana +40; mana cost reduced by 5%."
+        },
+        "EcologyArmor15": {
+          "DisplayName": "Amberhive Brood Visage",
+          "Tooltip": "Summon damage +6%.\nMaximum minions +1."
+        },
+        "EcologyArmor16": {
+          "DisplayName": "Amberhive Cuirass",
+          "Tooltip": "All damage +2%."
+        },
+        "EcologyArmor17": {
+          "DisplayName": "Amberhive Greaves",
+          "Tooltip": "Movement speed +6%."
+        },
+        "EcologyArmor18": {
+          "DisplayName": "Knellbone War Helm",
+          "Tooltip": "Melee damage +7%.\nMelee attack speed +5.5%."
+        },
+        "EcologyArmor19": {
+          "DisplayName": "Knellbone Hunt Hood",
+          "Tooltip": "Ranged damage +7%.\nRanged critical strike chance +4 percentage points."
+        },
+        "EcologyArmor20": {
+          "DisplayName": "Knellbone Mage Crown",
+          "Tooltip": "Magic damage +7%.\nMaximum mana +50; mana cost reduced by 5%."
+        },
+        "EcologyArmor21": {
+          "DisplayName": "Knellbone Brood Visage",
+          "Tooltip": "Summon damage +7%.\nMaximum minions +1."
+        },
+        "EcologyArmor22": {
+          "DisplayName": "Knellbone Cuirass",
+          "Tooltip": "All damage +2%."
+        },
+        "EcologyArmor23": {
+          "DisplayName": "Knellbone Greaves",
+          "Tooltip": "Movement speed +6.5%."
+        },
+        "EcologyArmor24": {
+          "DisplayName": "Backburn War Helm",
+          "Tooltip": "Melee damage +8%.\nMelee attack speed +6%."
+        },
+        "EcologyArmor25": {
+          "DisplayName": "Backburn Hunt Hood",
+          "Tooltip": "Ranged damage +8%.\nRanged critical strike chance +5 percentage points."
+        },
+        "EcologyArmor26": {
+          "DisplayName": "Backburn Mage Crown",
+          "Tooltip": "Magic damage +8%.\nMaximum mana +60; mana cost reduced by 5%."
+        },
+        "EcologyArmor27": {
+          "DisplayName": "Backburn Brood Visage",
+          "Tooltip": "Summon damage +8%.\nMaximum minions +2."
+        },
+        "EcologyArmor28": {
+          "DisplayName": "Backburn Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor29": {
+          "DisplayName": "Backburn Greaves",
+          "Tooltip": "Movement speed +7%."
+        },
+        "EcologyArmor30": {
+          "DisplayName": "Machinexus War Helm",
+          "Tooltip": "Melee damage +9%.\nMelee attack speed +6.5%."
+        },
+        "EcologyArmor31": {
+          "DisplayName": "Machinexus Hunt Hood",
+          "Tooltip": "Ranged damage +9%.\nRanged critical strike chance +5 percentage points."
+        },
+        "EcologyArmor32": {
+          "DisplayName": "Machinexus Mage Crown",
+          "Tooltip": "Magic damage +9%.\nMaximum mana +70; mana cost reduced by 5%."
+        },
+        "EcologyArmor33": {
+          "DisplayName": "Machinexus Brood Visage",
+          "Tooltip": "Summon damage +9%.\nMaximum minions +2."
+        },
+        "EcologyArmor34": {
+          "DisplayName": "Machinexus Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor35": {
+          "DisplayName": "Machinexus Greaves",
+          "Tooltip": "Movement speed +7.5%."
+        },
+        "EcologyArmor36": {
+          "DisplayName": "Hungerbloom War Helm",
+          "Tooltip": "Melee damage +10%.\nMelee attack speed +7%."
+        },
+        "EcologyArmor37": {
+          "DisplayName": "Hungerbloom Hunt Hood",
+          "Tooltip": "Ranged damage +10%.\nRanged critical strike chance +6 percentage points."
+        },
+        "EcologyArmor38": {
+          "DisplayName": "Hungerbloom Mage Crown",
+          "Tooltip": "Magic damage +10%.\nMaximum mana +80; mana cost reduced by 5%."
+        },
+        "EcologyArmor39": {
+          "DisplayName": "Hungerbloom Brood Visage",
+          "Tooltip": "Summon damage +10%.\nMaximum minions +2."
+        },
+        "EcologyArmor40": {
+          "DisplayName": "Hungerbloom Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor41": {
+          "DisplayName": "Hungerbloom Greaves",
+          "Tooltip": "Movement speed +8%."
+        },
+        "EcologyArmor42": {
+          "DisplayName": "Sunken Sun War Helm",
+          "Tooltip": "Melee damage +11%.\nMelee attack speed +7.5%."
+        },
+        "EcologyArmor43": {
+          "DisplayName": "Sunken Sun Hunt Hood",
+          "Tooltip": "Ranged damage +11%.\nRanged critical strike chance +6 percentage points."
+        },
+        "EcologyArmor44": {
+          "DisplayName": "Sunken Sun Mage Crown",
+          "Tooltip": "Magic damage +11%.\nMaximum mana +90; mana cost reduced by 5%."
+        },
+        "EcologyArmor45": {
+          "DisplayName": "Sunken Sun Brood Visage",
+          "Tooltip": "Summon damage +11%.\nMaximum minions +3."
+        },
+        "EcologyArmor46": {
+          "DisplayName": "Sunken Sun Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor47": {
+          "DisplayName": "Sunken Sun Greaves",
+          "Tooltip": "Movement speed +8.5%."
+        },
+        "EcologyArmor48": {
+          "DisplayName": "Rainbow Tide War Helm",
+          "Tooltip": "Melee damage +12%.\nMelee attack speed +8%."
+        },
+        "EcologyArmor49": {
+          "DisplayName": "Rainbow Tide Hunt Hood",
+          "Tooltip": "Ranged damage +12%.\nRanged critical strike chance +7 percentage points."
+        },
+        "EcologyArmor50": {
+          "DisplayName": "Rainbow Tide Mage Crown",
+          "Tooltip": "Magic damage +12%.\nMaximum mana +100; mana cost reduced by 5%."
+        },
+        "EcologyArmor51": {
+          "DisplayName": "Rainbow Tide Brood Visage",
+          "Tooltip": "Summon damage +12%.\nMaximum minions +3."
+        },
+        "EcologyArmor52": {
+          "DisplayName": "Rainbow Tide Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor53": {
+          "DisplayName": "Rainbow Tide Greaves",
+          "Tooltip": "Movement speed +9%."
+        },
+        "EcologyArmor54": {
+          "DisplayName": "Formless War Helm",
+          "Tooltip": "Melee damage +13%.\nMelee attack speed +8.5%."
+        },
+        "EcologyArmor55": {
+          "DisplayName": "Formless Hunt Hood",
+          "Tooltip": "Ranged damage +13%.\nRanged critical strike chance +7 percentage points."
+        },
+        "EcologyArmor56": {
+          "DisplayName": "Formless Mage Crown",
+          "Tooltip": "Magic damage +13%.\nMaximum mana +110; mana cost reduced by 5%."
+        },
+        "EcologyArmor57": {
+          "DisplayName": "Formless Brood Visage",
+          "Tooltip": "Summon damage +13%.\nMaximum minions +3."
+        },
+        "EcologyArmor58": {
+          "DisplayName": "Formless Cuirass",
+          "Tooltip": "All damage +4%."
+        },
+        "EcologyArmor59": {
+          "DisplayName": "Formless Greaves",
+          "Tooltip": "Movement speed +9.5%."
+        },
+        "EcologyExpert0": {
+          "DisplayName": "Mistveil Antler",
+          "Tooltip": "Movement speed +8%. After taking damage, gain another 25% movement speed for 3 seconds. Cooldown: 10 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert1": {
+          "DisplayName": "Thousand-Candle Seal",
+          "Tooltip": "Defense +3. Every 12 seconds reduce one hit by up to 20 damage, capped at half that hit; at least 1 damage remains.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert2": {
+          "DisplayName": "Communal Brood Mark",
+          "Tooltip": "Summon damage +7%. Six consecutive eligible hits on one enemy release three 12-base-damage guard bolts. Cooldown: 3 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert3": {
+          "DisplayName": "Echo Marrow Pipe",
+          "Tooltip": "All-class critical strike chance +5 percentage points. Every four eligible hits release a delayed 40-base-damage sound pulse, radius 4.25 tiles. Cooldown: 2 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert4": {
+          "DisplayName": "Backburn Cooler",
+          "Tooltip": "Immune to On Fire and Burning, not lava damage. Taking damage grants +12% all damage for 4 seconds. Cooldown: 12 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert5": {
+          "DisplayName": "Autonomous Deploy Core",
+          "Tooltip": "Maximum sentries +1; summon damage +6%. An eligible hit fires a 45-base-damage helper round. Cooldown: 3 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert6": {
+          "DisplayName": "Living Root Sac",
+          "Tooltip": "Maximum life +30. Eligible hits heal 4 life, never beyond maximum. Cooldown: 5 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert7": {
+          "DisplayName": "Tombwarden Sundisc",
+          "Tooltip": "Defense +6. Every 8 seconds reduce a hit from the direction you face by 30%, up to 45 damage. At least 1 damage remains.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert8": {
+          "DisplayName": "Dual-Tide Crown",
+          "Tooltip": "Use Ecology Tide Stance (default N) to toggle; cooldown 2 seconds. Flow: +20% movement speed. Assault: +12% all damage. These bonuses are mutually exclusive.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        },
+        "EcologyExpert9": {
+          "DisplayName": "Stable Orbit Ring",
+          "Tooltip": "All damage +7%. Eligible hits fire a 70-base-damage phase bolt, cooldown 3 seconds. A hit of at least 80 damage is reduced by 25%, capped at 60; cooldown 15 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death."
+        }
+      },
+      "Buffs": {
+        "EcologyMinionBuff0": {
+          "DisplayName": "Mistmirror Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff1": {
+          "DisplayName": "Waxseal Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff2": {
+          "DisplayName": "Amberhive Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff3": {
+          "DisplayName": "Knellbone Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff4": {
+          "DisplayName": "Backburn Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff5": {
+          "DisplayName": "Machinexus Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff6": {
+          "DisplayName": "Hungerbloom Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff7": {
+          "DisplayName": "Sunken Sun Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff8": {
+          "DisplayName": "Rainbow Tide Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        },
+        "EcologyMinionBuff9": {
+          "DisplayName": "Formless Attendant",
+          "Description": "Your ecological attendant follows and fights for you."
+        }
+      },
+      "Projectiles": {
+        "EcologyMinion0": {
+          "DisplayName": "Mistmirror Attendant"
+        },
+        "EcologyMinion1": {
+          "DisplayName": "Waxseal Attendant"
+        },
+        "EcologyMinion2": {
+          "DisplayName": "Amberhive Attendant"
+        },
+        "EcologyMinion3": {
+          "DisplayName": "Knellbone Attendant"
+        },
+        "EcologyMinion4": {
+          "DisplayName": "Backburn Attendant"
+        },
+        "EcologyMinion5": {
+          "DisplayName": "Machinexus Attendant"
+        },
+        "EcologyMinion6": {
+          "DisplayName": "Hungerbloom Attendant"
+        },
+        "EcologyMinion7": {
+          "DisplayName": "Sunken Sun Attendant"
+        },
+        "EcologyMinion8": {
+          "DisplayName": "Rainbow Tide Attendant"
+        },
+        "EcologyMinion9": {
+          "DisplayName": "Formless Attendant"
+        },
+        "EcologyShot": {
+          "DisplayName": "Ecological Armament"
+        },
+        "EcologySummonShot": {
+          "DisplayName": "Ecological Minion Shot"
+        }
+      },
+      "EcologyEquipment": {
+        "Set0": "After 6 seconds without damage, your next eligible hit fires a 12-base-damage mirror bolt. Cooldown: 6 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set1": "Eligible hits leave a stationary 18-base-damage wax burst after 0.5 seconds, radius 4 tiles. Cooldown: 4 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set2": "Every three eligible hits release three 8-base-damage guard needles. Cooldown: 3 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set3": "Eligible hits release a delayed 26-base-damage sound pulse, radius 4.25 tiles. Cooldown: 3 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set4": "Six eligible hits grant +10% all damage for 4 seconds. Trigger cooldown: 10 seconds. Taking damage removes two accumulated hits.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set5": "After standing still for 1.5 seconds, gain +8% all damage. Eligible hits while still fire a 46-base-damage helper round, cooldown 4 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set6": "After standing still for 1 second, regenerate an extra 1 life per second. Eligible hits plant a two-second bud firing up to three 19-base-damage needles, cooldown 5 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set7": "After 5 seconds without taking damage, reduce the next hit by 20%, capped at 30, leaving at least 1 damage. Cooldown: 10 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set8": "Ecology Tide Stance (default N): Flow grants +12% movement speed; Assault grants +6% all damage. Mutually exclusive; switching cooldown 2 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Set9": "Eligible hits release three 32-base-damage orbit bolts. Cooldown: 3 seconds.\nEquipment-generated attacks never trigger these effects again. Hit counters accept at most one hit per 0.2 seconds; friendly creatures and target dummies do not count. Cooldowns persist when unequipped or on death.",
+        "Flow": "Flow stance",
+        "Assault": "Assault stance"
+      },
+      "Keybinds": {
+        "EcologyTideStance": {
+          "DisplayName": "Ecology Tide Stance"
+        }
+      }
+    }
+  }
+}

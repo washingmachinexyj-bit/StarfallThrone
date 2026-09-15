@@ -1,0 +1,45 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Combat": {
+        "Phase1": "Pattern shift",
+        "Phase2": "Final phase"
+      },
+      "Projectiles": {
+        "ReforgedMinionShot": { "DisplayName": "Throne minion shot" },
+        "CombatHazard": {
+          "DisplayName": "Throne assault"
+        },
+        "ReforgedWeaponShot": {
+          "DisplayName": "Throne weapon shot"
+        },
+        "ReforgedTongueWhip": {
+          "DisplayName": "Tongue whip"
+        },
+        "WaxBeeMinion": {
+          "DisplayName": "Wax verdict bee"
+        },
+        "ThornBloomMinion": {
+          "DisplayName": "Thorn bloom"
+        },
+        "AstralSentry": {
+          "DisplayName": "Astral sigil"
+        }
+      },
+      "Buffs": {
+        "TongueTag": {
+          "DisplayName": "Tongue mark",
+          "Description": "Takes 3 extra summon tag damage"
+        },
+        "WaxBeeBuff": {
+          "DisplayName": "Wax bee",
+          "Description": "A wax bee fights for you"
+        },
+        "ThornBloomBuff": {
+          "DisplayName": "Thorn bloom",
+          "Description": "A thorn bloom fights for you"
+        }
+      }
+    }
+  }
+}

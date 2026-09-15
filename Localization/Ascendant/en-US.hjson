@@ -1,0 +1,175 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Ascendant": {
+        "Intro": "[True God Trials] Three ascended gods await. Use /truegod for prerequisites and deadlines. Existing worlds are never reset.",
+        "Closed": "[Trial closed] {0} no longer accepts challenges in this world. Existing gear and earned gifts remain valid.",
+        "Missed": "{0}: missed; this world's deadline boss was defeated.",
+        "Victory": "[True God Trial complete] {0} acknowledges the challenger.",
+        "StatusHelp": "Show True God Trial prerequisites and deadlines without changing progression",
+        "WonOpen": "Defeated; window open",
+        "WonClosed": "Defeated; window closed",
+        "Available": "Window open; check prerequisites",
+        "MissedShort": "Missed",
+        "WindowOpen": "This world's challenge window is open",
+        "WindowClosed": "Window permanently closed; cannot summon again",
+        "WindowCondition": "Complete the trial before its vanilla deadline boss is defeated",
+        "Choose": "True God's Gift · Choose a weapon",
+        "ChooseHint": "Consumed only after choosing. Escape or click outside to cancel.",
+        "Class0": "Melee",
+        "Class1": "Ranged",
+        "Class2": "Magic",
+        "Class3": "Summon",
+        "Title": "Beyond the Covenant",
+        "AllWon": "This character completed all three True God Trials in this world",
+        "Requirements": "World side challenges: {0}/{1}; original god: {2}",
+        "BaseWon": "Defeated",
+        "BaseMissing": "Not defeated",
+        "Despawn": "{0}'s trial was interrupted. No victory or loot was awarded.",
+        "ChecklistMissed": "Missed: the deadline boss was defeated. Not counted as defeated; existing rewards remain usable.",
+        "ChecklistClosedWon": "Completed, but the challenge window is now closed. Gear remains craftable and earned first-victory gifts remain claimable.",
+        "Warning0": "[Trial deadline] Defeat the eight minibosses, original Miroen and ascended Miroen before King Slime.",
+        "Warning1": "[Trial deadline] Defeat all four pre-Hardmode ecology bosses, original Velsa and ascended Velsa before the Wall of Flesh.",
+        "Warning2": "[Trial deadline] Defeat all five pre-Moon Lord Hardmode ecology bosses, original NoDay and ascended NoDay before Moon Lord.",
+        "Spawn0": "Before King Slime, use the Eightfold First-Oath Crown in a daytime surface forest. All eight minibosses and original Miroen must be defeated in this world. Reusable; {0}",
+        "Spawn1": "Before Hardmode, use the Four-Realm Unburnt Testament in the Underworld. Requires ecology bosses 1–4 and original Velsa in this world. Reusable; {0}",
+        "Spawn2": "Before Moon Lord, use the Five-Realm Fatebreaker in the surface or sky at night. Requires ecology bosses 5–9 and original NoDay, NOT Formless. Stay outside pillar zones and the Moon Lord arrival countdown. Reusable; {0}",
+        "ChecklistName0": "[Limited True God Trial] Miroen, First Oath of Life",
+        "ChecklistName1": "[Limited True God Trial] Velsa, Four-Realm Lawfire",
+        "ChecklistName2": "[Limited True God Trial] NoDay, Final Verdict"
+      },
+      "Items": {
+        "AscendantMaterial0": {
+          "DisplayName": "Lifespring Dew Marrow",
+          "Tooltip": "Upgrade the original god's weapons and armor\nStill usable after the challenge window closes"
+        },
+        "AscendantSummon0": {
+          "DisplayName": "Eightfold First-Oath Crown",
+          "Tooltip": "Before King Slime, use the Eightfold First-Oath Crown in a daytime surface forest. All eight minibosses and original Miroen must be defeated in this world. Reusable"
+        },
+        "AscendantBag0": {
+          "DisplayName": "Lifespring Treasure Bag",
+          "Tooltip": "Right click to open\n44–56 materials, one random weapon and the expert accessory\nOpening also claims your earned first-victory cache once in this world"
+        },
+        "AscendantCache0": {
+          "DisplayName": "Lifespring Choice Cache",
+          "Tooltip": "Right click or use to choose a class weapon\nConsumed only after choosing; earned once per character per world"
+        },
+        "AscendantRelic0": {
+          "DisplayName": "First Oath Relic",
+          "Tooltip": "Master Mode collectible\nPlaceable; no combat bonuses"
+        },
+        "AscendantTrophy0": {
+          "DisplayName": "First Oath Trophy",
+          "Tooltip": "A wall-mounted True God Trial trophy"
+        },
+        "AscendantMask0": {
+          "DisplayName": "First Oath Mask",
+          "Tooltip": "Vanity item; no combat bonuses"
+        },
+        "AscendantPetItem0": {
+          "DisplayName": "Eight-Petal Dewling",
+          "Tooltip": "Summons a purely cosmetic companion"
+        },
+        "AscendantHalo0": {
+          "DisplayName": "Flawless Lifespring Halo",
+          "Tooltip": "Awarded for a complete no-hit victory\nVisible in accessory or vanity slots; no combat bonuses"
+        },
+        "AscendantMaterial1": {
+          "DisplayName": "Four-Law Oathgold",
+          "Tooltip": "Upgrade the original god's weapons and armor\nStill usable after the challenge window closes"
+        },
+        "AscendantSummon1": {
+          "DisplayName": "Four-Realm Unburnt Testament",
+          "Tooltip": "Before Hardmode, use the Four-Realm Unburnt Testament in the Underworld. Requires ecology bosses 1–4 and original Velsa in this world. Reusable"
+        },
+        "AscendantBag1": {
+          "DisplayName": "Lawfire Treasure Bag",
+          "Tooltip": "Right click to open\n44–56 materials, one random weapon and the expert accessory\nOpening also claims your earned first-victory cache once in this world"
+        },
+        "AscendantCache1": {
+          "DisplayName": "Lawfire Choice Cache",
+          "Tooltip": "Right click or use to choose a class weapon\nConsumed only after choosing; earned once per character per world"
+        },
+        "AscendantRelic1": {
+          "DisplayName": "Four-Realm Lawfire Relic",
+          "Tooltip": "Master Mode collectible\nPlaceable; no combat bonuses"
+        },
+        "AscendantTrophy1": {
+          "DisplayName": "Four-Realm Lawfire Trophy",
+          "Tooltip": "A wall-mounted True God Trial trophy"
+        },
+        "AscendantMask1": {
+          "DisplayName": "Four-Realm Lawfire Mask",
+          "Tooltip": "Vanity item; no combat bonuses"
+        },
+        "AscendantPetItem1": {
+          "DisplayName": "Four-Furnace Idol",
+          "Tooltip": "Summons a purely cosmetic companion"
+        },
+        "AscendantHalo1": {
+          "DisplayName": "Ashless Lawfire Halo",
+          "Tooltip": "Awarded for a complete no-hit victory\nVisible in accessory or vanity slots; no combat bonuses"
+        },
+        "AscendantMaterial2": {
+          "DisplayName": "Final Fateweave",
+          "Tooltip": "Upgrade the original god's weapons and armor\nStill usable after the challenge window closes"
+        },
+        "AscendantSummon2": {
+          "DisplayName": "Five-Realm Fatebreaker",
+          "Tooltip": "Before Moon Lord, use the Five-Realm Fatebreaker in the surface or sky at night. Requires ecology bosses 5–9 and original NoDay, NOT Formless. Stay outside pillar zones and the Moon Lord arrival countdown. Reusable"
+        },
+        "AscendantBag2": {
+          "DisplayName": "Final Verdict Treasure Bag",
+          "Tooltip": "Right click to open\n44–56 materials, one random weapon and the expert accessory\nOpening also claims your earned first-victory cache once in this world"
+        },
+        "AscendantCache2": {
+          "DisplayName": "Final Verdict Choice Cache",
+          "Tooltip": "Right click or use to choose a class weapon\nConsumed only after choosing; earned once per character per world"
+        },
+        "AscendantRelic2": {
+          "DisplayName": "Final Verdict Relic",
+          "Tooltip": "Master Mode collectible\nPlaceable; no combat bonuses"
+        },
+        "AscendantTrophy2": {
+          "DisplayName": "Final Verdict Trophy",
+          "Tooltip": "A wall-mounted True God Trial trophy"
+        },
+        "AscendantMask2": {
+          "DisplayName": "Final Verdict Mask",
+          "Tooltip": "Vanity item; no combat bonuses"
+        },
+        "AscendantPetItem2": {
+          "DisplayName": "Broken-Wheel Starling",
+          "Tooltip": "Summons a purely cosmetic companion"
+        },
+        "AscendantHalo2": {
+          "DisplayName": "Unbroken Fate Halo",
+          "Tooltip": "Awarded for a complete no-hit victory\nVisible in accessory or vanity slots; no combat bonuses"
+        },
+        "AscendantMonument": {
+          "DisplayName": "Threefold Fatebreaker Monument",
+          "Tooltip": "A witness to this character completing all three trials in one world\nPlaceable decoration"
+        },
+        "AscendantEpochTitle": {
+          "DisplayName": "Title: Beyond the Covenant",
+          "Tooltip": "Displays a cosmetic title in accessory or vanity slots"
+        }
+      },
+      "Buffs": {
+        "AscendantPetBuff0": {
+          "DisplayName": "Eight-Petal Dewling",
+          "Description": "A tiny divine avatar accompanies you"
+        },
+        "AscendantPetBuff1": {
+          "DisplayName": "Four-Furnace Idol",
+          "Description": "A tiny divine avatar accompanies you"
+        },
+        "AscendantPetBuff2": {
+          "DisplayName": "Broken-Wheel Starling",
+          "Description": "A tiny divine avatar accompanies you"
+        }
+      }
+    }
+  }
+}

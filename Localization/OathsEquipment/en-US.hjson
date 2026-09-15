@@ -1,0 +1,268 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "SupremeChoice0": { "DisplayName": "Genesis Weapon Choice", "Tooltip": "First-victory reward. Hold and left-click to cycle classes; right-click in inventory to consume this cache for the selected weapon.\nDefaults to melee. No crafting recipe; does not change world progression." },
+        "SupremeChoice1": { "DisplayName": "Final-Flame Weapon Choice", "Tooltip": "First-victory reward. Hold and left-click to cycle classes; right-click in inventory to consume this cache for the selected weapon.\nDefaults to melee. No crafting recipe; does not change world progression." },
+        "SupremeChoice2": { "DisplayName": "Fateless Weapon Choice", "Tooltip": "First-victory reward. Hold and left-click to cycle classes; right-click in inventory to consume this cache for the selected weapon.\nDefaults to melee. No crafting recipe; does not change world progression." },
+        "SupremeWeapon0": {
+          "DisplayName": "Crown of Living Boughs",
+          "Tooltip": "Swing a living blade about 11 tiles long; midway, release two short bough blades dealing 28% damage each.\nEach swing hits each target once. Cannot damage through walls."
+        },
+        "SupremeWeapon1": {
+          "DisplayName": "The First Rain",
+          "Tooltip": "Consume one arrow to converge three rain arrows on the cursor, each dealing 50% damage.\nAim range: 50 tiles, clipped by line of sight. Replaces special ammunition projectiles."
+        },
+        "SupremeWeapon2": {
+          "DisplayName": "Genesis Dew Codex",
+          "Tooltip": "Left-click: spend 36 mana to store one dew charge, up to three. Right-click: release all charges, each dealing 125% damage.\nRelease costs no mana. Switching away discards stored dew."
+        },
+        "SupremeWeapon3": {
+          "DisplayName": "Worldtree Crown",
+          "Tooltip": "Summon a Worldtree Crown using two minion slots.\nEvery 1.5 seconds it fires three converging drops, each dealing 55% minion damage. No contact damage; obeys minion targeting and line of sight."
+        },
+        "SupremeWeapon4": {
+          "DisplayName": "Cataclysm's Severance",
+          "Tooltip": "Close-range ordinary slashes build up to three ember charges on hit.\nAt three charges, right-click to spend all charges on a 200%-damage heavy slash about 14 tiles long. Switching away clears charges."
+        },
+        "SupremeWeapon5": {
+          "DisplayName": "Six Wings of Conflagration",
+          "Tooltip": "Consume bullets and convert them into final-flame shots. Each successive shot adds 4% projectile damage, up to 40%.\nStop firing while holding the gun for 0.75 seconds to vent one 75%-damage ember and reset heat. Switching away dissipates heat."
+        },
+        "SupremeWeapon6": {
+          "DisplayName": "Final Flame Codex",
+          "Tooltip": "Right-click cycles four laws: a 120%-damage ember, three 45%-damage fan shots, a delayed 160%-damage beam, and a delayed 140%-damage seal.\nLeft-click costs 36 mana. Beam warning: 0.3 seconds; seal warning: 0.5 seconds. Each projectile hits a target once and cannot damage through walls."
+        },
+        "SupremeWeapon7": {
+          "DisplayName": "Six-Winged Ember",
+          "Tooltip": "Summon an ember seraph using two minion slots. Every 1.2 seconds it fires a 170%-damage ember; no contact damage.\nRight-click commands your ember seraphs for two seconds, reducing the firing interval to 0.7 seconds. Command cooldown: 10 seconds."
+        },
+        "SupremeWeapon8": {
+          "DisplayName": "Beyond the Last Fate",
+          "Tooltip": "Ordinary close-range hits build up to three verdict charges. At three charges, right-click to spend them on a directed 220%-damage final slash.\nThe projectile hits once, does not home, and cannot damage through walls. Switching away clears charges."
+        },
+        "SupremeWeapon9": {
+          "DisplayName": "The Last Starlight",
+          "Tooltip": "Consume one bullet and convert it into starlight.\nConsecutive hits on the same target add 3% damage to later shots, up to 30%. A missed shot removes two stacks; switching away or not hitting for three seconds resets focus."
+        },
+        "SupremeWeapon10": {
+          "DisplayName": "The Unwritten Book",
+          "Tooltip": "Right-click cycles a 130%-damage fate star, three 50%-damage branching stars, and a delayed 170%-damage final beam.\nLeft-click costs 36 mana. The beam warns for 0.3 seconds, reaches about 41 tiles and hits each target once. Cannot damage through walls."
+        },
+        "SupremeWeapon11": {
+          "DisplayName": "Court of NoDay",
+          "Tooltip": "Summon one principal servant using four minion slots; recasting replaces it.\nEvery second it fires a 300%-damage fate star. No contact damage. Orbiting attendants are decorative and do not duplicate damage."
+        },
+        "SupremeArmor0": {
+          "DisplayName": "Triune Crown of Blades",
+          "Tooltip": "Increase maximum life by 1260, all damage by 54%, and damage reduction by 7.2%.\nIncrease melee damage by 80% and melee attack speed by 35%.\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeArmor1": {
+          "DisplayName": "Triune Starhunter Crown",
+          "Tooltip": "Increase maximum life by 1260, all damage by 54%, and damage reduction by 7.2%.\nIncrease ranged damage by 80% and ranged critical strike chance by 28 percentage points.\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeArmor2": {
+          "DisplayName": "Triune Halo of Laws",
+          "Tooltip": "Increase maximum life by 1260, all damage by 54%, and damage reduction by 7.2%.\nIncrease magic damage by 80%, maximum mana by 650, and reduce mana costs by 35%.\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeArmor3": {
+          "DisplayName": "Triune Court Crown",
+          "Tooltip": "Increase maximum life by 1260, all damage by 54%, and damage reduction by 7.2%.\nIncrease summon damage by 80%, minion capacity by 12 and sentry capacity by two.\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeArmor4": {
+          "DisplayName": "Triune Vestments",
+          "Tooltip": "Increase maximum life by 1680, all damage by 72%, and damage reduction by 9.6%.\n\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeArmor5": {
+          "DisplayName": "Triune Treads",
+          "Tooltip": "Increase maximum life by 1260, all damage by 54%, and damage reduction by 7.2%.\nIncrease movement speed by 30%.\nCraft at the Triune Altar using materials and bars from all three Supreme gods."
+        },
+        "SupremeExpert0": {
+          "DisplayName": "The First Drop of Eternity",
+          "Tooltip": "Increase maximum life by 15% during equipment calculation.\nDamaging a vulnerable boss stores 2% maximum life at most every 0.5 seconds, up to 12%.\nAfter losing a cumulative 10% maximum life to enemies, consume the reserve to heal up to 12% maximum life. Cooldown: 30 seconds.\nNo revival, self-harm or dummy charging. Mutually exclusive with earlier accessories of this divine line. Cooldowns persist through death and re-equipping."
+        },
+        "SupremeMaterial0": {
+          "DisplayName": "Genesis Marrow",
+          "Tooltip": "Used for this god's mining tool, independent workstation, weapons and Triune armor.\nCraft the ore-free pick and workstation before mining the new ore."
+        },
+        "SupremeSummon0": {
+          "DisplayName": "Sacred Genesis Drop",
+          "Tooltip": "Summons Miroen, Genesis of All.\nNot consumed. This world must have defeated Asterion and this god's Seed, ordinary and enhanced forms.\nCannot summon during another boss or major event. Imported items do not bypass world prerequisites."
+        },
+        "SupremeBag0": {
+          "DisplayName": "Miroen, Genesis of All Treasure Bag",
+          "Tooltip": "Right-click to open.\nContains 40–55 primary materials, one random class weapon, the guaranteed expert accessory, potions and coins, with a chance of a mask."
+        },
+        "SupremeRelic0": {
+          "DisplayName": "Miroen, Genesis of All Relic",
+          "Tooltip": "Master-mode memento. Place on solid ground for display."
+        },
+        "SupremeTrophy0": {
+          "DisplayName": "Miroen, Genesis of All Trophy",
+          "Tooltip": "A victory trophy to hang on a background wall."
+        },
+        "SupremeMask0": {
+          "DisplayName": "Miroen, Genesis of All Mask",
+          "Tooltip": "Vanity only. Provides no defense or abilities."
+        },
+        "SupremePetItem0": {
+          "DisplayName": "First-Dew Companion Memento",
+          "Tooltip": "Summon a non-combat vanity companion. Dismiss by cancelling its buff.\nMaster-mode drop."
+        },
+        "SupremeExpert1": {
+          "DisplayName": "Undying Warmth",
+          "Tooltip": "Increase all damage by 12%. Every 25 seconds, reduce the next enemy hit by 30%.\nTriggering the guard grants 15% melee, ranged and magic attack speed for four seconds.\nNo reflection or protection from environmental, self-inflicted or PvP damage. Mutually exclusive with earlier accessories of this divine line. Cooldowns persist through death and re-equipping."
+        },
+        "SupremeMaterial1": {
+          "DisplayName": "Final-Flame Oathcore",
+          "Tooltip": "Used for this god's mining tool, independent workstation, weapons and Triune armor.\nCraft the ore-free pick and workstation before mining the new ore."
+        },
+        "SupremeSummon1": {
+          "DisplayName": "Final-Flame Oathcrown",
+          "Tooltip": "Summons Velsa, the Final Conflagration.\nNot consumed. This world must have defeated Asterion and this god's Seed, ordinary and enhanced forms.\nCannot summon during another boss or major event. Imported items do not bypass world prerequisites."
+        },
+        "SupremeBag1": {
+          "DisplayName": "Velsa, the Final Conflagration Treasure Bag",
+          "Tooltip": "Right-click to open.\nContains 40–55 primary materials, one random class weapon, the guaranteed expert accessory, potions and coins, with a chance of a mask."
+        },
+        "SupremeRelic1": {
+          "DisplayName": "Velsa, the Final Conflagration Relic",
+          "Tooltip": "Master-mode memento. Place on solid ground for display."
+        },
+        "SupremeTrophy1": {
+          "DisplayName": "Velsa, the Final Conflagration Trophy",
+          "Tooltip": "A victory trophy to hang on a background wall."
+        },
+        "SupremeMask1": {
+          "DisplayName": "Velsa, the Final Conflagration Mask",
+          "Tooltip": "Vanity only. Provides no defense or abilities."
+        },
+        "SupremePetItem1": {
+          "DisplayName": "Little Ember Companion Memento",
+          "Tooltip": "Summon a non-combat vanity companion. Dismiss by cancelling its buff.\nMaster-mode drop."
+        },
+        "SupremeExpert2": {
+          "DisplayName": "The Unwritten Tomorrow",
+          "Tooltip": "Increase all damage by 15%. Press Final Rewind (default V; rebind in Controls) to return to your position about two seconds ago, with about 0.13 seconds of protection. Cooldown: 45 seconds.\nPosition only: no life, mana or cooldown restoration. Maximum distance: 62.5 tiles. Cannot cross solid blocks or active Supreme hazards.\nDuring Supreme encounters, both positions must be within 37.5 tiles of the arena center. Disabled during other bosses, opening trials, grappling or riding.\nMutually exclusive with earlier accessories of this divine line. Cooldowns persist through death and re-equipping."
+        },
+        "SupremeMaterial2": {
+          "DisplayName": "Fateless End",
+          "Tooltip": "Used for this god's mining tool, independent workstation, weapons and Triune armor.\nCraft the ore-free pick and workstation before mining the new ore."
+        },
+        "SupremeSummon2": {
+          "DisplayName": "The Final Book of NoDay",
+          "Tooltip": "Summons NoDay, Beyond the Last Fate.\nNot consumed. This world must have defeated Asterion and this god's Seed, ordinary and enhanced forms.\nCannot summon during another boss or major event. Imported items do not bypass world prerequisites."
+        },
+        "SupremeBag2": {
+          "DisplayName": "NoDay, Beyond the Last Fate Treasure Bag",
+          "Tooltip": "Right-click to open.\nContains 40–55 primary materials, one random class weapon, the guaranteed expert accessory, potions and coins, with a chance of a mask."
+        },
+        "SupremeRelic2": {
+          "DisplayName": "NoDay, Beyond the Last Fate Relic",
+          "Tooltip": "Master-mode memento. Place on solid ground for display."
+        },
+        "SupremeTrophy2": {
+          "DisplayName": "NoDay, Beyond the Last Fate Trophy",
+          "Tooltip": "A victory trophy to hang on a background wall."
+        },
+        "SupremeMask2": {
+          "DisplayName": "NoDay, Beyond the Last Fate Mask",
+          "Tooltip": "Vanity only. Provides no defense or abilities."
+        },
+        "SupremePetItem2": {
+          "DisplayName": "A Fleeting Twilight Memento",
+          "Tooltip": "Summon a non-combat vanity companion. Dismiss by cancelling its buff.\nMaster-mode drop."
+        },
+        "TriuneAltarItem": {
+          "DisplayName": "Triune Altar",
+          "Tooltip": "Craft Supreme summons, ore-free final picks, the three independent workstations and Triune armor here.\nCraft at the final Pantheon workstation after defeating Asterion; requires no Supreme ore."
+        }
+      },
+      "Buffs": {
+        "SupremePetBuff0": {
+          "DisplayName": "First-Dew Companion",
+          "Description": "A little spark of the beginning keeps you company."
+        },
+        "SupremeMinionBuff0": {
+          "DisplayName": "Worldtree Crown",
+          "Description": "A divine servant fights for you. Cancel this buff to dismiss it."
+        },
+        "SupremePetBuff1": {
+          "DisplayName": "Little Ember Companion",
+          "Description": "A little spark of the beginning keeps you company."
+        },
+        "SupremeMinionBuff1": {
+          "DisplayName": "Six-Winged Ember",
+          "Description": "A divine servant fights for you. Cancel this buff to dismiss it."
+        },
+        "SupremePetBuff2": {
+          "DisplayName": "A Fleeting Twilight",
+          "Description": "A little spark of the beginning keeps you company."
+        },
+        "SupremeMinionBuff2": {
+          "DisplayName": "Court of NoDay",
+          "Description": "A divine servant fights for you. Cancel this buff to dismiss it."
+        }
+      },
+      "Projectiles": {
+        "SupremePet0": {
+          "DisplayName": "First-Dew Companion"
+        },
+        "SupremeMinion0": {
+          "DisplayName": "Worldtree Crown"
+        },
+        "SupremePet1": {
+          "DisplayName": "Little Ember Companion"
+        },
+        "SupremeMinion1": {
+          "DisplayName": "Six-Winged Ember"
+        },
+        "SupremePet2": {
+          "DisplayName": "A Fleeting Twilight"
+        },
+        "SupremeMinion2": {
+          "DisplayName": "Court of NoDay"
+        },
+        "SupremeShot": {
+          "DisplayName": "Triune Weapon Projectile"
+        }
+      },
+      "Tiles": {
+        "SupremeRelicTile0": {
+          "MapEntry": "Miroen, Genesis of All Relic"
+        },
+        "SupremeTrophyTile0": {
+          "MapEntry": "Miroen, Genesis of All Trophy"
+        },
+        "SupremeRelicTile1": {
+          "MapEntry": "Velsa, the Final Conflagration Relic"
+        },
+        "SupremeTrophyTile1": {
+          "MapEntry": "Velsa, the Final Conflagration Trophy"
+        },
+        "SupremeRelicTile2": {
+          "MapEntry": "NoDay, Beyond the Last Fate Relic"
+        },
+        "SupremeTrophyTile2": {
+          "MapEntry": "NoDay, Beyond the Last Fate Trophy"
+        },
+        "TriuneAltarTile": {
+          "MapEntry": "Triune Altar"
+        }
+      },
+      "OathsEquipment": {
+        "ChoiceSelected": "Selected: {0}",
+        "GateReady": "This world's divine prerequisites are complete.",
+        "GateLocked": "Requires this world's Asterion victory and this god's Seed, ordinary and enhanced victories.",
+        "RequiresOath": "Defeat Asterion and this god's three earlier forms in this world",
+        "RequiresAsterion": "Defeat Asterion, Source of All Gods, in this world",
+        "ArmorSet": "Immune to knockback; add 6 life per second to natural regeneration (does not remove the post-hit regeneration delay)."
+      },
+      "Keybinds": {
+        "OathRewind": {
+          "DisplayName": "Final Rewind"
+        }
+      }
+    }
+  }
+}

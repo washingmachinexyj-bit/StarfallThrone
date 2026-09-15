@@ -1,0 +1,11 @@
+Mods: {
+  StarfallThrone: {
+    MiningRecipes: {
+      CopperOrTin: "铜锭或锡锭"
+      GoldOrPlatinum: "金锭或铂金锭"
+      IceOrSnow: "冰块或雪块"
+      DefeatMoonLord: "在当前世界击败月亮领主"
+      DefeatEndMoon: "在当前世界击败月神终焉"
+    }
+  }
+}

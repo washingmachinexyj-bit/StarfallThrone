@@ -1,0 +1,194 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "MossTumblerNPC": {
+          "DisplayName": "Moss Tumbler"
+        },
+        "PotHermitNPC": {
+          "DisplayName": "Pot Hermit"
+        },
+        "TatteredParasolNPC": {
+          "DisplayName": "Tattered Parasol"
+        },
+        "WickMothNPC": {
+          "DisplayName": "Wick Moth"
+        },
+        "FlintBurrowerNPC": {
+          "DisplayName": "Flint Burrower"
+        },
+        "BriarSproutNPC": {
+          "DisplayName": "Briar Sprout"
+        }
+      },
+      "Items": {
+        "MiniSummon0": {
+          "DisplayName": "Damp Moss Ball",
+          "Tooltip": "Summons Moss Tumbler at the forest surface\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive"
+        },
+        "MiniMaterial0": {
+          "DisplayName": "Moss Tuft",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy0": {
+          "DisplayName": "Moss Tumbler Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MiniSummon1": {
+          "DisplayName": "Cracked Bait Pot",
+          "Tooltip": "Summons Pot Hermit at the forest surface or ordinary shallow underground\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive"
+        },
+        "MiniMaterial1": {
+          "DisplayName": "Rounded Pottery",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy1": {
+          "DisplayName": "Pot Hermit Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MiniSummon2": {
+          "DisplayName": "Leaky Paper Parasol",
+          "Tooltip": "Summons Tattered Parasol at the forest surface at night\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive\nRequires defeating Pot Hermit in this world, even with an imported summon"
+        },
+        "MiniMaterial2": {
+          "DisplayName": "Spectral Cloth",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy2": {
+          "DisplayName": "Tattered Parasol Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MiniSummon3": {
+          "DisplayName": "Scented Lamp Wick",
+          "Tooltip": "Summons Wick Moth at the forest surface at night\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive\nRequires defeating Tattered Parasol in this world, even with an imported summon"
+        },
+        "MiniMaterial3": {
+          "DisplayName": "Glowing Moth Scales",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy3": {
+          "DisplayName": "Wick Moth Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MiniSummon4": {
+          "DisplayName": "Flint Rattle Bait",
+          "Tooltip": "Summons Flint Burrower at the forest surface or ordinary shallow underground\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive\nRequires defeating Wick Moth in this world, even with an imported summon"
+        },
+        "MiniMaterial4": {
+          "DisplayName": "Flint Fang",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy4": {
+          "DisplayName": "Flint Burrower Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MiniSummon5": {
+          "DisplayName": "Briarbound Sprout",
+          "Tooltip": "Summons Briar Sprout at the forest surface during daytime\nReusable; requires nearby open space\nCannot be used while another boss or miniboss is alive\nRequires defeating Flint Burrower in this world, even with an imported summon"
+        },
+        "MiniMaterial5": {
+          "DisplayName": "Living Wood Marrow",
+          "Tooltip": "Used to craft Little Aberration equipment and decorations"
+        },
+        "MiniTrophy5": {
+          "DisplayName": "Briar Sprout Figurine",
+          "Tooltip": "A collectible ground-placed figurine\nGrants no combat stats"
+        },
+        "MossInsoles": {
+          "DisplayName": "Moss Insoles",
+          "Tooltip": "Increases movement speed by 3%"
+        },
+        "PotBuckle": {
+          "DisplayName": "Pot Buckle",
+          "Tooltip": "Increases defense by 1"
+        },
+        "EmberPendant": {
+          "DisplayName": "Ember Pendant",
+          "Tooltip": "Increases movement speed by 3%\nProvides soft light; hiding the accessory hides the light"
+        },
+        "DiggingClaws": {
+          "DisplayName": "Digging Claws",
+          "Tooltip": "Reduces mining tool use intervals by 5%\nDoes not increase pickaxe power"
+        },
+        "SproutBadge": {
+          "DisplayName": "Sprout Badge",
+          "Tooltip": "Increases maximum life by 10 and defense by 1"
+        },
+        "UmbrellaVanity": {
+          "DisplayName": "Spectral Parasol Ornament",
+          "Tooltip": "Back vanity; grants no flight, slow fall, or combat stats"
+        },
+        "ClawFork": {
+          "DisplayName": "Crab Claw Fork",
+          "Tooltip": "A light, short twin-pronged melee fork"
+        },
+        "FoldedUmbrella": {
+          "DisplayName": "Folded Bone Parasol",
+          "Tooltip": "Fires a short-ranged spectral gust with strong knockback"
+        },
+        "WickWand": {
+          "DisplayName": "Wick Wand",
+          "Tooltip": "Fires a short-ranged glowing spark that illuminates its surroundings"
+        },
+        "FlintHammer": {
+          "DisplayName": "Flint Fang Hammer",
+          "Tooltip": "A stone combat hammer; cannot mine or hammer tiles"
+        },
+        "ThornBow": {
+          "DisplayName": "Thorn Sprout Bow",
+          "Tooltip": "Uses arrows as ammunition"
+        },
+        "MothLantern": {
+          "DisplayName": "Mothlight Lantern",
+          "Tooltip": "Hang beneath a solid block\nProvides warm light and counts as a housing light source"
+        }
+      },
+      "MiniChecklist": {
+        "MossTumbler": {
+          "SpawnInfo": "Use Damp Moss Ball at the forest surface. Crafted at a work bench, reusable, with no earlier miniboss requirement.",
+          "DespawnMessage": "Moss Tumbler retreats into hiding."
+        },
+        "PotHermit": {
+          "SpawnInfo": "Use Cracked Bait Pot at the forest surface or ordinary shallow underground. Crafted at a work bench, reusable, with no earlier miniboss requirement.",
+          "DespawnMessage": "Pot Hermit retreats into hiding."
+        },
+        "TatteredParasol": {
+          "SpawnInfo": "Use Leaky Paper Parasol at the forest surface at night. Crafted at a work bench, reusable, requires defeating Pot Hermit in this world; its recipe additionally consumes 3 Rounded Pottery.",
+          "DespawnMessage": "Tattered Parasol retreats into hiding."
+        },
+        "WickMoth": {
+          "SpawnInfo": "Use Scented Lamp Wick at the forest surface at night. Crafted at a work bench, reusable, requires defeating Tattered Parasol in this world; its recipe additionally consumes 3 Spectral Cloth.",
+          "DespawnMessage": "Wick Moth retreats into hiding."
+        },
+        "FlintBurrower": {
+          "SpawnInfo": "Use Flint Rattle Bait at the forest surface or ordinary shallow underground. Crafted at a work bench, reusable, requires defeating Wick Moth in this world; its recipe additionally consumes 3 Glowing Moth Scales.",
+          "DespawnMessage": "Flint Burrower retreats into hiding."
+        },
+        "BriarSprout": {
+          "SpawnInfo": "Use Briarbound Sprout at the forest surface during daytime. Crafted at a work bench, reusable, requires defeating Flint Burrower in this world; its recipe additionally consumes 3 Flint Fang.",
+          "DespawnMessage": "Briar Sprout retreats into hiding."
+        }
+      },
+      "MiniMessages": {
+        "SleepingMoss": "The mossy stone is snoring softly. Waking it will begin a miniboss fight.",
+        "WakeMoss": "Wake the moss"
+      },
+      "MiniBestiary": {
+        "MossTumbler": "A moss creature wearing a stone slab. Better at rolling than stopping.",
+        "PotHermit": "A pot is both home and armor. Its claws guard the opening.",
+        "TatteredParasol": "A faint spirit caught in a broken parasol.",
+        "WickMoth": "A lantern-bellied moth whose drifting scales warn travelers away.",
+        "FlintBurrower": "A shallow burrower whose flint teeth always leave cracks before it emerges.",
+        "BriarSprout": "A hollow stump protecting a tender sprout with a broken thorn crown."
+      },
+      "Tiles": {
+        "MiniDisplayTile": {
+          "MapEntry": "Little Aberration Figurine"
+        },
+        "MiniLanternTile": {
+          "MapEntry": "Mothlight Lantern"
+        }
+      }
+    }
+  }
+}

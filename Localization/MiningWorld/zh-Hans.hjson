@@ -1,0 +1,71 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "MiningWorld": {
+        "Description": "矿脉进度、旧世界补生成与建筑保护（输入 /starfallmining help）",
+        "Help": "/starfallmining status：查看13种矿物进度。\n/starfallmining generate confirm：房主确认后，为旧世界已击败的对应Boss补生成矿物，一种只生成一次。建议先备份世界并设置保护区。\n/starfallmining cultivation confirm：旧世界已解锁矿物只通过培晶槽取得，不改动地下。未来首次击败Boss仍按配置处理。\n/starfallmining pause 或 resume：暂停／继续已排队的矿脉生成，进度随世界保存。\n/starfallmining protect x1 y1 x2 y2：设置矩形保护区，坐标单位为方块，不是英尺。\n/starfallmining regions：列出保护区。\n/starfallmining unprotect 编号：移除指定保护区。\n/starfallmining selftest：仅运行内存逻辑自检，不生成方块。\n修改操作仅限单人玩家、联机房主或服务器控制台。原版挖掘不受保护区限制；保护区阻止新矿生成和模组范围开掘。",
+        "HostOnly": "此操作只能由房主或服务器控制台执行。",
+        "LegacyNotice": "【矿脉更新】此世界已击败部分对应Boss，地下尚未自动改动。请先备份并设置建筑保护区，再由房主输入 /starfallmining generate confirm 补生成，或 /starfallmining cultivation confirm 只使用培晶槽。输入 /starfallmining help 查看说明。",
+        "NewerSchema": "【矿脉保护】此世界使用更新的采矿存档版本。本版本已暂停矿脉生成并保留原始数据；请更新模组后再继续。",
+        "ConfirmGenerate": "请先备份世界并保护重要建筑。确认一次性补生成请完整输入 /starfallmining generate confirm。已生成的矿物不会再次铺矿。",
+        "ConfirmCultivation": "这会将当前等待选择的旧矿物设为仅培晶，不改动地下。确认请输入 /starfallmining cultivation confirm。",
+        "LegacyQueued": "旧世界矿脉已加入生成队列；生成将分批进行，可用 pause 暂停。",
+        "LegacyCultivation": "当前旧矿物已设为仅培晶，地下未改动。对应Boss解锁与正常合成仍然有效。",
+        "NoPending": "没有等待选择的旧矿物；已完成或已选择仅培晶的矿物不会重复生成。",
+        "Queued": "【矿脉苏醒】{0}已进入生成队列。需要{1}%镐力，可使用{2}；完成后将提示所在深度。",
+        "Completed": "【新矿脉】{0}已在{3}生成，共{1}格。需要{2}%镐力，可使用{4}。",
+        "CompletedSparse": "【矿脉保护】{0}已完成安全生成，共{1}格；建筑保护或可用石层不足限制了产量。位于{3}，需要{2}%镐力，可使用{4}。不足部分可用矿脉培晶槽补充，不会自动重复铺矿。",
+        "CultivationUnlocked": "【培晶解锁】{0}已解锁。房主设置关闭了自动铺矿，可通过矿脉培晶槽获得。",
+        "Status": "矿脉状态：已生成{0}/13，旧世界待选择{1}种，排队／生成中{2}种，仅培晶{3}种；自定义保护区{4}处。",
+        "StatusOre": "{0}：{1}；已生成{2}格。",
+        "StateDone": "已完成一次性生成",
+        "StatePending": "旧世界待房主选择",
+        "StateRunning": "排队／生成中",
+        "StateCultivation": "仅培晶",
+        "StateLocked": "尚未击败对应Boss",
+        "Paused": "矿脉生成已暂停。输入 /starfallmining resume 继续；进度随世界保存。",
+        "Resumed": "矿脉生成已继续。",
+        "Region": "保护区{0}：方块坐标（{1}, {2}）至（{3}, {4}）。",
+        "NoRegions": "尚未设置自定义保护区。出生点、城镇、箱子、家具、人工背景墙及已记录的改建区域仍受生成保护。",
+        "RegionAdded": "保护区已添加，已排队的矿脉也会跳过此区域。",
+        "RegionRemoved": "指定保护区已移除；不会重新生成之前跳过的矿物。",
+        "InvalidRegion": "保护区无效：坐标必须位于世界内，最多64处。输入 /starfallmining regions 查看编号。",
+        "Awakening0": "滚落的苔种钻入石缝，地下泛起了柔和的绿光。",
+        "Awakening1": "沉睡的铜髓在地下苏醒了。",
+        "Awakening2": "寒霜沿着岩层，凝结出新的晶纹。",
+        "Awakening3": "第一缕晨辉，照进了深埋的矿脉。",
+        "Awakening4": "帝王的凝晶渗入了大地深处。",
+        "Awakening5": "永劫余烬正在重铸地下的岩层。",
+        "Awakening6": "失控的星磁，在深岩中凝成矿脉。",
+        "Awakening7": "月神的余辉沉入大地，化作寂静的银白矿脉。",
+        "Awakening8": "破碎的环带沉入岩层，星骸开始结晶。",
+        "Awakening9": "地下的晶体，映出了不属于这个世界的色彩。",
+        "Awakening10": "恒生之根穿过深岩，孕育出新的矿脉。",
+        "Awakening11": "群星坐标已锚定大地，深岩之中亮起了航标。",
+        "Awakening12": "方舟的创生火种，正在地下孕育新的星辰。",
+        "Layer0": "浅层地下（森林下方较丰富）",
+        "Layer1": "浅层地下普通石层",
+        "Layer2": "浅层地下（雪原附近较丰富）",
+        "Layer3": "浅层地下至洞穴上缘",
+        "Layer4": "洞穴层",
+        "Layer5": "深层洞穴、地狱上方",
+        "Layer6": "洞穴中下层",
+        "Layer7": "洞穴层",
+        "Layer8": "洞穴层",
+        "Layer9": "洞穴层（地下神圣附近较丰富）",
+        "Layer10": "洞穴层（地下丛林附近较丰富）",
+        "Layer11": "深层洞穴",
+        "Layer12": "洞穴中下层"
+      },
+      "Configs": {
+        "MiningWorldConfig": {
+          "DisplayName": "矿脉生成与保护",
+          "GenerateOnFutureFirstKills": { "Label": "未来首次击败Boss时生成矿物", "Tooltip": "关闭后，未来新解锁矿物只能通过培晶槽取得。不会改变已排队的任务；旧世界补生成始终需要房主主动确认。" },
+          "SpawnProtectionRadius": { "Label": "出生点保护半径（格）", "Tooltip": "新矿物不会在出生点附近的正方形区域生成。不会阻止玩家普通挖掘。" },
+          "StructurePadding": { "Label": "建筑额外保护距离（格）", "Tooltip": "生成矿脉前检查周围家具、人工墙、机关、染色方块、地牢和神庙。已有无标记的石制建筑无法可靠识别，建议使用命令添加保护区。" },
+          "AttemptsPerTick": { "Label": "每帧最大生成候选数", "Tooltip": "较低值减少单帧工作量。每个候选后还会检查2毫秒软时间预算；生成数量与保存进度不受影响。" }
+        }
+      }
+    }
+  }
+}

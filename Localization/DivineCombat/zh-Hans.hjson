@@ -1,0 +1,19 @@
+Mods: {
+  StarfallThrone: {
+    NPCs: {
+      DivineBoss0: { DisplayName: "原露之神·弥露恩" }
+      DivineBoss1: { DisplayName: "烬誓之神·维尔萨" }
+      DivineBoss2: { DisplayName: "天命之神·无昼" }
+      DivineBrazier: { DisplayName: "破誓火盆" }
+    }
+    Projectiles: { DivineHazard: { DisplayName: "神约试炼" } }
+    DivineCombat: {
+      Bestiary0: 王冠尚未诞生时，第一滴露水便已拥有神性。循着露印的顺序，寻找落地与反击的时机。
+      Bestiary1: 在血肉撕开世界之前，先证明你的誓言经得起燃烧。击打开启的两座火盆，可使神明失衡。
+      Bestiary2: 月亮尚未坠落，你却已试图越过命定的终点。命痕会重演你经过的道路，但不会倒转你的生命。
+      Expired: "{0}的时代已经结束，神约试炼终止。"
+      Abandoned: "失去挑战者的回应，{0}收回了神约。"
+      Interrupted: "另一场首领战打断了仪式，{0}暂时收回了神约。"
+    }
+  }
+}

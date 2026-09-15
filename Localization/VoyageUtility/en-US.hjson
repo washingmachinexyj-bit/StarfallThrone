@@ -1,0 +1,439 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageUtility0": {
+          "DisplayName": "Cargo Terminal",
+          "Tooltip": "Placeable\nRight-click to open a 40-slot personal cargo hold shared by all Cargo Terminals\nSaved with your character; breaking a terminal never spills or clears the hold\nLeft-click swaps, right-click splits, Shift-click withdraws; manual Quick Stack supported\nNever automatically imports inventory items"
+        },
+        "VoyageUtility1": {
+          "DisplayName": "Farwatch Searchlight",
+          "Tooltip": "Summons a survey searchlight drone\nUses the light-pet slot, not minion slots; deals no damage\nFollows you and lights a short path ahead without shining through solid blocks"
+        },
+        "VoyageUtility2": {
+          "DisplayName": "Belt Engineering Drill",
+          "Tooltip": "350% pickaxe power and +6 tile tool reach\nHold to mine precisely, including Ringwreck Ore\nCraft at the Voyage Workbench using Belt materials, its gravity core and Silentmoon ingots\nNo area mining and no bypassing block mining requirements"
+        },
+        "VoyageUtility3": {
+          "DisplayName": "Hive Repair Station",
+          "Tooltip": "Placeable\nRight-click for 10 minutes of Royal Maintenance\nGrants +10 defense and +40 maximum mana\nRepeated use refreshes the timer, does not stack, and does not heal"
+        },
+        "VoyageUtility4": {
+          "DisplayName": "Homeward Locator",
+          "Tooltip": "Hold use while standing still for 2 seconds to return near a valid bed or world spawn\nMovement, damage, releasing use or changing items interrupts recall\nDisabled during bosses, minibosses, invasions and moon events\nGrants no immunity or healing and never modifies terrain"
+        },
+        "VoyageUtility5": {
+          "DisplayName": "Everliving Ecology Lamp",
+          "Tooltip": "Placeable\nProvides soft green illumination and counts as a housing light\nA sealed specimen of interstellar ecology\nDoes not spread biomes or alter the environment"
+        },
+        "VoyageUtility6": {
+          "DisplayName": "Precursor Builder",
+          "Tooltip": "Accessory\n+4 tile placement reach and +50% block/wall placement speed\nDisplays a footprint and range guide while holding building materials\nCyan means within reach only; anchors and space must still permit placement\nConsumes building materials normally"
+        },
+        "VoyageUtility7": {
+          "DisplayName": "Star Chart Table",
+          "Tooltip": "Placeable\nRight-click to inspect all 17 Star Voyage encounters\nShows kills, summon prerequisites, material uses, weapons and armor milestones\nUses the synchronized progression of the current multiplayer world"
+        },
+        "VoyageUtility8": {
+          "DisplayName": "Miniature Ark Display",
+          "Tooltip": "Placeable\nRight-click to cycle Ark Hull, Orbital Array and Artificial Star displays\nIts state is saved in the furniture tiles and synchronized in multiplayer\nPurely decorative; grants no combat benefits"
+        },
+        "VoyageFurniture0": {
+          "DisplayName": "Starport Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture1": {
+          "DisplayName": "Starport Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture2": {
+          "DisplayName": "Starport Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture3": {
+          "DisplayName": "Starport Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture4": {
+          "DisplayName": "Starport Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture5": {
+          "DisplayName": "Farwatch Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture6": {
+          "DisplayName": "Farwatch Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture7": {
+          "DisplayName": "Farwatch Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture8": {
+          "DisplayName": "Farwatch Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture9": {
+          "DisplayName": "Farwatch Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture10": {
+          "DisplayName": "Starwreck Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture11": {
+          "DisplayName": "Starwreck Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture12": {
+          "DisplayName": "Starwreck Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture13": {
+          "DisplayName": "Starwreck Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture14": {
+          "DisplayName": "Starwreck Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture15": {
+          "DisplayName": "Consensus Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture16": {
+          "DisplayName": "Consensus Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture17": {
+          "DisplayName": "Consensus Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture18": {
+          "DisplayName": "Consensus Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture19": {
+          "DisplayName": "Consensus Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture20": {
+          "DisplayName": "Royal Hive Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture21": {
+          "DisplayName": "Royal Hive Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture22": {
+          "DisplayName": "Royal Hive Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture23": {
+          "DisplayName": "Royal Hive Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture24": {
+          "DisplayName": "Royal Hive Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture25": {
+          "DisplayName": "Orbital Anchor Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture26": {
+          "DisplayName": "Orbital Anchor Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture27": {
+          "DisplayName": "Orbital Anchor Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture28": {
+          "DisplayName": "Orbital Anchor Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture29": {
+          "DisplayName": "Orbital Anchor Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture30": {
+          "DisplayName": "Warp Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture31": {
+          "DisplayName": "Warp Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture32": {
+          "DisplayName": "Warp Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture33": {
+          "DisplayName": "Warp Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture34": {
+          "DisplayName": "Warp Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture35": {
+          "DisplayName": "Crystal Orbit Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture36": {
+          "DisplayName": "Crystal Orbit Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture37": {
+          "DisplayName": "Crystal Orbit Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture38": {
+          "DisplayName": "Crystal Orbit Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture39": {
+          "DisplayName": "Crystal Orbit Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture40": {
+          "DisplayName": "Binary Star Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture41": {
+          "DisplayName": "Binary Star Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture42": {
+          "DisplayName": "Binary Star Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture43": {
+          "DisplayName": "Binary Star Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture44": {
+          "DisplayName": "Binary Star Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture45": {
+          "DisplayName": "Tribunal Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture46": {
+          "DisplayName": "Tribunal Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture47": {
+          "DisplayName": "Tribunal Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture48": {
+          "DisplayName": "Tribunal Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture49": {
+          "DisplayName": "Tribunal Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture50": {
+          "DisplayName": "Starfleet Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture51": {
+          "DisplayName": "Starfleet Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture52": {
+          "DisplayName": "Starfleet Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture53": {
+          "DisplayName": "Starfleet Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture54": {
+          "DisplayName": "Starfleet Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture55": {
+          "DisplayName": "Worldseed Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture56": {
+          "DisplayName": "Worldseed Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture57": {
+          "DisplayName": "Worldseed Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture58": {
+          "DisplayName": "Worldseed Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture59": {
+          "DisplayName": "Worldseed Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture60": {
+          "DisplayName": "Precursor Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture61": {
+          "DisplayName": "Precursor Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture62": {
+          "DisplayName": "Precursor Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture63": {
+          "DisplayName": "Precursor Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture64": {
+          "DisplayName": "Precursor Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture65": {
+          "DisplayName": "Aether Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture66": {
+          "DisplayName": "Aether Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture67": {
+          "DisplayName": "Aether Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture68": {
+          "DisplayName": "Aether Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture69": {
+          "DisplayName": "Aether Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture70": {
+          "DisplayName": "Solar Sail Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture71": {
+          "DisplayName": "Solar Sail Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture72": {
+          "DisplayName": "Solar Sail Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture73": {
+          "DisplayName": "Solar Sail Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture74": {
+          "DisplayName": "Solar Sail Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture75": {
+          "DisplayName": "Navigator Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture76": {
+          "DisplayName": "Navigator Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture77": {
+          "DisplayName": "Navigator Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture78": {
+          "DisplayName": "Navigator Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture79": {
+          "DisplayName": "Navigator Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        },
+        "VoyageFurniture80": {
+          "DisplayName": "Celestial Ark Emblem Plaque",
+          "Tooltip": "Place on a background wall\nA decorative boss insignia; no combat effect"
+        },
+        "VoyageFurniture81": {
+          "DisplayName": "Celestial Ark Specimen Lamp",
+          "Tooltip": "Placeable\nA theme-colored light that counts for housing"
+        },
+        "VoyageFurniture82": {
+          "DisplayName": "Celestial Ark Memorial Statue",
+          "Tooltip": "Placeable\nA decorative memorial to this boss; no combat effect"
+        },
+        "VoyageFurniture83": {
+          "DisplayName": "Celestial Ark Gangway Platform",
+          "Tooltip": "Placeable\nA pass-through platform that can be hammered into stairs; consumes materials normally"
+        },
+        "VoyageFurniture84": {
+          "DisplayName": "Celestial Ark Bulkhead Block",
+          "Tooltip": "Placeable\nTheme-colored bulkhead masonry; supports slopes and consumes materials normally"
+        }
+      },
+      "Buffs": {
+        "VoyageRepairBuff": {
+          "DisplayName": "Royal Maintenance",
+          "Description": "Defense increased by 10 and maximum mana increased by 40"
+        },
+        "VoyageSearchlightBuff": {
+          "DisplayName": "Farwatch Searchlight",
+          "Description": "A dependable light accompanies you through the dark"
+        }
+      },
+      "Projectiles": {
+        "VoyageSearchlightPet": {
+          "DisplayName": "Survey Searchlight Drone"
+        },
+        "VoyageEngineeringDrill": {
+          "DisplayName": "Belt Engineering Drill"
+        }
+      },
+      "VoyageUtilityUI": {
+        "Close": "Close",
+        "CargoTitle": "Personal Cargo Hold - 40 slots",
+        "QuickStack": "Quick Stack",
+        "LootAll": "Loot All",
+        "CargoHint": "Shift-click to withdraw",
+        "Recalling": "Locating home - remain still",
+        "ChartTitle": "Star Voyage - Navigation Chart",
+        "ClearedShort": "Done",
+        "ReadyShort": "Ready",
+        "LockedShort": "Lock",
+        "Cleared": "Encounter completed",
+        "Ready": "Prerequisite complete; signal ready",
+        "Locked": "Complete the preceding encounter first",
+        "Summon": "Summon: ",
+        "Requires": "Unlock: defeat ",
+        "OriginalFinal": "Moon God's End",
+        "FirstRecipe": "At Star Voyage Workbench: Star Voyage Alloy x8, Gel x25, Moon God Core x1",
+        "LaterRecipe": "At Star Voyage Workbench: Star Voyage Alloy x8, ",
+        "Material": "Principal loot: ",
+        "MaterialUses": "Materials craft encounter weapons, themed furniture, composite plates and the next encounter's summon.",
+        "CoreUses": "Cores craft encounter weapons, advanced accessories, utility tools or milestone armor. Keep some in reserve.",
+        "Weapons": "Encounter weapons: ",
+        "Plate": "Composite route: ",
+        "Armor": "Armor milestone: ",
+        "ArmorTier0": "Star Voyage Pioneer",
+        "ArmorTier1": "Starport Link",
+        "ArmorTier2": "Colonial Court",
+        "ArmorTier3": "Deep-Space Formation",
+        "ArmorTier4": "Precursor Pathfinder",
+        "ArmorTier5": "Celestial Ark",
+        "ArmorHelp": "Every set offers melee, ranged, magic and summon helmets. Composite plates use materials from all four bosses in a group; armor pieces also require that group's cores.",
+        "Next": "Next signal: ",
+        "AllClear": "Every route completed. The Celestial Ark awaits no further voyage.",
+        "ScrollUp": "Up",
+        "ScrollDown": "Down"
+      }
+    }
+  }
+}

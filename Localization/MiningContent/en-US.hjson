@@ -1,0 +1,286 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "MiningOre0": {
+          "DisplayName": "Mossvein Ore",
+          "Tooltip": "Requires 35% pickaxe power; can be placed\nGenerated in the shallow underground after the corresponding boss is first defeated\nRefine 3 ore into one ingot at the Dewshell Handcraft Bench\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar0": {
+          "DisplayName": "Mossvein Ingot",
+          "Tooltip": "Used for gathering accessories, route markers and crystal cultivation\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent0": {
+          "DisplayName": "Mossvein Component",
+          "Tooltip": "Specialized component made from Mossvein ingots\nUsed for gathering accessories, route markers and crystal cultivation\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre1": {
+          "DisplayName": "Coppermarrow Ore",
+          "Tooltip": "Requires 40% pickaxe power; can be placed\nGenerated in the shallow underground after the corresponding boss is first defeated\nRefine 3 ore into one ingot at the Rootfire Workshop\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar1": {
+          "DisplayName": "Coppermarrow Ingot",
+          "Tooltip": "Used for early structural equipment and surveying tools\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent1": {
+          "DisplayName": "Coppermarrow Component",
+          "Tooltip": "Specialized component made from Coppermarrow ingots\nUsed for early structural equipment and surveying tools\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre2": {
+          "DisplayName": "Frostrune Ore",
+          "Tooltip": "Requires 45% pickaxe power; can be placed\nGenerated in the shallow underground after the corresponding boss is first defeated\nRefine 3 ore into one ingot at the Frostrune Workshop\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar2": {
+          "DisplayName": "Frostrune Ingot",
+          "Tooltip": "Used for precision tools, mining lamps and Dawn pickaxe\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent2": {
+          "DisplayName": "Frostrune Component",
+          "Tooltip": "Specialized component made from Frostrune ingots\nUsed for precision tools, mining lamps and Dawn pickaxe\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre3": {
+          "DisplayName": "Dawn Ore",
+          "Tooltip": "Requires 50% pickaxe power; can be placed\nGenerated in the shallow underground after the corresponding boss is first defeated\nRefine 3 ore into one ingot at the Frostrune Workshop\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar3": {
+          "DisplayName": "Dawn Ingot",
+          "Tooltip": "Used for Dawn equipment, gathering badge and permanent lighting\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent3": {
+          "DisplayName": "Dawn Component",
+          "Tooltip": "Specialized component made from Dawn ingots\nUsed for Dawn equipment, gathering badge and permanent lighting\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre4": {
+          "DisplayName": "Imperial Gelcrystal Ore",
+          "Tooltip": "Requires 230% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Starfall Foundry\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar4": {
+          "DisplayName": "Imperial Gelcrystal Ingot",
+          "Tooltip": "Used for post-Moon armor, shields and Eternal drill\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent4": {
+          "DisplayName": "Imperial Gelcrystal Component",
+          "Tooltip": "Specialized component made from Imperial Gelcrystal ingots\nUsed for post-Moon armor, shields and Eternal drill\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre5": {
+          "DisplayName": "Doomfire Ore",
+          "Tooltip": "Requires 260% pickaxe power; can be placed\nGenerated in the deep caverns above the Underworld after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Eternal Fusion Furnace\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar5": {
+          "DisplayName": "Doomfire Ingot",
+          "Tooltip": "Used for thermal equipment, fusion furnace and magnetic pickaxe\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent5": {
+          "DisplayName": "Doomfire Component",
+          "Tooltip": "Specialized component made from Doomfire ingots\nUsed for thermal equipment, fusion furnace and magnetic pickaxe\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre6": {
+          "DisplayName": "Starmagnet Ore",
+          "Tooltip": "Requires 290% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Astral Forge\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar6": {
+          "DisplayName": "Starmagnet Ingot",
+          "Tooltip": "Used for mechanical equipment, gathering magnet and Silentmoon pickaxe\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent6": {
+          "DisplayName": "Starmagnet Component",
+          "Tooltip": "Specialized component made from Starmagnet ingots\nUsed for mechanical equipment, gathering magnet and Silentmoon pickaxe\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre7": {
+          "DisplayName": "Silentmoon Ore",
+          "Tooltip": "Requires 320% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Astral Forge\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar7": {
+          "DisplayName": "Silentmoon Ingot",
+          "Tooltip": "Used for Voyage entry gear, surveyor and ringbelt drill\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent7": {
+          "DisplayName": "Silentmoon Component",
+          "Tooltip": "Specialized component made from Silentmoon ingots\nUsed for Voyage entry gear, surveyor and ringbelt drill\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre8": {
+          "DisplayName": "Ringwreck Ore",
+          "Tooltip": "Requires 340% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Ringbelt Heavy Works\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar8": {
+          "DisplayName": "Ringwreck Ingot",
+          "Tooltip": "Used for ship armor, heavy engineering and prism pickaxe\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent8": {
+          "DisplayName": "Ringwreck Component",
+          "Tooltip": "Specialized component made from Ringwreck ingots\nUsed for ship armor, heavy engineering and prism pickaxe\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre9": {
+          "DisplayName": "Prismphase Ore",
+          "Tooltip": "Requires 380% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Crystal Refraction Bench\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar9": {
+          "DisplayName": "Prismphase Ingot",
+          "Tooltip": "Used for optical gear, spectrum lens and Everlife drill\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent9": {
+          "DisplayName": "Prismphase Component",
+          "Tooltip": "Specialized component made from Prismphase ingots\nUsed for optical gear, spectrum lens and Everlife drill\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre10": {
+          "DisplayName": "Everlife Ore",
+          "Tooltip": "Requires 430% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Everlife Reactor\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar10": {
+          "DisplayName": "Everlife Ingot",
+          "Tooltip": "Used for ecological and summon gear, cultivation chamber and coordinate cutter\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent10": {
+          "DisplayName": "Everlife Component",
+          "Tooltip": "Specialized component made from Everlife ingots\nUsed for ecological and summon gear, cultivation chamber and coordinate cutter\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre11": {
+          "DisplayName": "Coordinate Ore",
+          "Tooltip": "Requires 480% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Star Coordinate Loom\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar11": {
+          "DisplayName": "Coordinate Ingot",
+          "Tooltip": "Used for final-battle preparations, navigator and Ark drill\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent11": {
+          "DisplayName": "Coordinate Component",
+          "Tooltip": "Specialized component made from Coordinate ingots\nUsed for final-battle preparations, navigator and Ark drill\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningOre12": {
+          "DisplayName": "Genesis Ore",
+          "Tooltip": "Requires 550% pickaxe power; can be placed\nGenerated in the cavern layer after the corresponding boss is first defeated\nRefine 4 ore into one ingot at the Celestial Genesis Hub\nCannot be blasted or block-swapped; old worlds may opt into generation or cultivate crystals"
+        },
+        "MiningBar12": {
+          "DisplayName": "Genesis Source Core",
+          "Tooltip": "Used for post-completion Ark equipment, genesis facilities and engineering refit\nRefine into specialized components; show the Guide to see recipes"
+        },
+        "MiningComponent12": {
+          "DisplayName": "Genesis Component",
+          "Tooltip": "Specialized component made from Genesis ingots\nUsed for post-completion Ark equipment, genesis facilities and engineering refit\nThis crafting material grants no equipment effects on its own"
+        },
+        "MiningStationItem0": {
+          "DisplayName": "Dewshell Handcraft Bench",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nThe beginning of woodland handcrafting\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem1": {
+          "DisplayName": "Rootfire Workshop",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem2": {
+          "DisplayName": "Frostrune Workshop",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem3": {
+          "DisplayName": "Starfall Foundry",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nPost-Moon entry station; independent of early workshops\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem4": {
+          "DisplayName": "Eternal Fusion Furnace",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem5": {
+          "DisplayName": "Astral Forge",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem7": {
+          "DisplayName": "Ringbelt Heavy Works",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem8": {
+          "DisplayName": "Crystal Refraction Bench",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem9": {
+          "DisplayName": "Everlife Reactor",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem10": {
+          "DisplayName": "Star Coordinate Loom",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "MiningStationItem11": {
+          "DisplayName": "Celestial Genesis Hub",
+          "Tooltip": "Can be placed\nCrafting and refining station for its progression stage\nInherits earlier stations within this crafting ladder\nMake the new mining tool at the previous station; upgrade the station using raw ore"
+        },
+        "ShellPatternFragment": {
+          "DisplayName": "Patterned Shell Fragment",
+          "Tooltip": "Dewshell drops six extra fragments per defeat\nUsed for the handcraft bench, shell pickaxe and gathering accessories\nExisting loot is unchanged"
+        }
+      },
+      "Tiles": {
+        "MiningOreTile0": {
+          "MapEntry": "Mossvein Ore"
+        },
+        "MiningOreTile1": {
+          "MapEntry": "Coppermarrow Ore"
+        },
+        "MiningOreTile2": {
+          "MapEntry": "Frostrune Ore"
+        },
+        "MiningOreTile3": {
+          "MapEntry": "Dawn Ore"
+        },
+        "MiningOreTile4": {
+          "MapEntry": "Imperial Gelcrystal Ore"
+        },
+        "MiningOreTile5": {
+          "MapEntry": "Doomfire Ore"
+        },
+        "MiningOreTile6": {
+          "MapEntry": "Starmagnet Ore"
+        },
+        "MiningOreTile7": {
+          "MapEntry": "Silentmoon Ore"
+        },
+        "MiningOreTile8": {
+          "MapEntry": "Ringwreck Ore"
+        },
+        "MiningOreTile9": {
+          "MapEntry": "Prismphase Ore"
+        },
+        "MiningOreTile10": {
+          "MapEntry": "Everlife Ore"
+        },
+        "MiningOreTile11": {
+          "MapEntry": "Coordinate Ore"
+        },
+        "MiningOreTile12": {
+          "MapEntry": "Genesis Ore"
+        },
+        "MiningStationTile0": {
+          "MapEntry": "Dewshell Handcraft Bench"
+        },
+        "MiningStationTile1": {
+          "MapEntry": "Rootfire Workshop"
+        },
+        "MiningStationTile2": {
+          "MapEntry": "Frostrune Workshop"
+        },
+        "MiningStationTile3": {
+          "MapEntry": "Starfall Foundry"
+        },
+        "MiningStationTile4": {
+          "MapEntry": "Eternal Fusion Furnace"
+        },
+        "MiningStationTile5": {
+          "MapEntry": "Astral Forge"
+        },
+        "MiningStationTile7": {
+          "MapEntry": "Ringbelt Heavy Works"
+        },
+        "MiningStationTile8": {
+          "MapEntry": "Crystal Refraction Bench"
+        },
+        "MiningStationTile9": {
+          "MapEntry": "Everlife Reactor"
+        },
+        "MiningStationTile10": {
+          "MapEntry": "Star Coordinate Loom"
+        },
+        "MiningStationTile11": {
+          "MapEntry": "Celestial Genesis Hub"
+        }
+      }
+    }
+  }
+}

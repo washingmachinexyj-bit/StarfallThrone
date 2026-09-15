@@ -1,0 +1,11 @@
+Mods: {
+  StarfallThrone: {
+    MiningRecipes: {
+      CopperOrTin: "Copper or Tin Bar"
+      GoldOrPlatinum: "Gold or Platinum Bar"
+      IceOrSnow: "Ice or Snow Block"
+      DefeatMoonLord: "Defeat Moon Lord in this world"
+      DefeatEndMoon: "Defeat End Moon in this world"
+    }
+  }
+}

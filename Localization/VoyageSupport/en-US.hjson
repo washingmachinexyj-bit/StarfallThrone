@@ -1,0 +1,528 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageMaterial0": {
+          "DisplayName": "Starport Gel",
+          "Tooltip": "Main loot of Starport Gel Sovereign\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore0": {
+          "DisplayName": "Cargo Control Chip",
+          "Tooltip": "Core loot of Starport Gel Sovereign\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon0": {
+          "DisplayName": "Lost Cargo Beacon",
+          "Tooltip": "Summons Starport Gel Sovereign\nReusable; not consumed\nThis world must first defeat End Moon\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag0": {
+          "DisplayName": "Starport Gel Sovereign Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic0": {
+          "DisplayName": "Starport Gel Sovereign Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy0": {
+          "DisplayName": "Starport Gel Sovereign Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask0": {
+          "DisplayName": "Starport Gel Sovereign Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial1": {
+          "DisplayName": "Observation Lens",
+          "Tooltip": "Main loot of Farwatcher\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore1": {
+          "DisplayName": "Farwatcher Array Core",
+          "Tooltip": "Core loot of Farwatcher\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon1": {
+          "DisplayName": "Farwatcher Calibration Scope",
+          "Tooltip": "Summons Farwatcher\nReusable; not consumed\nThis world must first defeat Starport Gel Sovereign\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag1": {
+          "DisplayName": "Farwatcher Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic1": {
+          "DisplayName": "Farwatcher Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy1": {
+          "DisplayName": "Farwatcher Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask1": {
+          "DisplayName": "Farwatcher Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial2": {
+          "DisplayName": "Starwreck Plate",
+          "Tooltip": "Main loot of Starwreck Belt Devourer\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore2": {
+          "DisplayName": "Belt Gravity Core",
+          "Tooltip": "Core loot of Starwreck Belt Devourer\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon2": {
+          "DisplayName": "Belt Resonance Fork",
+          "Tooltip": "Summons Starwreck Belt Devourer\nReusable; not consumed\nThis world must first defeat Farwatcher\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag2": {
+          "DisplayName": "Starwreck Belt Devourer Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic2": {
+          "DisplayName": "Starwreck Belt Devourer Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy2": {
+          "DisplayName": "Starwreck Belt Devourer Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask2": {
+          "DisplayName": "Starwreck Belt Devourer Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial3": {
+          "DisplayName": "Consensus Nerve Bundle",
+          "Tooltip": "Main loot of Consensus\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore3": {
+          "DisplayName": "Many-Mind Master Node",
+          "Tooltip": "Core loot of Consensus\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon3": {
+          "DisplayName": "Consensus Invitation Terminal",
+          "Tooltip": "Summons Consensus\nReusable; not consumed\nThis world must first defeat Starwreck Belt Devourer\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag3": {
+          "DisplayName": "Consensus Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic3": {
+          "DisplayName": "Consensus Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy3": {
+          "DisplayName": "Consensus Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask3": {
+          "DisplayName": "Consensus Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial4": {
+          "DisplayName": "Hive Ship Plate",
+          "Tooltip": "Main loot of Golden Court Hive Carrier\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore4": {
+          "DisplayName": "Court Command Core",
+          "Tooltip": "Core loot of Golden Court Hive Carrier\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon4": {
+          "DisplayName": "Court Flight Transponder",
+          "Tooltip": "Summons Golden Court Hive Carrier\nReusable; not consumed\nThis world must first defeat Consensus\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag4": {
+          "DisplayName": "Golden Court Hive Carrier Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic4": {
+          "DisplayName": "Golden Court Hive Carrier Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy4": {
+          "DisplayName": "Golden Court Hive Carrier Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask4": {
+          "DisplayName": "Golden Court Hive Carrier Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial5": {
+          "DisplayName": "Orbital Anchor Steel",
+          "Tooltip": "Main loot of Orbital Anchor Marshal\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore5": {
+          "DisplayName": "Anchor Servo Core",
+          "Tooltip": "Core loot of Orbital Anchor Marshal\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon5": {
+          "DisplayName": "Orbital Anchor Signal",
+          "Tooltip": "Summons Orbital Anchor Marshal\nReusable; not consumed\nThis world must first defeat Golden Court Hive Carrier\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag5": {
+          "DisplayName": "Orbital Anchor Marshal Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic5": {
+          "DisplayName": "Orbital Anchor Marshal Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy5": {
+          "DisplayName": "Orbital Anchor Marshal Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask5": {
+          "DisplayName": "Orbital Anchor Marshal Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial6": {
+          "DisplayName": "Warp Membrane",
+          "Tooltip": "Main loot of Warp Bulwark\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore6": {
+          "DisplayName": "Gate Stability Core",
+          "Tooltip": "Core loot of Warp Bulwark\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon6": {
+          "DisplayName": "Blockade Access Key",
+          "Tooltip": "Summons Warp Bulwark\nReusable; not consumed\nThis world must first defeat Orbital Anchor Marshal\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag6": {
+          "DisplayName": "Warp Bulwark Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic6": {
+          "DisplayName": "Warp Bulwark Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy6": {
+          "DisplayName": "Warp Bulwark Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask6": {
+          "DisplayName": "Warp Bulwark Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial7": {
+          "DisplayName": "Scintillant Prism",
+          "Tooltip": "Main loot of Scintilla\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore7": {
+          "DisplayName": "Crystal Orbit Core",
+          "Tooltip": "Core loot of Scintilla\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon7": {
+          "DisplayName": "Orbit Tuning Bell",
+          "Tooltip": "Summons Scintilla\nReusable; not consumed\nThis world must first defeat Warp Bulwark\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag7": {
+          "DisplayName": "Scintilla Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic7": {
+          "DisplayName": "Scintilla Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy7": {
+          "DisplayName": "Scintilla Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask7": {
+          "DisplayName": "Scintilla Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial8": {
+          "DisplayName": "Binary Conduction Fin",
+          "Tooltip": "Main loot of Binary Hunters\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore8": {
+          "DisplayName": "Dual-Phase Reactor",
+          "Tooltip": "Core loot of Binary Hunters\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon8": {
+          "DisplayName": "Binary Rendezvous Signal",
+          "Tooltip": "Summons Binary Hunters\nReusable; not consumed\nThis world must first defeat Scintilla\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag8": {
+          "DisplayName": "Binary Hunters Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic8": {
+          "DisplayName": "Binary Hunters Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy8": {
+          "DisplayName": "Binary Hunters Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask8": {
+          "DisplayName": "Binary Hunters Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial9": {
+          "DisplayName": "Tribunal Armament Joint",
+          "Tooltip": "Main loot of Orbital Tribunal\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore9": {
+          "DisplayName": "Four-Arm Arbitration Core",
+          "Tooltip": "Core loot of Orbital Tribunal\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon9": {
+          "DisplayName": "Tribunal Arbitration Writ",
+          "Tooltip": "Summons Orbital Tribunal\nReusable; not consumed\nThis world must first defeat Binary Hunters\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag9": {
+          "DisplayName": "Orbital Tribunal Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic9": {
+          "DisplayName": "Orbital Tribunal Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy9": {
+          "DisplayName": "Orbital Tribunal Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask9": {
+          "DisplayName": "Orbital Tribunal Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial10": {
+          "DisplayName": "Fleet Armor Plate",
+          "Tooltip": "Main loot of Sunpiercer\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore10": {
+          "DisplayName": "Sunpiercer Reactor",
+          "Tooltip": "Core loot of Sunpiercer\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon10": {
+          "DisplayName": "Fleet Command Baton",
+          "Tooltip": "Summons Sunpiercer\nReusable; not consumed\nThis world must first defeat Orbital Tribunal\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag10": {
+          "DisplayName": "Sunpiercer Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic10": {
+          "DisplayName": "Sunpiercer Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy10": {
+          "DisplayName": "Sunpiercer Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask10": {
+          "DisplayName": "Sunpiercer Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial11": {
+          "DisplayName": "Everliving Root Fiber",
+          "Tooltip": "Main loot of Worldseed\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore11": {
+          "DisplayName": "Worldseed Heart",
+          "Tooltip": "Core loot of Worldseed\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon11": {
+          "DisplayName": "Worldseed Incubation Pod",
+          "Tooltip": "Summons Worldseed\nReusable; not consumed\nThis world must first defeat Sunpiercer\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag11": {
+          "DisplayName": "Worldseed Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic11": {
+          "DisplayName": "Worldseed Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy11": {
+          "DisplayName": "Worldseed Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask11": {
+          "DisplayName": "Worldseed Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial12": {
+          "DisplayName": "Precursor Geometry Block",
+          "Tooltip": "Main loot of Precursor Guardian\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore12": {
+          "DisplayName": "Megastructure Heartkey",
+          "Tooltip": "Core loot of Precursor Guardian\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon12": {
+          "DisplayName": "Precursor Geometry Key",
+          "Tooltip": "Summons Precursor Guardian\nReusable; not consumed\nThis world must first defeat Worldseed\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag12": {
+          "DisplayName": "Precursor Guardian Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic12": {
+          "DisplayName": "Precursor Guardian Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy12": {
+          "DisplayName": "Precursor Guardian Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask12": {
+          "DisplayName": "Precursor Guardian Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial13": {
+          "DisplayName": "Aether Fin Membrane",
+          "Tooltip": "Main loot of Aether Leviathan\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore13": {
+          "DisplayName": "Leviathan Heart",
+          "Tooltip": "Core loot of Aether Leviathan\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon13": {
+          "DisplayName": "Aether Cruising Conch",
+          "Tooltip": "Summons Aether Leviathan\nReusable; not consumed\nThis world must first defeat Precursor Guardian\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag13": {
+          "DisplayName": "Aether Leviathan Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic13": {
+          "DisplayName": "Aether Leviathan Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy13": {
+          "DisplayName": "Aether Leviathan Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask13": {
+          "DisplayName": "Aether Leviathan Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial14": {
+          "DisplayName": "Solar Sail Crystal",
+          "Tooltip": "Main loot of Solar Sail Empress\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore14": {
+          "DisplayName": "Spectrum Focus Core",
+          "Tooltip": "Core loot of Solar Sail Empress\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon14": {
+          "DisplayName": "Folded Solar Sail Butterfly",
+          "Tooltip": "Summons Solar Sail Empress\nReusable; not consumed\nThis world must first defeat Aether Leviathan\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag14": {
+          "DisplayName": "Solar Sail Empress Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic14": {
+          "DisplayName": "Solar Sail Empress Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy14": {
+          "DisplayName": "Solar Sail Empress Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask14": {
+          "DisplayName": "Solar Sail Empress Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial15": {
+          "DisplayName": "Navigation Stardust",
+          "Tooltip": "Main loot of Star Navigator\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore15": {
+          "DisplayName": "Master Star Coordinate",
+          "Tooltip": "Core loot of Star Navigator\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon15": {
+          "DisplayName": "Navigator Coordinate Chart",
+          "Tooltip": "Summons Star Navigator\nReusable; not consumed\nThis world must first defeat Solar Sail Empress\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag15": {
+          "DisplayName": "Star Navigator Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic15": {
+          "DisplayName": "Star Navigator Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy15": {
+          "DisplayName": "Star Navigator Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask15": {
+          "DisplayName": "Star Navigator Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyageMaterial16": {
+          "DisplayName": "Ark Relic Crystal",
+          "Tooltip": "Main loot of Celestial Ark\nUsed in Voyage weapons, equipment, utilities and later summons\nShow this to the Guide for all recipes"
+        },
+        "VoyageCore16": {
+          "DisplayName": "Stellar Furnace Core",
+          "Tooltip": "Core loot of Celestial Ark\nUsed in weapons, armor and special utilities, never ordinary building consumables"
+        },
+        "VoyageSummon16": {
+          "DisplayName": "Ark Awakening Instrument",
+          "Tooltip": "Summons Celestial Ark\nReusable; not consumed\nThis world must first defeat Star Navigator\nCannot be used during another boss, miniboss or invasion\nNo time or biome restriction; use an open arena"
+        },
+        "VoyageBag16": {
+          "DisplayName": "Celestial Ark Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, cores, one random weapon and the exclusive expert accessory\nMay contain a mask; relics and trophies drop directly from the boss"
+        },
+        "VoyageRelic16": {
+          "DisplayName": "Celestial Ark Relic",
+          "Tooltip": "Master mode collectible\nCan be placed"
+        },
+        "VoyageTrophy16": {
+          "DisplayName": "Celestial Ark Trophy",
+          "Tooltip": "Can be mounted on a background wall"
+        },
+        "VoyageMask16": {
+          "DisplayName": "Celestial Ark Mask",
+          "Tooltip": "Vanity item"
+        },
+        "VoyagePlate0": {
+          "DisplayName": "Starport Connection Plate",
+          "Tooltip": "Used to craft the corresponding Voyage armor tier\nCrafts 10 at a Voyage Assembly Bench"
+        },
+        "VoyagePlate1": {
+          "DisplayName": "Colony Composite Plate",
+          "Tooltip": "Used to craft the corresponding Voyage armor tier\nCrafts 10 at a Voyage Assembly Bench"
+        },
+        "VoyagePlate2": {
+          "DisplayName": "Deep-Space Array Plate",
+          "Tooltip": "Used to craft the corresponding Voyage armor tier\nCrafts 10 at a Voyage Assembly Bench"
+        },
+        "VoyagePlate3": {
+          "DisplayName": "Precursor Cruiser Plate",
+          "Tooltip": "Used to craft the corresponding Voyage armor tier\nCrafts 10 at a Voyage Assembly Bench"
+        },
+        "VoyagePlate4": {
+          "DisplayName": "Ark Composite Plate",
+          "Tooltip": "Used to craft the corresponding Voyage armor tier\nCrafts 10 at a Voyage Assembly Bench"
+        },
+        "VoyageAlloy": {
+          "DisplayName": "Voyage Alloy Bar",
+          "Tooltip": "Base alloy of the Star-Sea Voyage\nUsed in summons, weapons, armor and utilities; crafts 6 bars"
+        },
+        "VoyageWorkbench": {
+          "DisplayName": "Voyage Assembly Bench",
+          "Tooltip": "Can be placed\nCrafting station for Star-Sea Voyage items\nThis world must defeat End Moon before crafting the bench"
+        }
+      },
+      "Tiles": {
+        "VoyageWorkbenchTile": {
+          "MapEntry": "Voyage Assembly Bench"
+        },
+        "VoyageRelicTile": {
+          "MapEntry": "Voyage Relic"
+        },
+        "VoyageTrophyTile": {
+          "MapEntry": "Voyage Trophy"
+        }
+      },
+      "Voyage": {
+        "DefeatEndMoon": "Defeat End Moon",
+        "SpawnInfo": "Use the corresponding reusable Voyage summon. Defeat the preceding boss in this world; no other boss, miniboss or invasion may be active.",
+        "DespawnMessage": "The hostile vessel withdraws into the fading star trails."
+      }
+    }
+  }
+}

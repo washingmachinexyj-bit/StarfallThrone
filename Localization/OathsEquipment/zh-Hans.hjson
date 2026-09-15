@@ -1,0 +1,268 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "SupremeChoice0": { "DisplayName": "初源自选神赐", "Tooltip": "首胜纪念奖励。手持左键切换职业，物品栏右键消耗此匣，获得当前选中的一件武器。\n默认选择近战；没有合成配方，不改变世界击败记录。" },
+        "SupremeChoice1": { "DisplayName": "终焰自选神赐", "Tooltip": "首胜纪念奖励。手持左键切换职业，物品栏右键消耗此匣，获得当前选中的一件武器。\n默认选择近战；没有合成配方，不改变世界击败记录。" },
+        "SupremeChoice2": { "DisplayName": "无昼自选神赐", "Tooltip": "首胜纪念奖励。手持左键切换职业，物品栏右键消耗此匣，获得当前选中的一件武器。\n默认选择近战；没有合成配方，不改变世界击败记录。" },
+        "SupremeWeapon0": {
+          "DisplayName": "万生枝冠",
+          "Tooltip": "挥出约11格的生命枝刃；挥至中段分出两枚28%伤害的短程枝叶刃。\n一次挥斩对每个目标只命中一次，不可隔墙伤害。"
+        },
+        "SupremeWeapon1": {
+          "DisplayName": "第一场雨",
+          "Tooltip": "每次消耗1支箭，在准星附近形成三支各50%伤害的收束雨箭。\n最远50格，起点受视线限制；不保留原弹药的特殊弹体效果。"
+        },
+        "SupremeWeapon2": {
+          "DisplayName": "创世露典",
+          "Tooltip": "左键消耗36魔力储存一滴露珠，最多3滴；右键向准星释放全部露珠，每滴125%伤害。\n释放不耗魔；切换到其他物品会散去未释放的露珠。"
+        },
+        "SupremeWeapon3": {
+          "DisplayName": "源生树冠",
+          "Tooltip": "召唤源生树冠，占2个仆从栏位。\n每1.5秒向可见目标射出三枚各55%仆从伤害的汇聚露滴；无接触伤害，服从召唤目标标记。"
+        },
+        "SupremeWeapon4": {
+          "DisplayName": "万劫断章",
+          "Tooltip": "挥出近身焚誓重刃；普通挥斩命中可积累誓火，最多3层。\n3层时右键消耗全部誓火，挥出200%伤害、约14格的重斩；切换物品清空层数。"
+        },
+        "SupremeWeapon5": {
+          "DisplayName": "焚界六翼",
+          "Tooltip": "消耗子弹并转换为终焰弹；连续射击每次增加4%弹体伤害，最多40%。\n持枪停火0.75秒，自动释放一枚75%伤害的余烬并清空热量；切换物品直接散热。"
+        },
+        "SupremeWeapon6": {
+          "DisplayName": "终焰律典",
+          "Tooltip": "右键依次切换四律：120%伤害的炽弹、三枚45%伤害的扇形火弹、160%伤害的延迟光束、140%伤害的定点焚印。\n左键每次消耗36魔力；光束预热0.3秒，焚印预热0.5秒；每个目标每次最多命中一次，不能隔墙伤害。"
+        },
+        "SupremeWeapon7": {
+          "DisplayName": "六翼余烬",
+          "Tooltip": "召唤炽翼侍从，占2个仆从栏位；每1.2秒射出170%仆从伤害的余烬，无接触伤害。\n右键使自己的炽翼侍从集中攻击2秒，射击间隔缩短至0.7秒；指令冷却10秒。"
+        },
+        "SupremeWeapon8": {
+          "DisplayName": "终命之后",
+          "Tooltip": "近身斩击命中积累裁决，最多3层；3层时右键消耗全部裁决，释放220%伤害的定向终斩。\n终斩不追踪，只命中一次；切换物品清空层数，不可隔墙伤害。"
+        },
+        "SupremeWeapon9": {
+          "DisplayName": "最后一束星光",
+          "Tooltip": "每次消耗1颗子弹并转换为星光弹。\n连续命中同一目标，每层提高后续弹体伤害3%，最多30%；落空扣2层，3秒未命中或切换物品清空。"
+        },
+        "SupremeWeapon10": {
+          "DisplayName": "未定之书",
+          "Tooltip": "右键依次切换：130%伤害的命星、三枚各50%伤害的分岔星、170%伤害的延迟终命光束。\n左键每次消耗36魔力；光束预热0.3秒，长度约41格，每目标命中一次；不能隔墙伤害。"
+        },
+        "SupremeWeapon11": {
+          "DisplayName": "无昼王庭",
+          "Tooltip": "召唤唯一的无昼主神侍，占4个仆从栏位；再次使用会替换已有主神侍。\n每秒射出300%仆从伤害的命星，无接触伤害；环绕侍从仅为装饰，不复制伤害。"
+        },
+        "SupremeArmor0": {
+          "DisplayName": "三誓神冕·剑冠",
+          "Tooltip": "最大生命提高1260，全伤害提高54%，受到伤害降低7.2%。\n近战伤害提高80%，近战攻击速度提高35%。\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeArmor1": {
+          "DisplayName": "三誓神冕·星猎",
+          "Tooltip": "最大生命提高1260，全伤害提高54%，受到伤害降低7.2%。\n远程伤害提高80%，远程暴击率提高28个百分点。\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeArmor2": {
+          "DisplayName": "三誓神冕·律环",
+          "Tooltip": "最大生命提高1260，全伤害提高54%，受到伤害降低7.2%。\n魔法伤害提高80%，最大魔力提高650，魔力消耗降低35%。\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeArmor3": {
+          "DisplayName": "三誓神冕·王庭",
+          "Tooltip": "最大生命提高1260，全伤害提高54%，受到伤害降低7.2%。\n召唤伤害提高80%，仆从栏位增加12，哨兵栏位增加2。\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeArmor4": {
+          "DisplayName": "三誓神衣",
+          "Tooltip": "最大生命提高1680，全伤害提高72%，受到伤害降低9.6%。\n\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeArmor5": {
+          "DisplayName": "三誓神履",
+          "Tooltip": "最大生命提高1260，全伤害提高54%，受到伤害降低7.2%。\n移动速度提高30%。\n需集齐三位至高神的材料与矿锭，在三誓终坛制作。"
+        },
+        "SupremeExpert0": {
+          "DisplayName": "第一滴永生",
+          "Tooltip": "装备结算时最大生命提高15%。\n对可受伤害的Boss造成有效伤害，每0.5秒最多储存2%最大生命，储备上限12%。\n累计承受敌人造成的10%最大生命伤害后，消耗储备治疗，最多恢复12%最大生命；冷却30秒。\n不复活，不通过自伤或假人充能。不能与同路线旧版神明饰品叠加；冷却保留于死亡与重新装备。"
+        },
+        "SupremeMaterial0": {
+          "DisplayName": "初源神髓",
+          "Tooltip": "用于对应终局挖掘工具、独立工作站、武器和三誓护甲。\n先制作不消耗新矿锭的镐与工作站，再开采新矿物。"
+        },
+        "SupremeSummon0": {
+          "DisplayName": "初源圣滴",
+          "Tooltip": "召唤万象初源·弥露恩。\n不消耗。当前世界必须击败阿斯特里昂，以及此神的未诞、普通、加强形态。\n不能与其他Boss或大型事件同时召唤；跨世界携带物品不能绕过前置。"
+        },
+        "SupremeBag0": {
+          "DisplayName": "万象初源·弥露恩的宝藏袋",
+          "Tooltip": "右键打开。\n内含40–55份主材料、一件随机四职业武器、必得专家饰品、药水和钱币；有机会获得面具。"
+        },
+        "SupremeRelic0": {
+          "DisplayName": "万象初源·弥露恩·圣物",
+          "Tooltip": "大师模式纪念物；放在坚固地面上展示。"
+        },
+        "SupremeTrophy0": {
+          "DisplayName": "万象初源·弥露恩·纪念章",
+          "Tooltip": "悬挂在背景墙上的胜利纪念章。"
+        },
+        "SupremeMask0": {
+          "DisplayName": "万象初源·弥露恩·面具",
+          "Tooltip": "时装物品，不提供防御或额外能力。"
+        },
+        "SupremePetItem0": {
+          "DisplayName": "初露伴灵的信物",
+          "Tooltip": "召唤不参与战斗的纪念宠物；取消增益可遣散。\n大师模式掉落。"
+        },
+        "SupremeExpert1": {
+          "DisplayName": "不灭余温",
+          "Tooltip": "全伤害提高12%。每25秒抵挡下一次敌人攻击的30%伤害。\n屏障触发后，近战、远程和魔法攻击速度提高15%，持续4秒。\n不反弹伤害，不抵挡环境、自伤或PvP伤害。不能与同路线旧版神明饰品叠加；冷却保留于死亡与重新装备。"
+        },
+        "SupremeMaterial1": {
+          "DisplayName": "终焰誓核",
+          "Tooltip": "用于对应终局挖掘工具、独立工作站、武器和三誓护甲。\n先制作不消耗新矿锭的镐与工作站，再开采新矿物。"
+        },
+        "SupremeSummon1": {
+          "DisplayName": "终焰誓冠",
+          "Tooltip": "召唤万劫终焰·维尔萨。\n不消耗。当前世界必须击败阿斯特里昂，以及此神的未诞、普通、加强形态。\n不能与其他Boss或大型事件同时召唤；跨世界携带物品不能绕过前置。"
+        },
+        "SupremeBag1": {
+          "DisplayName": "万劫终焰·维尔萨的宝藏袋",
+          "Tooltip": "右键打开。\n内含40–55份主材料、一件随机四职业武器、必得专家饰品、药水和钱币；有机会获得面具。"
+        },
+        "SupremeRelic1": {
+          "DisplayName": "万劫终焰·维尔萨·圣物",
+          "Tooltip": "大师模式纪念物；放在坚固地面上展示。"
+        },
+        "SupremeTrophy1": {
+          "DisplayName": "万劫终焰·维尔萨·纪念章",
+          "Tooltip": "悬挂在背景墙上的胜利纪念章。"
+        },
+        "SupremeMask1": {
+          "DisplayName": "万劫终焰·维尔萨·面具",
+          "Tooltip": "时装物品，不提供防御或额外能力。"
+        },
+        "SupremePetItem1": {
+          "DisplayName": "余温伴灵的信物",
+          "Tooltip": "召唤不参与战斗的纪念宠物；取消增益可遣散。\n大师模式掉落。"
+        },
+        "SupremeExpert2": {
+          "DisplayName": "未被书写的明日",
+          "Tooltip": "全伤害提高15%。按「终命回溯」键（默认V，可在控制设置更改）回到约2秒前的位置，获得约0.13秒保护，冷却45秒。\n只回退位置，不恢复生命、魔力或冷却；最远62.5格，不可穿实心方块或生效中的至高弹幕。\n至高神战中，起点与终点须在神坛中心37.5格内；其他Boss战、开场试炼、骑乘或抓钩时无法使用。\n不能与同路线旧版神明饰品叠加；冷却保留于死亡与重新装备。"
+        },
+        "SupremeMaterial2": {
+          "DisplayName": "无昼终命",
+          "Tooltip": "用于对应终局挖掘工具、独立工作站、武器和三誓护甲。\n先制作不消耗新矿锭的镐与工作站，再开采新矿物。"
+        },
+        "SupremeSummon2": {
+          "DisplayName": "无昼终书",
+          "Tooltip": "召唤终命之外·无昼。\n不消耗。当前世界必须击败阿斯特里昂，以及此神的未诞、普通、加强形态。\n不能与其他Boss或大型事件同时召唤；跨世界携带物品不能绕过前置。"
+        },
+        "SupremeBag2": {
+          "DisplayName": "终命之外·无昼的宝藏袋",
+          "Tooltip": "右键打开。\n内含40–55份主材料、一件随机四职业武器、必得专家饰品、药水和钱币；有机会获得面具。"
+        },
+        "SupremeRelic2": {
+          "DisplayName": "终命之外·无昼·圣物",
+          "Tooltip": "大师模式纪念物；放在坚固地面上展示。"
+        },
+        "SupremeTrophy2": {
+          "DisplayName": "终命之外·无昼·纪念章",
+          "Tooltip": "悬挂在背景墙上的胜利纪念章。"
+        },
+        "SupremeMask2": {
+          "DisplayName": "终命之外·无昼·面具",
+          "Tooltip": "时装物品，不提供防御或额外能力。"
+        },
+        "SupremePetItem2": {
+          "DisplayName": "一瞬薄暮的信物",
+          "Tooltip": "召唤不参与战斗的纪念宠物；取消增益可遣散。\n大师模式掉落。"
+        },
+        "TriuneAltarItem": {
+          "DisplayName": "三誓终坛",
+          "Tooltip": "用于至高神召唤物、起始终局矿镐、三种独立工作站与三誓护甲。\n击败阿斯特里昂后，在最后一档星神工作站制作；不需要至高神的新矿物。"
+        }
+      },
+      "Buffs": {
+        "SupremePetBuff0": {
+          "DisplayName": "初露伴灵",
+          "Description": "最初的微小神性陪伴着你。"
+        },
+        "SupremeMinionBuff0": {
+          "DisplayName": "源生树冠",
+          "Description": "神侍为你而战；取消此增益即可遣散。"
+        },
+        "SupremePetBuff1": {
+          "DisplayName": "余温伴灵",
+          "Description": "最初的微小神性陪伴着你。"
+        },
+        "SupremeMinionBuff1": {
+          "DisplayName": "六翼余烬",
+          "Description": "神侍为你而战；取消此增益即可遣散。"
+        },
+        "SupremePetBuff2": {
+          "DisplayName": "一瞬薄暮",
+          "Description": "最初的微小神性陪伴着你。"
+        },
+        "SupremeMinionBuff2": {
+          "DisplayName": "无昼王庭",
+          "Description": "神侍为你而战；取消此增益即可遣散。"
+        }
+      },
+      "Projectiles": {
+        "SupremePet0": {
+          "DisplayName": "初露伴灵"
+        },
+        "SupremeMinion0": {
+          "DisplayName": "源生树冠"
+        },
+        "SupremePet1": {
+          "DisplayName": "余温伴灵"
+        },
+        "SupremeMinion1": {
+          "DisplayName": "六翼余烬"
+        },
+        "SupremePet2": {
+          "DisplayName": "一瞬薄暮"
+        },
+        "SupremeMinion2": {
+          "DisplayName": "无昼王庭"
+        },
+        "SupremeShot": {
+          "DisplayName": "三誓武器投射物"
+        }
+      },
+      "Tiles": {
+        "SupremeRelicTile0": {
+          "MapEntry": "万象初源·弥露恩·圣物"
+        },
+        "SupremeTrophyTile0": {
+          "MapEntry": "万象初源·弥露恩·纪念章"
+        },
+        "SupremeRelicTile1": {
+          "MapEntry": "万劫终焰·维尔萨·圣物"
+        },
+        "SupremeTrophyTile1": {
+          "MapEntry": "万劫终焰·维尔萨·纪念章"
+        },
+        "SupremeRelicTile2": {
+          "MapEntry": "终命之外·无昼·圣物"
+        },
+        "SupremeTrophyTile2": {
+          "MapEntry": "终命之外·无昼·纪念章"
+        },
+        "TriuneAltarTile": {
+          "MapEntry": "三誓终坛"
+        }
+      },
+      "OathsEquipment": {
+        "ChoiceSelected": "当前选择：{0}",
+        "GateReady": "当前世界的三誓前置已满足。",
+        "GateLocked": "尚未满足：阿斯特里昂及对应未诞、普通、加强神明的世界击败记录。",
+        "RequiresOath": "当前世界完成对应三誓前置并击败阿斯特里昂",
+        "RequiresAsterion": "当前世界击败众神之源·阿斯特里昂",
+        "ArmorSet": "免疫击退；每秒自然生命恢复额外提高6（不移除受到伤害后的恢复延迟）。"
+      },
+      "Keybinds": {
+        "OathRewind": {
+          "DisplayName": "终命回溯"
+        }
+      }
+    }
+  }
+}

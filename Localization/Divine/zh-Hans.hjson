@@ -1,0 +1,173 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Divine": {
+        "Intro": "【失时神约】三位神明只在史莱姆王、血肉墙、月亮领主分别被击败前接受挑战。不会重置旧世界；输入 /divine 查看窗口。",
+        "Closed": "【神约封闭】{0}不再接受这个世界的挑战。已有装备与材料仍可使用。",
+        "Missed": "{0}：已错过（本世界的截止Boss已被击败）。",
+        "Victory": "【神约达成】{0}承认了挑战者。",
+        "StatusHelp": "查看三场限期神明挑战的真实状态，不修改世界进度",
+        "WonOpen": "已击败，窗口仍开放",
+        "WonClosed": "已击败，窗口已封闭",
+        "Available": "可挑战",
+        "MissedShort": "已错过",
+        "WindowOpen": "本世界挑战窗口尚未关闭",
+        "WindowClosed": "挑战窗口已永久关闭，不能再次召唤",
+        "WindowCondition": "只有在对应原版Boss被击败前完成挑战才结算奖励",
+        "AnyGold": "任意金锭或铂金锭",
+        "AnyFragment": "任意一种天界碎片",
+        "Choose": "神赐匣 · 选择一件武器",
+        "ChooseHint": "选择后消耗一只匣子；按 Esc 或点击面板外取消，不消耗",
+        "Class0": "近战",
+        "Class1": "远程",
+        "Class2": "魔法",
+        "Class3": "召唤",
+        "Title": "逆时代者",
+        "Despawn": "{0}的试炼中止了；没有结算胜利与战利品。",
+        "ChecklistMissed": "已错过：本世界已击败对应截止Boss，无法再召唤。不会被计为已击败；旧奖励仍可使用。",
+        "ChecklistClosedWon": "已完成挑战，但本世界窗口已经封闭，不能再战。已有材料和装备仍可制作与使用。",
+        "Warning0": "【限期提醒】先挑战原露之神，再击败史莱姆王；击败史莱姆王后该窗口永久关闭。",
+        "Warning1": "【限期提醒】烬誓之神仍等待你的挑战。击败血肉墙、进入困难模式后无法再战。",
+        "Warning2": "【限期提醒】月亮领主尚未被击败，天命之神仍可挑战。一种天界碎片即可制作召唤物，不必清完四柱。",
+        "Spawn0": "限期挑战：史莱姆王未击败时，在白天森林地表使用未加冕的露冠。需要没有其他Boss或迷你Boss存活。召唤物不消耗，失败可重试。",
+        "Spawn1": "限期挑战：进入困难模式前，在地狱使用未焚之誓。需要没有其他Boss或迷你Boss存活。召唤物不消耗。",
+        "Spawn2": "限期挑战：月亮领主未击败时，夜间地表或太空使用无昼时轮。离开天界柱区域，且月亮领主不在降临倒计时；远处仍有天界柱不影响召唤。",
+        "ChecklistName0": "【限期挑战】原露之神·弥露恩",
+        "ChecklistName1": "【限期挑战】烬誓之神·维尔萨",
+        "ChecklistName2": "【限期挑战】天命之神·无昼"
+      },
+      "Items": {
+        "DivineMaterial0": {
+          "DisplayName": "原露神髓",
+          "Tooltip": "制作神明武器与护甲\n挑战窗口关闭后仍可使用"
+        },
+        "DivineSummon0": {
+          "DisplayName": "未加冕的露冠",
+          "Tooltip": "限期挑战：史莱姆王未击败时，在白天森林地表使用未加冕的露冠。需要没有其他Boss或迷你Boss存活。召唤物不消耗，失败可重试。"
+        },
+        "DivineBag0": {
+          "DisplayName": "原露神明宝藏袋",
+          "Tooltip": "右键打开\n必得神明材料、随机武器和专家专属饰品"
+        },
+        "DivineCache0": {
+          "DisplayName": "原露神赐匣",
+          "Tooltip": "手持左键或在物品栏右键打开职业选择\n选择后才消耗；每位角色在本世界首次胜利额外获得一次"
+        },
+        "DivineRelic0": {
+          "DisplayName": "原露神明圣物",
+          "Tooltip": "大师模式纪念品\n可以放置，无战斗加成"
+        },
+        "DivineTrophy0": {
+          "DisplayName": "原露神明纪念章",
+          "Tooltip": "挂在背景墙上的胜利纪念品"
+        },
+        "DivineMask0": {
+          "DisplayName": "原露神明面具",
+          "Tooltip": "时装物品"
+        },
+        "DivinePetItem0": {
+          "DisplayName": "白芽露灵",
+          "Tooltip": "召唤纯装饰宠物，无战斗能力"
+        },
+        "DivineHalo0": {
+          "DisplayName": "无瑕晨露光环",
+          "Tooltip": "全程参与且未受伤的胜利纪念\n放入饰品或时装栏显示，不提供战斗属性"
+        },
+        "DivineMaterial1": {
+          "DisplayName": "不熄誓金",
+          "Tooltip": "制作神明武器与护甲\n挑战窗口关闭后仍可使用"
+        },
+        "DivineSummon1": {
+          "DisplayName": "未焚之誓",
+          "Tooltip": "限期挑战：进入困难模式前，在地狱使用未焚之誓。需要没有其他Boss或迷你Boss存活。召唤物不消耗。"
+        },
+        "DivineBag1": {
+          "DisplayName": "烬誓神明宝藏袋",
+          "Tooltip": "右键打开\n必得神明材料、随机武器和专家专属饰品"
+        },
+        "DivineCache1": {
+          "DisplayName": "烬誓神赐匣",
+          "Tooltip": "手持左键或在物品栏右键打开职业选择\n选择后才消耗；每位角色在本世界首次胜利额外获得一次"
+        },
+        "DivineRelic1": {
+          "DisplayName": "烬誓神明圣物",
+          "Tooltip": "大师模式纪念品\n可以放置，无战斗加成"
+        },
+        "DivineTrophy1": {
+          "DisplayName": "烬誓神明纪念章",
+          "Tooltip": "挂在背景墙上的胜利纪念品"
+        },
+        "DivineMask1": {
+          "DisplayName": "烬誓神明面具",
+          "Tooltip": "时装物品"
+        },
+        "DivinePetItem1": {
+          "DisplayName": "炉心余烬",
+          "Tooltip": "召唤纯装饰宠物，无战斗能力"
+        },
+        "DivineHalo1": {
+          "DisplayName": "无瑕烬誓光环",
+          "Tooltip": "全程参与且未受伤的胜利纪念\n放入饰品或时装栏显示，不提供战斗属性"
+        },
+        "DivineMaterial2": {
+          "DisplayName": "逆命神绫",
+          "Tooltip": "制作神明武器与护甲\n挑战窗口关闭后仍可使用"
+        },
+        "DivineSummon2": {
+          "DisplayName": "无昼时轮",
+          "Tooltip": "限期挑战：月亮领主未击败时，夜间地表或太空使用无昼时轮。离开天界柱区域，且月亮领主不在降临倒计时；远处仍有天界柱不影响召唤。"
+        },
+        "DivineBag2": {
+          "DisplayName": "天命神明宝藏袋",
+          "Tooltip": "右键打开\n必得神明材料、随机武器和专家专属饰品"
+        },
+        "DivineCache2": {
+          "DisplayName": "天命神赐匣",
+          "Tooltip": "手持左键或在物品栏右键打开职业选择\n选择后才消耗；每位角色在本世界首次胜利额外获得一次"
+        },
+        "DivineRelic2": {
+          "DisplayName": "天命神明圣物",
+          "Tooltip": "大师模式纪念品\n可以放置，无战斗加成"
+        },
+        "DivineTrophy2": {
+          "DisplayName": "天命神明纪念章",
+          "Tooltip": "挂在背景墙上的胜利纪念品"
+        },
+        "DivineMask2": {
+          "DisplayName": "天命神明面具",
+          "Tooltip": "时装物品"
+        },
+        "DivinePetItem2": {
+          "DisplayName": "微型命轮",
+          "Tooltip": "召唤纯装饰宠物，无战斗能力"
+        },
+        "DivineHalo2": {
+          "DisplayName": "无瑕命数光环",
+          "Tooltip": "全程参与且未受伤的胜利纪念\n放入饰品或时装栏显示，不提供战斗属性"
+        },
+        "DivineMonument": {
+          "DisplayName": "失时三神纪念碑",
+          "Tooltip": "三场神约的共同见证\n纯装饰，不是任何主线装备的前置"
+        },
+        "DivineEpochTitle": {
+          "DisplayName": "称号·逆时代者",
+          "Tooltip": "在同一世界赢得三场神约的纪念\n放入饰品或时装栏显示称号，无战斗加成"
+        }
+      },
+      "Buffs": {
+        "DivinePetBuff0": {
+          "DisplayName": "白芽露灵",
+          "Description": "神明的微小化身陪伴着你"
+        },
+        "DivinePetBuff1": {
+          "DisplayName": "炉心余烬",
+          "Description": "神明的微小化身陪伴着你"
+        },
+        "DivinePetBuff2": {
+          "DisplayName": "微型命轮",
+          "Description": "神明的微小化身陪伴着你"
+        }
+      }
+    }
+  }
+}

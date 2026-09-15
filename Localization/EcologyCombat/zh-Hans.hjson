@@ -1,0 +1,271 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "EcologyBoss0": {
+          "DisplayName": "雾冠巡狩者"
+        },
+        "EcologyBoss1": {
+          "DisplayName": "千烛合葬者"
+        },
+        "EcologyBoss2": {
+          "DisplayName": "琥珀育巢者"
+        },
+        "EcologyBoss3": {
+          "DisplayName": "空钟送葬者"
+        },
+        "EcologyBoss4": {
+          "DisplayName": "逆燃熔心"
+        },
+        "EcologyBoss5": {
+          "DisplayName": "荒原总机"
+        },
+        "EcologyBoss6": {
+          "DisplayName": "万胃繁花"
+        },
+        "EcologyBoss7": {
+          "DisplayName": "沉日守陵兽"
+        },
+        "EcologyBoss8": {
+          "DisplayName": "虹渊织潮者"
+        },
+        "EcologyBoss9": {
+          "DisplayName": "无相巡星者"
+        },
+        "EcologyPart": {
+          "DisplayName": "可破坏的界域构件"
+        },
+        "EcologyMob0": {
+          "DisplayName": "镜背蜗"
+        },
+        "EcologyMob1": {
+          "DisplayName": "雾翅蛾"
+        },
+        "EcologyMob2": {
+          "DisplayName": "倒影獾"
+        },
+        "EcologyMob3": {
+          "DisplayName": "裂镜鹿"
+        },
+        "EcologyMob4": {
+          "DisplayName": "滴蜡虫"
+        },
+        "EcologyMob5": {
+          "DisplayName": "封蛹扑蛾"
+        },
+        "EcologyMob6": {
+          "DisplayName": "烛面侍从"
+        },
+        "EcologyMob7": {
+          "DisplayName": "凝蜡巨蛹"
+        },
+        "EcologyMob8": {
+          "DisplayName": "糖甲蚁"
+        },
+        "EcologyMob9": {
+          "DisplayName": "蜜针蜂"
+        },
+        "EcologyMob10": {
+          "DisplayName": "巢枝螳"
+        },
+        "EcologyMob11": {
+          "DisplayName": "琥珀囊蛹"
+        },
+        "EcologyMob12": {
+          "DisplayName": "叩骨虫"
+        },
+        "EcologyMob13": {
+          "DisplayName": "空颅蝠"
+        },
+        "EcologyMob14": {
+          "DisplayName": "执铃残骸"
+        },
+        "EcologyMob15": {
+          "DisplayName": "长笛骨兽"
+        },
+        "EcologyMob16": {
+          "DisplayName": "灰壳匍兽"
+        },
+        "EcologyMob17": {
+          "DisplayName": "逆火蛾"
+        },
+        "EcologyMob18": {
+          "DisplayName": "炭枝行者"
+        },
+        "EcologyMob19": {
+          "DisplayName": "熔脊犀"
+        },
+        "EcologyMob20": {
+          "DisplayName": "铆足鼠"
+        },
+        "EcologyMob21": {
+          "DisplayName": "磁叶蜂"
+        },
+        "EcologyMob22": {
+          "DisplayName": "废线傀儡"
+        },
+        "EcologyMob23": {
+          "DisplayName": "拼装履带兽"
+        },
+        "EcologyMob24": {
+          "DisplayName": "吞露花"
+        },
+        "EcologyMob25": {
+          "DisplayName": "寄瓣螳"
+        },
+        "EcologyMob26": {
+          "DisplayName": "果腹囊兽"
+        },
+        "EcologyMob27": {
+          "DisplayName": "抱根巨蛛"
+        },
+        "EcologyMob28": {
+          "DisplayName": "负日甲虫"
+        },
+        "EcologyMob29": {
+          "DisplayName": "三足巡碑"
+        },
+        "EcologyMob30": {
+          "DisplayName": "砂刻飞蛇"
+        },
+        "EcologyMob31": {
+          "DisplayName": "棺门巨卫"
+        },
+        "EcologyMob32": {
+          "DisplayName": "棱鳍游鱼"
+        },
+        "EcologyMob33": {
+          "DisplayName": "虹纱水母"
+        },
+        "EcologyMob34": {
+          "DisplayName": "逐潮蝶"
+        },
+        "EcologyMob35": {
+          "DisplayName": "珠冠海龙"
+        },
+        "EcologyMob36": {
+          "DisplayName": "星壳游虫"
+        },
+        "EcologyMob37": {
+          "DisplayName": "无面漂灵"
+        },
+        "EcologyMob38": {
+          "DisplayName": "轨环猎手"
+        },
+        "EcologyMob39": {
+          "DisplayName": "断层巨鳐"
+        }
+      },
+      "Items": {
+        "EcologySummon0": {
+          "DisplayName": "映雾枝冠",
+          "Tooltip": "召唤雾冠巡狩者\n需在本世界击败克苏鲁之眼\n在生态模式的雾镜林地中使用，至少需要600个对应地形块\n仅限夜间召唤；黎明不会使已开始的战斗狂暴\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon1": {
+          "DisplayName": "未熄蜡印",
+          "Tooltip": "召唤千烛合葬者\n需在本世界击败世界吞噬怪或克苏鲁之脑\n在生态模式的蜡眠荒庭中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon2": {
+          "DisplayName": "封蜜育巢囊",
+          "Tooltip": "召唤琥珀育巢者\n需在本世界击败蜂王\n在生态模式的蜜珀蚀林中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon3": {
+          "DisplayName": "无声吊钟",
+          "Tooltip": "召唤空钟送葬者\n需在本世界击败骷髅王\n在生态模式的鸣骸墓原中使用，至少需要600个对应地形块\n仅限夜间召唤；黎明不会使已开始的战斗狂暴\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon4": {
+          "DisplayName": "倒燃火种",
+          "Tooltip": "召唤逆燃熔心\n需在本世界击败血肉墙\n在生态模式的逆烬熔原中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon5": {
+          "DisplayName": "失效总控器",
+          "Tooltip": "召唤荒原总机\n需在本世界击败全部三个机械 Boss\n在生态模式的失控械土中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon6": {
+          "DisplayName": "不熟之果",
+          "Tooltip": "召唤万胃繁花\n需在本世界击败世纪之花\n在生态模式的永饥花庭中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon7": {
+          "DisplayName": "失温日轮",
+          "Tooltip": "召唤沉日守陵兽\n需在本世界击败石巨人\n在生态模式的沉日遗境中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon8": {
+          "DisplayName": "虹潮合鸣珠",
+          "Tooltip": "召唤虹渊织潮者\n需在本世界击败猪龙鱼公爵和光之女皇（两者均需击败）\n在生态模式的虹渊潮境中使用，至少需要600个对应地形块\n白天或夜间均可召唤\n非消耗品；场上不能存在其他Boss"
+        },
+        "EcologySummon9": {
+          "DisplayName": "失轨星标",
+          "Tooltip": "召唤无相巡星者\n需在本世界击败月亮领主\n在生态模式的无相星壤中使用，至少需要600个对应地形块\n仅限夜间召唤；黎明不会使已开始的战斗狂暴\n非消耗品；场上不能存在其他Boss"
+        }
+      },
+      "Projectiles": {
+        "EcologyHazard": {
+          "DisplayName": "界域异象"
+        }
+      },
+      "EcologyCombat": {
+        "Despawn": "界域失去生态锚或挑战者离开过久，守护者回归沉寂。",
+        "Bestiary0": "镜角的真身总有稳定微光；倒影不会伤人。避开锁定旧位置的镜痕，在换影后的白色弱点圈出现时反击。",
+        "Spawn0": "击败克苏鲁之眼后，自己建立雾镜林地。启用生态模式并铺设至少600个对应地形块，在夜间使用映雾枝冠。此分支没有挑战截止时间。",
+        "Bestiary1": "蜡棺的有限护壳不会回复本体生命。烛列始终留有缺口，棺坠之后是反击的好机会。",
+        "Spawn1": "击败世界吞噬怪或克苏鲁之脑后，自己建立蜡眠荒庭。启用生态模式并铺设至少600个对应地形块，在任意时间使用未熄蜡印。此分支没有挑战截止时间。",
+        "Bestiary2": "背负育巢的六足巨兽。击破背巢暴露王髓；蜜囊可在破裂前摧毁，召来的守卫数量有限。",
+        "Spawn2": "击败蜂王后，自己建立蜜珀蚀林。启用生态模式并铺设至少600个对应地形块，在任意时间使用封蜜育巢囊。此分支没有挑战截止时间。",
+        "Bestiary3": "钟声先低鸣、再落骨、最后划出音刃；所有声音都有对应光纹。钟舌横扫留有长预警。",
+        "Spawn3": "击败骷髅王后，自己建立鸣骸墓原。启用生态模式并铺设至少600个对应地形块，在夜间使用无声吊钟。此分支没有挑战截止时间。",
+        "Bestiary4": "冷壳迟缓坚硬，过热迅捷脆弱。击破散热脊会暴露熔心；逆火只在临时弹幕中燃烧。",
+        "Spawn4": "击败血肉墙后，自己建立逆烬熔原。启用生态模式并铺设至少600个对应地形块，在任意时间使用倒燃火种。此分支没有挑战截止时间。",
+        "Bestiary5": "履带、磁场、维修和悬浮火力轮流重构。击毁维修无人机可制造破绽；修复只补充有限装甲，不回复生命。",
+        "Spawn5": "击败全部三个机械 Boss后，自己建立失控械土。启用生态模式并铺设至少600个对应地形块，在任意时间使用失效总控器。此分支没有挑战截止时间。",
+        "Bestiary6": "多张花口各自吐种。摧毁根结可撤销相应根墙；吞食囊不会拿走背包物品，也不会永久困住玩家。",
+        "Spawn6": "击败世纪之花后，自己建立永饥花庭。启用生态模式并铺设至少600个对应地形块，在任意时间使用不熟之果。此分支没有挑战截止时间。",
+        "Bestiary7": "太阳标记依次连成三角光线。守陵兽冲锋后敞开背盘，此时能重创核心；战斗不会召唤日食。",
+        "Spawn7": "击败石巨人后，自己建立沉日遗境。启用生态模式并铺设至少600个对应地形块，在任意时间使用失温日轮。此分支没有挑战截止时间。",
+        "Bestiary8": "潮相曲线游弋，虹相驻空列阵。折射气泡会提前标出两段光路；陆地和白昼都不会触发隐藏惩罚。",
+        "Spawn8": "击败猪龙鱼公爵和光之女皇（两者均需击败）后，自己建立虹渊潮境。启用生态模式并铺设至少600个对应地形块，在任意时间使用虹潮合鸣珠。此分支没有挑战截止时间。",
+        "Bestiary9": "空壳遵循可见星轨，传送门只搬运本场弹幕。摧毁脱落甲片可清出通路，俯冲结束后本体短暂失稳。",
+        "Spawn9": "击败月亮领主后，自己建立无相星壤。启用生态模式并铺设至少600个对应地形块，在夜间使用失轨星标。此分支没有挑战截止时间。",
+        "MobBestiary0": "正面镜壳减伤，绕到背后更容易击倒。",
+        "MobBestiary1": "盘旋后扑向先前标记的位置。",
+        "MobBestiary2": "先留下无害倒影，再沿预警方向扑击。",
+        "MobBestiary3": "两次直线冲锋之间有明显停顿。",
+        "MobBestiary4": "被击中后短暂加速，绕行比追打更安全。",
+        "MobBestiary5": "封蛹期间防护较高，随后盘旋扑击。",
+        "MobBestiary6": "缓步投出黏蜡火团。",
+        "MobBestiary7": "坚硬的蜡层保护着会喷出虫形弹幕的稀有巨蛹。",
+        "MobBestiary8": "停步取食后冲向目标，糖甲保护正面。",
+        "MobBestiary9": "远距离锁定目标后发射单根蜜针。",
+        "MobBestiary10": "伪装成巢枝，预警后连续两次扑斩。",
+        "MobBestiary11": "缓慢移动，分批吐出数量有限的育巢弹。",
+        "MobBestiary12": "低矮声波沿地面掠过，可以跳跃避开。",
+        "MobBestiary13": "短暂盘旋，随后高速俯冲。",
+        "MobBestiary14": "铃声对应可见扩散波，向上的缺口始终安全。",
+        "MobBestiary15": "三轮固定骨笛齐射之后长时间停顿。",
+        "MobBestiary16": "灰壳保护正面，腹侧与背后更脆弱。",
+        "MobBestiary17": "逆火从飞蛾身边向上升起。",
+        "MobBestiary18": "扎根蓄力后伸出短距离炭刺。",
+        "MobBestiary19": "熔背会在双冲锋之间冷却停顿。",
+        "MobBestiary20": "奔跑后停步打出铆钉。",
+        "MobBestiary21": "磁叶展开时盘旋，收拢后刺向旧目标。",
+        "MobBestiary22": "废线齐射缓慢，出手后的硬直很长。",
+        "MobBestiary23": "炮口锁定后连发，履带不会追踪转弯。",
+        "MobBestiary24": "扎根吞露，张口前有清晰的瞄准线。",
+        "MobBestiary25": "花瓣伪装结束后进行两次快速扑斩。",
+        "MobBestiary26": "慢速种囊弹有很长的预警。",
+        "MobBestiary27": "根网是临时危险区，不会放置真实蛛网方块。",
+        "MobBestiary28": "日纹甲片保护正面，双冲刺后可安全反击。",
+        "MobBestiary29": "三足停稳后才会锁定短激光。",
+        "MobBestiary30": "沿弧线飞行，再向预先标记点穿刺。",
+        "MobBestiary31": "左右棺门依次开火，光线提示发射方向。",
+        "MobBestiary32": "能在空气中短暂游动，随后锁定穿刺。",
+        "MobBestiary33": "虹纱扩张时释放稀疏的慢速光团。",
+        "MobBestiary34": "沿着弧线游动，用光痕标示回返路线。",
+        "MobBestiary35": "稀有的珠冠龙会预先提示两轮气泡散射。",
+        "MobBestiary36": "星壳抵挡正面攻击，偶尔跃起越过障碍。",
+        "MobBestiary37": "位移之后仍会重新预警，绝不瞬间贴脸激光。",
+        "MobBestiary38": "可见的轨圈预告其盘旋和冲刺。",
+        "MobBestiary39": "断层线出现后，巨鳐才会沿锁定方向俯冲。"
+      }
+    }
+  }
+}

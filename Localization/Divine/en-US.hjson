@@ -1,0 +1,173 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Divine": {
+        "Intro": "[Timelost Covenants] These gods accept challenges only before King Slime, Wall of Flesh, and Moon Lord respectively. Existing worlds are never reset. Use /divine for status.",
+        "Closed": "[Covenant closed] {0} no longer accepts challenges in this world. Existing rewards remain usable.",
+        "Missed": "{0}: missed (this world's deadline boss was defeated).",
+        "Victory": "[Covenant fulfilled] {0} acknowledges the challengers.",
+        "StatusHelp": "Show the three challenge windows without changing progression",
+        "WonOpen": "Defeated; still challengeable",
+        "WonClosed": "Defeated; window closed",
+        "Available": "Challenge available",
+        "MissedShort": "Missed",
+        "WindowOpen": "This world's challenge window is still open",
+        "WindowClosed": "Permanently closed in this world; cannot summon",
+        "WindowCondition": "Victory and loot require the corresponding vanilla deadline boss to remain undefeated",
+        "AnyGold": "Any Gold or Platinum Bar",
+        "AnyFragment": "Any Celestial Fragment",
+        "Choose": "Divine Gift · Choose one weapon",
+        "ChooseHint": "Choosing consumes one cache; Esc or clicking outside cancels without consuming it",
+        "Class0": "Melee",
+        "Class1": "Ranged",
+        "Class2": "Magic",
+        "Class3": "Summon",
+        "Title": "Era Defier",
+        "Despawn": "{0}'s trial ended without victory or loot.",
+        "ChecklistMissed": "Missed: this world's deadline boss has already been defeated. This is not marked as a victory. Existing rewards remain usable.",
+        "ChecklistClosedWon": "Challenge completed; this world's window is now closed. Existing materials and equipment remain craftable and usable.",
+        "Warning0": "[Deadline] Challenge Miroen before defeating King Slime. The window closes permanently afterward.",
+        "Warning1": "[Deadline] Velsa awaits. Defeating Wall of Flesh and entering Hardmode permanently closes the window.",
+        "Warning2": "[Deadline] NoDay remains available before Moon Lord is defeated. Any one fragment type crafts the summon; all four pillars are not required.",
+        "Spawn0": "Deadline challenge: use the Uncrowned Dew Circlet in a daytime surface forest before King Slime is defeated. No other bosses or minibosses may be active. Reusable summon.",
+        "Spawn1": "Deadline challenge: use the Unburnt Oath in the Underworld before Hardmode. No other bosses or minibosses may be active. Reusable summon.",
+        "Spawn2": "Deadline challenge: use the Dayless Timewheel at night on the surface or in space before Moon Lord is defeated. Stay outside pillar zones, and no Moon Lord arrival countdown may be active. Distant remaining pillars are allowed.",
+        "ChecklistName0": "[Deadline Challenge] Miroen, God of First Dew",
+        "ChecklistName1": "[Deadline Challenge] Velsa, God of Ember Oaths",
+        "ChecklistName2": "[Deadline Challenge] NoDay, God of Fate"
+      },
+      "Items": {
+        "DivineMaterial0": {
+          "DisplayName": "First Dew Marrow",
+          "Tooltip": "Crafts divine weapons and armor\nRemains usable after the challenge window closes"
+        },
+        "DivineSummon0": {
+          "DisplayName": "Uncrowned Dew Circlet",
+          "Tooltip": "Deadline challenge: use the Uncrowned Dew Circlet in a daytime surface forest before King Slime is defeated. No other bosses or minibosses may be active. Reusable summon."
+        },
+        "DivineBag0": {
+          "DisplayName": "First Dew Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, a random weapon, and the exclusive Expert accessory"
+        },
+        "DivineCache0": {
+          "DisplayName": "First Dew Gift Cache",
+          "Tooltip": "Use while held or right click in inventory to select a weapon\nConsumed only on selection; one extra cache per character's first victory in each world"
+        },
+        "DivineRelic0": {
+          "DisplayName": "First Dew Relic",
+          "Tooltip": "Master trophy\nPlaceable; no combat benefit"
+        },
+        "DivineTrophy0": {
+          "DisplayName": "First Dew Trophy",
+          "Tooltip": "Wall-mounted victory keepsake"
+        },
+        "DivineMask0": {
+          "DisplayName": "First Dew Mask",
+          "Tooltip": "Vanity item"
+        },
+        "DivinePetItem0": {
+          "DisplayName": "Dewseed Spirit",
+          "Tooltip": "Summons a purely cosmetic pet"
+        },
+        "DivineHalo0": {
+          "DisplayName": "Flawless Dew Halo",
+          "Tooltip": "Complete an entire trial without taking damage\nEquip in accessory or vanity slots; no combat stats"
+        },
+        "DivineMaterial1": {
+          "DisplayName": "Unfading Oathgold",
+          "Tooltip": "Crafts divine weapons and armor\nRemains usable after the challenge window closes"
+        },
+        "DivineSummon1": {
+          "DisplayName": "Unburnt Oath",
+          "Tooltip": "Deadline challenge: use the Unburnt Oath in the Underworld before Hardmode. No other bosses or minibosses may be active. Reusable summon."
+        },
+        "DivineBag1": {
+          "DisplayName": "Ember Oath Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, a random weapon, and the exclusive Expert accessory"
+        },
+        "DivineCache1": {
+          "DisplayName": "Ember Oath Gift Cache",
+          "Tooltip": "Use while held or right click in inventory to select a weapon\nConsumed only on selection; one extra cache per character's first victory in each world"
+        },
+        "DivineRelic1": {
+          "DisplayName": "Ember Oath Relic",
+          "Tooltip": "Master trophy\nPlaceable; no combat benefit"
+        },
+        "DivineTrophy1": {
+          "DisplayName": "Ember Oath Trophy",
+          "Tooltip": "Wall-mounted victory keepsake"
+        },
+        "DivineMask1": {
+          "DisplayName": "Ember Oath Mask",
+          "Tooltip": "Vanity item"
+        },
+        "DivinePetItem1": {
+          "DisplayName": "Hearth Ember",
+          "Tooltip": "Summons a purely cosmetic pet"
+        },
+        "DivineHalo1": {
+          "DisplayName": "Flawless Ember Halo",
+          "Tooltip": "Complete an entire trial without taking damage\nEquip in accessory or vanity slots; no combat stats"
+        },
+        "DivineMaterial2": {
+          "DisplayName": "Fateweaving Silk",
+          "Tooltip": "Crafts divine weapons and armor\nRemains usable after the challenge window closes"
+        },
+        "DivineSummon2": {
+          "DisplayName": "Dayless Timewheel",
+          "Tooltip": "Deadline challenge: use the Dayless Timewheel at night on the surface or in space before Moon Lord is defeated. Stay outside pillar zones, and no Moon Lord arrival countdown may be active. Distant remaining pillars are allowed."
+        },
+        "DivineBag2": {
+          "DisplayName": "Fate Treasure Bag",
+          "Tooltip": "Right click to open\nContains materials, a random weapon, and the exclusive Expert accessory"
+        },
+        "DivineCache2": {
+          "DisplayName": "Fate Gift Cache",
+          "Tooltip": "Use while held or right click in inventory to select a weapon\nConsumed only on selection; one extra cache per character's first victory in each world"
+        },
+        "DivineRelic2": {
+          "DisplayName": "Fate Relic",
+          "Tooltip": "Master trophy\nPlaceable; no combat benefit"
+        },
+        "DivineTrophy2": {
+          "DisplayName": "Fate Trophy",
+          "Tooltip": "Wall-mounted victory keepsake"
+        },
+        "DivineMask2": {
+          "DisplayName": "Fate Mask",
+          "Tooltip": "Vanity item"
+        },
+        "DivinePetItem2": {
+          "DisplayName": "Little Fatewheel",
+          "Tooltip": "Summons a purely cosmetic pet"
+        },
+        "DivineHalo2": {
+          "DisplayName": "Flawless Fate Halo",
+          "Tooltip": "Complete an entire trial without taking damage\nEquip in accessory or vanity slots; no combat stats"
+        },
+        "DivineMonument": {
+          "DisplayName": "Timelost Trinity Monument",
+          "Tooltip": "A remembrance of the three covenants\nPure decoration; never a main progression ingredient"
+        },
+        "DivineEpochTitle": {
+          "DisplayName": "Title: Era Defier",
+          "Tooltip": "Win all three covenants in one world\nEquip to show a title; no combat benefit"
+        }
+      },
+      "Buffs": {
+        "DivinePetBuff0": {
+          "DisplayName": "Dewseed Spirit",
+          "Description": "A tiny divine aspect accompanies you"
+        },
+        "DivinePetBuff1": {
+          "DisplayName": "Hearth Ember",
+          "Description": "A tiny divine aspect accompanies you"
+        },
+        "DivinePetBuff2": {
+          "DisplayName": "Little Fatewheel",
+          "Description": "A tiny divine aspect accompanies you"
+        }
+      }
+    }
+  }
+}

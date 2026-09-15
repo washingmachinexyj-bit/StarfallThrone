@@ -1,0 +1,528 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageMaterial0": {
+          "DisplayName": "星港凝胶",
+          "Tooltip": "星港凝胶君主的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore0": {
+          "DisplayName": "货运控制芯",
+          "Tooltip": "星港凝胶君主的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon0": {
+          "DisplayName": "失联货运信标",
+          "Tooltip": "召唤星港凝胶君主\n可重复使用，不会消耗\n当前世界需要先击败月神终焉\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag0": {
+          "DisplayName": "星港凝胶君主宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic0": {
+          "DisplayName": "星港凝胶君主圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy0": {
+          "DisplayName": "星港凝胶君主纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask0": {
+          "DisplayName": "星港凝胶君主面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial1": {
+          "DisplayName": "观测透镜",
+          "Tooltip": "巡天之眼·远望者的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore1": {
+          "DisplayName": "远望阵列芯",
+          "Tooltip": "巡天之眼·远望者的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon1": {
+          "DisplayName": "远望校准镜",
+          "Tooltip": "召唤巡天之眼·远望者\n可重复使用，不会消耗\n当前世界需要先击败星港凝胶君主\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag1": {
+          "DisplayName": "巡天之眼·远望者宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic1": {
+          "DisplayName": "巡天之眼·远望者圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy1": {
+          "DisplayName": "巡天之眼·远望者纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask1": {
+          "DisplayName": "巡天之眼·远望者面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial2": {
+          "DisplayName": "星骸甲片",
+          "Tooltip": "星骸环带吞噬者的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore2": {
+          "DisplayName": "环带引力核",
+          "Tooltip": "星骸环带吞噬者的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon2": {
+          "DisplayName": "环带谐振叉",
+          "Tooltip": "召唤星骸环带吞噬者\n可重复使用，不会消耗\n当前世界需要先击败巡天之眼·远望者\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag2": {
+          "DisplayName": "星骸环带吞噬者宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic2": {
+          "DisplayName": "星骸环带吞噬者圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy2": {
+          "DisplayName": "星骸环带吞噬者纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask2": {
+          "DisplayName": "星骸环带吞噬者面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial3": {
+          "DisplayName": "共识神经束",
+          "Tooltip": "万脑中枢·共识的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore3": {
+          "DisplayName": "万脑主节点",
+          "Tooltip": "万脑中枢·共识的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon3": {
+          "DisplayName": "共识邀请终端",
+          "Tooltip": "召唤万脑中枢·共识\n可重复使用，不会消耗\n当前世界需要先击败星骸环带吞噬者\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag3": {
+          "DisplayName": "万脑中枢·共识宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic3": {
+          "DisplayName": "万脑中枢·共识圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy3": {
+          "DisplayName": "万脑中枢·共识纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask3": {
+          "DisplayName": "万脑中枢·共识面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial4": {
+          "DisplayName": "蜂巢舰板",
+          "Tooltip": "蜂巢母舰·金翅王庭的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore4": {
+          "DisplayName": "王庭指挥芯",
+          "Tooltip": "蜂巢母舰·金翅王庭的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon4": {
+          "DisplayName": "王庭航行码",
+          "Tooltip": "召唤蜂巢母舰·金翅王庭\n可重复使用，不会消耗\n当前世界需要先击败万脑中枢·共识\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag4": {
+          "DisplayName": "蜂巢母舰·金翅王庭宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic4": {
+          "DisplayName": "蜂巢母舰·金翅王庭圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy4": {
+          "DisplayName": "蜂巢母舰·金翅王庭纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask4": {
+          "DisplayName": "蜂巢母舰·金翅王庭面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial5": {
+          "DisplayName": "轨道锚钢",
+          "Tooltip": "轨道骸将·执锚者的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore5": {
+          "DisplayName": "执锚伺服核",
+          "Tooltip": "轨道骸将·执锚者的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon5": {
+          "DisplayName": "失重执锚标",
+          "Tooltip": "召唤轨道骸将·执锚者\n可重复使用，不会消耗\n当前世界需要先击败蜂巢母舰·金翅王庭\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag5": {
+          "DisplayName": "轨道骸将·执锚者宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic5": {
+          "DisplayName": "轨道骸将·执锚者圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy5": {
+          "DisplayName": "轨道骸将·执锚者纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask5": {
+          "DisplayName": "轨道骸将·执锚者面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial6": {
+          "DisplayName": "跃迁隔膜",
+          "Tooltip": "跃迁壁垒·方舟封锁线的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore6": {
+          "DisplayName": "舱门稳定核",
+          "Tooltip": "跃迁壁垒·方舟封锁线的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon6": {
+          "DisplayName": "封锁线通行钥",
+          "Tooltip": "召唤跃迁壁垒·方舟封锁线\n可重复使用，不会消耗\n当前世界需要先击败轨道骸将·执锚者\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag6": {
+          "DisplayName": "跃迁壁垒·方舟封锁线宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic6": {
+          "DisplayName": "跃迁壁垒·方舟封锁线圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy6": {
+          "DisplayName": "跃迁壁垒·方舟封锁线纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask6": {
+          "DisplayName": "跃迁壁垒·方舟封锁线面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial7": {
+          "DisplayName": "璨星棱晶",
+          "Tooltip": "晶环女皇·璨星的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore7": {
+          "DisplayName": "女皇晶环核",
+          "Tooltip": "晶环女皇·璨星的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon7": {
+          "DisplayName": "璨星定轨铃",
+          "Tooltip": "召唤晶环女皇·璨星\n可重复使用，不会消耗\n当前世界需要先击败跃迁壁垒·方舟封锁线\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag7": {
+          "DisplayName": "晶环女皇·璨星宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic7": {
+          "DisplayName": "晶环女皇·璨星圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy7": {
+          "DisplayName": "晶环女皇·璨星纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask7": {
+          "DisplayName": "晶环女皇·璨星面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial8": {
+          "DisplayName": "双星导流片",
+          "Tooltip": "双星猎杀者·赤移与蓝移的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore8": {
+          "DisplayName": "双相反应芯",
+          "Tooltip": "双星猎杀者·赤移与蓝移的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon8": {
+          "DisplayName": "双星交会信号",
+          "Tooltip": "召唤双星猎杀者·赤移与蓝移\n可重复使用，不会消耗\n当前世界需要先击败晶环女皇·璨星\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag8": {
+          "DisplayName": "双星猎杀者·赤移与蓝移宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic8": {
+          "DisplayName": "双星猎杀者·赤移与蓝移圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy8": {
+          "DisplayName": "双星猎杀者·赤移与蓝移纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask8": {
+          "DisplayName": "双星猎杀者·赤移与蓝移面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial9": {
+          "DisplayName": "天衡武装件",
+          "Tooltip": "轨道执刑机·四臂天衡的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore9": {
+          "DisplayName": "四臂仲裁芯",
+          "Tooltip": "轨道执刑机·四臂天衡的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon9": {
+          "DisplayName": "天衡仲裁令",
+          "Tooltip": "召唤轨道执刑机·四臂天衡\n可重复使用，不会消耗\n当前世界需要先击败双星猎杀者·赤移与蓝移\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag9": {
+          "DisplayName": "轨道执刑机·四臂天衡宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic9": {
+          "DisplayName": "轨道执刑机·四臂天衡圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy9": {
+          "DisplayName": "轨道执刑机·四臂天衡纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask9": {
+          "DisplayName": "轨道执刑机·四臂天衡面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial10": {
+          "DisplayName": "列舰装甲片",
+          "Tooltip": "列星歼灭舰·贯日者的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore10": {
+          "DisplayName": "贯日反应炉",
+          "Tooltip": "列星歼灭舰·贯日者的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon10": {
+          "DisplayName": "贯日调舰令",
+          "Tooltip": "召唤列星歼灭舰·贯日者\n可重复使用，不会消耗\n当前世界需要先击败轨道执刑机·四臂天衡\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag10": {
+          "DisplayName": "列星歼灭舰·贯日者宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic10": {
+          "DisplayName": "列星歼灭舰·贯日者圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy10": {
+          "DisplayName": "列星歼灭舰·贯日者纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask10": {
+          "DisplayName": "列星歼灭舰·贯日者面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial11": {
+          "DisplayName": "恒生根纤",
+          "Tooltip": "星际植群·世界树之种的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore11": {
+          "DisplayName": "世界树胚心",
+          "Tooltip": "星际植群·世界树之种的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon11": {
+          "DisplayName": "世界树启生舱",
+          "Tooltip": "召唤星际植群·世界树之种\n可重复使用，不会消耗\n当前世界需要先击败列星歼灭舰·贯日者\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag11": {
+          "DisplayName": "星际植群·世界树之种宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic11": {
+          "DisplayName": "星际植群·世界树之种圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy11": {
+          "DisplayName": "星际植群·世界树之种纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask11": {
+          "DisplayName": "星际植群·世界树之种面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial12": {
+          "DisplayName": "先驱构形块",
+          "Tooltip": "先驱守卫·巨构之心的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore12": {
+          "DisplayName": "巨构心钥",
+          "Tooltip": "先驱守卫·巨构之心的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon12": {
+          "DisplayName": "先驱构形钥",
+          "Tooltip": "召唤先驱守卫·巨构之心\n可重复使用，不会消耗\n当前世界需要先击败星际植群·世界树之种\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag12": {
+          "DisplayName": "先驱守卫·巨构之心宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic12": {
+          "DisplayName": "先驱守卫·巨构之心圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy12": {
+          "DisplayName": "先驱守卫·巨构之心纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask12": {
+          "DisplayName": "先驱守卫·巨构之心面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial13": {
+          "DisplayName": "以太鳍膜",
+          "Tooltip": "以太巡洋兽·利维坦的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore13": {
+          "DisplayName": "巡洋兽心",
+          "Tooltip": "以太巡洋兽·利维坦的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon13": {
+          "DisplayName": "以太巡航螺",
+          "Tooltip": "召唤以太巡洋兽·利维坦\n可重复使用，不会消耗\n当前世界需要先击败先驱守卫·巨构之心\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag13": {
+          "DisplayName": "以太巡洋兽·利维坦宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic13": {
+          "DisplayName": "以太巡洋兽·利维坦圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy13": {
+          "DisplayName": "以太巡洋兽·利维坦纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask13": {
+          "DisplayName": "以太巡洋兽·利维坦面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial14": {
+          "DisplayName": "光帆薄晶",
+          "Tooltip": "光帆圣后·万色航迹的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore14": {
+          "DisplayName": "万色聚光核",
+          "Tooltip": "光帆圣后·万色航迹的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon14": {
+          "DisplayName": "万色折帆蝶",
+          "Tooltip": "召唤光帆圣后·万色航迹\n可重复使用，不会消耗\n当前世界需要先击败以太巡洋兽·利维坦\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag14": {
+          "DisplayName": "光帆圣后·万色航迹宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic14": {
+          "DisplayName": "光帆圣后·万色航迹圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy14": {
+          "DisplayName": "光帆圣后·万色航迹纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask14": {
+          "DisplayName": "光帆圣后·万色航迹面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial15": {
+          "DisplayName": "引航星砂",
+          "Tooltip": "引航圣者·群星坐标的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore15": {
+          "DisplayName": "星图主坐标",
+          "Tooltip": "引航圣者·群星坐标的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon15": {
+          "DisplayName": "引航坐标图",
+          "Tooltip": "召唤引航圣者·群星坐标\n可重复使用，不会消耗\n当前世界需要先击败光帆圣后·万色航迹\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag15": {
+          "DisplayName": "引航圣者·群星坐标宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic15": {
+          "DisplayName": "引航圣者·群星坐标圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy15": {
+          "DisplayName": "引航圣者·群星坐标纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask15": {
+          "DisplayName": "引航圣者·群星坐标面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyageMaterial16": {
+          "DisplayName": "方舟遗晶",
+          "Tooltip": "星海主宰·天穹方舟的主要战利品\n用于星海武器、装备、设施及后续召唤物；向向导展示可查看全部配方"
+        },
+        "VoyageCore16": {
+          "DisplayName": "恒星炉心",
+          "Tooltip": "星海主宰·天穹方舟的核心战利品\n用于武器、护甲与特殊设施，不用于普通建筑消耗品"
+        },
+        "VoyageSummon16": {
+          "DisplayName": "方舟唤星仪",
+          "Tooltip": "召唤星海主宰·天穹方舟\n可重复使用，不会消耗\n当前世界需要先击败引航圣者·群星坐标\n有其他首领、小首领或入侵事件时不能使用\n不限时间与生物群落，建议在宽阔场地战斗"
+        },
+        "VoyageBag16": {
+          "DisplayName": "星海主宰·天穹方舟宝藏袋",
+          "Tooltip": "右键打开\n包含主要材料、核心、随机一件本体武器与专属专家饰品\n有机会获得面具；圣物和纪念章由首领直接掉落"
+        },
+        "VoyageRelic16": {
+          "DisplayName": "星海主宰·天穹方舟圣物",
+          "Tooltip": "大师模式专属纪念品\n可放置"
+        },
+        "VoyageTrophy16": {
+          "DisplayName": "星海主宰·天穹方舟纪念章",
+          "Tooltip": "可挂在背景墙上"
+        },
+        "VoyageMask16": {
+          "DisplayName": "星海主宰·天穹方舟面具",
+          "Tooltip": "时装物品"
+        },
+        "VoyagePlate0": {
+          "DisplayName": "星港联结板",
+          "Tooltip": "用于制作对应阶段的星海护甲\n在星航装配台合成，每次获得10块"
+        },
+        "VoyagePlate1": {
+          "DisplayName": "殖航复合板",
+          "Tooltip": "用于制作对应阶段的星海护甲\n在星航装配台合成，每次获得10块"
+        },
+        "VoyagePlate2": {
+          "DisplayName": "深空阵列板",
+          "Tooltip": "用于制作对应阶段的星海护甲\n在星航装配台合成，每次获得10块"
+        },
+        "VoyagePlate3": {
+          "DisplayName": "先驱巡星板",
+          "Tooltip": "用于制作对应阶段的星海护甲\n在星航装配台合成，每次获得10块"
+        },
+        "VoyagePlate4": {
+          "DisplayName": "方舟复合板",
+          "Tooltip": "用于制作对应阶段的星海护甲\n在星航装配台合成，每次获得10块"
+        },
+        "VoyageAlloy": {
+          "DisplayName": "星航合金锭",
+          "Tooltip": "星海远征的基础合金\n用于召唤物、武器、护甲与设施，每次合成获得6锭"
+        },
+        "VoyageWorkbench": {
+          "DisplayName": "星航装配台",
+          "Tooltip": "可放置\n用于制作星海远征物品\n制作装配台需要当前世界已击败月神终焉"
+        }
+      },
+      "Tiles": {
+        "VoyageWorkbenchTile": {
+          "MapEntry": "星航装配台"
+        },
+        "VoyageRelicTile": {
+          "MapEntry": "星海圣物"
+        },
+        "VoyageTrophyTile": {
+          "MapEntry": "星海纪念章"
+        }
+      },
+      "Voyage": {
+        "DefeatEndMoon": "击败月神终焉",
+        "SpawnInfo": "使用对应可重复使用的星海召唤物；需要击败上一位首领，场上无其他首领、小首领或入侵事件。",
+        "DespawnMessage": "航迹渐暗，星海中的敌人撤离了战场。"
+      }
+    }
+  }
+}

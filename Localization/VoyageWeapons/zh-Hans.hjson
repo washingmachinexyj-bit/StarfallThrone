@@ -1,0 +1,226 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "VoyageWeapon0": {
+          "DisplayName": "装卸重锤",
+          "Tooltip": "三段机械臂挥击；第三击向下砸落\n附近有地面时，重砸释放两道短程地面震波，各造成42%伤害\n不能挖矿或破坏方块"
+        },
+        "VoyageWeapon1": {
+          "DisplayName": "集装弹射器",
+          "Tooltip": "将火箭转换为坠落货舱，撞击后释放两枚凝胶滚雷\n每枚滚雷造成28%伤害，短暂存在且不会继续分裂\n每次发射消耗一枚火箭；不继承火箭的地形破坏效果"
+        },
+        "VoyageWeapon2": {
+          "DisplayName": "视差望远镜",
+          "Tooltip": "按住蓄力并瞄准，松开发射聚焦光束\n1.5秒达到最大聚焦：射程550～1400像素，伤害50%～220%\n光束撞墙终止，每个目标仅命中一次；切换武器取消蓄力"
+        },
+        "VoyageWeapon3": {
+          "DisplayName": "巡天观测仪",
+          "Tooltip": "召唤一台巡天观测眼，占用1个召唤栏\n扫描目标后发射三次短促点射，每发造成60%伤害\n支持手动指定目标；取消观测眼增益可将其收回"
+        },
+        "VoyageWeapon4": {
+          "DisplayName": "环带碎星锯",
+          "Tooltip": "掷出环形链锯，在远端短暂绕行后返回\n同一时间最多一枚链锯，同一目标每0.4秒最多受击一次\n链锯返回时不能隔墙伤害敌人"
+        },
+        "VoyageWeapon5": {
+          "DisplayName": "碎星砂漏",
+          "Tooltip": "在准星附近召出三颗陨石，每颗造成48%伤害\n陨石先环绕，随后错时向中心坠落\n施法位置与飞行弹道受地形限制"
+        },
+        "VoyageWeapon6": {
+          "DisplayName": "共识脉冲枪",
+          "Tooltip": "命中后建立短暂神经连线，再向同一目标追击两发脉冲\n追击脉冲各造成24%伤害，不换目标、不递归生成\n每次射击消耗一发子弹"
+        },
+        "VoyageWeapon7": {
+          "DisplayName": "神经束鞭",
+          "Tooltip": "节点串珠状长鞭，标记目标4秒\n你的召唤物对标记目标造成6%额外伤害，并优先攻击它\n与世界树根鞭的同类标记增伤只取较高值"
+        },
+        "VoyageWeapon8": {
+          "DisplayName": "王庭舰刺",
+          "Tooltip": "短按快速刺击，按住蓄势后伸出多节舰刺\n最大蓄力1.5秒，刺击长度190～420像素、伤害85%～175%\n刺击有固定收招；不推动玩家或穿墙"
+        },
+        "VoyageWeapon9": {
+          "DisplayName": "蜂巢投送弩",
+          "Tooltip": "将箭转换成蜂巢箭，命中后释放两只短命蜂弹\n蜂弹各造成25%伤害，每只只攻击一次，不会继续孵化\n每次射击消耗一支箭"
+        },
+        "VoyageWeapon10": {
+          "DisplayName": "引力锚书",
+          "Tooltip": "抛出能量锚，碰撞或抵达最远处后停驻，再回收能量链\n锚与收缩链均可攻击，同一目标有独立命中间隔\n轻微牵引可击退的小型敌人，不能拖动Boss"
+        },
+        "VoyageWeapon11": {
+          "DisplayName": "执锚者契约",
+          "Tooltip": "部署持续2分钟的锚爪哨兵，占用1个哨兵名额\n左右交替抛出锚链，每条锚链造成80%伤害\n链条回收也能命中，但不能隔墙攻击"
+        },
+        "VoyageWeapon12": {
+          "DisplayName": "舱门断界刃",
+          "Tooltip": "两片舱门形刀刃从左右合拢，在前方约12格处夹斩\n交汇点附近命中获得40%额外伤害\n合拢前有短暂准备，贴脸并非最佳攻击距离"
+        },
+        "VoyageWeapon13": {
+          "DisplayName": "跃迁门矩",
+          "Tooltip": "在有效视线内展开一对小型星门\n三枚能量弹依次穿门射出，每发造成48%伤害\n入口弹是无伤害表现，不会让同一发弹重复命中"
+        },
+        "VoyageWeapon14": {
+          "DisplayName": "璨星晶轨弓",
+          "Tooltip": "箭矢先沿前方短弧线绕行，再汇向瞄准方向\n适合保持距离后持续射击，轨道与箭矢不能穿墙\n每次射击消耗一支箭"
+        },
+        "VoyageWeapon15": {
+          "DisplayName": "晶环牧杖",
+          "Tooltip": "召唤一颗浮游晶体，占用1个召唤栏\n晶环脱离核心撞击目标，随后返回重新充能\n支持手动指定目标；取消增益可将其收回"
+        },
+        "VoyageWeapon16": {
+          "DisplayName": "赤蓝交会刃",
+          "Tooltip": "三段循环：红刃近斩、蓝刃远端回旋、强化交会斩\n第三击释放一道短程光刃，造成70%伤害\n回旋刃返回前不能继续叠加同一轮攻击"
+        },
+        "VoyageWeapon17": {
+          "DisplayName": "双星交替炮",
+          "Tooltip": "交替发射慢速赤弹与快速三连蓝弹\n赤弹造成145%伤害；蓝弹每发造成44%伤害\n每轮仅消耗一发子弹，分裂弹不继承原子弹特效"
+        },
+        "VoyageWeapon18": {
+          "DisplayName": "天衡武装终端",
+          "Tooltip": "按固定顺序调用切割光刃、定向炮击、短程磁爆\n三种武装分别造成115%、120%、110%伤害\n物品栏指示灯显示下一次武装，磁爆范围约9格"
+        },
+        "VoyageWeapon19": {
+          "DisplayName": "四臂执刑匣",
+          "Tooltip": "召唤一台机械执刑体，占用2个召唤栏\n近距离使用锯臂突击，远距离交替炮击，每炮造成80%伤害\n不会同时倾泻四种武装；取消增益可将其收回"
+        },
+        "VoyageWeapon20": {
+          "DisplayName": "贯日链枪",
+          "Tooltip": "伸出最长约27格的舰节长枪，后续舰节沿链撞向前端\n每次有效命中造成44%伤害，同一目标至少间隔10帧\n收回前不能叠加另一条链枪，不能隔墙命中"
+        },
+        "VoyageWeapon21": {
+          "DisplayName": "舰列调度卷",
+          "Tooltip": "标出一条短航道，三艘微型舰艇依次经过并侧向开火\n每艘发射一次50%伤害的舰载弹，射程和数量有限\n不产生全屏轰炸或无限舰队"
+        },
+        "VoyageWeapon22": {
+          "DisplayName": "胚种播射器",
+          "Tooltip": "将箭转换成胚种弹，命中后长出短命花苞\n花苞稍后向附近敌人射出三枚种子，各造成27%伤害\n每次射击消耗一支箭，种子不会继续长出花苞"
+        },
+        "VoyageWeapon23": {
+          "DisplayName": "世界树根鞭",
+          "Tooltip": "挥动较慢、覆盖更宽的根系长鞭，标记目标6秒\n你的召唤物对标记目标造成10%额外伤害，并优先攻击它\n与神经束鞭的同类标记增伤不叠加"
+        },
+        "VoyageWeapon24": {
+          "DisplayName": "先驱构形锤",
+          "Tooltip": "在普通挥击与重型方块砸击之间交替重组\n重砸在附近地面依次升起三枚短程构形柱，各造成35%伤害\n没有地面时不生成悬空地柱，也不会破坏建筑"
+        },
+        "VoyageWeapon25": {
+          "DisplayName": "巨构脉冲炮",
+          "Tooltip": "发射缓慢几何核心，撞击后向四个正交方向展开短射线\n每条射线造成27%伤害并被地形阻挡\n每次射击消耗一枚火箭，不破坏方块"
+        },
+        "VoyageWeapon26": {
+          "DisplayName": "以太潮汐卷",
+          "Tooltip": "释放弯曲潮汐带，向外推进后回卷一次\n去程与回程分别造成80%伤害，每段对同一目标仅命中一次\n同时最多存在一道潮汐带"
+        },
+        "VoyageWeapon27": {
+          "DisplayName": "利维坦幼体号角",
+          "Tooltip": "召唤一头幼年巡洋兽，占用2个召唤栏\n绕到目标侧面后冲刺，留下短暂的20%伤害尾流\n支持手动指定目标；取消增益可将其收回"
+        },
+        "VoyageWeapon28": {
+          "DisplayName": "光帆裁星刃",
+          "Tooltip": "挥动时展开扇形光帆，第三击将帆收束成直线光刃\n直线光刃造成70%伤害，具有有限射程并被地形阻挡\n扇面近斩与直线攻击适合不同站位"
+        },
+        "VoyageWeapon29": {
+          "DisplayName": "万色折航镜",
+          "Tooltip": "按瞄准方向自动布置两片临时镜面\n完整光路先显示，再发射经过两次折转的光束\n每个目标每次施法仅命中一次，任一段撞墙即终止后续光路"
+        },
+        "VoyageWeapon30": {
+          "DisplayName": "航标定点弩",
+          "Tooltip": "每三箭的第一箭命中后留下持续3秒的航标\n后续两箭向航标获得有限角度修正，不穿墙也不永久追踪\n每次射击消耗一支箭"
+        },
+        "VoyageWeapon31": {
+          "DisplayName": "引航门阵",
+          "Tooltip": "部署持续2分钟的双门哨兵，一组门占1个哨兵名额\n星弹依次进入入口，从出口射出，每发造成62%伤害\n出口位置受地形限制，支持指定目标"
+        },
+        "VoyageWeapon32": {
+          "DisplayName": "方舟开天刃",
+          "Tooltip": "三段循环：舰首横斩、舰翼挑斩、装甲合拢重斩\n第三击附带一道70%伤害的短程舰首冲击\n攻击仍需要站位，不是无限射程剑气"
+        },
+        "VoyageWeapon33": {
+          "DisplayName": "天穹主炮",
+          "Tooltip": "按住蓄势，松开发射厚重主炮光束\n最大蓄力1.5秒，造成60%～240%伤害；每个目标仅命中一次\n每次发射消耗一发子弹，开火后排热0.7秒；光束撞墙终止"
+        },
+        "VoyageWeapon34": {
+          "DisplayName": "人造恒星仪",
+          "Tooltip": "按住维持最多一颗恒星，除初始消耗外每0.5秒消耗12点基础魔力\n恒星每0.75秒释放一次32%伤害的日冕弧\n松开后射出恒星，伤害随维持时间提高，3秒达到230%上限\n魔力不足时自动释放；切换武器或死亡会终止持握"
+        },
+        "VoyageWeapon35": {
+          "DisplayName": "文明火种杖",
+          "Tooltip": "召唤一艘微型方舟，占用3个召唤栏\n循环执行三架护航机出动、主炮点射、回收整备\n护航机各造成46%伤害，主炮造成120%伤害；不额外占栏或无限残留\n支持指定目标；取消增益可将其收回"
+        }
+      },
+      "Projectiles": {
+        "VoyageShot": {
+          "DisplayName": "星航武装"
+        },
+        "VoyageSummonShot": {
+          "DisplayName": "星航召唤弹"
+        },
+        "VoyageChannel": {
+          "DisplayName": "星航蓄力武装"
+        },
+        "VoyageNeuralWhip": {
+          "DisplayName": "神经束鞭"
+        },
+        "VoyageRootWhip": {
+          "DisplayName": "世界树根鞭"
+        },
+        "VoyageObserver": {
+          "DisplayName": "巡天观测眼"
+        },
+        "VoyageAnchorSentry": {
+          "DisplayName": "执锚哨兵"
+        },
+        "VoyageCrystalMinion": {
+          "DisplayName": "浮游晶环"
+        },
+        "VoyageExecutor": {
+          "DisplayName": "四臂执刑体"
+        },
+        "VoyageLeviathan": {
+          "DisplayName": "利维坦幼体"
+        },
+        "VoyagePortalSentry": {
+          "DisplayName": "引航双门"
+        },
+        "VoyageArkMinion": {
+          "DisplayName": "微型方舟"
+        }
+      },
+      "Buffs": {
+        "VoyageNeuralTag": {
+          "DisplayName": "神经标记",
+          "Description": "被神经束鞭标记"
+        },
+        "VoyageRootTag": {
+          "DisplayName": "世界根系标记",
+          "Description": "被世界树根鞭标记"
+        },
+        "VoyageObserverBuff": {
+          "DisplayName": "巡天观测眼",
+          "Description": "巡天观测眼为你提供火力"
+        },
+        "VoyageCrystalBuff": {
+          "DisplayName": "浮游晶环",
+          "Description": "浮游晶体为你提供火力"
+        },
+        "VoyageExecutorBuff": {
+          "DisplayName": "四臂执刑体",
+          "Description": "机械执刑体为你作战"
+        },
+        "VoyageLeviathanBuff": {
+          "DisplayName": "利维坦幼体",
+          "Description": "巡洋兽幼体为你作战"
+        },
+        "VoyageArkBuff": {
+          "DisplayName": "文明方舟",
+          "Description": "微型方舟为你提供火力"
+        }
+      },
+      "VoyageWeapons": {
+        "NextArm": "下一武装：{0}",
+        "Arm0": "切割光刃",
+        "Arm1": "定向炮击",
+        "Arm2": "短程磁爆"
+      }
+    }
+  }
+}

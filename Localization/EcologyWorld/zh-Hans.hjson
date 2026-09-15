@@ -1,0 +1,594 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "EcologyAnchor": {
+          "DisplayName": "界域锚",
+          "Tooltip": "右键预览并确认矩形生态范围\n锚点不会自动转化地形；无自然蔓延\n解除绑定或拆除后方块保留，专属生态停止"
+        },
+        "EcologyBoundaryScanner": {
+          "DisplayName": "边界勘测仪",
+          "Tooltip": "先右键界域锚，再左键选择两个对角\n在锚的面板中确认范围；显示生态数量与边界"
+        },
+        "EcologySprayCan": {
+          "DisplayName": "生态喷壶",
+          "Tooltip": "消耗生态溶液，近距离创造或恢复界域方块\n仅接受本模组溶液；限自己绑定的界域"
+        },
+        "EcologyRestorePowder": {
+          "DisplayName": "归原粉",
+          "Tooltip": "将自己界域的生态方块恢复为对应原版石/土/草/沙/冰\n不影响矿物或其他模组方块；成功转换才消耗"
+        },
+        "EcologyRestoreSolution": {
+          "DisplayName": "归原溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n仅恢复自己界域内的本模组生态基础方块"
+        },
+        "EcologyMineralBed": {
+          "DisplayName": "生态矿床槽",
+          "Tooltip": "放在自己的活跃生态内；手持对应矿床种核右键\n30秒后在正上方3×3空地生成9块可挖矿物\n需击败对应生态 Boss；拆除时返还未完成批次的种核"
+        },
+        "EcologyOre0": {
+          "DisplayName": "雾镜晶矿",
+          "Tooltip": "需要 45% 镐力；当前世界需击败雾冠巡狩者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst0": {
+          "DisplayName": "雾镜林地触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n克苏鲁之眼被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder0": {
+          "DisplayName": "雾镜林地粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution0": {
+          "DisplayName": "雾镜林地溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant0": {
+          "DisplayName": "映雾草",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed0": {
+          "DisplayName": "映雾草种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem0": {
+          "DisplayName": "雾镜林地墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock0_0": {
+          "DisplayName": "雾镜林地石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock0_1": {
+          "DisplayName": "雾镜林地土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock0_2": {
+          "DisplayName": "雾镜林地草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock0_3": {
+          "DisplayName": "雾镜林地砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock0_4": {
+          "DisplayName": "雾镜林地冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre1": {
+          "DisplayName": "蜡髓矿",
+          "Tooltip": "需要 55% 镐力；当前世界需击败千烛合葬者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst1": {
+          "DisplayName": "蜡眠荒庭触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n世界吞噬怪或克苏鲁之脑被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder1": {
+          "DisplayName": "蜡眠荒庭粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution1": {
+          "DisplayName": "蜡眠荒庭溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant1": {
+          "DisplayName": "蜡蕊草",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed1": {
+          "DisplayName": "蜡蕊草种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem1": {
+          "DisplayName": "蜡眠荒庭墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock1_0": {
+          "DisplayName": "蜡眠荒庭石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock1_1": {
+          "DisplayName": "蜡眠荒庭土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock1_2": {
+          "DisplayName": "蜡眠荒庭草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock1_3": {
+          "DisplayName": "蜡眠荒庭砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock1_4": {
+          "DisplayName": "蜡眠荒庭冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre2": {
+          "DisplayName": "蜜珀矿",
+          "Tooltip": "需要 60% 镐力；当前世界需击败琥珀育巢者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst2": {
+          "DisplayName": "蜜珀蚀林触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n蜂王被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder2": {
+          "DisplayName": "蜜珀蚀林粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution2": {
+          "DisplayName": "蜜珀蚀林溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant2": {
+          "DisplayName": "垂蜜芽",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed2": {
+          "DisplayName": "垂蜜芽种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem2": {
+          "DisplayName": "蜜珀蚀林墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock2_0": {
+          "DisplayName": "蜜珀蚀林石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock2_1": {
+          "DisplayName": "蜜珀蚀林土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock2_2": {
+          "DisplayName": "蜜珀蚀林草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock2_3": {
+          "DisplayName": "蜜珀蚀林砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock2_4": {
+          "DisplayName": "蜜珀蚀林冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre3": {
+          "DisplayName": "鸣骸矿",
+          "Tooltip": "需要 65% 镐力；当前世界需击败空钟送葬者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst3": {
+          "DisplayName": "鸣骸墓原触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n骷髅王被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder3": {
+          "DisplayName": "鸣骸墓原粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution3": {
+          "DisplayName": "鸣骸墓原溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant3": {
+          "DisplayName": "铃骨花",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed3": {
+          "DisplayName": "铃骨花种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem3": {
+          "DisplayName": "鸣骸墓原墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock3_0": {
+          "DisplayName": "鸣骸墓原石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock3_1": {
+          "DisplayName": "鸣骸墓原土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock3_2": {
+          "DisplayName": "鸣骸墓原草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock3_3": {
+          "DisplayName": "鸣骸墓原砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock3_4": {
+          "DisplayName": "鸣骸墓原冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre4": {
+          "DisplayName": "逆烬矿",
+          "Tooltip": "需要 100% 镐力；当前世界需击败逆燃熔心\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst4": {
+          "DisplayName": "逆烬熔原触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n血肉墙被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder4": {
+          "DisplayName": "逆烬熔原粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution4": {
+          "DisplayName": "逆烬熔原溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant4": {
+          "DisplayName": "逆焰蕨",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed4": {
+          "DisplayName": "逆焰蕨种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem4": {
+          "DisplayName": "逆烬熔原墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock4_0": {
+          "DisplayName": "逆烬熔原石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock4_1": {
+          "DisplayName": "逆烬熔原土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock4_2": {
+          "DisplayName": "逆烬熔原草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock4_3": {
+          "DisplayName": "逆烬熔原砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock4_4": {
+          "DisplayName": "逆烬熔原冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre5": {
+          "DisplayName": "自律磁矿",
+          "Tooltip": "需要 180% 镐力；当前世界需击败荒原总机\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst5": {
+          "DisplayName": "失控械土触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n全部三种机械 Boss被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder5": {
+          "DisplayName": "失控械土粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution5": {
+          "DisplayName": "失控械土溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant5": {
+          "DisplayName": "磁叶芽",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed5": {
+          "DisplayName": "磁叶芽种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem5": {
+          "DisplayName": "失控械土墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock5_0": {
+          "DisplayName": "失控械土石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock5_1": {
+          "DisplayName": "失控械土土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock5_2": {
+          "DisplayName": "失控械土草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock5_3": {
+          "DisplayName": "失控械土砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock5_4": {
+          "DisplayName": "失控械土冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre6": {
+          "DisplayName": "饥生矿",
+          "Tooltip": "需要 200% 镐力；当前世界需击败万胃繁花\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst6": {
+          "DisplayName": "永饥花庭触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n世纪之花被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder6": {
+          "DisplayName": "永饥花庭粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution6": {
+          "DisplayName": "永饥花庭溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant6": {
+          "DisplayName": "饥露藤",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed6": {
+          "DisplayName": "饥露藤种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem6": {
+          "DisplayName": "永饥花庭墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock6_0": {
+          "DisplayName": "永饥花庭石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock6_1": {
+          "DisplayName": "永饥花庭土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock6_2": {
+          "DisplayName": "永饥花庭草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock6_3": {
+          "DisplayName": "永饥花庭砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock6_4": {
+          "DisplayName": "永饥花庭冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre7": {
+          "DisplayName": "沉日矿",
+          "Tooltip": "需要 210% 镐力；当前世界需击败沉日守陵兽\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst7": {
+          "DisplayName": "沉日遗境触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n石巨人被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder7": {
+          "DisplayName": "沉日遗境粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution7": {
+          "DisplayName": "沉日遗境溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant7": {
+          "DisplayName": "沉日莲",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed7": {
+          "DisplayName": "沉日莲种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem7": {
+          "DisplayName": "沉日遗境墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock7_0": {
+          "DisplayName": "沉日遗境石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock7_1": {
+          "DisplayName": "沉日遗境土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock7_2": {
+          "DisplayName": "沉日遗境草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock7_3": {
+          "DisplayName": "沉日遗境砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock7_4": {
+          "DisplayName": "沉日遗境冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre8": {
+          "DisplayName": "虹潮晶矿",
+          "Tooltip": "需要 215% 镐力；当前世界需击败虹渊织潮者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst8": {
+          "DisplayName": "虹渊潮境触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n猪龙鱼公爵与光之女皇（两者都要）被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder8": {
+          "DisplayName": "虹渊潮境粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution8": {
+          "DisplayName": "虹渊潮境溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant8": {
+          "DisplayName": "虹纱珊瑚",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed8": {
+          "DisplayName": "虹纱珊瑚种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem8": {
+          "DisplayName": "虹渊潮境墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock8_0": {
+          "DisplayName": "虹渊潮境石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock8_1": {
+          "DisplayName": "虹渊潮境土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock8_2": {
+          "DisplayName": "虹渊潮境草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock8_3": {
+          "DisplayName": "虹渊潮境砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock8_4": {
+          "DisplayName": "虹渊潮境冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyOre9": {
+          "DisplayName": "无相晶矿",
+          "Tooltip": "需要 225% 镐力；当前世界需击败无相巡星者\n在对应生态界域内结晶；矿床槽可持续培育"
+        },
+        "EcologyCatalyst9": {
+          "DisplayName": "无相星壤触媒",
+          "Tooltip": "用于合成生态粉末与溶液\n月亮领主被击败后解锁，不自动生成地形"
+        },
+        "EcologyPowder9": {
+          "DisplayName": "无相星壤粉末",
+          "Tooltip": "手持使用，转换自己界域内5×5区域的普通石/土/草/沙/冰\n须绑定对应生态且已解锁；不会自然蔓延\n跳过矿物、家具支撑、背景墙、线路与液体；成功才消耗"
+        },
+        "EcologySolution9": {
+          "DisplayName": "无相星壤溶液",
+          "Tooltip": "用于生态喷壶、环境改造枪或泰拉改造枪\n只在自己的对应界域生效，不产生蔓延"
+        },
+        "EcologyPlant9": {
+          "DisplayName": "空相花",
+          "Tooltip": "活跃生态中的特有植物，可制作材料及再生药水\n观赏模式不会自然生长资源"
+        },
+        "EcologySeed9": {
+          "DisplayName": "空相花种子",
+          "Tooltip": "种在对应生态草块上\n只有活跃且已解锁的生态中采收才产出资源"
+        },
+        "EcologyWallItem9": {
+          "DisplayName": "无相星壤墙",
+          "Tooltip": "安全装饰背景墙，可用于住房\n不传播生态；不会计入生态方块数量"
+        },
+        "EcologyBlock9_0": {
+          "DisplayName": "无相星壤石",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock9_1": {
+          "DisplayName": "无相星壤土",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock9_2": {
+          "DisplayName": "无相星壤草块",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock9_3": {
+          "DisplayName": "无相星壤砂",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        },
+        "EcologyBlock9_4": {
+          "DisplayName": "无相星壤冰",
+          "Tooltip": "不会自然蔓延；须在绑定界域内才能激活生态\n归原粉恢复为对应原版基础方块"
+        }
+      },
+      "Biomes": {
+        "EcologyBiome0": {
+          "DisplayName": "雾镜林地"
+        },
+        "EcologyBiome1": {
+          "DisplayName": "蜡眠荒庭"
+        },
+        "EcologyBiome2": {
+          "DisplayName": "蜜珀蚀林"
+        },
+        "EcologyBiome3": {
+          "DisplayName": "鸣骸墓原"
+        },
+        "EcologyBiome4": {
+          "DisplayName": "逆烬熔原"
+        },
+        "EcologyBiome5": {
+          "DisplayName": "失控械土"
+        },
+        "EcologyBiome6": {
+          "DisplayName": "永饥花庭"
+        },
+        "EcologyBiome7": {
+          "DisplayName": "沉日遗境"
+        },
+        "EcologyBiome8": {
+          "DisplayName": "虹渊潮境"
+        },
+        "EcologyBiome9": {
+          "DisplayName": "无相星壤"
+        }
+      },
+      "EcologyWorld": {
+        "OreAwake": "{0}的力量渗入界域，地下的{1}开始结晶！首胜配额：{2}块；空间不足时会保留，扩建地下生态石层后继续。",
+        "RegionSaved": "界域已确认。使用对应粉末转换范围内的普通方块；300块激活生态，600块可召唤 Boss。",
+        "RegionRejected": "操作未通过：检查解锁、归属、锚点、范围与重叠。范围须含锚，宽30–180、高20–140；改换生态前先归原。",
+        "RegionRemoved": "已解除界域。方块保留，专属生态活动停止；矿化配额不会重置。",
+        "NoConversion": "没有可安全转化的方块：先右键界域锚并确认范围，再对准界域内的石/土/草/沙/冰及其腐化、猩红、神圣或冰雪变体；避开线路、液体、家具、矿物与受保护区域。",
+        "SelectAnchor": "先右键一个界域锚打开配置，再使用边界勘测仪选取两个对角。",
+        "FirstCorner": "已选取第一个角；再选第二个角，检查预览后点击确认。",
+        "RegionStatus": "{0} · {1}/600 方块 · {2} · 待矿化 {3}块",
+        "EcologyMode": "生态模式",
+        "DisplayMode": "观赏模式",
+        "PanelTitle": "界域锚 · 范围与生态",
+        "PairStatus": "猪龙鱼公爵 {0}　光之女皇 {1}",
+        "Bounds": "预览：宽{0} × 高{1}格（含锚；不得重叠）",
+        "Confirm": "确认界域",
+        "Close": "关闭",
+        "Unbind": "解除绑定（保留方块）",
+        "PanelHint": "使用勘测仪选择对角；白框为待确认范围\n粉末仅改白名单；观赏模式不生成专属资源",
+        "PairGate": "当前世界击败猪龙鱼公爵与光之女皇两者后获得",
+        "CatalystDrop": "普通模式直接掉落；专家/大师从对应原版宝藏袋获得",
+        "BedLocked": "矿床槽需要：自己已激活的对应生态（300块）且击败该生态 Boss。",
+        "BedWorking": "矿床槽进度：{0}%；满时若上方有遮挡则等待。",
+        "BedSeed": "手持本生态矿床种核后右键；每次消耗1枚，生长9块矿。",
+        "BedBlocked": "矿床槽正上方3×3区域须在界域内且无方块、墙、液体或线路。",
+        "BedStarted": "种核已投入：30秒后结晶9块可挖矿物。拆除未完成的矿床会返还1枚种核；已产矿批次不返还。",
+        "Unlock0": "需要击败：克苏鲁之眼",
+        "Defeat0": "击败雾冠巡狩者",
+        "Unlock1": "需要击败：世界吞噬怪或克苏鲁之脑",
+        "Defeat1": "击败千烛合葬者",
+        "Unlock2": "需要击败：蜂王",
+        "Defeat2": "击败琥珀育巢者",
+        "Unlock3": "需要击败：骷髅王",
+        "Defeat3": "击败空钟送葬者",
+        "Unlock4": "需要击败：血肉墙",
+        "Defeat4": "击败逆燃熔心",
+        "Unlock5": "需要击败：全部三种机械 Boss",
+        "Defeat5": "击败荒原总机",
+        "Unlock6": "需要击败：世纪之花",
+        "Defeat6": "击败万胃繁花",
+        "Unlock7": "需要击败：石巨人",
+        "Defeat7": "击败沉日守陵兽",
+        "Unlock8": "需要击败：猪龙鱼公爵与光之女皇（两者都要）",
+        "Defeat8": "击败虹渊织潮者",
+        "Unlock9": "需要击败：月亮领主",
+        "Defeat9": "击败无相巡星者",
+        "Narrower": "缩窄",
+        "Wider": "加宽",
+        "Shorter": "降低",
+        "Taller": "加高"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Combat": {
+        "Phase1": "招式变化",
+        "Phase2": "决战阶段"
+      },
+      "Projectiles": {
+        "ReforgedMinionShot": { "DisplayName": "王座召唤弹" },
+        "CombatHazard": {
+          "DisplayName": "星落王座攻势"
+        },
+        "ReforgedWeaponShot": {
+          "DisplayName": "王座武器弹幕"
+        },
+        "ReforgedTongueWhip": {
+          "DisplayName": "舌鞭"
+        },
+        "WaxBeeMinion": {
+          "DisplayName": "蜂蜡裁决蜂"
+        },
+        "ThornBloomMinion": {
+          "DisplayName": "荆棘花灵"
+        },
+        "AstralSentry": {
+          "DisplayName": "星界法阵"
+        }
+      },
+      "Buffs": {
+        "TongueTag": {
+          "DisplayName": "舌鞭标记",
+          "Description": "受到额外3点召唤标签伤害"
+        },
+        "WaxBeeBuff": {
+          "DisplayName": "裁决蜂守护",
+          "Description": "蜂蜡裁决蜂为你战斗"
+        },
+        "ThornBloomBuff": {
+          "DisplayName": "荆棘花灵",
+          "Description": "荆棘花灵为你战斗"
+        }
+      }
+    }
+  }
+}

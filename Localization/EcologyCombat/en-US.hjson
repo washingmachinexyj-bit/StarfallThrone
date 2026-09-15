@@ -1,0 +1,271 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "EcologyBoss0": {
+          "DisplayName": "Mistcrowned Huntsman"
+        },
+        "EcologyBoss1": {
+          "DisplayName": "Thousand-Candle Sepulcher"
+        },
+        "EcologyBoss2": {
+          "DisplayName": "Amber Broodkeeper"
+        },
+        "EcologyBoss3": {
+          "DisplayName": "Hollow Bell Undertaker"
+        },
+        "EcologyBoss4": {
+          "DisplayName": "Backburn Crucible"
+        },
+        "EcologyBoss5": {
+          "DisplayName": "Wasteland Mainframe"
+        },
+        "EcologyBoss6": {
+          "DisplayName": "Thousand-Maw Blossom"
+        },
+        "EcologyBoss7": {
+          "DisplayName": "Sunken-Sun Tombguard"
+        },
+        "EcologyBoss8": {
+          "DisplayName": "Prismatic Tideweaver"
+        },
+        "EcologyBoss9": {
+          "DisplayName": "Formless Starpatroller"
+        },
+        "EcologyPart": {
+          "DisplayName": "Breakable Encounter Structure"
+        },
+        "EcologyMob0": {
+          "DisplayName": "Mirrorback Snail"
+        },
+        "EcologyMob1": {
+          "DisplayName": "Mistwing Moth"
+        },
+        "EcologyMob2": {
+          "DisplayName": "Reflection Badger"
+        },
+        "EcologyMob3": {
+          "DisplayName": "Cracked-Mirror Stag"
+        },
+        "EcologyMob4": {
+          "DisplayName": "Dripping Waxworm"
+        },
+        "EcologyMob5": {
+          "DisplayName": "Cocooned Fluttermoth"
+        },
+        "EcologyMob6": {
+          "DisplayName": "Candleface Attendant"
+        },
+        "EcologyMob7": {
+          "DisplayName": "Great Wax Chrysalis"
+        },
+        "EcologyMob8": {
+          "DisplayName": "Sugarplate Ant"
+        },
+        "EcologyMob9": {
+          "DisplayName": "Honeyneedle Wasp"
+        },
+        "EcologyMob10": {
+          "DisplayName": "Nestbranch Mantis"
+        },
+        "EcologyMob11": {
+          "DisplayName": "Amber Broodsac"
+        },
+        "EcologyMob12": {
+          "DisplayName": "Knocking Boneworm"
+        },
+        "EcologyMob13": {
+          "DisplayName": "Hollow-Skull Bat"
+        },
+        "EcologyMob14": {
+          "DisplayName": "Bellbearing Remnant"
+        },
+        "EcologyMob15": {
+          "DisplayName": "Flutebone Beast"
+        },
+        "EcologyMob16": {
+          "DisplayName": "Ashshell Crawler"
+        },
+        "EcologyMob17": {
+          "DisplayName": "Upflame Moth"
+        },
+        "EcologyMob18": {
+          "DisplayName": "Charbranch Walker"
+        },
+        "EcologyMob19": {
+          "DisplayName": "Furnaceback Rhino"
+        },
+        "EcologyMob20": {
+          "DisplayName": "Rivetfoot Rat"
+        },
+        "EcologyMob21": {
+          "DisplayName": "Magnetleaf Wasp"
+        },
+        "EcologyMob22": {
+          "DisplayName": "Scrapwire Puppet"
+        },
+        "EcologyMob23": {
+          "DisplayName": "Patchwork Treadbeast"
+        },
+        "EcologyMob24": {
+          "DisplayName": "Dewswallow Flower"
+        },
+        "EcologyMob25": {
+          "DisplayName": "Parasitic-Petal Mantis"
+        },
+        "EcologyMob26": {
+          "DisplayName": "Fullbelly Sacbeast"
+        },
+        "EcologyMob27": {
+          "DisplayName": "Rootclasp Spider"
+        },
+        "EcologyMob28": {
+          "DisplayName": "Sunbearing Beetle"
+        },
+        "EcologyMob29": {
+          "DisplayName": "Tripod Patrol Stele"
+        },
+        "EcologyMob30": {
+          "DisplayName": "Sandcarved Flying Serpent"
+        },
+        "EcologyMob31": {
+          "DisplayName": "Coffingate Sentinel"
+        },
+        "EcologyMob32": {
+          "DisplayName": "Prismfin Fish"
+        },
+        "EcologyMob33": {
+          "DisplayName": "Rainbow-Gauze Jellyfish"
+        },
+        "EcologyMob34": {
+          "DisplayName": "Tidechasing Butterfly"
+        },
+        "EcologyMob35": {
+          "DisplayName": "Pearlcrowned Sea Dragon"
+        },
+        "EcologyMob36": {
+          "DisplayName": "Starshell Wanderworm"
+        },
+        "EcologyMob37": {
+          "DisplayName": "Faceless Drifter"
+        },
+        "EcologyMob38": {
+          "DisplayName": "Orbital Hunter"
+        },
+        "EcologyMob39": {
+          "DisplayName": "Rift Manta"
+        }
+      },
+      "Items": {
+        "EcologySummon0": {
+          "DisplayName": "Mistmirrored Branch Crown",
+          "Tooltip": "Summons Mistcrowned Huntsman\nRequires Eye of Cthulhu defeated in this world\nUse in an ecology-mode Mistmirror Grove with at least 600 matching terrain tiles\nSummon at night; dawn does not enrage an ongoing fight\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon1": {
+          "DisplayName": "Unquenched Wax Seal",
+          "Tooltip": "Summons Thousand-Candle Sepulcher\nRequires Eater of Worlds or Brain of Cthulhu defeated in this world\nUse in an ecology-mode Waxsleep Court with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon2": {
+          "DisplayName": "Honeysealed Brood Sac",
+          "Tooltip": "Summons Amber Broodkeeper\nRequires Queen Bee defeated in this world\nUse in an ecology-mode Amberhive Thicket with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon3": {
+          "DisplayName": "Silent Hanging Bell",
+          "Tooltip": "Summons Hollow Bell Undertaker\nRequires Skeletron defeated in this world\nUse in an ecology-mode Knellbone Moor with at least 600 matching terrain tiles\nSummon at night; dawn does not enrage an ongoing fight\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon4": {
+          "DisplayName": "Inverted Ember",
+          "Tooltip": "Summons Backburn Crucible\nRequires Wall of Flesh defeated in this world\nUse in an ecology-mode Backburn Wastes with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon5": {
+          "DisplayName": "Failed Master Controller",
+          "Tooltip": "Summons Wasteland Mainframe\nRequires all three mechanical bosses defeated in this world\nUse in an ecology-mode Wildmachine Soil with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon6": {
+          "DisplayName": "Unripe Hungerfruit",
+          "Tooltip": "Summons Thousand-Maw Blossom\nRequires Plantera defeated in this world\nUse in an ecology-mode Hungerbloom Garden with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon7": {
+          "DisplayName": "Cooled Sunwheel",
+          "Tooltip": "Summons Sunken-Sun Tombguard\nRequires Golem defeated in this world\nUse in an ecology-mode Sunken-Sun Domain with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon8": {
+          "DisplayName": "Harmonic Tide Pearl",
+          "Tooltip": "Summons Prismatic Tideweaver\nRequires both Duke Fishron and Empress of Light defeated in this world\nUse in an ecology-mode Rainbow Abyss with at least 600 matching terrain tiles\nCan be summoned at any time\nNot consumed; no other boss may be active"
+        },
+        "EcologySummon9": {
+          "DisplayName": "Derailed Star Marker",
+          "Tooltip": "Summons Formless Starpatroller\nRequires Moon Lord defeated in this world\nUse in an ecology-mode Formless Starsoil with at least 600 matching terrain tiles\nSummon at night; dawn does not enrage an ongoing fight\nNot consumed; no other boss may be active"
+        }
+      },
+      "Projectiles": {
+        "EcologyHazard": {
+          "DisplayName": "Ecological Hazard"
+        }
+      },
+      "EcologyCombat": {
+        "Despawn": "The guardian withdraws when its ecological anchor is lost or challengers leave for too long.",
+        "Bestiary0": "The true antlers glow steadily; reflections are harmless. Dodge committed mirror lines and retaliate when a white weak-point ring appears.",
+        "Spawn0": "Defeat Eye of Cthulhu, then create a Mistmirror Grove. Enable ecology mode with at least 600 matching tiles and use Mistmirrored Branch Crown at night. This optional branch has no expiry.",
+        "Bestiary1": "Its finite wax shell never restores body health. Candle rows leave an opening, and the coffin drop ends in a vulnerable recovery.",
+        "Spawn1": "Defeat Eater of Worlds or Brain of Cthulhu, then create a Waxsleep Court. Enable ecology mode with at least 600 matching tiles and use Unquenched Wax Seal at any time. This optional branch has no expiry.",
+        "Bestiary2": "A six-legged beast carrying a living hive. Break its back-hive to expose the core, destroy honey sacs before they burst, and thin its limited guards.",
+        "Spawn2": "Defeat Queen Bee, then create a Amberhive Thicket. Enable ecology mode with at least 600 matching tiles and use Honeysealed Brood Sac at any time. This optional branch has no expiry.",
+        "Bestiary3": "A low wave, falling bones, then a sound blade: every bell has a visible warning. The clapper sweep leaves ample time to move.",
+        "Spawn3": "Defeat Skeletron, then create a Knellbone Moor. Enable ecology mode with at least 600 matching tiles and use Silent Hanging Bell at night. This optional branch has no expiry.",
+        "Bestiary4": "Cold armor is slow and hard; overheating is fast and vulnerable. Breaking a radiator exposes the heart. Its fire never changes terrain.",
+        "Spawn4": "Defeat Wall of Flesh, then create a Backburn Wastes. Enable ecology mode with at least 600 matching tiles and use Inverted Ember at any time. This optional branch has no expiry.",
+        "Bestiary5": "Treads, magnets, repair drones and hover guns reconfigure in turns. Destroy drones to expose the core; repairs replenish limited armor, never health.",
+        "Spawn5": "Defeat all three mechanical bosses, then create a Wildmachine Soil. Enable ecology mode with at least 600 matching tiles and use Failed Master Controller at any time. This optional branch has no expiry.",
+        "Bestiary6": "Its mouths fire independently. Break a root knot to remove its temporary wall. Digestive sacs never steal inventory or permanently imprison players.",
+        "Spawn6": "Defeat Plantera, then create a Hungerbloom Garden. Enable ecology mode with at least 600 matching tiles and use Unripe Hungerfruit at any time. This optional branch has no expiry.",
+        "Bestiary7": "Sun marks link in sequence. Its backplate opens after a charge, exposing the core. The encounter never starts a solar eclipse.",
+        "Spawn7": "Defeat Golem, then create a Sunken-Sun Domain. Enable ecology mode with at least 600 matching tiles and use Cooled Sunwheel at any time. This optional branch has no expiry.",
+        "Bestiary8": "The tidal stance follows curves; the prism stance forms light arrays. Bubbles display both refracted segments in advance. Neither dry land nor daytime is punished.",
+        "Spawn8": "Defeat both Duke Fishron and Empress of Light, then create a Rainbow Abyss. Enable ecology mode with at least 600 matching tiles and use Harmonic Tide Pearl at any time. This optional branch has no expiry.",
+        "Bestiary9": "The empty carapace follows visible star orbits. Gates move only encounter bullets. Break discarded armor to clear a lane and punish the dive recovery.",
+        "Spawn9": "Defeat Moon Lord, then create a Formless Starsoil. Enable ecology mode with at least 600 matching tiles and use Derailed Star Marker at night. This optional branch has no expiry.",
+        "MobBestiary0": "Its frontal mirror shell reduces damage; flank it.",
+        "MobBestiary1": "Orbits before diving toward an earlier mark.",
+        "MobBestiary2": "Leaves a harmless reflection, then lunges along its warning.",
+        "MobBestiary3": "Pauses clearly between two straight charges.",
+        "MobBestiary4": "Briefly accelerates when struck.",
+        "MobBestiary5": "Protected while cocooned, then circles and dives.",
+        "MobBestiary6": "Slowly casts sticky waxfire globes.",
+        "MobBestiary7": "Layered wax shields a rare chrysalis that spits bounded broods.",
+        "MobBestiary8": "Stops to feed before advancing; sugar armor protects the front.",
+        "MobBestiary9": "Locks on before firing a single honey needle.",
+        "MobBestiary10": "A branch disguise hides two consecutive lunging slashes.",
+        "MobBestiary11": "Slowly releases a limited number of brood volleys.",
+        "MobBestiary12": "Its low sound wave can be jumped over.",
+        "MobBestiary13": "Briefly orbits, then dives quickly.",
+        "MobBestiary14": "The visible bell wave always leaves an upward opening.",
+        "MobBestiary15": "Three fixed bone volleys end in a long pause.",
+        "MobBestiary16": "Frontal ash armor leaves its rear vulnerable.",
+        "MobBestiary17": "Fire rises upward from the moth.",
+        "MobBestiary18": "Roots itself before thrusting a short charcoal spike.",
+        "MobBestiary19": "Its furnace back cools between paired charges.",
+        "MobBestiary20": "Runs, stops, then fires a rivet.",
+        "MobBestiary21": "Circles with magnetic leaves spread, then pierces an old target.",
+        "MobBestiary22": "Its slow wire volley has a long recovery.",
+        "MobBestiary23": "Locks its guns before consecutive bursts.",
+        "MobBestiary24": "Roots itself and shows an aiming line before opening its mouth.",
+        "MobBestiary25": "A floral disguise gives way to two quick slashes.",
+        "MobBestiary26": "Its slow seed sac has a long warning.",
+        "MobBestiary27": "Root webs are temporary hazards, never real placed web tiles.",
+        "MobBestiary28": "Sun plates protect its front; retaliate after both charges.",
+        "MobBestiary29": "All three legs stop before a short laser locks on.",
+        "MobBestiary30": "Follows a curve, then pierces a committed point.",
+        "MobBestiary31": "Its left and right coffin doors fire in sequence.",
+        "MobBestiary32": "Swims briefly through air before a committed stab.",
+        "MobBestiary33": "Expanding gauze releases spaced, slow light globes.",
+        "MobBestiary34": "An arc of light marks its return route.",
+        "MobBestiary35": "This rare dragon warns before two scattered bubble volleys.",
+        "MobBestiary36": "Its shell blocks frontal attacks; it occasionally hops over obstacles.",
+        "MobBestiary37": "After teleporting, it warns again before firing.",
+        "MobBestiary38": "A visible orbit announces its approach and dive.",
+        "MobBestiary39": "The rift line appears well before its committed dive."
+      }
+    }
+  }
+}

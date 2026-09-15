@@ -1,0 +1,9 @@
+displayName = 星落王座
+author = Codex
+version = 0.14.0
+description = 金属与宝石的四场微型试炼及四把弱小纪念武器加入绘本；保留此前全部内容、独立矿物和神明挑战。
+# Keep the distributable binary-only. A local source manager must not extract
+# an embedded stale snapshot and rebuild over the verified package at startup.
+includeSource = false
+noCompile = false
+buildIgnore = work/*, outputs/*, bin/*, obj/*, .git/*, .codex/*, .agents/*

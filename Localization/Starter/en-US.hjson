@@ -1,0 +1,74 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Projectiles": {
+        "MiniHostileProjectile": { "DisplayName": "Little Aberration Shot" },
+        "MiniMagicProjectile": { "DisplayName": "Little Magic Shot" }
+      },
+      "NPCs": {
+        "DewShellNPC": {
+          "DisplayName": "Dew Shell"
+        },
+        "DandelionPuffNPC": {
+          "DisplayName": "Dandelion Puff"
+        }
+      },
+      "Items": {
+        "MiniSummon6": {
+          "DisplayName": "Dew-Curled Leaf",
+          "Tooltip": "Summons Dew Shell at the forest surface during daytime\nReusable; no earlier miniboss required\nNeeds nearby open space; cannot be used during another boss or miniboss fight"
+        },
+        "MiniSummon7": {
+          "DisplayName": "Fluffy Seed Knot",
+          "Tooltip": "Summons Dandelion Puff at the forest surface, day or night\nReusable; no earlier miniboss required\nNeeds nearby open space; cannot be used during another boss or miniboss fight"
+        },
+        "MiniMaterial6": {
+          "DisplayName": "Dew Membrane",
+          "Tooltip": "Used to craft Dewleaf Brooch and Curled Dew Lamp"
+        },
+        "MiniMaterial7": {
+          "DisplayName": "Downy Seed Fiber",
+          "Tooltip": "Used to craft Fluff Anklets, Dandelion Wand and Potted Dandelion"
+        },
+        "DewBrooch": {
+          "DisplayName": "Dewleaf Brooch",
+          "Tooltip": "Increases maximum life by 5"
+        },
+        "FluffAnklet": {
+          "DisplayName": "Fluff Anklets",
+          "Tooltip": "Increases movement speed by 2%"
+        },
+        "DandelionWand": {
+          "DisplayName": "Dandelion Wand",
+          "Tooltip": "Fires a slow, short-ranged falling seed\nDoes not home or pierce enemies"
+        },
+        "MiniTrophy6": {
+          "DisplayName": "Curled Dew Lamp",
+          "Tooltip": "Place on the ground for soft blue light\nGrants no combat stats"
+        },
+        "MiniTrophy7": {
+          "DisplayName": "Potted Dandelion",
+          "Tooltip": "Place on the ground; its fluffy flower sways gently\nGrants no combat stats"
+        }
+      },
+      "MiniChecklist": {
+        "DewShell": {
+          "SpawnInfo": "Use Dew-Curled Leaf at the forest surface during daytime. Craft at a work bench with 3 any wood and 2 gel; reusable, no prerequisite. Before its first defeat, sleeping snails may appear under leaves in daytime forests. Talk and choose Lift the leaf to begin the fight.",
+          "DespawnMessage": "Dew Shell crawls back under a leaf."
+        },
+        "DandelionPuff": {
+          "SpawnInfo": "Use Fluffy Seed Knot at the forest surface, day or night. Craft at a work bench with 5 any wood, 1 acorn and 3 gel; reusable, no prerequisite.",
+          "DespawnMessage": "Dandelion Puff hops back into the grass."
+        }
+      },
+      "MiniMessages": {
+        "SleepingDew": "A tiny snail is sleeping under this leaf. Lifting the leaf will begin a miniboss fight.",
+        "WakeDew": "Lift the leaf"
+      },
+      "MiniBestiary": {
+        "DewShell": "A curled green leaf protected by a shell of dew. It raises its head slowly before spitting and needs a long rest after sliding.",
+        "DandelionPuff": "A dandelion seed puff that has not learned to fly. It hops on little roots and compresses its fluff before a big leap."
+      }
+    }
+  }
+}

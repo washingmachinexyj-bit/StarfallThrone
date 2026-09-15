@@ -1,0 +1,21 @@
+namespace StarfallThrone.Content.Ecology;
+public sealed class EcologyWall0:EcologyWall{public override int Index=>0;}
+public sealed class EcologyWallItem0:EcologyWallItem{public override int Index=>0;}
+public sealed class EcologyWall1:EcologyWall{public override int Index=>1;}
+public sealed class EcologyWallItem1:EcologyWallItem{public override int Index=>1;}
+public sealed class EcologyWall2:EcologyWall{public override int Index=>2;}
+public sealed class EcologyWallItem2:EcologyWallItem{public override int Index=>2;}
+public sealed class EcologyWall3:EcologyWall{public override int Index=>3;}
+public sealed class EcologyWallItem3:EcologyWallItem{public override int Index=>3;}
+public sealed class EcologyWall4:EcologyWall{public override int Index=>4;}
+public sealed class EcologyWallItem4:EcologyWallItem{public override int Index=>4;}
+public sealed class EcologyWall5:EcologyWall{public override int Index=>5;}
+public sealed class EcologyWallItem5:EcologyWallItem{public override int Index=>5;}
+public sealed class EcologyWall6:EcologyWall{public override int Index=>6;}
+public sealed class EcologyWallItem6:EcologyWallItem{public override int Index=>6;}
+public sealed class EcologyWall7:EcologyWall{public override int Index=>7;}
+public sealed class EcologyWallItem7:EcologyWallItem{public override int Index=>7;}
+public sealed class EcologyWall8:EcologyWall{public override int Index=>8;}
+public sealed class EcologyWallItem8:EcologyWallItem{public override int Index=>8;}
+public sealed class EcologyWall9:EcologyWall{public override int Index=>9;}
+public sealed class EcologyWallItem9:EcologyWallItem{public override int Index=>9;}

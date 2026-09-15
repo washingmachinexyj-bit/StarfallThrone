@@ -1,0 +1,427 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "PantheonWeapon0": {
+          "DisplayName": "Aelion's First Tide",
+          "Tooltip": "Arc slash releases a backward straight blade for 55% weapon damage midway through the swing.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon1": {
+          "DisplayName": "Dewstar Bow",
+          "Tooltip": "Every third dew arrow splits on its first hit into two homing drops, each dealing 55% weapon damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon2": {
+          "DisplayName": "Ophir's Refractor",
+          "Tooltip": "Places a finite refracted beam near the cursor: 0.3s windup, 150% weapon damage, one hit per target.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon3": {
+          "DisplayName": "Staff of Insight",
+          "Tooltip": "Summons an Insight Eye: 2 minion slots; every 1.5s fires a 160% damage beam after a 0.2s windup; no contact damage.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon4": {
+          "DisplayName": "Uroth's Boundary Chain",
+          "Tooltip": "Extends a segmented chain to about 17.5 tiles; midway releases a 65% damage finite fissure along the chain.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon5": {
+          "DisplayName": "Shoreless Gravity Tome",
+          "Tooltip": "Places a gravity well for 3s, maximum 2; deals 35% damage every 0.5s nearby and fires a 24.5% damage shard at a visible enemy; does not pull bosses.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon6": {
+          "DisplayName": "Velmora's Dreamstring",
+          "Tooltip": "Fires an arrow and a 65% damage echo delayed by 0.4s; each projectile's first hit bursts for 35% of its own damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon7": {
+          "DisplayName": "Dreamveil Staff",
+          "Tooltip": "Summons a Dreamveil Shade: 2 slots; every 1.83s dives, then fires an 80% damage echo with a 1/3s delay.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon8": {
+          "DisplayName": "Melith's Harvest Scythe",
+          "Tooltip": "Scythe swing releases three straight petal blades, each dealing 28% weapon damage.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon9": {
+          "DisplayName": "Pollinator Crossbow",
+          "Tooltip": "Fires three homing pollinator arrows, each dealing 50% weapon damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon10": {
+          "DisplayName": "Neroth's Ferry Lantern",
+          "Tooltip": "Places a ferry lantern for 3s, maximum 3; nearby pulse deals 45% damage every 0.5s and three 27% homing souls launch every 0.75s.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon11": {
+          "DisplayName": "Styx Ferryman Staff",
+          "Tooltip": "Summons a Ferryman: 2 slots; every 2s dives, then launches two souls at 45% minion damage each.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon12": {
+          "DisplayName": "Acheron's Twofold Blade",
+          "Tooltip": "Slash places a vertical boundary near the cursor; after 1/3s it deals 70% weapon damage once per target.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon13": {
+          "DisplayName": "Otherbank Gate Tome",
+          "Tooltip": "Opens two crossing gates at the cursor; after 0.2/0.4s each deals 85% weapon damage once per target.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon14": {
+          "DisplayName": "Ilythia's Crystal Bow",
+          "Tooltip": "Crystal arrow penetrates 4 hits and bounces up to 3 times; trails 18% shards every 0.23s for 0.7s; first hit releases one 45% shard.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon15": {
+          "DisplayName": "Lattice Star Staff",
+          "Tooltip": "Summons a Lattice Star: 2 slots; orbits its target, fires 70% shots every 0.6s and one 80% close burst every 2.4s; no contact damage.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon16": {
+          "DisplayName": "Solis Eclipse Saber",
+          "Tooltip": "Alternating eclipse slashes launch a 60% damage side blade, alternating its direction.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon17": {
+          "DisplayName": "Nox Dual-Phase Pistol",
+          "Tooltip": "Alternates a fast 70% sun bullet and a slow 125% moon bullet; moon bullets start homing after 1/6s.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon18": {
+          "DisplayName": "Valther's Law Seal",
+          "Tooltip": "Places three law columns at the cursor; 0.2/0.37/0.53s windups, 65% damage each, one hit per target per column.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon19": {
+          "DisplayName": "Four Instruments Staff",
+          "Tooltip": "Summons a Four-Instrument Executor: 2 slots; 2.67s cycle: 65% bolt, two 30% bolts, 80% delayed beam, 65% slow shot; no contact damage.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon20": {
+          "DisplayName": "Khaldran's Starforge Hammer",
+          "Tooltip": "Heavy swing releases an expanding shock for 80% damage midway; one hit per target, no tile destruction.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon21": {
+          "DisplayName": "Myriad Furnace Scroll",
+          "Tooltip": "Places a furnace for 3s, maximum 2; 45% nearby pulse every 0.5s and three 29.25% jets every 0.67s.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon22": {
+          "DisplayName": "Ephyra's Seed Crossbow",
+          "Tooltip": "Seed arrow's first hit sprouts four homing seeds at 35% damage each; seeds cannot split.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon23": {
+          "DisplayName": "Unfading Bud Staff",
+          "Tooltip": "Summons an Unfading Bud: 2 slots; every 2.5s fires three volleys of three homing seeds at 35% damage; no contact damage.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon24": {
+          "DisplayName": "Oranth's Mountain Maul",
+          "Tooltip": "Maul releases three upward leyline columns after 0.13/0.27/0.4s for 60% damage each; creates no tiles.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon25": {
+          "DisplayName": "Leyline Railcannon",
+          "Tooltip": "Accelerating stone round penetrates 4 hits; first hit creates an expanding shock at 65% weapon damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon26": {
+          "DisplayName": "Thalor's Storm Focus",
+          "Tooltip": "Launches a slowly moving storm vortex for 2.5s; deals 50% weapon damage every 0.5s in its radius; no forced movement.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon27": {
+          "DisplayName": "Stormeye Dragon Staff",
+          "Tooltip": "Summons a Stormeye Dragon: 2 slots; every 2s dives quickly, then releases three 40% damage bubbles.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon28": {
+          "DisplayName": "Iriselle's Sevenfold Sword",
+          "Tooltip": "Sevenfold slash releases seven fan blades at 20% damage each; no recursive spawning.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon29": {
+          "DisplayName": "The Eighth Prism",
+          "Tooltip": "Releases five weaving spectral shots, each dealing 35% weapon damage.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon30": {
+          "DisplayName": "Agnostos's Scripture Rifle",
+          "Tooltip": "Writes three scripture bullets, delayed by 0.17/0.37/0.57s, each dealing 55% weapon damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon31": {
+          "DisplayName": "Nameless Pages Staff",
+          "Tooltip": "Summons Nameless Pages: 2 slots; every 2.4s writes three 70% damage bullets with increasing delays; no contact damage.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonWeapon32": {
+          "DisplayName": "Asterion's Investiture",
+          "Tooltip": "Three-swing combo: the first two emit a 60% blade, the third releases a 140% finite beam after a 0.13s windup.\nThis weapon cannot overlap its own swings. Cannot damage through walls."
+        },
+        "PantheonWeapon33": {
+          "DisplayName": "Pantheon Crown Gun",
+          "Tooltip": "Fires three 55% crown bullets; the central bullet's first hit releases two homing stars at 45% of that bullet's damage.\nConsumes one native ammo per use, converted to a custom projectile."
+        },
+        "PantheonWeapon34": {
+          "DisplayName": "Unborn Constellation",
+          "Tooltip": "Weaves a triangle near the cursor; three sides activate after 0.2/0.33/0.47s, each dealing 60% damage once per target.\nUses native mana. Cursor placement is line-of-sight limited to about 44 tiles."
+        },
+        "PantheonWeapon35": {
+          "DisplayName": "Scepter of the Empty Throne",
+          "Tooltip": "Summons an Empty Throne: 2 slots; 3s cycle: dive, 110% verdict beam and three 50% stars.\nUses native minion targeting; dismiss its buff to dismiss minions. No attacks through walls."
+        },
+        "PantheonExpert0": {
+          "DisplayName": "First Stardew",
+          "Tooltip": "+180 maximum life. After 4s without damage, moving grants a 180-point shield; 15s refill cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert1": {
+          "DisplayName": "Mirror of Ophir",
+          "Tooltip": "+8% generic crit. Ten valid hits on the same enemy launch an Insight Star with 62000 base damage, scaled by generic damage; changing target or pausing hits for 3s resets the count.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert2": {
+          "DisplayName": "Empty Boundary Ring",
+          "Tooltip": "+12% movement speed. Speed >=10 grants a 160-point shadow shield for 2s; 10s cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert3": {
+          "DisplayName": "Waking Knot",
+          "Tooltip": "Immune to Confused. Taking at least 100 enemy damage grants +35% movement speed and knockback immunity for 3s; 10s cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert4": {
+          "DisplayName": "Harvest Pouch",
+          "Tooltip": "+1 minion slot. Thirty valid hits heal up to 120 life; 10s cooldown. A 3s pause resets hits. Cannot heal a dead player.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert5": {
+          "DisplayName": "Homeward Soul Lantern",
+          "Tooltip": "+240 maximum life. Enemy damage leaves a soul lantern for 5s. After 1s, returning within 4 tiles heals 35% of that hit, capped at 300; 20s cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert6": {
+          "DisplayName": "Twofold Gate Latch",
+          "Tooltip": "+15% movement speed. Enemy damage opens a 3s gate at your position: within 15 tiles, +45% movement speed and +3 maximum run speed; 10s cooldown. No teleport or life rollback.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert7": {
+          "DisplayName": "Imperfect Crystal Crown",
+          "Tooltip": "+40 defense. Grants a 240-point crystal shield; 20s refill cooldown. Breaking it launches four 45%-baseline homing shards and grants +25% movement speed and +15% generic damage for 4s.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert8": {
+          "DisplayName": "Pact of Day and Night",
+          "Tooltip": "+10% generic damage. If you dealt a valid hit within 3s, gain another +14% generic damage; otherwise +20% movement speed and +4 life/s natural regeneration.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert9": {
+          "DisplayName": "Innocent Scales",
+          "Tooltip": "+50 defense. After 6s without damage, reduce the next enemy hit by 30%, capped at 300; 15s trigger cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert10": {
+          "DisplayName": "Myriad Furnace Heart",
+          "Tooltip": "+12% generic damage. Valid hits grant 5 heat. At 100 heat, launch four 80%-baseline stars and gain +25% generic damage and +15% movement speed for 8s; 20s cooldown, no heat gain during cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert11": {
+          "DisplayName": "Unfading Embryo",
+          "Tooltip": "+2 minion slots. Forty valid hits heal up to 220 life; 15s cooldown. Cannot heal a dead player.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert12": {
+          "DisplayName": "Spine of Mountains",
+          "Tooltip": "+80 defense and knockback immunity. Keeping speed below 2 for 1.5s grants another 100 defense until you move faster.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert13": {
+          "DisplayName": "Heartbeat of the Storm",
+          "Tooltip": "+18% movement speed. Accumulate 3s at speed >=6 to gain +35% movement speed and +20% generic damage for 5s; 15s cooldown. Slow movement drains charge.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert14": {
+          "DisplayName": "The Eighth Color",
+          "Tooltip": "+12% generic crit. After 3s without damage, 12 valid hits while moving at speed >=4 launch a 150%-baseline eighth-color star; 10s cooldown. Damage clears hits.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert15": {
+          "DisplayName": "The Erased Name",
+          "Tooltip": "+300 maximum life. Reduces the next enemy hit of at least 200 damage by 50%, capped at 500; 30s cooldown.\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonExpert16": {
+          "DisplayName": "Empty Divine Throne",
+          "Tooltip": "+400 maximum life. Star-deity skill key (default G) cycles one active stance every 1.5s: Investiture (+25% generic damage), Guard (+150 defense, +8% damage reduction), Pilgrimage (+40% movement speed, +3 maximum run speed).\nHit counters accept at most one valid primary enemy hit per 10 ticks; no dummies or recursive procs. Shields exclude PvP, traps and environment, add no immunity and always leave at least 1 damage.\nUnequipping clears temporary benefits; cooldowns persist through unequip, death and saves. Identical accessories do not stack."
+        },
+        "PantheonArmor0": {
+          "DisplayName": "First Tide War Crown",
+          "Tooltip": "+270 maximum life, +16.8% generic damage, +4.5% damage reduction\n+40% melee damage; +20% melee attack speed\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor1": {
+          "DisplayName": "First Tide Hunter Crown",
+          "Tooltip": "+270 maximum life, +16.8% generic damage, +4.5% damage reduction\n+40% ranged damage; +14% ranged crit\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor2": {
+          "DisplayName": "First Tide Mystic Crown",
+          "Tooltip": "+270 maximum life, +16.8% generic damage, +4.5% damage reduction\n+40% magic damage; +260 maximum mana, 20% lower mana cost\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor3": {
+          "DisplayName": "First Tide Spirit Crown",
+          "Tooltip": "+270 maximum life, +16.8% generic damage, +4.5% damage reduction\n+40% summon damage; +5 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor4": {
+          "DisplayName": "First Tide Breastplate",
+          "Tooltip": "+360 maximum life, +22.4% generic damage, +6% damage reduction\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor5": {
+          "DisplayName": "First Tide Greaves",
+          "Tooltip": "+270 maximum life, +16.8% generic damage, +4.5% damage reduction\n+15% movement speed\nMatching set: Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor6": {
+          "DisplayName": "Shoreless War Crown",
+          "Tooltip": "+330 maximum life, +19.2% generic damage, +4.8% damage reduction\n+44% melee damage; +22% melee attack speed\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor7": {
+          "DisplayName": "Shoreless Hunter Crown",
+          "Tooltip": "+330 maximum life, +19.2% generic damage, +4.8% damage reduction\n+44% ranged damage; +16% ranged crit\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor8": {
+          "DisplayName": "Shoreless Mystic Crown",
+          "Tooltip": "+330 maximum life, +19.2% generic damage, +4.8% damage reduction\n+44% magic damage; +320 maximum mana, 22% lower mana cost\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor9": {
+          "DisplayName": "Shoreless Spirit Crown",
+          "Tooltip": "+330 maximum life, +19.2% generic damage, +4.8% damage reduction\n+44% summon damage; +6 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor10": {
+          "DisplayName": "Shoreless Breastplate",
+          "Tooltip": "+440 maximum life, +25.6% generic damage, +6.4% damage reduction\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor11": {
+          "DisplayName": "Shoreless Greaves",
+          "Tooltip": "+330 maximum life, +19.2% generic damage, +4.8% damage reduction\n+17% movement speed\nMatching set: Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor12": {
+          "DisplayName": "Soul Ferry War Crown",
+          "Tooltip": "+420 maximum life, +22.2% generic damage, +5.1% damage reduction\n+48% melee damage; +24% melee attack speed\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor13": {
+          "DisplayName": "Soul Ferry Hunter Crown",
+          "Tooltip": "+420 maximum life, +22.2% generic damage, +5.1% damage reduction\n+48% ranged damage; +18% ranged crit\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor14": {
+          "DisplayName": "Soul Ferry Mystic Crown",
+          "Tooltip": "+420 maximum life, +22.2% generic damage, +5.1% damage reduction\n+48% magic damage; +380 maximum mana, 24% lower mana cost\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor15": {
+          "DisplayName": "Soul Ferry Spirit Crown",
+          "Tooltip": "+420 maximum life, +22.2% generic damage, +5.1% damage reduction\n+48% summon damage; +7 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor16": {
+          "DisplayName": "Soul Ferry Breastplate",
+          "Tooltip": "+560 maximum life, +29.6% generic damage, +6.8% damage reduction\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor17": {
+          "DisplayName": "Soul Ferry Greaves",
+          "Tooltip": "+420 maximum life, +22.2% generic damage, +5.1% damage reduction\n+19% movement speed\nMatching set: Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor18": {
+          "DisplayName": "Eclipse War Crown",
+          "Tooltip": "+540 maximum life, +25.8% generic damage, +5.4% damage reduction\n+52% melee damage; +26% melee attack speed\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor19": {
+          "DisplayName": "Eclipse Hunter Crown",
+          "Tooltip": "+540 maximum life, +25.8% generic damage, +5.4% damage reduction\n+52% ranged damage; +20% ranged crit\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor20": {
+          "DisplayName": "Eclipse Mystic Crown",
+          "Tooltip": "+540 maximum life, +25.8% generic damage, +5.4% damage reduction\n+52% magic damage; +440 maximum mana, 26% lower mana cost\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor21": {
+          "DisplayName": "Eclipse Spirit Crown",
+          "Tooltip": "+540 maximum life, +25.8% generic damage, +5.4% damage reduction\n+52% summon damage; +8 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor22": {
+          "DisplayName": "Eclipse Breastplate",
+          "Tooltip": "+720 maximum life, +34.4% generic damage, +7.2% damage reduction\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor23": {
+          "DisplayName": "Eclipse Greaves",
+          "Tooltip": "+540 maximum life, +25.8% generic damage, +5.4% damage reduction\n+21% movement speed\nMatching set: Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor24": {
+          "DisplayName": "Everliving War Crown",
+          "Tooltip": "+705 maximum life, +30% generic damage, +5.7% damage reduction\n+56% melee damage; +28% melee attack speed\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor25": {
+          "DisplayName": "Everliving Hunter Crown",
+          "Tooltip": "+705 maximum life, +30% generic damage, +5.7% damage reduction\n+56% ranged damage; +22% ranged crit\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor26": {
+          "DisplayName": "Everliving Mystic Crown",
+          "Tooltip": "+705 maximum life, +30% generic damage, +5.7% damage reduction\n+56% magic damage; +500 maximum mana, 28% lower mana cost\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor27": {
+          "DisplayName": "Everliving Spirit Crown",
+          "Tooltip": "+705 maximum life, +30% generic damage, +5.7% damage reduction\n+56% summon damage; +9 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor28": {
+          "DisplayName": "Everliving Breastplate",
+          "Tooltip": "+940 maximum life, +40% generic damage, +7.6% damage reduction\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor29": {
+          "DisplayName": "Everliving Greaves",
+          "Tooltip": "+705 maximum life, +30% generic damage, +5.7% damage reduction\n+23% movement speed\nMatching set: Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor30": {
+          "DisplayName": "Sevenfold War Crown",
+          "Tooltip": "+930 maximum life, +34.8% generic damage, +6% damage reduction\n+60% melee damage; +30% melee attack speed\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor31": {
+          "DisplayName": "Sevenfold Hunter Crown",
+          "Tooltip": "+930 maximum life, +34.8% generic damage, +6% damage reduction\n+60% ranged damage; +24% ranged crit\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor32": {
+          "DisplayName": "Sevenfold Mystic Crown",
+          "Tooltip": "+930 maximum life, +34.8% generic damage, +6% damage reduction\n+60% magic damage; +560 maximum mana, 30% lower mana cost\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor33": {
+          "DisplayName": "Sevenfold Spirit Crown",
+          "Tooltip": "+930 maximum life, +34.8% generic damage, +6% damage reduction\n+60% summon damage; +10 minion slots, +2 sentry slots\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor34": {
+          "DisplayName": "Sevenfold Breastplate",
+          "Tooltip": "+1240 maximum life, +46.4% generic damage, +8% damage reduction\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        },
+        "PantheonArmor35": {
+          "DisplayName": "Sevenfold Greaves",
+          "Tooltip": "+930 maximum life, +34.8% generic damage, +6% damage reduction\n+25% movement speed\nMatching set: Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown.\nSkill cooldown persists across unequip, death and saves."
+        }
+      },
+      "Projectiles": {
+        "PantheonShot": { "DisplayName": "Star-deity Art" },
+        "PantheonMinion1": { "DisplayName": "Insight Eye" },
+        "PantheonMinion3": { "DisplayName": "Dreamveil Shade" },
+        "PantheonMinion5": { "DisplayName": "Styx Ferryman" },
+        "PantheonMinion7": { "DisplayName": "Lattice Star" },
+        "PantheonMinion9": { "DisplayName": "Four-Instrument Executor" },
+        "PantheonMinion11": { "DisplayName": "Unfading Bud" },
+        "PantheonMinion13": { "DisplayName": "Stormeye Dragon" },
+        "PantheonMinion15": { "DisplayName": "Nameless Pages" },
+        "PantheonMinion16": { "DisplayName": "Empty Throne" }
+      },
+      "Buffs": {
+        "PantheonMinionBuff1": {
+          "DisplayName": "Staff of Insight Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff3": {
+          "DisplayName": "Dreamveil Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff5": {
+          "DisplayName": "Styx Ferryman Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff7": {
+          "DisplayName": "Lattice Star Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff9": {
+          "DisplayName": "Four Instruments Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff11": {
+          "DisplayName": "Unfading Bud Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff13": {
+          "DisplayName": "Stormeye Dragon Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff15": {
+          "DisplayName": "Nameless Pages Staff Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        },
+        "PantheonMinionBuff16": {
+          "DisplayName": "Scepter of the Empty Throne Pact",
+          "Description": "Your astral attendant follows you; remove this buff to dismiss it"
+        }
+      },
+      "PantheonEquipment": {
+        "Set0": "Knockback immunity. G: 300 shield and +20% move speed for 6s; 20s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage.",
+        "Set1": "Knockback immunity. G: +20% generic damage and +10 life/s natural regeneration for 8s; 25s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage.",
+        "Set2": "Knockback immunity. G: +15% move speed, reduce each enemy hit by 30% capped at 240 for 6s; 25s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage.",
+        "Set3": "Knockback immunity. G: +15% generic crit and +15% melee attack speed for 8s; 30s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage.",
+        "Set4": "Knockback immunity. G: +35% move speed and +2 minion slots for 10s; 30s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage.",
+        "Set5": "Knockback immunity. G: +30% generic damage and 600 shield for 10s; 40s cooldown. Rebindable key; unequip clears benefits but preserves cooldown. Shields leave at least 1 damage."
+      },
+      "Keybinds": {
+        "PantheonArmorSkill": {
+          "DisplayName": "Star-deity Armor Skill / Throne Stance"
+        }
+      }
+    }
+  }
+}

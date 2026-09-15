@@ -1,0 +1,547 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "EcologyWeapon0": {
+          "DisplayName": "裂雾双刃",
+          "Tooltip": "挥出短程弧斩，并在挥动中段射出一道45%伤害的镜光。\n同一时间只能挥动一把；镜光不会触发装备连锁。"
+        },
+        "EcologyWeapon1": {
+          "DisplayName": "镜鹿折弓",
+          "Tooltip": "箭矢最多在方块间反弹2次，最多命中2个敌人。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon2": {
+          "DisplayName": "交映棱镜",
+          "Tooltip": "同时射出两枚向中间弯折的镜弹，每枚造成65%伤害。"
+        },
+        "EcologyWeapon3": {
+          "DisplayName": "镜背巡游令",
+          "Tooltip": "召唤镜背随从：绕行标记后冲刺，周期1.4秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon4": {
+          "DisplayName": "封蜡细剑",
+          "Tooltip": "向前刺击；首次命中留下固定位置的蜡爆。\n蜡爆在0.5秒后造成65%伤害，半径4格，不随敌人移动。"
+        },
+        "EcologyWeapon5": {
+          "DisplayName": "烛髓长弓",
+          "Tooltip": "箭矢首次命中留下固定位置的蜡爆。\n0.5秒后造成65%伤害，半径4格。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon6": {
+          "DisplayName": "长明蜡台",
+          "Tooltip": "在鼠标处放置烛台，最多4座，存续6秒。\n每0.9秒向半径4.25格内释放65%伤害的延迟脉冲；放置距离25格。"
+        },
+        "EcologyWeapon7": {
+          "DisplayName": "醒蛹契约",
+          "Tooltip": "召唤蜡蛹随从：蓄蜡、发射70%伤害蜡弹后冲刺，周期约1.83秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon8": {
+          "DisplayName": "育巢双镰",
+          "Tooltip": "交替挥出左右镰斩；每次挥动首次命中放出两根30%伤害蜜针。"
+        },
+        "EcologyWeapon9": {
+          "DisplayName": "蜜棘散射弩",
+          "Tooltip": "每次射击发射3根蜜针，每根造成46%伤害。\n蜜针使可中毒的敌人中毒2秒；每轮只消耗1支箭。"
+        },
+        "EcologyWeapon10": {
+          "DisplayName": "琥珀蜂房",
+          "Tooltip": "在鼠标处放置蜂房，最多3座，存续6秒。\n每约1.08秒向30格内可见目标发射55%伤害蜜针；放置距离30格。"
+        },
+        "EcologyWeapon11": {
+          "DisplayName": "共巢育蜂杖",
+          "Tooltip": "召唤育巢随从：盘旋并在每1.5秒内发射3根55%伤害蜜针。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon12": {
+          "DisplayName": "叩钟锤",
+          "Tooltip": "挥动钟锤，并在挥动中段留下55%伤害的延迟声波。\n声波半径4.25格，同一敌人每道声波只受伤一次。"
+        },
+        "EcologyWeapon13": {
+          "DisplayName": "长笛骨弓",
+          "Tooltip": "发射宽幅声矢，最多贯穿3个敌人。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon14": {
+          "DisplayName": "无声钟谱",
+          "Tooltip": "释放三道错开0.15秒的扩张声环，每道造成48%伤害。\n每道声环只命中同一敌人一次。"
+        },
+        "EcologyWeapon15": {
+          "DisplayName": "送葬摇铃",
+          "Tooltip": "召唤空钟随从：先发射55%伤害声弹，再俯冲，周期1.7秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon16": {
+          "DisplayName": "逆燃刺枪",
+          "Tooltip": "伸出熔枪刺击，中段升起一道45%伤害的逆火。\n逆火向上移动，并施加3秒着火。"
+        },
+        "EcologyWeapon17": {
+          "DisplayName": "冷焰双膛",
+          "Tooltip": "交替发射高速冷弹和缓行热弹。\n冷弹贯穿2个敌人；热弹使敌人着火3秒。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon18": {
+          "DisplayName": "倒燃火卷",
+          "Tooltip": "在鼠标附近升起三道逆火，各造成55%伤害并施加3秒着火。\n放置点须可见且未被实体方块占据。"
+        },
+        "EcologyWeapon19": {
+          "DisplayName": "熔脊驭兽杖",
+          "Tooltip": "召唤熔脊随从：每约1.67秒进行两次对向冲刺。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon20": {
+          "DisplayName": "回旋机齿",
+          "Tooltip": "投出会返回的回旋齿轮，并在飞行中射出两枚35%伤害铆钉。\n齿轮对同一敌人重复命中的间隔约0.42秒。"
+        },
+        "EcologyWeapon21": {
+          "DisplayName": "铆钉三连枪",
+          "Tooltip": "每轮三发铆钉，每发消耗1颗子弹。\n每第三发贯穿2个敌人；一轮约0.65秒。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon22": {
+          "DisplayName": "磁场布设器",
+          "Tooltip": "在鼠标处部署磁场节点，最多2座，存续6秒。\n每0.7秒发射50%伤害铆钉，并让本节点武器的近距离铆钉缓慢转向可见敌人。\n不会影响敌方或其他模组弹幕；放置距离约33.75格。"
+        },
+        "EcologyWeapon23": {
+          "DisplayName": "履带部署信标",
+          "Tooltip": "召唤履带炮台随从：跟随部署并每1.8秒发射4枚45%伤害铆钉。\n消耗随从栏位，不属于哨兵。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon24": {
+          "DisplayName": "裂根长鞭剑",
+          "Tooltip": "伸缩的近战根索，最长约15格；每次挥动只命中同一敌人一次。\n这是近战武器，不是召唤鞭。"
+        },
+        "EcologyWeapon25": {
+          "DisplayName": "囊种猎弓",
+          "Tooltip": "射出受重力影响的种荚。\n命中敌人或方块后留下2秒根芽，最多射出3根弱化种针；种针不会再种根芽。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon26": {
+          "DisplayName": "万胃花种",
+          "Tooltip": "在鼠标处种植花球，最多2株，存续6秒。\n每约0.87秒向32.5格内可见敌人发射65%伤害种针；放置距离约33.75格。"
+        },
+        "EcologyWeapon27": {
+          "DisplayName": "抱根使役杖",
+          "Tooltip": "召唤抱根随从：从下方突刺并发射60%伤害种针，周期1.6秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon28": {
+          "DisplayName": "守陵日轮",
+          "Tooltip": "投掷后返回的日轮；折返时放出3道30%伤害日芒。\n日轮对同一敌人重复命中的间隔约0.42秒。"
+        },
+        "EcologyWeapon29": {
+          "DisplayName": "贯日重铳",
+          "Tooltip": "射出重型日弹；首次命中向上下两侧各放出一道35%伤害日芒。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon30": {
+          "DisplayName": "三碑连日仪",
+          "Tooltip": "在鼠标处展开三角日纹阵，0.4秒预告后以三条光边攻击。\n光阵存续0.9秒；同一敌人受击间隔0.3秒；光边不会穿墙。"
+        },
+        "EcologyWeapon31": {
+          "DisplayName": "负日兽印",
+          "Tooltip": "召唤负日兽：蓄势冲撞后射出60%伤害日芒，周期2.1秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon32": {
+          "DisplayName": "折潮月刃",
+          "Tooltip": "射出沿波浪前进的近战月刃，持续约0.63秒。\n同一时间只能存在一把月刃。"
+        },
+        "EcologyWeapon33": {
+          "DisplayName": "虹纱浪弓",
+          "Tooltip": "射出波浪箭，飞行0.4秒后分出两根30%伤害虹针。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon34": {
+          "DisplayName": "珠泡法典",
+          "Tooltip": "射出缓行虹泡，0.7秒后朝可见目标裂成3根55%伤害虹针。\n虹泡本身没有接触伤害。"
+        },
+        "EcologyWeapon35": {
+          "DisplayName": "虹鳍织潮杖",
+          "Tooltip": "召唤虹鳍随从：摆动射出两根45%伤害虹针，再俯冲，周期约1.73秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyWeapon36": {
+          "DisplayName": "失轨星刃",
+          "Tooltip": "星刃先环绕玩家0.4秒，再沿施放方向射出。\n同一时间只能存在一把；每个敌人只受击一次。"
+        },
+        "EcologyWeapon37": {
+          "DisplayName": "相隙步枪",
+          "Tooltip": "发射可贯穿3个敌人的相弹。\n飞行0.3秒后尝试沿前方跳过至多10格的空隙；不能穿过实体墙。\n每发消耗1支对应箭矢或子弹，并转换为专属弹幕；仍计入弹药伤害。"
+        },
+        "EcologyWeapon38": {
+          "DisplayName": "对门星标",
+          "Tooltip": "建立入口与鼠标处出口，最多相距37.5格。\n出口在0.3、约0.43、约0.57秒各发射一枚50%伤害星弹。\n两端必须可见；不会传送玩家，出口被挡时不射击。"
+        },
+        "EcologyWeapon39": {
+          "DisplayName": "巡星御环",
+          "Tooltip": "召唤巡星随从：绕敌、突进、短距换位后发射两枚45%伤害星弹，周期约1.67秒。\n占用1个随从栏位，可取消增益遣散；攻击必须有视线。"
+        },
+        "EcologyArmor0": {
+          "DisplayName": "雾镜战盔",
+          "Tooltip": "近战伤害提高4%。\n近战攻击速度提高4%。"
+        },
+        "EcologyArmor1": {
+          "DisplayName": "雾镜猎帽",
+          "Tooltip": "远程伤害提高4%。\n远程暴击率提高3个百分点。"
+        },
+        "EcologyArmor2": {
+          "DisplayName": "雾镜法冠",
+          "Tooltip": "魔法伤害提高4%。\n最大魔力提高20，魔力消耗降低5%。"
+        },
+        "EcologyArmor3": {
+          "DisplayName": "雾镜御灵面",
+          "Tooltip": "召唤伤害提高4%。\n最大随从数增加1。"
+        },
+        "EcologyArmor4": {
+          "DisplayName": "雾镜胸甲",
+          "Tooltip": "所有伤害提高2%。"
+        },
+        "EcologyArmor5": {
+          "DisplayName": "雾镜护腿",
+          "Tooltip": "移动速度提高5%。"
+        },
+        "EcologyArmor6": {
+          "DisplayName": "封蜡战盔",
+          "Tooltip": "近战伤害提高5%。\n近战攻击速度提高4.5%。"
+        },
+        "EcologyArmor7": {
+          "DisplayName": "封蜡猎帽",
+          "Tooltip": "远程伤害提高5%。\n远程暴击率提高3个百分点。"
+        },
+        "EcologyArmor8": {
+          "DisplayName": "封蜡法冠",
+          "Tooltip": "魔法伤害提高5%。\n最大魔力提高30，魔力消耗降低5%。"
+        },
+        "EcologyArmor9": {
+          "DisplayName": "封蜡御灵面",
+          "Tooltip": "召唤伤害提高5%。\n最大随从数增加1。"
+        },
+        "EcologyArmor10": {
+          "DisplayName": "封蜡胸甲",
+          "Tooltip": "所有伤害提高2%。"
+        },
+        "EcologyArmor11": {
+          "DisplayName": "封蜡护腿",
+          "Tooltip": "移动速度提高5.5%。"
+        },
+        "EcologyArmor12": {
+          "DisplayName": "蜜珀战盔",
+          "Tooltip": "近战伤害提高6%。\n近战攻击速度提高5%。"
+        },
+        "EcologyArmor13": {
+          "DisplayName": "蜜珀猎帽",
+          "Tooltip": "远程伤害提高6%。\n远程暴击率提高4个百分点。"
+        },
+        "EcologyArmor14": {
+          "DisplayName": "蜜珀法冠",
+          "Tooltip": "魔法伤害提高6%。\n最大魔力提高40，魔力消耗降低5%。"
+        },
+        "EcologyArmor15": {
+          "DisplayName": "蜜珀御灵面",
+          "Tooltip": "召唤伤害提高6%。\n最大随从数增加1。"
+        },
+        "EcologyArmor16": {
+          "DisplayName": "蜜珀胸甲",
+          "Tooltip": "所有伤害提高2%。"
+        },
+        "EcologyArmor17": {
+          "DisplayName": "蜜珀护腿",
+          "Tooltip": "移动速度提高6%。"
+        },
+        "EcologyArmor18": {
+          "DisplayName": "鸣骸战盔",
+          "Tooltip": "近战伤害提高7%。\n近战攻击速度提高5.5%。"
+        },
+        "EcologyArmor19": {
+          "DisplayName": "鸣骸猎帽",
+          "Tooltip": "远程伤害提高7%。\n远程暴击率提高4个百分点。"
+        },
+        "EcologyArmor20": {
+          "DisplayName": "鸣骸法冠",
+          "Tooltip": "魔法伤害提高7%。\n最大魔力提高50，魔力消耗降低5%。"
+        },
+        "EcologyArmor21": {
+          "DisplayName": "鸣骸御灵面",
+          "Tooltip": "召唤伤害提高7%。\n最大随从数增加1。"
+        },
+        "EcologyArmor22": {
+          "DisplayName": "鸣骸胸甲",
+          "Tooltip": "所有伤害提高2%。"
+        },
+        "EcologyArmor23": {
+          "DisplayName": "鸣骸护腿",
+          "Tooltip": "移动速度提高6.5%。"
+        },
+        "EcologyArmor24": {
+          "DisplayName": "逆烬战盔",
+          "Tooltip": "近战伤害提高8%。\n近战攻击速度提高6%。"
+        },
+        "EcologyArmor25": {
+          "DisplayName": "逆烬猎帽",
+          "Tooltip": "远程伤害提高8%。\n远程暴击率提高5个百分点。"
+        },
+        "EcologyArmor26": {
+          "DisplayName": "逆烬法冠",
+          "Tooltip": "魔法伤害提高8%。\n最大魔力提高60，魔力消耗降低5%。"
+        },
+        "EcologyArmor27": {
+          "DisplayName": "逆烬御灵面",
+          "Tooltip": "召唤伤害提高8%。\n最大随从数增加2。"
+        },
+        "EcologyArmor28": {
+          "DisplayName": "逆烬胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor29": {
+          "DisplayName": "逆烬护腿",
+          "Tooltip": "移动速度提高7%。"
+        },
+        "EcologyArmor30": {
+          "DisplayName": "机枢战盔",
+          "Tooltip": "近战伤害提高9%。\n近战攻击速度提高6.5%。"
+        },
+        "EcologyArmor31": {
+          "DisplayName": "机枢猎帽",
+          "Tooltip": "远程伤害提高9%。\n远程暴击率提高5个百分点。"
+        },
+        "EcologyArmor32": {
+          "DisplayName": "机枢法冠",
+          "Tooltip": "魔法伤害提高9%。\n最大魔力提高70，魔力消耗降低5%。"
+        },
+        "EcologyArmor33": {
+          "DisplayName": "机枢御灵面",
+          "Tooltip": "召唤伤害提高9%。\n最大随从数增加2。"
+        },
+        "EcologyArmor34": {
+          "DisplayName": "机枢胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor35": {
+          "DisplayName": "机枢护腿",
+          "Tooltip": "移动速度提高7.5%。"
+        },
+        "EcologyArmor36": {
+          "DisplayName": "饥生战盔",
+          "Tooltip": "近战伤害提高10%。\n近战攻击速度提高7%。"
+        },
+        "EcologyArmor37": {
+          "DisplayName": "饥生猎帽",
+          "Tooltip": "远程伤害提高10%。\n远程暴击率提高6个百分点。"
+        },
+        "EcologyArmor38": {
+          "DisplayName": "饥生法冠",
+          "Tooltip": "魔法伤害提高10%。\n最大魔力提高80，魔力消耗降低5%。"
+        },
+        "EcologyArmor39": {
+          "DisplayName": "饥生御灵面",
+          "Tooltip": "召唤伤害提高10%。\n最大随从数增加2。"
+        },
+        "EcologyArmor40": {
+          "DisplayName": "饥生胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor41": {
+          "DisplayName": "饥生护腿",
+          "Tooltip": "移动速度提高8%。"
+        },
+        "EcologyArmor42": {
+          "DisplayName": "沉日战盔",
+          "Tooltip": "近战伤害提高11%。\n近战攻击速度提高7.5%。"
+        },
+        "EcologyArmor43": {
+          "DisplayName": "沉日猎帽",
+          "Tooltip": "远程伤害提高11%。\n远程暴击率提高6个百分点。"
+        },
+        "EcologyArmor44": {
+          "DisplayName": "沉日法冠",
+          "Tooltip": "魔法伤害提高11%。\n最大魔力提高90，魔力消耗降低5%。"
+        },
+        "EcologyArmor45": {
+          "DisplayName": "沉日御灵面",
+          "Tooltip": "召唤伤害提高11%。\n最大随从数增加3。"
+        },
+        "EcologyArmor46": {
+          "DisplayName": "沉日胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor47": {
+          "DisplayName": "沉日护腿",
+          "Tooltip": "移动速度提高8.5%。"
+        },
+        "EcologyArmor48": {
+          "DisplayName": "虹潮战盔",
+          "Tooltip": "近战伤害提高12%。\n近战攻击速度提高8%。"
+        },
+        "EcologyArmor49": {
+          "DisplayName": "虹潮猎帽",
+          "Tooltip": "远程伤害提高12%。\n远程暴击率提高7个百分点。"
+        },
+        "EcologyArmor50": {
+          "DisplayName": "虹潮法冠",
+          "Tooltip": "魔法伤害提高12%。\n最大魔力提高100，魔力消耗降低5%。"
+        },
+        "EcologyArmor51": {
+          "DisplayName": "虹潮御灵面",
+          "Tooltip": "召唤伤害提高12%。\n最大随从数增加3。"
+        },
+        "EcologyArmor52": {
+          "DisplayName": "虹潮胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor53": {
+          "DisplayName": "虹潮护腿",
+          "Tooltip": "移动速度提高9%。"
+        },
+        "EcologyArmor54": {
+          "DisplayName": "无相战盔",
+          "Tooltip": "近战伤害提高13%。\n近战攻击速度提高8.5%。"
+        },
+        "EcologyArmor55": {
+          "DisplayName": "无相猎帽",
+          "Tooltip": "远程伤害提高13%。\n远程暴击率提高7个百分点。"
+        },
+        "EcologyArmor56": {
+          "DisplayName": "无相法冠",
+          "Tooltip": "魔法伤害提高13%。\n最大魔力提高110，魔力消耗降低5%。"
+        },
+        "EcologyArmor57": {
+          "DisplayName": "无相御灵面",
+          "Tooltip": "召唤伤害提高13%。\n最大随从数增加3。"
+        },
+        "EcologyArmor58": {
+          "DisplayName": "无相胸甲",
+          "Tooltip": "所有伤害提高4%。"
+        },
+        "EcologyArmor59": {
+          "DisplayName": "无相护腿",
+          "Tooltip": "移动速度提高9.5%。"
+        },
+        "EcologyExpert0": {
+          "DisplayName": "雾隐镜角",
+          "Tooltip": "移动速度提高8%。\n受到伤害后，额外提高25%移动速度，持续3秒；冷却10秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert1": {
+          "DisplayName": "千烛封心",
+          "Tooltip": "防御力提高3。\n每12秒将一次伤害减少20点，但减伤不超过该次伤害的50%，且至少受到1点伤害。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert2": {
+          "DisplayName": "共巢印记",
+          "Tooltip": "召唤伤害提高7%。\n连续对同一敌人有效命中6次后放出3枚护巢弹，每枚12点基础伤害；冷却3秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert3": {
+          "DisplayName": "余响骨管",
+          "Tooltip": "所有职业暴击率提高5个百分点。\n每4次有效命中释放40点基础伤害的延迟声波，半径4.25格；冷却2秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert4": {
+          "DisplayName": "逆燃冷却囊",
+          "Tooltip": "免疫“着火”和“燃烧”，不免疫岩浆伤害。\n受到伤害后，所有伤害提高12%，持续4秒；冷却12秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert5": {
+          "DisplayName": "自律部署芯",
+          "Tooltip": "最大哨兵数增加1，召唤伤害提高6%。\n有效命中时射出45点基础伤害的辅助铆弹；冷却3秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert6": {
+          "DisplayName": "活根胃囊",
+          "Tooltip": "最大生命提高30。\n有效命中敌人时恢复4点生命，不能超过生命上限；冷却5秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert7": {
+          "DisplayName": "守陵日盘",
+          "Tooltip": "防御力提高6。\n每8秒减少一次来自面朝方向的伤害的30%，最多减少45点，且至少受到1点伤害。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert8": {
+          "DisplayName": "双相潮冠",
+          "Tooltip": "使用“生态双相切换”按键在两种姿态之间切换，默认N，冷却2秒。\n潮行：移动速度提高20%。\n虹击：所有伤害提高12%。两种加成互斥。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        },
+        "EcologyExpert9": {
+          "DisplayName": "稳相轨环",
+          "Tooltip": "所有伤害提高7%。\n有效命中时射出70点基础伤害的稳相弹；冷却3秒。\n受到至少80点伤害时将其减少25%，最多减少60点；冷却15秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。"
+        }
+      },
+      "Buffs": {
+        "EcologyMinionBuff0": {
+          "DisplayName": "雾镜随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff1": {
+          "DisplayName": "封蜡随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff2": {
+          "DisplayName": "蜜珀随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff3": {
+          "DisplayName": "鸣骸随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff4": {
+          "DisplayName": "逆烬随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff5": {
+          "DisplayName": "机枢随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff6": {
+          "DisplayName": "饥生随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff7": {
+          "DisplayName": "沉日随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff8": {
+          "DisplayName": "虹潮随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        },
+        "EcologyMinionBuff9": {
+          "DisplayName": "无相随从",
+          "Description": "生态随从正跟随你并协助战斗。"
+        }
+      },
+      "Projectiles": {
+        "EcologyMinion0": {
+          "DisplayName": "雾镜随从"
+        },
+        "EcologyMinion1": {
+          "DisplayName": "封蜡随从"
+        },
+        "EcologyMinion2": {
+          "DisplayName": "蜜珀随从"
+        },
+        "EcologyMinion3": {
+          "DisplayName": "鸣骸随从"
+        },
+        "EcologyMinion4": {
+          "DisplayName": "逆烬随从"
+        },
+        "EcologyMinion5": {
+          "DisplayName": "机枢随从"
+        },
+        "EcologyMinion6": {
+          "DisplayName": "饥生随从"
+        },
+        "EcologyMinion7": {
+          "DisplayName": "沉日随从"
+        },
+        "EcologyMinion8": {
+          "DisplayName": "虹潮随从"
+        },
+        "EcologyMinion9": {
+          "DisplayName": "无相随从"
+        },
+        "EcologyShot": {
+          "DisplayName": "生态武装"
+        },
+        "EcologySummonShot": {
+          "DisplayName": "生态随从弹"
+        }
+      },
+      "EcologyEquipment": {
+        "Set0": "连续6秒未受伤后，下次有效命中射出12点基础伤害镜弹；冷却6秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set1": "有效命中留下固定蜡爆，0.5秒后造成18点基础伤害，半径4格；冷却4秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set2": "每3次有效命中放出3根8点基础伤害的护巢针；冷却3秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set3": "有效命中留下26点基础伤害的延迟声波，半径4.25格；冷却3秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set4": "每6次有效命中进入过热：所有伤害提高10%，持续4秒；触发冷却10秒。受伤失去2次积累。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set5": "静止1.5秒后，所有伤害提高8%；此时有效命中发射46点基础伤害辅助弹，冷却4秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set6": "静止1秒后，每秒额外恢复1点生命；有效命中种下2秒根芽，至多射出3根19点基础伤害种针，冷却5秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set7": "连续5秒未受伤后，将下次伤害减少20%，最多30点，至少受到1点；冷却10秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set8": "使用生态双相切换键（默认N）：潮行提供12%移动速度；虹击提供6%所有伤害。两者互斥，切换冷却2秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Set9": "有效命中放出3枚32点基础伤害星轨弹；冷却3秒。\n装备附加攻击不会再次触发装备效果；有效命中每0.2秒至多计数一次，不计算友善生物或训练假人。\n卸下装备或死亡不会重置冷却。",
+        "Flow": "潮行姿态",
+        "Assault": "虹击姿态"
+      },
+      "Keybinds": {
+        "EcologyTideStance": {
+          "DisplayName": "生态双相切换"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "NPCs": {
+        "MossTumblerNPC": {
+          "DisplayName": "苔团滚滚"
+        },
+        "PotHermitNPC": {
+          "DisplayName": "罐壳寄居蟹"
+        },
+        "TatteredParasolNPC": {
+          "DisplayName": "破伞游魂"
+        },
+        "WickMothNPC": {
+          "DisplayName": "灯芯蛾母"
+        },
+        "FlintBurrowerNPC": {
+          "DisplayName": "燧牙掘地兽"
+        },
+        "BriarSproutNPC": {
+          "DisplayName": "棘冠守芽者"
+        }
+      },
+      "Items": {
+        "MiniSummon0": {
+          "DisplayName": "湿苔团",
+          "Tooltip": "在森林地表召唤苔团滚滚\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用"
+        },
+        "MiniMaterial0": {
+          "DisplayName": "苔绒团",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy0": {
+          "DisplayName": "苔石摆件",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MiniSummon1": {
+          "DisplayName": "敲裂的饵罐",
+          "Tooltip": "在森林地表或普通浅层地下召唤罐壳寄居蟹\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用"
+        },
+        "MiniMaterial1": {
+          "DisplayName": "磨圆陶片",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy1": {
+          "DisplayName": "罐蟹小像",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MiniSummon2": {
+          "DisplayName": "漏风纸伞",
+          "Tooltip": "在夜间森林地表召唤破伞游魂\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用\n需要在当前世界击败罐壳寄居蟹（跨世界携带也需满足）"
+        },
+        "MiniMaterial2": {
+          "DisplayName": "幽旧布条",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy2": {
+          "DisplayName": "游魂伞像",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MiniSummon3": {
+          "DisplayName": "焦香灯芯",
+          "Tooltip": "在夜间森林地表召唤灯芯蛾母\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用\n需要在当前世界击败破伞游魂（跨世界携带也需满足）"
+        },
+        "MiniMaterial3": {
+          "DisplayName": "微光鳞粉",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy3": {
+          "DisplayName": "微光蛾像",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MiniSummon4": {
+          "DisplayName": "叩石诱饵",
+          "Tooltip": "在森林地表或普通浅层地下召唤燧牙掘地兽\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用\n需要在当前世界击败灯芯蛾母（跨世界携带也需满足）"
+        },
+        "MiniMaterial4": {
+          "DisplayName": "燧牙碎片",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy4": {
+          "DisplayName": "燧牙兽像",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MiniSummon5": {
+          "DisplayName": "缠棘芽核",
+          "Tooltip": "在白天森林地表召唤棘冠守芽者\n可重复使用；需要附近有开阔空间\n不能在其他Boss或迷你Boss存活时使用\n需要在当前世界击败燧牙掘地兽（跨世界携带也需满足）"
+        },
+        "MiniMaterial5": {
+          "DisplayName": "守芽木髓",
+          "Tooltip": "用于制作微末异变系列装备与摆件"
+        },
+        "MiniTrophy5": {
+          "DisplayName": "守芽者小像",
+          "Tooltip": "可放置在地面上的收藏摆件\n不提供战斗属性"
+        },
+        "MossInsoles": {
+          "DisplayName": "软苔鞋垫",
+          "Tooltip": "移动速度提高3%"
+        },
+        "PotBuckle": {
+          "DisplayName": "罐壳扣",
+          "Tooltip": "增加1防御"
+        },
+        "EmberPendant": {
+          "DisplayName": "余温灯坠",
+          "Tooltip": "移动速度提高3%\n提供柔和照明；隐藏饰品外观时关闭照明"
+        },
+        "DiggingClaws": {
+          "DisplayName": "掘土爪套",
+          "Tooltip": "挖掘工具的使用间隔缩短5%\n不增加镐力"
+        },
+        "SproutBadge": {
+          "DisplayName": "护芽徽记",
+          "Tooltip": "增加10最大生命和1防御"
+        },
+        "UmbrellaVanity": {
+          "DisplayName": "游魂伞饰",
+          "Tooltip": "背部装饰，不提供飞行、缓降或战斗属性"
+        },
+        "ClawFork": {
+          "DisplayName": "蟹钳短叉",
+          "Tooltip": "轻巧的双齿近战短叉"
+        },
+        "FoldedUmbrella": {
+          "DisplayName": "折骨纸伞",
+          "Tooltip": "发射一团具有较强击退力的短程幽风"
+        },
+        "WickWand": {
+          "DisplayName": "灯芯短杖",
+          "Tooltip": "发射一颗短程微光弹，照亮附近区域"
+        },
+        "FlintHammer": {
+          "DisplayName": "燧牙小锤",
+          "Tooltip": "战斗用石锤，不能采矿或锤击方块"
+        },
+        "ThornBow": {
+          "DisplayName": "棘芽短弓",
+          "Tooltip": "使用箭作为弹药"
+        },
+        "MothLantern": {
+          "DisplayName": "微光蛾灯",
+          "Tooltip": "悬挂在实心方块下方\n提供暖色照明，可作为房屋光源"
+        }
+      },
+      "MiniChecklist": {
+        "MossTumbler": {
+          "SpawnInfo": "在森林地表使用湿苔团。召唤物在工作台制作，可重复使用，无需击败其他迷你Boss。",
+          "DespawnMessage": "苔团滚滚回到了隐蔽处。"
+        },
+        "PotHermit": {
+          "SpawnInfo": "在森林地表或普通浅层地下使用敲裂的饵罐。召唤物在工作台制作，可重复使用，无需击败其他迷你Boss。",
+          "DespawnMessage": "罐壳寄居蟹回到了隐蔽处。"
+        },
+        "TatteredParasol": {
+          "SpawnInfo": "在夜间森林地表使用漏风纸伞。召唤物在工作台制作，可重复使用，需要在当前世界击败罐壳寄居蟹；配方额外消耗磨圆陶片×3。",
+          "DespawnMessage": "破伞游魂回到了隐蔽处。"
+        },
+        "WickMoth": {
+          "SpawnInfo": "在夜间森林地表使用焦香灯芯。召唤物在工作台制作，可重复使用，需要在当前世界击败破伞游魂；配方额外消耗幽旧布条×3。",
+          "DespawnMessage": "灯芯蛾母回到了隐蔽处。"
+        },
+        "FlintBurrower": {
+          "SpawnInfo": "在森林地表或普通浅层地下使用叩石诱饵。召唤物在工作台制作，可重复使用，需要在当前世界击败灯芯蛾母；配方额外消耗微光鳞粉×3。",
+          "DespawnMessage": "燧牙掘地兽回到了隐蔽处。"
+        },
+        "BriarSprout": {
+          "SpawnInfo": "在白天森林地表使用缠棘芽核。召唤物在工作台制作，可重复使用，需要在当前世界击败燧牙掘地兽；配方额外消耗燧牙碎片×3。",
+          "DespawnMessage": "棘冠守芽者回到了隐蔽处。"
+        }
+      },
+      "MiniMessages": {
+        "SleepingMoss": "这块苔石正轻轻地打着呼噜。唤醒它会开始一场迷你Boss战。",
+        "WakeMoss": "唤醒苔团"
+      },
+      "MiniBestiary": {
+        "MossTumbler": "一团把石板当作盔甲的苔藓。它最擅长滚动，却不太擅长停下来。",
+        "PotHermit": "陶罐对它来说既是房屋也是护甲；举起双钳时，最好不要站在罐口前。",
+        "TatteredParasol": "风穿过残破的伞骨，留下了一点不肯散去的灵光。",
+        "WickMoth": "腹部的微光吸引着旅人，飘落的鳞粉却需要绕开。",
+        "FlintBurrower": "它用石凿般的门牙挖掘浅土，破土前总会留下清楚的裂纹。",
+        "BriarSprout": "空心树桩中的嫩芽尚未长大，守卫已经学会用荆棘保护它。"
+      },
+      "Tiles": {
+        "MiniDisplayTile": {
+          "MapEntry": "微末异变摆件"
+        },
+        "MiniLanternTile": {
+          "MapEntry": "微光蛾灯"
+        }
+      }
+    }
+  }
+}

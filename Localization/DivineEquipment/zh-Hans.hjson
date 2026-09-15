@@ -1,0 +1,183 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "Items": {
+        "DivineWeapon0": {
+          "DisplayName": "晨滴裁枝",
+          "Tooltip": "短剑三段连击；每段必须真正命中敌人\n第三次命中释放一枚75%伤害的短程露刃\n每次挥斩只积累一次连段；露刃不产生新连段"
+        },
+        "DivineWeapon1": {
+          "DisplayName": "露冠弦弓",
+          "Tooltip": "连续命中同一敌人三箭后，下一箭附带两枚延迟露滴\n每枚露滴造成40%武器伤害；延迟0.3秒后落下\n每次射击正常消耗一支箭；转换为露矢"
+        },
+        "DivineWeapon2": {
+          "DisplayName": "初生祷文",
+          "Tooltip": "按住蓄积露珠，松开释放近距离扩散水环\n蓄力最多1.5秒；水环伤害为武器伤害的80%—150%\n每0.5秒额外消耗4点魔力；同一水环只命中每个敌人一次"
+        },
+        "DivineWeapon3": {
+          "DisplayName": "白芽侍者",
+          "Tooltip": "召唤先标记目标、再突刺的白芽侍者\n每只占用1个仆从栏位；完整攻击周期1.5秒\n取消增益即可遣散，目标被墙体阻挡时不会穿墙攻击"
+        },
+        "DivineWeapon4": {
+          "DisplayName": "断誓炉刃",
+          "Tooltip": "重斩真正命中敌人时积累20点炉压，上限100\n右键消耗100炉压，释放五道短程扇形热浪\n每道热浪造成45%武器伤害，最远约16格\n每次挥斩只积累一次炉压"
+        },
+        "DivineWeapon5": {
+          "DisplayName": "审火连铳",
+          "Tooltip": "三发点射，每发正常消耗一颗子弹并转换为审火弹\n每第三发命中施加持续3秒的烙印\n后续命中引爆烙印，造成65%伤害的小范围爆燃\n同一玩家对同一目标的引爆冷却1秒"
+        },
+        "DivineWeapon6": {
+          "DisplayName": "灰烬天平",
+          "Tooltip": "交替放出快速轻火与缓慢重火\n轻火造成80%伤害，重火造成120%伤害\n两种火焰在2秒内命中同一目标，产生55%伤害的爆燃\n同一玩家对同一目标的爆燃冷却1.5秒"
+        },
+        "DivineWeapon7": {
+          "DisplayName": "誓炉守卫",
+          "Tooltip": "召唤先摆出格挡姿态、再重击的誓炉守卫\n每只占用2个仆从栏位；完整攻击周期2秒\n格挡仅是蓄力动作，不替玩家抵挡伤害"
+        },
+        "DivineWeapon8": {
+          "DisplayName": "裁命长锋",
+          "Tooltip": "挥斩命中时在原地留下刀痕\n1/3秒后刀痕重斩一次，造成60%武器伤害\n刀痕不追踪敌人，也不会生成新的刀痕"
+        },
+        "DivineWeapon9": {
+          "DisplayName": "终刻长弓",
+          "Tooltip": "发射高速命矢，在命中位置留下回响\n1/3秒后回响攻击附近约4.5格内的目标，造成50%武器伤害\n每次消耗一支箭；回响不追踪、不递归触发"
+        },
+        "DivineWeapon10": {
+          "DisplayName": "无昼经卷",
+          "Tooltip": "左键放出最多六枚可短暂悬停的刻度刃\n右键消耗30点基础魔力，使未汇聚的刻度刃向准星汇聚\n汇聚点最多距玩家45格，无法选在墙后\n每刃最多穿透三次，最多存在2.5秒；汇聚不会延长寿命"
+        },
+        "DivineWeapon11": {
+          "DisplayName": "命轮执旗者",
+          "Tooltip": "召唤在突刺与定点阵列之间交替的命轮执旗者\n每只占用2个仆从栏位；完整攻击周期2.4秒\n阵列发射三枚45%伤害的命矛；切换目标会重新部署"
+        },
+        "DivineArmor0": {
+          "DisplayName": "原露战冠",
+          "Tooltip": "近战伤害增加6%\n近战攻击速度增加5%"
+        },
+        "DivineArmor1": {
+          "DisplayName": "原露猎冠",
+          "Tooltip": "远程伤害增加6%\n远程暴击率增加4%"
+        },
+        "DivineArmor2": {
+          "DisplayName": "原露法冠",
+          "Tooltip": "魔法伤害增加6%\n最大魔力增加20，魔力消耗减少5%"
+        },
+        "DivineArmor3": {
+          "DisplayName": "原露灵冠",
+          "Tooltip": "召唤伤害增加6%\n最大仆从数量增加1"
+        },
+        "DivineArmor4": {
+          "DisplayName": "原露祭衣",
+          "Tooltip": "全伤害增加2%"
+        },
+        "DivineArmor5": {
+          "DisplayName": "原露护腿",
+          "Tooltip": "移动速度增加6%"
+        },
+        "DivineArmor6": {
+          "DisplayName": "烬誓战冠",
+          "Tooltip": "近战伤害增加8%\n近战攻击速度增加7.5%"
+        },
+        "DivineArmor7": {
+          "DisplayName": "烬誓猎冠",
+          "Tooltip": "远程伤害增加8%\n远程暴击率增加6%"
+        },
+        "DivineArmor8": {
+          "DisplayName": "烬誓法冠",
+          "Tooltip": "魔法伤害增加8%\n最大魔力增加60，魔力消耗减少10%"
+        },
+        "DivineArmor9": {
+          "DisplayName": "烬誓灵冠",
+          "Tooltip": "召唤伤害增加8%\n最大仆从数量增加2"
+        },
+        "DivineArmor10": {
+          "DisplayName": "烬誓祭衣",
+          "Tooltip": "全伤害增加4%"
+        },
+        "DivineArmor11": {
+          "DisplayName": "烬誓护腿",
+          "Tooltip": "移动速度增加9%"
+        },
+        "DivineArmor12": {
+          "DisplayName": "逆命战冠",
+          "Tooltip": "近战伤害增加12%\n近战攻击速度增加10%"
+        },
+        "DivineArmor13": {
+          "DisplayName": "逆命猎冠",
+          "Tooltip": "远程伤害增加12%\n远程暴击率增加8%"
+        },
+        "DivineArmor14": {
+          "DisplayName": "逆命法冠",
+          "Tooltip": "魔法伤害增加12%\n最大魔力增加100，魔力消耗减少15%"
+        },
+        "DivineArmor15": {
+          "DisplayName": "逆命灵冠",
+          "Tooltip": "召唤伤害增加12%\n最大仆从数量增加3"
+        },
+        "DivineArmor16": {
+          "DisplayName": "逆命祭衣",
+          "Tooltip": "全伤害增加6%"
+        },
+        "DivineArmor17": {
+          "DisplayName": "逆命护腿",
+          "Tooltip": "移动速度增加12%"
+        },
+        "DivineExpert0": {
+          "DisplayName": "未冠圣心",
+          "Tooltip": "最大生命增加20\n每20秒生成一层可吸收30点伤害的露盾，不叠加\n超出盾量的伤害正常结算；护盾不额外提供无敌时间\n卸下饰品或死亡会移除护盾，但不会重置冷却"
+        },
+        "DivineExpert1": {
+          "DisplayName": "不熄的第二心脏",
+          "Tooltip": "最大生命增加40\n受到敌怪或敌方非陷阱投射物伤害后，记录25%伤害，最多60点\n保持6秒不再受伤后，每0.1秒返还1点生命\n再次受伤或卸下饰品取消剩余返还；冷却20秒\n不返还自伤、环境伤害或致死伤害，不复活"
+        },
+        "DivineExpert2": {
+          "DisplayName": "尚未发生的终焉",
+          "Tooltip": "全伤害增加8%\n每35秒可触发一次命幕\n下一次至少60点的伤害减少40%，单次最多减少120点\n不额外提供无敌时间，不完全抵消伤害\n冷却跨卸装、死亡和存档保留"
+        }
+      },
+      "Buffs": {
+        "DivineMinionBuff0": {
+          "DisplayName": "白芽侍者",
+          "Description": "神约侍者与你同行；右键取消可遣散"
+        },
+        "DivineMinionBuff1": {
+          "DisplayName": "誓炉守卫",
+          "Description": "神约侍者与你同行；右键取消可遣散"
+        },
+        "DivineMinionBuff2": {
+          "DisplayName": "命轮执旗者",
+          "Description": "神约侍者与你同行；右键取消可遣散"
+        }
+      },
+      "Projectiles": {
+        "DivineMinion0": {
+          "DisplayName": "白芽侍者"
+        },
+        "DivineMinion1": {
+          "DisplayName": "誓炉守卫"
+        },
+        "DivineMinion2": {
+          "DisplayName": "命轮执旗者"
+        },
+        "DivineShot": {
+          "DisplayName": "神约之击"
+        },
+        "DivineSummonShot": {
+          "DisplayName": "神约命矛"
+        }
+      },
+      "Keybinds": {
+        "DivineArmorSkill": {
+          "DisplayName": "神约护甲主动技能"
+        }
+      },
+      "DivineEquipment": {
+        "Set0": "朝露：连续8秒未受伤，下一次有效攻击附加18点固定基础伤害的露滴；触发后重新计时。",
+        "Set1": "炉心：有效攻击积累炉温，每0.1秒最多5点；受伤失去25点。满100点后按护甲技能键（默认K）开启8秒全伤害+18%，结束后冷却24秒。",
+        "Set2": "改命：按护甲技能键（默认K）记录位置，4秒内再次按键返回，冷却45秒。仅同世界、100格内且位置未被实心方块占据时可返回；不回滚生命、魔力或提供无敌。",
+        "HeatReady": "炉心就绪",
+        "ReturnReady": "可返回命点"
+      }
+    }
+  }
+}

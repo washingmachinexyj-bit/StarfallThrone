@@ -1,0 +1,466 @@
+Mods: {
+  StarfallThrone: {
+    NPCName: {
+      SlimeEmperorNPC: "史莱姆皇帝"
+      TerminalEyeNPC: "终焉魔眼"
+      InfiniteDevourerNPC: "无尽吞噬者"
+      CrimsonMindNPC: "猩红心魔"
+      BeeMatriarchNPC: "蜂后圣母"
+      SkeletalJudgeNPC: "骸骨审判官"
+      EternalWallNPC: "永劫肉墙"
+      DynastyQueenNPC: "史莱姆女皇·王朝"
+      TwinCalamityNPC: "双生天灾"
+      PrimeVerdictNPC: "机械终审"
+      StarEaterNPC: "钢铁吞星者"
+      WastelandFlowerNPC: "荒原花神"
+      TempleCoreNPC: "石巨人·神殿核心"
+      AbyssalDukeNPC: "深渊公爵"
+      CoronaEmpressNPC: "光耀女皇·日冕"
+      AstralPontiffNPC: "星界教皇"
+      EndMoonNPC: "月神终焉"
+    }
+    ItemName: {
+      ImperialGel: "帝国凝胶"
+      PhaseIris: "相位虹膜"
+      VoidSegmentCrystal: "虚空节晶"
+      CrimsonNeuralCore: "猩红神经核心"
+      BeeGodHoney: "蜂神圣蜜"
+      JudgmentMarrow: "审判骨髓"
+      EternalFlesh: "永劫血肉"
+      PrismCrown: "棱晶王冠"
+      TwinEyeCore: "双生魔眼核心"
+      PrimeGear: "终审齿轮"
+      StarEaterMagnet: "吞星磁核"
+      WastelandFlowerCore: "荒原花核"
+      TempleStarCore: "神殿星核"
+      AbyssScaleHeart: "深渊鳞心"
+      CoronaPrism: "日冕棱晶"
+      AstralDoctrine: "星界教义"
+      MoonGodCore: "月神核心"
+      StarfallResidue: "星落残屑"
+      AstralIngot: "星界锭"
+
+      EmperorCrown: "皇帝王冠"
+      TerminalEye: "终焉之眼"
+      InfiniteBait: "无尽虫饵"
+      CrimsonHeartSummon: "猩红心髓"
+      RoyalBeeSigil: "蜂后圣印"
+      JudgmentBoneflute: "升格骨笛"
+      EternalVoodooDoll: "永劫巫毒娃娃"
+      DynastyPrismSummon: "王朝棱晶"
+      TwinOmen: "双生灾兆"
+      PrimeVerdictSummon: "终审骷髅符"
+      StarEaterWorm: "吞星机械虫"
+      WastelandBudSummon: "荒原花芽"
+      TempleStarCoreSummon: "神殿天心"
+      AbyssLure: "深渊诱饵"
+      CoronaButterfly: "日冕蝶印"
+      AstralScripture: "星界教典"
+      EndMoonRite: "月神终焉仪"
+
+      SlimeEmperorBag: "史莱姆皇帝宝藏袋"
+      TerminalEyeBag: "终焉魔眼宝藏袋"
+      InfiniteDevourerBag: "无尽吞噬者宝藏袋"
+      CrimsonMindBag: "猩红心魔宝藏袋"
+      BeeMatriarchBag: "蜂后圣母宝藏袋"
+      SkeletalJudgeBag: "骸骨审判官宝藏袋"
+      EternalWallBag: "永劫肉墙宝藏袋"
+      DynastyQueenBag: "王朝女皇宝藏袋"
+      TwinCalamityBag: "双生天灾宝藏袋"
+      PrimeVerdictBag: "机械终审宝藏袋"
+      StarEaterBag: "钢铁吞星者宝藏袋"
+      WastelandFlowerBag: "荒原花神宝藏袋"
+      TempleCoreBag: "神殿核心宝藏袋"
+      AbyssalDukeBag: "深渊公爵宝藏袋"
+      CoronaEmpressBag: "光耀女皇宝藏袋"
+      AstralPontiffBag: "星界教皇宝藏袋"
+      EndMoonBag: "月神终焉宝藏袋"
+
+      SlimeEmperorRelic: "史莱姆皇帝圣物"
+      TerminalEyeRelic: "终焉魔眼圣物"
+      InfiniteDevourerRelic: "无尽吞噬者圣物"
+      CrimsonMindRelic: "猩红心魔圣物"
+      BeeMatriarchRelic: "蜂后圣母圣物"
+      SkeletalJudgeRelic: "骸骨审判官圣物"
+      EternalWallRelic: "永劫肉墙圣物"
+      DynastyQueenRelic: "王朝女皇圣物"
+      TwinCalamityRelic: "双生天灾圣物"
+      PrimeVerdictRelic: "机械终审圣物"
+      StarEaterRelic: "钢铁吞星者圣物"
+      WastelandFlowerRelic: "荒原花神圣物"
+      TempleCoreRelic: "神殿核心圣物"
+      AbyssalDukeRelic: "深渊公爵圣物"
+      CoronaEmpressRelic: "光耀女皇圣物"
+      AstralPontiffRelic: "星界教皇圣物"
+      EndMoonRelic: "月神终焉圣物"
+
+      SlimeEmperorTrophy: "史莱姆皇帝纪念章"
+      TerminalEyeTrophy: "终焉魔眼纪念章"
+      InfiniteDevourerTrophy: "无尽吞噬者纪念章"
+      CrimsonMindTrophy: "猩红心魔纪念章"
+      BeeMatriarchTrophy: "蜂后圣母纪念章"
+      SkeletalJudgeTrophy: "骸骨审判官纪念章"
+      EternalWallTrophy: "永劫肉墙纪念章"
+      DynastyQueenTrophy: "王朝女皇纪念章"
+      TwinCalamityTrophy: "双生天灾纪念章"
+      PrimeVerdictTrophy: "机械终审纪念章"
+      StarEaterTrophy: "钢铁吞星者纪念章"
+      WastelandFlowerTrophy: "荒原花神纪念章"
+      TempleCoreTrophy: "神殿核心纪念章"
+      AbyssalDukeTrophy: "深渊公爵纪念章"
+      CoronaEmpressTrophy: "光耀女皇纪念章"
+      AstralPontiffTrophy: "星界教皇纪念章"
+      EndMoonTrophy: "月神终焉纪念章"
+
+      ImperialGelShield: "帝国凝胶护盾"
+      PhaseEyeCore: "相位魔眼核心"
+      DevourerMagnet: "吞噬磁环"
+      IllusionHeart: "幻象心脏"
+      HiveHeart: "蜂巢圣心"
+      JudgeMask: "审判官面具"
+      SoulHinge: "灵魂铰链"
+      PrismWing: "棱晶翼"
+      PolarEngine: "极性引擎"
+      FourArmProtocol: "四臂协议"
+      MagneticCoil: "星磁线圈"
+      WorldRoot: "世界根须"
+      TitanPrism: "泰坦棱镜"
+      TideEngine: "潮汐引擎"
+      CoronaCrown: "日冕王冠"
+      FourPillarEdict: "四柱敕令"
+      CosmicHeart: "宇宙之心"
+
+      ImperialScepter: "帝国权杖"
+      PhaseBreaker: "相位破界者"
+      DevourerLance: "吞噬长枪"
+      MindCircuit: "心魔回路"
+      RoyalStinger: "圣蜂王刺"
+      JudgmentCodex: "审判法典"
+      EternalTendril: "永劫触须"
+      DynastyPrism: "王朝棱晶炮"
+      TwinRayCannon: "双生射线炮"
+      PrimeSaw: "终审锯刃"
+      StarChainDrill: "吞星链钻"
+      FlowerThornCrown: "花神荆冠"
+      TempleRiftCannon: "神殿裂界炮"
+      AbyssalHarpoon: "深渊鱼叉"
+      CoronaPrismWeapon: "日冕棱镜"
+      PontiffStarbook: "教皇星典"
+      EndMoonWeapon: "终焉月枪"
+    }
+    ItemTooltip: {
+      StarfallResidue: "击败星界 Boss 后留下的余烬，可用于锻造终阶装备。"
+      AstralIngot: "由星界残屑和月神核心熔铸而成的终阶金属。"
+      ImperialGelShield: "受伤时释放短暂的凝胶护盾。"
+      PhaseEyeCore: "赋予攻击短暂穿透和相位闪避。"
+      DevourerMagnet: "自动吸引附近的星落残屑与弹药。"
+      IllusionHeart: "闪避后留下一个短暂的幻象。"
+      HiveHeart: "提高召唤物上限，并周期性释放圣蜜。"
+      JudgeMask: "生命值越低，防御和伤害越高。"
+      SoulHinge: "受致命伤时保留一点生命，并短暂无敌。"
+      PrismWing: "大幅提升飞行能力，并留下棱晶尾迹。"
+      PolarEngine: "冲刺后释放一对反向极性射线。"
+      FourArmProtocol: "同时使用多种武器时获得额外伤害。"
+      MagneticCoil: "远程攻击命中后会召回一道星磁弧。"
+      WorldRoot: "站立不动时逐渐生成根须屏障。"
+      TitanPrism: "提高最大生命，并让近战攻击产生棱晶碎片。"
+      TideEngine: "水中移动速度提升，且攻击会召来潮汐弹。"
+      CoronaCrown: "释放光耀环刃，并免疫短暂失明。"
+      FourPillarEdict: "周期性召唤四种元素柱进行支援。"
+      CosmicHeart: "终阶核心：提高全属性并周期性发射宇宙脉冲。"
+    }
+    NPCs: {
+      SlimeEmperorNPC.DisplayName: "史莱姆皇帝"
+      TerminalEyeNPC.DisplayName: "终焉魔眼"
+      InfiniteDevourerNPC.DisplayName: "无尽吞噬者"
+      CrimsonMindNPC.DisplayName: "猩红心魔"
+      BeeMatriarchNPC.DisplayName: "蜂后圣母"
+      SkeletalJudgeNPC.DisplayName: "骸骨审判官"
+      EternalWallNPC.DisplayName: "永劫肉墙"
+      DynastyQueenNPC.DisplayName: "史莱姆女皇·王朝"
+      TwinCalamityNPC.DisplayName: "双生天灾"
+      PrimeVerdictNPC.DisplayName: "机械终审"
+      StarEaterNPC.DisplayName: "钢铁吞星者"
+      WastelandFlowerNPC.DisplayName: "荒原花神"
+      TempleCoreNPC.DisplayName: "石巨人·神殿核心"
+      AbyssalDukeNPC.DisplayName: "深渊公爵"
+      CoronaEmpressNPC.DisplayName: "光耀女皇·日冕"
+      AstralPontiffNPC.DisplayName: "星界教皇"
+      EndMoonNPC.DisplayName: "月神终焉"
+      ResinWhelpNPC.DisplayName: "树脂幼兽"
+      CopperveinScarabNPC.DisplayName: "铜脉甲虫"
+      BellscorpionMatriarchNPC.DisplayName: "沙鸣蝎后"
+      FrosthornStalkerNPC.DisplayName: "霜角猎兽"
+      LanternMiretoadNPC.DisplayName: "沼灯吞蛙"
+      WaxenArbiterNPC.DisplayName: "蜂蜡巡裁者"
+      RotrootWeaverNPC.DisplayName: "腐根织母"
+      GravebellKeybearerNPC.DisplayName: "墓钟执钥者"
+      MeteorMawNPC.DisplayName: "陨铁噬星兽"
+      DawnshardScionNPC.DisplayName: "初辉王胚"
+    }
+    Items: {
+      ImperialGel: { DisplayName: "帝国凝胶" Tooltip: "史莱姆皇帝蜕变后留下的凝胶核心。" }
+      PhaseIris: { DisplayName: "相位虹膜" Tooltip: "终焉魔眼的相位感知器官。" }
+      VoidSegmentCrystal: { DisplayName: "虚空节晶" Tooltip: "无尽吞噬者体内的虚空晶节。" }
+      CrimsonNeuralCore: { DisplayName: "猩红神经核心" Tooltip: "猩红心魔的思维核心。" }
+      BeeGodHoney: { DisplayName: "蜂神圣蜜" Tooltip: "蜂后圣母酿造的高浓度圣蜜。" }
+      JudgmentMarrow: { DisplayName: "审判骨髓" Tooltip: "骸骨审判官的永燃骨髓。" }
+      EternalFlesh: { DisplayName: "永劫血肉" Tooltip: "永劫肉墙不会腐朽的血肉。" }
+      PrismCrown: { DisplayName: "棱晶王冠" Tooltip: "王朝女皇王座上的棱晶冠冕。" }
+      TwinEyeCore: { DisplayName: "双生魔眼核心" Tooltip: "双生天灾同步运转的核心。" }
+      PrimeGear: { DisplayName: "终审齿轮" Tooltip: "机械终审的最终校准齿轮。" }
+      StarEaterMagnet: { DisplayName: "吞星磁核" Tooltip: "钢铁吞星者用来捕获星体的磁核。" }
+      WastelandFlowerCore: { DisplayName: "荒原花核" Tooltip: "荒原花神最深处的生命核心。" }
+      TempleStarCore: { DisplayName: "神殿星核" Tooltip: "神殿核心中永远旋转的星核。" }
+      AbyssScaleHeart: { DisplayName: "深渊鳞心" Tooltip: "深渊公爵鳞甲下跳动的心脏。" }
+      CoronaPrism: { DisplayName: "日冕棱晶" Tooltip: "日冕女皇的光耀棱晶。" }
+      AstralDoctrine: { DisplayName: "星界教义" Tooltip: "星界教皇写下的终末教义。" }
+      MoonGodCore: { DisplayName: "月神核心" Tooltip: "月神终焉留下的终极核心。" }
+      StarfallResidue: { DisplayName: "星落残屑" Tooltip: "击败星界 Boss 后留下的余烬，可用于锻造终阶装备。" }
+      AstralIngot: { DisplayName: "星界锭" Tooltip: "由星界残屑和月神核心熔铸而成的终阶金属。" }
+
+      EmperorCrown: { DisplayName: "皇帝王冠" Tooltip: "召唤史莱姆皇帝。" }
+      TerminalEye: { DisplayName: "终焉之眼" Tooltip: "召唤终焉魔眼。" }
+      InfiniteBait: { DisplayName: "无尽虫饵" Tooltip: "召唤无尽吞噬者。" }
+      CrimsonHeartSummon: { DisplayName: "猩红心髓" Tooltip: "召唤猩红心魔。" }
+      RoyalBeeSigil: { DisplayName: "蜂后圣印" Tooltip: "召唤蜂后圣母。" }
+      JudgmentBoneflute: { DisplayName: "升格骨笛" Tooltip: "在夜晚召唤骸骨审判官。" }
+      EternalVoodooDoll: { DisplayName: "永劫巫毒娃娃" Tooltip: "在地狱召唤永劫肉墙。" }
+      DynastyPrismSummon: { DisplayName: "王朝棱晶" Tooltip: "召唤史莱姆女皇·王朝。" }
+      TwinOmen: { DisplayName: "双生灾兆" Tooltip: "召唤双生天灾。" }
+      PrimeVerdictSummon: { DisplayName: "终审骷髅符" Tooltip: "召唤机械终审。" }
+      StarEaterWorm: { DisplayName: "吞星机械虫" Tooltip: "召唤钢铁吞星者。" }
+      WastelandBudSummon: { DisplayName: "荒原花芽" Tooltip: "在地下丛林召唤荒原花神。" }
+      TempleStarCoreSummon: { DisplayName: "神殿天心" Tooltip: "在神庙召唤神殿核心。" }
+      AbyssLure: { DisplayName: "深渊诱饵" Tooltip: "在海洋召唤深渊公爵。" }
+      CoronaButterfly: { DisplayName: "日冕蝶印" Tooltip: "在神圣之地召唤光耀女皇·日冕。" }
+      AstralScripture: { DisplayName: "星界教典" Tooltip: "在地牢召唤星界教皇。" }
+      EndMoonRite: { DisplayName: "月神终焉仪" Tooltip: "召唤月神终焉。" }
+
+      SlimeEmperorBag: { DisplayName: "史莱姆皇帝宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      TerminalEyeBag: { DisplayName: "终焉魔眼宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      InfiniteDevourerBag: { DisplayName: "无尽吞噬者宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      CrimsonMindBag: { DisplayName: "猩红心魔宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      BeeMatriarchBag: { DisplayName: "蜂后圣母宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      SkeletalJudgeBag: { DisplayName: "骸骨审判官宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      EternalWallBag: { DisplayName: "永劫肉墙宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      DynastyQueenBag: { DisplayName: "王朝女皇宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      TwinCalamityBag: { DisplayName: "双生天灾宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      PrimeVerdictBag: { DisplayName: "机械终审宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      StarEaterBag: { DisplayName: "钢铁吞星者宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      WastelandFlowerBag: { DisplayName: "荒原花神宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      TempleCoreBag: { DisplayName: "神殿核心宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      AbyssalDukeBag: { DisplayName: "深渊公爵宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      CoronaEmpressBag: { DisplayName: "光耀女皇宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      AstralPontiffBag: { DisplayName: "星界教皇宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      EndMoonBag: { DisplayName: "月神终焉宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+
+      SlimeEmperorRelic: { DisplayName: "史莱姆皇帝圣物" Tooltip: "" }
+      TerminalEyeRelic: { DisplayName: "终焉魔眼圣物" Tooltip: "" }
+      InfiniteDevourerRelic: { DisplayName: "无尽吞噬者圣物" Tooltip: "" }
+      CrimsonMindRelic: { DisplayName: "猩红心魔圣物" Tooltip: "" }
+      BeeMatriarchRelic: { DisplayName: "蜂后圣母圣物" Tooltip: "" }
+      SkeletalJudgeRelic: { DisplayName: "骸骨审判官圣物" Tooltip: "" }
+      EternalWallRelic: { DisplayName: "永劫肉墙圣物" Tooltip: "" }
+      DynastyQueenRelic: { DisplayName: "王朝女皇圣物" Tooltip: "" }
+      TwinCalamityRelic: { DisplayName: "双生天灾圣物" Tooltip: "" }
+      PrimeVerdictRelic: { DisplayName: "机械终审圣物" Tooltip: "" }
+      StarEaterRelic: { DisplayName: "钢铁吞星者圣物" Tooltip: "" }
+      WastelandFlowerRelic: { DisplayName: "荒原花神圣物" Tooltip: "" }
+      TempleCoreRelic: { DisplayName: "神殿核心圣物" Tooltip: "" }
+      AbyssalDukeRelic: { DisplayName: "深渊公爵圣物" Tooltip: "" }
+      CoronaEmpressRelic: { DisplayName: "光耀女皇圣物" Tooltip: "" }
+      AstralPontiffRelic: { DisplayName: "星界教皇圣物" Tooltip: "" }
+      EndMoonRelic: { DisplayName: "月神终焉圣物" Tooltip: "" }
+      SlimeEmperorTrophy: { DisplayName: "史莱姆皇帝纪念章" Tooltip: "" }
+      TerminalEyeTrophy: { DisplayName: "终焉魔眼纪念章" Tooltip: "" }
+      InfiniteDevourerTrophy: { DisplayName: "无尽吞噬者纪念章" Tooltip: "" }
+      CrimsonMindTrophy: { DisplayName: "猩红心魔纪念章" Tooltip: "" }
+      BeeMatriarchTrophy: { DisplayName: "蜂后圣母纪念章" Tooltip: "" }
+      SkeletalJudgeTrophy: { DisplayName: "骸骨审判官纪念章" Tooltip: "" }
+      EternalWallTrophy: { DisplayName: "永劫肉墙纪念章" Tooltip: "" }
+      DynastyQueenTrophy: { DisplayName: "王朝女皇纪念章" Tooltip: "" }
+      TwinCalamityTrophy: { DisplayName: "双生天灾纪念章" Tooltip: "" }
+      PrimeVerdictTrophy: { DisplayName: "机械终审纪念章" Tooltip: "" }
+      StarEaterTrophy: { DisplayName: "钢铁吞星者纪念章" Tooltip: "" }
+      WastelandFlowerTrophy: { DisplayName: "荒原花神纪念章" Tooltip: "" }
+      TempleCoreTrophy: { DisplayName: "神殿核心纪念章" Tooltip: "" }
+      AbyssalDukeTrophy: { DisplayName: "深渊公爵纪念章" Tooltip: "" }
+      CoronaEmpressTrophy: { DisplayName: "光耀女皇纪念章" Tooltip: "" }
+      AstralPontiffTrophy: { DisplayName: "星界教皇纪念章" Tooltip: "" }
+      EndMoonTrophy: { DisplayName: "月神终焉纪念章" Tooltip: "" }
+
+      ImperialGelShield: { DisplayName: "帝国凝胶护盾" Tooltip: "+8 防御、+6% 全伤害、+2% 全类型暴击；+100 最大生命、+2 生命再生，并免疫击退。" }
+      PhaseEyeCore: { DisplayName: "相位魔眼核心" Tooltip: "+8 防御、+6.4% 全伤害、+2% 全类型暴击；额外 +8% 全伤害和 +8% 全类型暴击。" }
+      DevourerMagnet: { DisplayName: "吞噬磁环" Tooltip: "+8 防御、+6.8% 全伤害、+2% 全类型暴击；+18% 移动速度，并额外提高 10% 全伤害。" }
+      IllusionHeart: { DisplayName: "幻象心脏" Tooltip: "+9 防御、+7.2% 全伤害、+2% 全类型暴击；+6% 伤害减免，并免疫混乱。" }
+      HiveHeart: { DisplayName: "蜂巢圣心" Tooltip: "+9 防御、+7.6% 全伤害、+3% 全类型暴击；+2 召唤物上限，召唤伤害 +14%。" }
+      JudgeMask: { DisplayName: "审判官面具" Tooltip: "+21 防御、+8% 全伤害、+3% 全类型暴击；近战伤害 +12%。" }
+      SoulHinge: { DisplayName: "灵魂铰链" Tooltip: "+10 防御、+8.4% 全伤害、+3% 全类型暴击；+100 最大魔力，魔力消耗降低 18%。" }
+      PrismWing: { DisplayName: "棱晶翼" Tooltip: "+10 防御、+8.8% 全伤害、+3% 全类型暴击；+45 翼时间和 12% 移动速度。" }
+      PolarEngine: { DisplayName: "极性引擎" Tooltip: "+10 防御、+9.2% 全伤害、+4% 全类型暴击；远程伤害 +15%，远程暴击 +7%。" }
+      FourArmProtocol: { DisplayName: "四臂协议" Tooltip: "+11 防御、+9.6% 全伤害、+4% 全类型暴击；+1 哨兵上限，并额外提高 12% 全伤害。" }
+      MagneticCoil: { DisplayName: "星磁线圈" Tooltip: "+11 防御、+10% 全伤害、+4% 全类型暴击、+1% 伤害减免；额外提高 12% 全伤害。" }
+      WorldRoot: { DisplayName: "世界根须" Tooltip: "+11 防御、+10.4% 全伤害、+4% 全类型暴击、+1% 伤害减免；+4 生命再生，并免疫中毒。" }
+      TitanPrism: { DisplayName: "泰坦棱镜" Tooltip: "+22 防御、+10.8% 全伤害、+5% 全类型暴击、+1% 伤害减免；+140 最大生命。" }
+      TideEngine: { DisplayName: "潮汐引擎" Tooltip: "+12 防御、+11.2% 全伤害、+5% 全类型暴击、+1% 伤害减免；+22% 移动速度，并获得水上行走和水中无阻。" }
+      CoronaCrown: { DisplayName: "日冕王冠" Tooltip: "+12 防御、+11.6% 全伤害、+5% 全类型暴击、+1% 伤害减免；+120 最大魔力，魔法伤害 +16%。" }
+      FourPillarEdict: { DisplayName: "四柱敕令" Tooltip: "+13 防御、+12% 全伤害、+5% 全类型暴击、+1% 伤害减免；+1 召唤物、+1 哨兵，并额外提高 10% 全伤害。" }
+      CosmicHeart: { DisplayName: "宇宙之心" Tooltip: "+13 防御、+12.4% 全伤害、+6% 全类型暴击、+7% 伤害减免；+200 最大生命、+100 最大魔力，并额外提高 15% 全伤害。" }
+
+      ImperialScepter: { DisplayName: "帝国权杖" Tooltip: "挥动凝胶权杖，每第二次挥击抛出一枚下坠凝胶囊" }
+      PhaseBreaker: { DisplayName: "相位破界者" Tooltip: "蓄势18帧后发射短促穿透射线，射线被实心方块阻挡\n每次使用消耗1发子弹，转换为专属弹幕" }
+      DevourerLance: { DisplayName: "吞噬长枪" Tooltip: "向前进行长距离虚空突刺，随后收回；每次对同一目标命中一次" }
+      MindCircuit: { DisplayName: "心魔回路" Tooltip: "在准星方向布下三颗心念球，环绕片刻后向中心聚拢" }
+      RoyalStinger: { DisplayName: "圣蜂王刺" Tooltip: "一次射出三枚蜂刺箭，碰撞后各释放两枚弱追踪蜂针\n每次使用消耗1支箭，转换为专属弹幕" }
+      JudgmentCodex: { DisplayName: "审判法典" Tooltip: "在瞄准点上方排列三把骨刃，预示后依次落下" }
+      EternalTendril: { DisplayName: "永劫触须" Tooltip: "挥出大范围血肉触须；命中施加3秒灵液" }
+      DynastyPrism: { DisplayName: "王朝棱晶炮" Tooltip: "投出棱晶，短暂前进后折射成三束受地形阻挡的射线" }
+      TwinRayCannon: { DisplayName: "双生射线炮" Tooltip: "蓄势12帧后发射两束平行射线，每束造成55%伤害\n每次使用消耗1发子弹，转换为专属弹幕" }
+      PrimeSaw: { DisplayName: "终审锯刃" Tooltip: "掷出旋转锯刃，飞行后自动返回，可在去回程重复命中" }
+      StarChainDrill: { DisplayName: "吞星链钻" Tooltip: "伸出长链钻头持续钻刺；同一目标每9帧最多命中一次" }
+      FlowerThornCrown: { DisplayName: "花神荆冠" Tooltip: "召唤跟随玩家的荆棘花灵，定期射出三枚追踪根刺\n占用1个召唤栏；可右键指定目标或取消增益收回" }
+      TempleRiftCannon: { DisplayName: "神殿裂界炮" Tooltip: "发射重型棱柱炮弹，爆炸后朝四向散出碎片\n每次使用消耗1发子弹，转换为专属弹幕" }
+      AbyssalHarpoon: { DisplayName: "深渊鱼叉" Tooltip: "掷出并收回深渊鱼叉，首次碰撞释放潮汐环\n无需弹药" }
+      CoronaPrismWeapon: { DisplayName: "日冕棱镜" Tooltip: "发射五颗光星，短时间追踪后沿既定方向飞行" }
+      PontiffStarbook: { DisplayName: "教皇星典" Tooltip: "在准星处放置星界法阵哨兵，向目标发射四重星弹\n占用哨兵名额，持续2分钟；受哨兵数量上限限制" }
+      EndMoonWeapon: { DisplayName: "终焉月枪" Tooltip: "发射月矢，飞行片刻或碰撞后分出两枚追踪月片\n每次使用消耗1支箭，转换为专属弹幕" }
+      ThroneAegis: { DisplayName: "王座神盾" Tooltip: "提高生命、防御和伤害减免，并免疫击退。" }
+      VoidstepInsignia: { DisplayName: "虚空步徽记" Tooltip: "提高移动速度、飞行时间和全类型伤害。" }
+      AstralConductor: { DisplayName: "星界导体" Tooltip: "提高魔力、召唤物和哨兵上限，并提高全类型伤害。" }
+      Thronebreaker: { DisplayName: "王座破坏者" Tooltip: "交替重斩，每第三次重斩追加一道短暂破座射线" }
+      AstralThroneHelmet: { DisplayName: "星界王座头盔" Tooltip: "星界王座套装的头部护甲。" SetBonus: "星界王座：+250 最大生命、+120 最大魔力、15% 全类型伤害、8% 伤害减免、+1 召唤物上限、+1 哨兵上限，并免疫击退。" }
+      AstralThronePlate: { DisplayName: "星界王座胸甲" Tooltip: "星界王座套装的身体护甲。" }
+      AstralThroneGreaves: { DisplayName: "星界王座护腿" Tooltip: "星界王座套装的腿部护甲。" }
+      ResinCore: { DisplayName: "树脂晶核" Tooltip: "树脂幼兽留下的原初核心。" }
+      CopperveinCore: { DisplayName: "铜脉核心" Tooltip: "铜脉甲虫的发光矿脉核心。" }
+      SandscorpionCore: { DisplayName: "沙蝎核心" Tooltip: "沙鸣蝎后尾部的毒性核心。" }
+      FrosthornCore: { DisplayName: "霜角核心" Tooltip: "霜角猎兽体内的寒霜核心。" }
+      MirelanternCore: { DisplayName: "沼灯核心" Tooltip: "沼灯吞蛙的荧光囊核心。" }
+      WaxenCore: { DisplayName: "蜂蜡核心" Tooltip: "蜂蜡巡裁者的蜂巢核心。" }
+      RotrootCore: { DisplayName: "腐根核心" Tooltip: "腐根织母盘踞的邪恶根核。" }
+      GravebellCore: { DisplayName: "墓钟核心" Tooltip: "墓钟执钥者的幽蓝钟心。" }
+      MeteorMawCore: { DisplayName: "陨星核心" Tooltip: "陨铁噬星兽吞下的星核。" }
+      DawnshardCore: { DisplayName: "初辉核心" Tooltip: "初辉王胚尚未完成的星之核心。" }
+      ResinAcornSummon: { DisplayName: "树脂橡果" Tooltip: "召唤树脂幼兽。" }
+      CopperCarapaceSummon: { DisplayName: "熔铸甲壳" Tooltip: "召唤铜脉甲虫。" }
+      SandBellSummon: { DisplayName: "沙鸣铃" Tooltip: "召唤沙鸣蝎后。" }
+      FrosthornFluteSummon: { DisplayName: "霜角骨笛" Tooltip: "召唤霜角猎兽。" }
+      MireLanternSummon: { DisplayName: "沼灯诱饵" Tooltip: "召唤沼灯吞蛙。" }
+      WaxSealSummon: { DisplayName: "蜂蜡印章" Tooltip: "召唤蜂蜡巡裁者。" }
+      EvilRootTotemSummon: { DisplayName: "邪根图腾" Tooltip: "召唤腐根织母。" }
+      GravebellKeySummon: { DisplayName: "墓钟钥匙" Tooltip: "召唤墓钟执钥者。" }
+      MeteorGizzardSummon: { DisplayName: "陨星胃石" Tooltip: "召唤陨铁噬星兽。" }
+      DawnshardSigilSummon: { DisplayName: "初辉徽印" Tooltip: "召唤初辉王胚。" }
+      ResinWhelpBag: { DisplayName: "树脂幼兽宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      CopperveinScarabBag: { DisplayName: "铜脉甲虫宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      BellscorpionMatriarchBag: { DisplayName: "沙鸣蝎后宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      FrosthornStalkerBag: { DisplayName: "霜角猎兽宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      LanternMiretoadBag: { DisplayName: "沼灯吞蛙宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      WaxenArbiterBag: { DisplayName: "蜂蜡巡裁者宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      RotrootWeaverBag: { DisplayName: "腐根织母宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      GravebellKeybearerBag: { DisplayName: "墓钟执钥者宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      MeteorMawBag: { DisplayName: "陨铁噬星兽宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      DawnshardScionBag: { DisplayName: "初辉王胚宝藏袋" Tooltip: "{$CommonItemTooltip.RightClickToOpen}" }
+      ResinWhelpRelic: { DisplayName: "树脂幼兽圣物" Tooltip: "" }
+      CopperveinScarabRelic: { DisplayName: "铜脉甲虫圣物" Tooltip: "" }
+      BellscorpionMatriarchRelic: { DisplayName: "沙鸣蝎后圣物" Tooltip: "" }
+      FrosthornStalkerRelic: { DisplayName: "霜角猎兽圣物" Tooltip: "" }
+      LanternMiretoadRelic: { DisplayName: "沼灯吞蛙圣物" Tooltip: "" }
+      WaxenArbiterRelic: { DisplayName: "蜂蜡巡裁者圣物" Tooltip: "" }
+      RotrootWeaverRelic: { DisplayName: "腐根织母圣物" Tooltip: "" }
+      GravebellKeybearerRelic: { DisplayName: "墓钟执钥者圣物" Tooltip: "" }
+      MeteorMawRelic: { DisplayName: "陨铁噬星兽圣物" Tooltip: "" }
+      DawnshardScionRelic: { DisplayName: "初辉王胚圣物" Tooltip: "" }
+      ResinWhelpTrophy: { DisplayName: "树脂幼兽纪念章" Tooltip: "" }
+      CopperveinScarabTrophy: { DisplayName: "铜脉甲虫纪念章" Tooltip: "" }
+      BellscorpionMatriarchTrophy: { DisplayName: "沙鸣蝎后纪念章" Tooltip: "" }
+      FrosthornStalkerTrophy: { DisplayName: "霜角猎兽纪念章" Tooltip: "" }
+      LanternMiretoadTrophy: { DisplayName: "沼灯吞蛙纪念章" Tooltip: "" }
+      WaxenArbiterTrophy: { DisplayName: "蜂蜡巡裁者纪念章" Tooltip: "" }
+      RotrootWeaverTrophy: { DisplayName: "腐根织母纪念章" Tooltip: "" }
+      GravebellKeybearerTrophy: { DisplayName: "墓钟执钥者纪念章" Tooltip: "" }
+      MeteorMawTrophy: { DisplayName: "陨铁噬星兽纪念章" Tooltip: "" }
+      DawnshardScionTrophy: { DisplayName: "初辉王胚纪念章" Tooltip: "" }
+      ResinShortbow: { DisplayName: "树脂短弓" Tooltip: "发射下坠的树脂箭，命中造成2秒减速\n每次使用消耗1支箭，转换为专属弹幕" }
+      ResinCane: { DisplayName: "树脂手杖" Tooltip: "抛出树脂囊，破裂后留下短暂黏液区" }
+      CopperveinRepeater: { DisplayName: "铜脉连弩" Tooltip: "一份箭射出间隔6帧的三连铜矢，每发造成55%伤害\n每次使用消耗1支箭，转换为专属弹幕" }
+      MinebreakerDrill: { DisplayName: "破矿钻" Tooltip: "向前伸出短程钻头，连续钻刺；不能采矿" }
+      BellstingSpear: { DisplayName: "沙蝎长枪" Tooltip: "伸出并收回沙蝎枪尖，命中造成中毒" }
+      SandglassStaff: { DisplayName: "沙漏法杖" Tooltip: "抛出下坠沙球，碎裂后散出四枚沙片" }
+      FrostfangBlade: { DisplayName: "冰牙刃" Tooltip: "交替挥砍，每第三次挥砍追加一枚冰牙；造成霜火" }
+      FrostHowl: { DisplayName: "寒霜嚎叫" Tooltip: "发出向前扩张的寒霜弧形音波，不是全屏圆环" }
+      MireSprayer: { DisplayName: "沼泽喷壶" Tooltip: "喷出三团短暂停留的毒雾；同一团毒雾每30帧最多命中一次" }
+      TongueWhip: { DisplayName: "舌鞭" Tooltip: "挥出真正的舌鞭，标记目标4秒\n召唤物和哨兵对标记目标额外造成3点标签伤害" }
+      WaxenRepeater: { DisplayName: "蜂针连弩" Tooltip: "蜂蜡箭命中或碎裂后释放两枚追踪蜂针\n每次使用消耗1支箭，转换为专属弹幕" }
+      WaxVerdict: { DisplayName: "蜂王裁决" Tooltip: "召唤蜂蜡裁决蜂，追击目标并间歇冲刺\n占用1个召唤栏；可右键指定目标或取消增益收回" }
+      RootlashHook: { DisplayName: "根须钩" Tooltip: "同时伸出三条扇形根钩，每条造成48%伤害；不是移动抓钩" }
+      RotrootStaff: { DisplayName: "腐藤法杖" Tooltip: "投出腐根种子，落地或命中后生成短暂根雾区" }
+      GravebellFlail: { DisplayName: "墓钟连枷" Tooltip: "掷出并自动收回链钟，首次碰撞释放扩散钟波" }
+      KeybearerCrossbow: { DisplayName: "守墓者弩" Tooltip: "射出可穿透3次的骨钥箭，短暂轻微追踪附近目标\n每次使用消耗1支箭，转换为专属弹幕" }
+      MeteorMawCannon: { DisplayName: "陨铁炮" Tooltip: "发射有重力的陨铁弹，命中或撞地造成范围爆炸\n无需弹药" }
+      StarEaterStaff: { DisplayName: "星吞法杖" Tooltip: "掷出回旋星体，飞行一段后返回玩家；同一时间只能投出一颗" }
+      DawnstarEdge: { DisplayName: "星芒刃" Tooltip: "交替星芒挥砍，每第三次挥砍追加一枚追踪星刃" }
+      FirstlightCodex: { DisplayName: "初辉法典" Tooltip: "以施法位置为中心扩张星环，每个目标最多命中一次" }
+      DawnpiercerBow: { DisplayName: "破晓短弓" Tooltip: "破晓箭命中或碎裂后释放两枚追踪星片\n每次使用消耗1支箭，转换为专属弹幕" }
+      ResinHeart: { DisplayName: "树脂护心" Tooltip: "免疫减速；受伤后移动速度提高 10%，持续 2 秒。" }
+      OreseekerScanner: { DisplayName: "矿脉扫描仪" Tooltip: "挖矿速度提高 10%。" }
+      SandstepAnklet: { DisplayName: "沙行脚环" Tooltip: "移动速度提高 12%，奔跑速度提高；适合沙地移动。" }
+      FroststepMantle: { DisplayName: "霜步披风" Tooltip: "免疫寒冷减速；移动速度提高 8%。" }
+      MirelungCharm: { DisplayName: "沼肺护符" Tooltip: "获得水下呼吸和游泳能力，并免疫中毒。" }
+      WaxwingSigil: { DisplayName: "蜡翼徽章" Tooltip: "+1 召唤物上限；飞行时间提高 0.5 秒。" }
+      RootboundTalisman: { DisplayName: "根系护符" Tooltip: "静止不动时获得 3 点防御。" }
+      GatekeeperAmulet: { DisplayName: "墓门护符" Tooltip: "获得 2% 伤害减免。" }
+      MagneticHarness: { DisplayName: "星磁护符" Tooltip: "免疫摔落伤害；远程和魔法伤害提高 4%。" }
+      DawnshardCrown: { DisplayName: "王胚核心" Tooltip: "全类型伤害提高 5%；受伤后移动速度和全类型伤害短暂提高。" }
+      ResinweaveHelmet: { DisplayName: "树脂编织头盔" Tooltip: "树脂编织套装的头部护甲。" SetBonus: "树脂编织：移动速度提高 5%，并免疫减速。" }
+      ResinweaveChest: { DisplayName: "树脂编织胸甲" Tooltip: "树脂编织套装的身体护甲。" }
+      ResinweaveGreaves: { DisplayName: "树脂编织护腿" Tooltip: "树脂编织套装的腿部护甲。" }
+      CopperveinHelmet: { DisplayName: "铜脉头盔" Tooltip: "铜脉勘探套装的头部护甲。" SetBonus: "铜脉勘探：挖矿速度提高 15%。" }
+      CopperveinChest: { DisplayName: "铜脉胸甲" Tooltip: "铜脉勘探套装的身体护甲。" }
+      CopperveinGreaves: { DisplayName: "铜脉护腿" Tooltip: "铜脉勘探套装的腿部护甲。" }
+      FrostmireHood: { DisplayName: "霜沼兜帽" Tooltip: "霜沼猎行套装的头部护甲。" SetBonus: "霜沼猎行：移动速度提高 8%，免疫寒冷减速，暴击率提高 3%。" }
+      FrostmireCoat: { DisplayName: "霜沼外套" Tooltip: "霜沼猎行套装的身体护甲。" }
+      FrostmireGreaves: { DisplayName: "霜沼护腿" Tooltip: "霜沼猎行套装的腿部护甲。" }
+      WaxguardMask: { DisplayName: "蜂蜡面罩" Tooltip: "蜂蜡巡卫套装的头部护甲。" SetBonus: "蜂蜡巡卫：+1 召唤物上限，召唤伤害提高 5%。" }
+      WaxguardChest: { DisplayName: "蜂蜡胸甲" Tooltip: "蜂蜡巡卫套装的身体护甲。" }
+      WaxguardGreaves: { DisplayName: "蜂蜡护腿" Tooltip: "蜂蜡巡卫套装的腿部护甲。" }
+      AstralExplorerHelmet: { DisplayName: "星陨旅者头盔" Tooltip: "陨星初辉套装的头部护甲。" SetBonus: "陨星初辉：全类型伤害提高 5%，跳跃更高，并免疫摔落伤害。" }
+      AstralExplorerChest: { DisplayName: "星陨旅者胸甲" Tooltip: "陨星初辉套装的身体护甲。" }
+      AstralExplorerGreaves: { DisplayName: "星陨旅者护腿" Tooltip: "陨星初辉套装的腿部护甲。" }
+    }
+    Tiles: {
+      StarfallRelicTile.MapEntry: "星界圣物"
+      StarfallTrophyTile.MapEntry: "星界纪念章"
+    }
+    BossChecklist: {
+      SlimeEmperor: { SpawnInfo: "击败月亮领主后，使用皇帝王冠。" DespawnMessage: "帝国凝胶融入了星空。" }
+      TerminalEye: { SpawnInfo: "击败史莱姆皇帝后，使用终焉之眼。" DespawnMessage: "终焉魔眼失去了目标。" }
+      InfiniteDevourer: { SpawnInfo: "击败终焉魔眼后，使用无尽虫饵。" DespawnMessage: "无尽吞噬者钻回了虚空。" }
+      CrimsonMind: { SpawnInfo: "击败无尽吞噬者后，使用猩红心髓。" DespawnMessage: "猩红心念逐渐消散。" }
+      BeeMatriarch: { SpawnInfo: "击败猩红心魔后，使用蜂后圣印。" DespawnMessage: "蜂巢重新陷入寂静。" }
+      SkeletalJudge: { SpawnInfo: "击败蜂后圣母后，在夜晚使用升格骨笛。" DespawnMessage: "骸骨审判被延期了。" }
+      EternalWall: { SpawnInfo: "击败骸骨审判官后，在地狱使用永劫巫毒娃娃。" DespawnMessage: "永劫肉墙回到了灰烬中。" }
+      DynastyQueen: { SpawnInfo: "击败永劫肉墙后，使用王朝棱晶。" DespawnMessage: "棱晶王座崩塌了。" }
+      TwinCalamity: { SpawnInfo: "击败史莱姆女皇·王朝后，使用双生灾兆。" DespawnMessage: "双生引擎失去了同步。" }
+      PrimeVerdict: { SpawnInfo: "击败双生天灾后，使用终审骷髅符。" DespawnMessage: "机械终审被撤回。" }
+      StarEater: { SpawnInfo: "击败机械终审后，使用吞星机械虫。" DespawnMessage: "钢铁吞星者钻入了虚空。" }
+      WastelandFlower: { SpawnInfo: "击败钢铁吞星者后，在地下丛林使用荒原花芽。" DespawnMessage: "荒原花神回到了沉眠的根系。" }
+      TempleCore: { SpawnInfo: "击败荒原花神后，在神庙内使用神殿天心。" DespawnMessage: "神殿核心封闭了自己。" }
+      AbyssalDuke: { SpawnInfo: "击败神殿核心后，在海洋使用深渊诱饵。" DespawnMessage: "深渊潮汐吞没了公爵。" }
+      CoronaEmpress: { SpawnInfo: "击败深渊公爵后，在神圣之地使用日冕蝶印。" DespawnMessage: "日冕消失在了地平线外。" }
+      AstralPontiff: { SpawnInfo: "击败光耀女皇·日冕后，在地牢使用星界教典。" DespawnMessage: "星界布道结束了。" }
+      EndMoon: { SpawnInfo: "击败星界教皇后，使用月神终焉仪。" DespawnMessage: "月神终焉离开了战场。" }
+      ResinWhelp: { SpawnInfo: "使用树脂橡果。" DespawnMessage: "树脂幼兽缩回了树根。" }
+      CopperveinScarab: { SpawnInfo: "击败树脂幼兽后，使用熔铸甲壳。" DespawnMessage: "铜脉甲虫钻入地下。" }
+      BellscorpionMatriarch: { SpawnInfo: "击败铜脉甲虫后，使用沙鸣铃。" DespawnMessage: "沙鸣蝎后消失在沙尘中。" }
+      FrosthornStalker: { SpawnInfo: "击败沙鸣蝎后后，使用霜角骨笛。" DespawnMessage: "霜角猎兽逃入雪幕。" }
+      LanternMiretoad: { SpawnInfo: "击败霜角猎兽后，使用沼灯诱饵。" DespawnMessage: "沼灯吞蛙沉入泥潭。" }
+      WaxenArbiter: { SpawnInfo: "击败沼灯吞蛙后，使用蜂蜡印章。" DespawnMessage: "蜂蜡巡裁者返回蜂巢。" }
+      RotrootWeaver: { SpawnInfo: "击败蜂蜡巡裁者后，使用邪根图腾。" DespawnMessage: "腐根织母潜入邪根。" }
+      GravebellKeybearer: { SpawnInfo: "击败腐根织母后，使用墓钟钥匙。" DespawnMessage: "墓钟执钥者回到墓门之后。" }
+      MeteorMaw: { SpawnInfo: "击败墓钟执钥者后，使用陨星胃石。" DespawnMessage: "陨铁噬星兽吞入了最后一颗星。" }
+      DawnshardScion: { SpawnInfo: "击败陨铁噬星兽后，使用初辉徽印。" DespawnMessage: "初辉王胚熄灭在黎明之前。" }
+    }
+  }
+}

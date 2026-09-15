@@ -1,0 +1,1198 @@
+{
+  "Mods": {
+    "StarfallThrone": {
+      "EcologyContent": {
+        "AnyGold": "Any Gold or Platinum Bar",
+        "AnyFragment": "Any Celestial Fragment",
+        "AnyCatalyst": "Any Ecology Catalyst"
+      },
+      "Items": {
+        "EcologyMaterial0": {
+          "DisplayName": "Mirror Lamina",
+          "Tooltip": "Material from Mistmirror Woods creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner0": {
+          "DisplayName": "Mirrorback Snail Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Mirrorback Snail\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial1": {
+          "DisplayName": "Mistwing Powder",
+          "Tooltip": "Material from Mistmirror Woods creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner1": {
+          "DisplayName": "Mistwing Moth Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Mistwing Moth\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial2": {
+          "DisplayName": "Mist Gland",
+          "Tooltip": "Material from Mistmirror Woods creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner2": {
+          "DisplayName": "Reflection Badger Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Reflection Badger\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial3": {
+          "DisplayName": "Cracked-Mirror Antler",
+          "Tooltip": "Material from Mistmirror Woods rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner3": {
+          "DisplayName": "Cracked-Mirror Deer Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Cracked-Mirror Deer\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial4": {
+          "DisplayName": "Living Wax",
+          "Tooltip": "Material from Waxsleep Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner4": {
+          "DisplayName": "Dripping Waxworm Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Dripping Waxworm\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial5": {
+          "DisplayName": "Cocoon Silk",
+          "Tooltip": "Material from Waxsleep Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner5": {
+          "DisplayName": "Cocoon Moth Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Cocoon Moth\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial6": {
+          "DisplayName": "Spent Candlewick",
+          "Tooltip": "Material from Waxsleep Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner6": {
+          "DisplayName": "Candleface Servant Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Candleface Servant\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial7": {
+          "DisplayName": "Sealed Amber",
+          "Tooltip": "Material from Waxsleep Garden rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner7": {
+          "DisplayName": "Great Wax Chrysalis Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Great Wax Chrysalis\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial8": {
+          "DisplayName": "Amber Carapace",
+          "Tooltip": "Material from Amberhive Grove creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner8": {
+          "DisplayName": "Sugarplate Ant Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Sugarplate Ant\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial9": {
+          "DisplayName": "Condensed Honey Gland",
+          "Tooltip": "Material from Amberhive Grove creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner9": {
+          "DisplayName": "Honeyneedle Bee Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Honeyneedle Bee\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial10": {
+          "DisplayName": "Brood Fiber",
+          "Tooltip": "Material from Amberhive Grove creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner10": {
+          "DisplayName": "Hivebranch Mantis Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Hivebranch Mantis\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial11": {
+          "DisplayName": "Honeyamber Crystal",
+          "Tooltip": "Material from Amberhive Grove rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner11": {
+          "DisplayName": "Amber Sacpupa Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Amber Sacpupa\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial12": {
+          "DisplayName": "Knelling Bone",
+          "Tooltip": "Material from Knellbone Moor creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner12": {
+          "DisplayName": "Boneknocker Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Boneknocker\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial13": {
+          "DisplayName": "Hollow Skull Shard",
+          "Tooltip": "Material from Knellbone Moor creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner13": {
+          "DisplayName": "Hollowskull Bat Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Hollowskull Bat\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial14": {
+          "DisplayName": "Funeral Bell Shard",
+          "Tooltip": "Material from Knellbone Moor creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner14": {
+          "DisplayName": "Bellbearing Remains Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Bellbearing Remains\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial15": {
+          "DisplayName": "Resonant Bone Pipe",
+          "Tooltip": "Material from Knellbone Moor rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner15": {
+          "DisplayName": "Flutebone Beast Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Flutebone Beast\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial16": {
+          "DisplayName": "Cold-Ash Shell",
+          "Tooltip": "Material from Backburn Wastes creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner16": {
+          "DisplayName": "Ashshell Crawler Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Ashshell Crawler\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial17": {
+          "DisplayName": "Backburn Powder",
+          "Tooltip": "Material from Backburn Wastes creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner17": {
+          "DisplayName": "Backfire Moth Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Backfire Moth\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial18": {
+          "DisplayName": "Charcoal Fiber",
+          "Tooltip": "Material from Backburn Wastes creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner18": {
+          "DisplayName": "Charbranch Walker Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Charbranch Walker\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial19": {
+          "DisplayName": "Heat-Sink Spine",
+          "Tooltip": "Material from Backburn Wastes rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner19": {
+          "DisplayName": "Meltspine Rhino Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Meltspine Rhino\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial20": {
+          "DisplayName": "Self-Grown Gear",
+          "Tooltip": "Material from Wildmachine Soil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner20": {
+          "DisplayName": "Rivetfoot Rat Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Rivetfoot Rat\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial21": {
+          "DisplayName": "Magnetic Leaf",
+          "Tooltip": "Material from Wildmachine Soil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner21": {
+          "DisplayName": "Magnetleaf Bee Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Magnetleaf Bee\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial22": {
+          "DisplayName": "Living Wiring",
+          "Tooltip": "Material from Wildmachine Soil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner22": {
+          "DisplayName": "Wastewire Puppet Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Wastewire Puppet\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial23": {
+          "DisplayName": "Adaptive Bearing",
+          "Tooltip": "Material from Wildmachine Soil rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner23": {
+          "DisplayName": "Scraptrack Beast Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Scraptrack Beast\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial24": {
+          "DisplayName": "Hungry Dew",
+          "Tooltip": "Material from Hungerbloom Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner24": {
+          "DisplayName": "Dewswallower Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Dewswallower\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial25": {
+          "DisplayName": "Parasitic Petal",
+          "Tooltip": "Material from Hungerbloom Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner25": {
+          "DisplayName": "Petalhost Mantis Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Petalhost Mantis\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial26": {
+          "DisplayName": "Fleshy Seedcore",
+          "Tooltip": "Material from Hungerbloom Garden creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner26": {
+          "DisplayName": "Seedbelly Beast Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Seedbelly Beast\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial27": {
+          "DisplayName": "Living Root Bundle",
+          "Tooltip": "Material from Hungerbloom Garden rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner27": {
+          "DisplayName": "Rootbound Spider Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Rootbound Spider\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial28": {
+          "DisplayName": "Sunmarked Plate",
+          "Tooltip": "Material from Sunken-Sun Ruins creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner28": {
+          "DisplayName": "Sunbearing Beetle Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Sunbearing Beetle\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial29": {
+          "DisplayName": "Ancient Sun Sand",
+          "Tooltip": "Material from Sunken-Sun Ruins creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner29": {
+          "DisplayName": "Tripod Patrol Stele Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Tripod Patrol Stele\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial30": {
+          "DisplayName": "Inscribed Scale",
+          "Tooltip": "Material from Sunken-Sun Ruins creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner30": {
+          "DisplayName": "Sandcarved Flying Snake Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Sandcarved Flying Snake\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial31": {
+          "DisplayName": "Tombguard Stone Marrow",
+          "Tooltip": "Material from Sunken-Sun Ruins rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner31": {
+          "DisplayName": "Coffingate Warden Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Coffingate Warden\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial32": {
+          "DisplayName": "Prismfin Scale",
+          "Tooltip": "Material from Rainbow-Tide Realm creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner32": {
+          "DisplayName": "Prismfin Fish Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Prismfin Fish\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial33": {
+          "DisplayName": "Rainbow Gauze",
+          "Tooltip": "Material from Rainbow-Tide Realm creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner33": {
+          "DisplayName": "Rainbow Jellyfish Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Rainbow Jellyfish\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial34": {
+          "DisplayName": "Tidelight Powder",
+          "Tooltip": "Material from Rainbow-Tide Realm creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner34": {
+          "DisplayName": "Tidechasing Butterfly Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Tidechasing Butterfly\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial35": {
+          "DisplayName": "Deep-Rainbow Pearl",
+          "Tooltip": "Material from Rainbow-Tide Realm rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner35": {
+          "DisplayName": "Pearlcrown Seadrake Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Pearlcrown Seadrake\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial36": {
+          "DisplayName": "Voidphase Plate",
+          "Tooltip": "Material from Formless Starsoil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner36": {
+          "DisplayName": "Starshell Crawler Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Starshell Crawler\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial37": {
+          "DisplayName": "Phase Fleece",
+          "Tooltip": "Material from Formless Starsoil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner37": {
+          "DisplayName": "Faceless Wisp Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Faceless Wisp\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial38": {
+          "DisplayName": "Orbit Shard",
+          "Tooltip": "Material from Formless Starsoil creatures\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner38": {
+          "DisplayName": "Orbit Hunter Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Orbit Hunter\nEarned after 50 kills; hangs beneath solid blocks"
+        },
+        "EcologyMaterial39": {
+          "DisplayName": "Phase-Stable Membrane",
+          "Tooltip": "Material from Formless Starsoil rare elites\nUsed in this biome's equipment and infrastructure"
+        },
+        "EcologyBanner39": {
+          "DisplayName": "Rift Manta Banner",
+          "Tooltip": "Nearby players deal increased damage to and take reduced damage from Rift Manta\nEarned after 25 kills; hangs beneath solid blocks"
+        },
+        "EcologyCore0": {
+          "DisplayName": "Ranger's Mirrorcore",
+          "Tooltip": "Core material from Mistcrown Ranger\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag0": {
+          "DisplayName": "Mistcrown Ranger Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar0": {
+          "DisplayName": "Mistmirror Bar",
+          "Tooltip": "Smelt 3 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent0": {
+          "DisplayName": "Mirror-Prism Lamina",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool0": {
+          "DisplayName": "Mistcleaver Pickaxe",
+          "Tooltip": "50% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed0": {
+          "DisplayName": "Mistmirror Woods Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic0": {
+          "DisplayName": "Mistcrown Ranger Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy0": {
+          "DisplayName": "Mistcrown Ranger Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask0": {
+          "DisplayName": "Mistcrown Ranger Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem0": {
+          "DisplayName": "Mist-Shard Fawn Keepsake",
+          "Tooltip": "Summons Mist-Shard Fawn\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish0": {
+          "DisplayName": "Mirrorscale Dace",
+          "Tooltip": "Caught in water within active Mistmirror Woods\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate0": {
+          "DisplayName": "Mistmirror Woods Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp0": {
+          "DisplayName": "Mistmirror Woods Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore1": {
+          "DisplayName": "Hundred-Candle Marrow",
+          "Tooltip": "Core material from Thousand-Candle Undertaker\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag1": {
+          "DisplayName": "Thousand-Candle Undertaker Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar1": {
+          "DisplayName": "Waxmarrow Bar",
+          "Tooltip": "Smelt 3 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent1": {
+          "DisplayName": "Sealed Wax Reservoir",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool1": {
+          "DisplayName": "Waxseal Chiselpick",
+          "Tooltip": "60% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed1": {
+          "DisplayName": "Waxsleep Garden Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic1": {
+          "DisplayName": "Thousand-Candle Undertaker Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy1": {
+          "DisplayName": "Thousand-Candle Undertaker Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask1": {
+          "DisplayName": "Thousand-Candle Undertaker Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem1": {
+          "DisplayName": "Waxsleep Mothling Keepsake",
+          "Tooltip": "Summons Waxsleep Mothling\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish1": {
+          "DisplayName": "Candlefat Loach",
+          "Tooltip": "Caught in water within active Waxsleep Garden\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate1": {
+          "DisplayName": "Waxsleep Garden Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp1": {
+          "DisplayName": "Waxsleep Garden Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore2": {
+          "DisplayName": "Royal Brood Marrow",
+          "Tooltip": "Core material from Amber Broodkeeper\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag2": {
+          "DisplayName": "Amber Broodkeeper Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar2": {
+          "DisplayName": "Honeyamber Bar",
+          "Tooltip": "Smelt 3 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent2": {
+          "DisplayName": "Shared-Hive Node",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool2": {
+          "DisplayName": "Honeythorn Pickaxe",
+          "Tooltip": "65% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed2": {
+          "DisplayName": "Amberhive Grove Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic2": {
+          "DisplayName": "Amber Broodkeeper Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy2": {
+          "DisplayName": "Amber Broodkeeper Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask2": {
+          "DisplayName": "Amber Broodkeeper Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem2": {
+          "DisplayName": "Amber Broodling Keepsake",
+          "Tooltip": "Summons Amber Broodling\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish2": {
+          "DisplayName": "Honeybelly Carp",
+          "Tooltip": "Caught in water within active Amberhive Grove\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate2": {
+          "DisplayName": "Amberhive Grove Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp2": {
+          "DisplayName": "Amberhive Grove Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore3": {
+          "DisplayName": "Funeral Bellcore",
+          "Tooltip": "Core material from Hollowbell Mourner\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag3": {
+          "DisplayName": "Hollowbell Mourner Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar3": {
+          "DisplayName": "Knellbone Bar",
+          "Tooltip": "Smelt 3 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent3": {
+          "DisplayName": "Echo Harmonic Tube",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool3": {
+          "DisplayName": "Bellknocker Pickaxe",
+          "Tooltip": "70% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed3": {
+          "DisplayName": "Knellbone Moor Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic3": {
+          "DisplayName": "Hollowbell Mourner Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy3": {
+          "DisplayName": "Hollowbell Mourner Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask3": {
+          "DisplayName": "Hollowbell Mourner Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem3": {
+          "DisplayName": "Little Hanging Bell Keepsake",
+          "Tooltip": "Summons Little Hanging Bell\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish3": {
+          "DisplayName": "Bellgill Bass",
+          "Tooltip": "Caught in water within active Knellbone Moor\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate3": {
+          "DisplayName": "Knellbone Moor Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp3": {
+          "DisplayName": "Knellbone Moor Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore4": {
+          "DisplayName": "Backburn Heartcore",
+          "Tooltip": "Core material from Backburn Heart\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag4": {
+          "DisplayName": "Backburn Heart Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar4": {
+          "DisplayName": "Backburn Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent4": {
+          "DisplayName": "Reverse-Heat Fin",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool4": {
+          "DisplayName": "Backburn Excavator",
+          "Tooltip": "110% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed4": {
+          "DisplayName": "Backburn Wastes Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic4": {
+          "DisplayName": "Backburn Heart Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy4": {
+          "DisplayName": "Backburn Heart Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask4": {
+          "DisplayName": "Backburn Heart Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem4": {
+          "DisplayName": "Warm-Ash Cub Keepsake",
+          "Tooltip": "Summons Warm-Ash Cub\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish4": {
+          "DisplayName": "Charstripe Trout",
+          "Tooltip": "Caught in water within active Backburn Wastes\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate4": {
+          "DisplayName": "Backburn Wastes Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp4": {
+          "DisplayName": "Backburn Wastes Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore5": {
+          "DisplayName": "Autonomous Mothercore",
+          "Tooltip": "Core material from Wasteland Mainframe\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag5": {
+          "DisplayName": "Wasteland Mainframe Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar5": {
+          "DisplayName": "Autonomous Magnetic Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent5": {
+          "DisplayName": "Autonomous Drive Unit",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool5": {
+          "DisplayName": "Mainframe Drill",
+          "Tooltip": "190% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed5": {
+          "DisplayName": "Wildmachine Soil Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic5": {
+          "DisplayName": "Wasteland Mainframe Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy5": {
+          "DisplayName": "Wasteland Mainframe Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask5": {
+          "DisplayName": "Wasteland Mainframe Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem5": {
+          "DisplayName": "Wayward Gearling Keepsake",
+          "Tooltip": "Summons Wayward Gearling\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish5": {
+          "DisplayName": "Magnetwhisker Catfish",
+          "Tooltip": "Caught in water within active Wildmachine Soil\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate5": {
+          "DisplayName": "Wildmachine Soil Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp5": {
+          "DisplayName": "Wildmachine Soil Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore6": {
+          "DisplayName": "Manymaw Seedheart",
+          "Tooltip": "Core material from Manymaw Blossom\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag6": {
+          "DisplayName": "Manymaw Blossom Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar6": {
+          "DisplayName": "Hungerbloom Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent6": {
+          "DisplayName": "Hungry-Root Culture",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool6": {
+          "DisplayName": "Rootcleaver Pickaxe",
+          "Tooltip": "210% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed6": {
+          "DisplayName": "Hungerbloom Garden Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic6": {
+          "DisplayName": "Manymaw Blossom Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy6": {
+          "DisplayName": "Manymaw Blossom Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask6": {
+          "DisplayName": "Manymaw Blossom Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem6": {
+          "DisplayName": "Hungry Flowerbud Keepsake",
+          "Tooltip": "Summons Hungry Flowerbud\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish6": {
+          "DisplayName": "Dewsac Carp",
+          "Tooltip": "Caught in water within active Hungerbloom Garden\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate6": {
+          "DisplayName": "Hungerbloom Garden Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp6": {
+          "DisplayName": "Hungerbloom Garden Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore7": {
+          "DisplayName": "Sunken-Sun Core",
+          "Tooltip": "Core material from Sunken-Sun Tombbeast\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag7": {
+          "DisplayName": "Sunken-Sun Tombbeast Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar7": {
+          "DisplayName": "Sunken-Sun Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent7": {
+          "DisplayName": "Ancient Sun Dial",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool7": {
+          "DisplayName": "Tombkeeper Pickaxe",
+          "Tooltip": "220% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed7": {
+          "DisplayName": "Sunken-Sun Ruins Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic7": {
+          "DisplayName": "Sunken-Sun Tombbeast Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy7": {
+          "DisplayName": "Sunken-Sun Tombbeast Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask7": {
+          "DisplayName": "Sunken-Sun Tombbeast Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem7": {
+          "DisplayName": "Pocket Tombbeast Keepsake",
+          "Tooltip": "Summons Pocket Tombbeast\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish7": {
+          "DisplayName": "Sunetched Bream",
+          "Tooltip": "Caught in water within active Sunken-Sun Ruins\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate7": {
+          "DisplayName": "Sunken-Sun Ruins Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp7": {
+          "DisplayName": "Sunken-Sun Ruins Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore8": {
+          "DisplayName": "Rainbow-Tide Heart",
+          "Tooltip": "Core material from Rainbow-Tide Weaver\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag8": {
+          "DisplayName": "Rainbow-Tide Weaver Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar8": {
+          "DisplayName": "Rainbow-Tide Crystal Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent8": {
+          "DisplayName": "Biphasic Tide Prism",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool8": {
+          "DisplayName": "Tide-Refractor Drill",
+          "Tooltip": "225% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed8": {
+          "DisplayName": "Rainbow-Tide Realm Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic8": {
+          "DisplayName": "Rainbow-Tide Weaver Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy8": {
+          "DisplayName": "Rainbow-Tide Weaver Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask8": {
+          "DisplayName": "Rainbow-Tide Weaver Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem8": {
+          "DisplayName": "Rainbow-Tide Ray Keepsake",
+          "Tooltip": "Summons Rainbow-Tide Ray\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish8": {
+          "DisplayName": "Rainbow Lanternfish",
+          "Tooltip": "Caught in water within active Rainbow-Tide Realm\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate8": {
+          "DisplayName": "Rainbow-Tide Realm Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp8": {
+          "DisplayName": "Rainbow-Tide Realm Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyCore9": {
+          "DisplayName": "Star-Ranger Phasecore",
+          "Tooltip": "Core material from Formless StarRanger\nCrafts the initial pick, ecology equipment and mineral seeds; the initial pick needs no native ore"
+        },
+        "EcologyBag9": {
+          "DisplayName": "Formless StarRanger Treasure Bag",
+          "Tooltip": "Right click to open\nContains 30–40 cores, one of four class weapons and a guaranteed expert accessory\nAlso contains coins and healing potions; 1/7 chance for a mask"
+        },
+        "EcologyBar9": {
+          "DisplayName": "Formless Crystal Bar",
+          "Tooltip": "Smelt 4 ore into one bar\nUsed in ecology equipment, components and infrastructure"
+        },
+        "EcologyComponent9": {
+          "DisplayName": "Phase-Stable Orbit",
+          "Tooltip": "Crafted from 2 matching bars and 3 ordinary ecology materials\nUsed in advanced branch equipment and infrastructure"
+        },
+        "EcologyTool9": {
+          "DisplayName": "Star-Ranger Pickaxe",
+          "Tooltip": "230% pickaxe power; crafted from the ecology boss core and vanilla metal\nNo native ore required first\nEcology tools cannot mine temple bricks before Golem"
+        },
+        "EcologyMineralSeed9": {
+          "DisplayName": "Formless Starsoil Mineral Seed",
+          "Tooltip": "Hold this seed and right click a matching mineral bed; leave 3×3 clear space above\nOne seed produces 9 mineable ore blocks; requires the matching ecology boss defeated in this world\nNormal pick requirements apply; crafted from 1 core and 30 stone; cannot be planted directly"
+        },
+        "EcologyRelic9": {
+          "DisplayName": "Formless StarRanger Relic",
+          "Tooltip": "Master Mode keepsake; place on the ground"
+        },
+        "EcologyTrophy9": {
+          "DisplayName": "Formless StarRanger Trophy",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyMask9": {
+          "DisplayName": "Formless StarRanger Mask",
+          "Tooltip": "Vanity only; provides no combat stats"
+        },
+        "EcologyPetItem9": {
+          "DisplayName": "Hollow Starling Keepsake",
+          "Tooltip": "Summons Hollow Starling\nVanity companion; deals no damage and uses no minion slots"
+        },
+        "EcologyFish9": {
+          "DisplayName": "Voidphase Silverfish",
+          "Tooltip": "Caught in water within active Formless Starsoil\nCook into 2 Cooked Fish, or exchange two fish for 2 ordinary ecology materials"
+        },
+        "EcologyCrate9": {
+          "DisplayName": "Formless Starsoil Ecology Crate",
+          "Tooltip": "Right click for ordinary ecology materials, with chances for fish, bait and potions\nContains no ore, bars, boss cores, expert accessories or rare-elite materials"
+        },
+        "EcologyLamp9": {
+          "DisplayName": "Formless Starsoil Lamp",
+          "Tooltip": "Biome-themed lighting; counts as a housing light\nProvides illumination only; never converts or spreads terrain"
+        },
+        "EcologyStation0": {
+          "DisplayName": "Biome Culture Dish",
+          "Tooltip": "Basic ecology crafting: powders, the first four bars and early ecology equipment\nCraftable after the Eye of Cthulhu"
+        },
+        "EcologyStation1": {
+          "DisplayName": "Honeyamber Nursery",
+          "Tooltip": "Inherits the Culture Dish; crafts advanced Honeyamber equipment\nOptional Amberhive branch; never blocks other biomes"
+        },
+        "EcologyStation2": {
+          "DisplayName": "Ecology Tuning Bench",
+          "Tooltip": "Inherits the Culture Dish; crafts solutions, the watering can and basic Hardmode ecology gear\nCraftable after the Wall of Flesh; no Amberhive boss required"
+        },
+        "EcologyStation3": {
+          "DisplayName": "Mainframe Ecology Laboratory",
+          "Tooltip": "Inherits the Tuning Bench and Culture Dish; crafts advanced Mainframe equipment\nOptional Wildmachine branch"
+        },
+        "EcologyStation4": {
+          "DisplayName": "Ancient-Sun Ecology Forge",
+          "Tooltip": "Inherits the Tuning Bench and Culture Dish; crafts advanced Sunken-Sun equipment\nDoes not gate the Rainbow-Tide branch"
+        },
+        "EcologyStation5": {
+          "DisplayName": "Tide Assembly Module",
+          "Tooltip": "Placeable standalone; inherits the Tuning Bench and Culture Dish\nCrafts advanced biphasic equipment; Golem is not required"
+        },
+        "EcologyStation6": {
+          "DisplayName": "Astral Biome Loom",
+          "Tooltip": "Inherits the Tuning Bench and Culture Dish; crafts basic Formless tools and bars\nCraftable after Moon Lord; no other ecology bosses required"
+        },
+        "EcologyStation7": {
+          "DisplayName": "Formless Realm Nexus",
+          "Tooltip": "Inherits all seven other ecology stations\nIndividual recipes still require their own ecology boss victories"
+        }
+      },
+      "Buffs": {
+        "EcologyPetBuff0": {
+          "DisplayName": "Mist-Shard Fawn",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff1": {
+          "DisplayName": "Waxsleep Mothling",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff2": {
+          "DisplayName": "Amber Broodling",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff3": {
+          "DisplayName": "Little Hanging Bell",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff4": {
+          "DisplayName": "Warm-Ash Cub",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff5": {
+          "DisplayName": "Wayward Gearling",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff6": {
+          "DisplayName": "Hungry Flowerbud",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff7": {
+          "DisplayName": "Pocket Tombbeast",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff8": {
+          "DisplayName": "Rainbow-Tide Ray",
+          "Description": "A harmless ecology companion follows you"
+        },
+        "EcologyPetBuff9": {
+          "DisplayName": "Hollow Starling",
+          "Description": "A harmless ecology companion follows you"
+        }
+      },
+      "Projectiles": {
+        "EcologyPetProjectile0": {
+          "DisplayName": "Mist-Shard Fawn"
+        },
+        "EcologyPetProjectile1": {
+          "DisplayName": "Waxsleep Mothling"
+        },
+        "EcologyPetProjectile2": {
+          "DisplayName": "Amber Broodling"
+        },
+        "EcologyPetProjectile3": {
+          "DisplayName": "Little Hanging Bell"
+        },
+        "EcologyPetProjectile4": {
+          "DisplayName": "Warm-Ash Cub"
+        },
+        "EcologyPetProjectile5": {
+          "DisplayName": "Wayward Gearling"
+        },
+        "EcologyPetProjectile6": {
+          "DisplayName": "Hungry Flowerbud"
+        },
+        "EcologyPetProjectile7": {
+          "DisplayName": "Pocket Tombbeast"
+        },
+        "EcologyPetProjectile8": {
+          "DisplayName": "Rainbow-Tide Ray"
+        },
+        "EcologyPetProjectile9": {
+          "DisplayName": "Hollow Starling"
+        },
+        "EcologyDrillProjectile": {
+          "DisplayName": "Ecology Drill"
+        }
+      },
+      "Tiles": {
+        "EcologyBannerTile0": {
+          "MapEntry": "Mirrorback Snail Banner"
+        },
+        "EcologyBannerTile1": {
+          "MapEntry": "Mistwing Moth Banner"
+        },
+        "EcologyBannerTile2": {
+          "MapEntry": "Reflection Badger Banner"
+        },
+        "EcologyBannerTile3": {
+          "MapEntry": "Cracked-Mirror Deer Banner"
+        },
+        "EcologyBannerTile4": {
+          "MapEntry": "Dripping Waxworm Banner"
+        },
+        "EcologyBannerTile5": {
+          "MapEntry": "Cocoon Moth Banner"
+        },
+        "EcologyBannerTile6": {
+          "MapEntry": "Candleface Servant Banner"
+        },
+        "EcologyBannerTile7": {
+          "MapEntry": "Great Wax Chrysalis Banner"
+        },
+        "EcologyBannerTile8": {
+          "MapEntry": "Sugarplate Ant Banner"
+        },
+        "EcologyBannerTile9": {
+          "MapEntry": "Honeyneedle Bee Banner"
+        },
+        "EcologyBannerTile10": {
+          "MapEntry": "Hivebranch Mantis Banner"
+        },
+        "EcologyBannerTile11": {
+          "MapEntry": "Amber Sacpupa Banner"
+        },
+        "EcologyBannerTile12": {
+          "MapEntry": "Boneknocker Banner"
+        },
+        "EcologyBannerTile13": {
+          "MapEntry": "Hollowskull Bat Banner"
+        },
+        "EcologyBannerTile14": {
+          "MapEntry": "Bellbearing Remains Banner"
+        },
+        "EcologyBannerTile15": {
+          "MapEntry": "Flutebone Beast Banner"
+        },
+        "EcologyBannerTile16": {
+          "MapEntry": "Ashshell Crawler Banner"
+        },
+        "EcologyBannerTile17": {
+          "MapEntry": "Backfire Moth Banner"
+        },
+        "EcologyBannerTile18": {
+          "MapEntry": "Charbranch Walker Banner"
+        },
+        "EcologyBannerTile19": {
+          "MapEntry": "Meltspine Rhino Banner"
+        },
+        "EcologyBannerTile20": {
+          "MapEntry": "Rivetfoot Rat Banner"
+        },
+        "EcologyBannerTile21": {
+          "MapEntry": "Magnetleaf Bee Banner"
+        },
+        "EcologyBannerTile22": {
+          "MapEntry": "Wastewire Puppet Banner"
+        },
+        "EcologyBannerTile23": {
+          "MapEntry": "Scraptrack Beast Banner"
+        },
+        "EcologyBannerTile24": {
+          "MapEntry": "Dewswallower Banner"
+        },
+        "EcologyBannerTile25": {
+          "MapEntry": "Petalhost Mantis Banner"
+        },
+        "EcologyBannerTile26": {
+          "MapEntry": "Seedbelly Beast Banner"
+        },
+        "EcologyBannerTile27": {
+          "MapEntry": "Rootbound Spider Banner"
+        },
+        "EcologyBannerTile28": {
+          "MapEntry": "Sunbearing Beetle Banner"
+        },
+        "EcologyBannerTile29": {
+          "MapEntry": "Tripod Patrol Stele Banner"
+        },
+        "EcologyBannerTile30": {
+          "MapEntry": "Sandcarved Flying Snake Banner"
+        },
+        "EcologyBannerTile31": {
+          "MapEntry": "Coffingate Warden Banner"
+        },
+        "EcologyBannerTile32": {
+          "MapEntry": "Prismfin Fish Banner"
+        },
+        "EcologyBannerTile33": {
+          "MapEntry": "Rainbow Jellyfish Banner"
+        },
+        "EcologyBannerTile34": {
+          "MapEntry": "Tidechasing Butterfly Banner"
+        },
+        "EcologyBannerTile35": {
+          "MapEntry": "Pearlcrown Seadrake Banner"
+        },
+        "EcologyBannerTile36": {
+          "MapEntry": "Starshell Crawler Banner"
+        },
+        "EcologyBannerTile37": {
+          "MapEntry": "Faceless Wisp Banner"
+        },
+        "EcologyBannerTile38": {
+          "MapEntry": "Orbit Hunter Banner"
+        },
+        "EcologyBannerTile39": {
+          "MapEntry": "Rift Manta Banner"
+        },
+        "EcologyRelicTile0": {
+          "MapEntry": "Mistcrown Ranger Relic"
+        },
+        "EcologyTrophyTile0": {
+          "MapEntry": "Mistcrown Ranger Trophy"
+        },
+        "EcologyLampTile0": {
+          "MapEntry": "Mistmirror Woods Lamp"
+        },
+        "EcologyRelicTile1": {
+          "MapEntry": "Thousand-Candle Undertaker Relic"
+        },
+        "EcologyTrophyTile1": {
+          "MapEntry": "Thousand-Candle Undertaker Trophy"
+        },
+        "EcologyLampTile1": {
+          "MapEntry": "Waxsleep Garden Lamp"
+        },
+        "EcologyRelicTile2": {
+          "MapEntry": "Amber Broodkeeper Relic"
+        },
+        "EcologyTrophyTile2": {
+          "MapEntry": "Amber Broodkeeper Trophy"
+        },
+        "EcologyLampTile2": {
+          "MapEntry": "Amberhive Grove Lamp"
+        },
+        "EcologyRelicTile3": {
+          "MapEntry": "Hollowbell Mourner Relic"
+        },
+        "EcologyTrophyTile3": {
+          "MapEntry": "Hollowbell Mourner Trophy"
+        },
+        "EcologyLampTile3": {
+          "MapEntry": "Knellbone Moor Lamp"
+        },
+        "EcologyRelicTile4": {
+          "MapEntry": "Backburn Heart Relic"
+        },
+        "EcologyTrophyTile4": {
+          "MapEntry": "Backburn Heart Trophy"
+        },
+        "EcologyLampTile4": {
+          "MapEntry": "Backburn Wastes Lamp"
+        },
+        "EcologyRelicTile5": {
+          "MapEntry": "Wasteland Mainframe Relic"
+        },
+        "EcologyTrophyTile5": {
+          "MapEntry": "Wasteland Mainframe Trophy"
+        },
+        "EcologyLampTile5": {
+          "MapEntry": "Wildmachine Soil Lamp"
+        },
+        "EcologyRelicTile6": {
+          "MapEntry": "Manymaw Blossom Relic"
+        },
+        "EcologyTrophyTile6": {
+          "MapEntry": "Manymaw Blossom Trophy"
+        },
+        "EcologyLampTile6": {
+          "MapEntry": "Hungerbloom Garden Lamp"
+        },
+        "EcologyRelicTile7": {
+          "MapEntry": "Sunken-Sun Tombbeast Relic"
+        },
+        "EcologyTrophyTile7": {
+          "MapEntry": "Sunken-Sun Tombbeast Trophy"
+        },
+        "EcologyLampTile7": {
+          "MapEntry": "Sunken-Sun Ruins Lamp"
+        },
+        "EcologyRelicTile8": {
+          "MapEntry": "Rainbow-Tide Weaver Relic"
+        },
+        "EcologyTrophyTile8": {
+          "MapEntry": "Rainbow-Tide Weaver Trophy"
+        },
+        "EcologyLampTile8": {
+          "MapEntry": "Rainbow-Tide Realm Lamp"
+        },
+        "EcologyRelicTile9": {
+          "MapEntry": "Formless StarRanger Relic"
+        },
+        "EcologyTrophyTile9": {
+          "MapEntry": "Formless StarRanger Trophy"
+        },
+        "EcologyLampTile9": {
+          "MapEntry": "Formless Starsoil Lamp"
+        },
+        "EcologyStationTile0": {
+          "MapEntry": "Biome Culture Dish"
+        },
+        "EcologyStationTile1": {
+          "MapEntry": "Honeyamber Nursery"
+        },
+        "EcologyStationTile2": {
+          "MapEntry": "Ecology Tuning Bench"
+        },
+        "EcologyStationTile3": {
+          "MapEntry": "Mainframe Ecology Laboratory"
+        },
+        "EcologyStationTile4": {
+          "MapEntry": "Ancient-Sun Ecology Forge"
+        },
+        "EcologyStationTile5": {
+          "MapEntry": "Tide Assembly Module"
+        },
+        "EcologyStationTile6": {
+          "MapEntry": "Astral Biome Loom"
+        },
+        "EcologyStationTile7": {
+          "MapEntry": "Formless Realm Nexus"
+        }
+      }
+    }
+  }
+}
