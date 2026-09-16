@@ -1,7 +1,7 @@
 displayName = 星落王座
 author = Codex
-version = 0.14.1
-description = 开场绘本18位Boss的生命与攻击整体下调；保留金属与宝石的四场微型试炼及此前全部内容、独立矿物和神明挑战。
+version = 0.14.2
+description = 为六座神明工作站补齐地图标注名称；保留开场绘本18位Boss的数值下调、金属与宝石的四场微型试炼及此前全部内容。
 # Keep the distributable binary-only. A local source manager must not extract
 # an embedded stale snapshot and rebuild over the verified package at startup.
 includeSource = false

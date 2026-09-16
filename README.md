@@ -1,4 +1,4 @@
-# 星落王座 · 金属与宝石的微型试炼 v0.14.1
+# 星落王座 · 金属与宝石的微型试炼 v0.14.2
 
 适用于 Terraria 1.4.4 / tModLoader。当前正式描述与 Boss 顺序以本文件和 `description.txt` 为准：保留此前内容，新增三位幼神誓约、三位终极神明、三种终局矿物和三座工作站，共109个新增 Boss/迷你Boss挑战。幼神与终极神明属于独立支线形态，不插入原版主线的时期排序；其余主线顺序如下。以下旧版章节是版本历史。
 
@@ -37,6 +37,11 @@ Formless Starpatroller → Slime Emperor → Terminal Eye → Infinite Devourer 
 Starport Gel Sovereign → Farwatcher, the Surveying Eye → Starwreck Belt Devourer → Consensus, the Many-Mind Nexus → Hive Carrier of the Golden Court → The Orbital Anchor Marshal → Warp Bulwark, Ark Blockade → Scintilla, Queen of Crystal Orbits → Binary Hunters, Redshift and Blueshift → Four-Armed Orbital Tribunal → Sunpiercer, the Warship Train → Worldseed, the Interstellar Flora → Precursor Guardian of the Megastructure → Leviathan, Aether-Cruising Beast → Solar Sail Empress → Star Navigator, Keeper of Coordinates → Celestial Ark, Sovereign of the Star Sea
 
 Aelion, First Star → Ophir, All-Seeing Star → Uroth, World Devourer → Velmora, Crimson Dream → Melith, Queen of Plenty → Neroth, Ferryman of Souls → Acheron, Gate of Two Worlds → Ilythia, Crystal Law → Solis and Nox, Eclipse Dyad → Valther, Four-Armed Judgment → Khaldran, Worldforging Dragon → Ephyra, Mother of All Life → Oranth, Bearer of Heaven → Thalor, Storm of the Seas → Iriselle, Sevenfold Star → Agnostos, Nameless Celebrant → Asterion, Source of Divinity → (Ultimate side route: Miroen, Genesis of All; Velsa, the Final Conflagration; NoDay, Beyond the Last Fate)
+
+## v0.14.2 神明工作站地图标注
+
+- 为六座神明工作站补齐地图标注名称（原初塑神台、丰硕圣铸台、晶律天工台、铸世神炉、风海登神坛、无主万神座），小地图与全屏地图不再只显示方块。
+- 版本号提升至 v0.14.2；Boss 数值、掉落、配方与生成规则相较 v0.14.1 无改动。
 
 ## v0.14.1 开场绘本数值下调
 
