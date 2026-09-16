@@ -768,6 +768,26 @@
         "StationCondition3": "This world has defeated Khaldran, Worldforge Dragon",
         "StationCondition4": "This world has defeated Thalor, Stormsea God",
         "StationCondition5": "This world has defeated Asterion, Source of Gods"
+      },
+      "Tiles": {
+        "PantheonStationTile0": {
+          "MapEntry": "Primordial Godshaping Table"
+        },
+        "PantheonStationTile1": {
+          "MapEntry": "Harvest Sacred Forge"
+        },
+        "PantheonStationTile2": {
+          "MapEntry": "Crystal Law Workshop"
+        },
+        "PantheonStationTile3": {
+          "MapEntry": "Worldforge Furnace"
+        },
+        "PantheonStationTile4": {
+          "MapEntry": "Stormsea Apotheosis Altar"
+        },
+        "PantheonStationTile5": {
+          "MapEntry": "Unclaimed Pantheon Throne"
+        }
       }
     }
   }

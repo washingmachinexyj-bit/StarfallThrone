@@ -768,6 +768,26 @@
         "StationCondition3": "当前世界已击败铸世龙神·卡尔德兰",
         "StationCondition4": "当前世界已击败风海暴神·萨洛尔",
         "StationCondition5": "当前世界已击败众神之源·阿斯特里昂"
+      },
+      "Tiles": {
+        "PantheonStationTile0": {
+          "MapEntry": "原初塑神台"
+        },
+        "PantheonStationTile1": {
+          "MapEntry": "丰穰圣铸台"
+        },
+        "PantheonStationTile2": {
+          "MapEntry": "晶律天工台"
+        },
+        "PantheonStationTile3": {
+          "MapEntry": "铸世神炉"
+        },
+        "PantheonStationTile4": {
+          "MapEntry": "风海登神坛"
+        },
+        "PantheonStationTile5": {
+          "MapEntry": "无主万神座"
+        }
       }
     }
   }
