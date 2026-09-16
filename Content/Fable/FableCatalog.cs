@@ -10,10 +10,10 @@ public static class FableCatalog
 {
     public const int Count = 18;
     public const string Root = "StarfallThrone/Content/Assets/Fable/";
-    public static readonly int[] Life = {45,65,90,120,155,195,240,290,345,405,470,535,600,665,730,800,880,960};
+    public static readonly int[] Life = {20,25,32,40,50,62,75,90,106,124,143,163,184,206,229,253,276,300};
     public static readonly int[] Defense = {0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2};
-    public static readonly int[] Contact = {2,3,3,4,4,4,5,5,5,6,6,6,7,7,7,8,8,9};
-    public static readonly int[] Shot = {3,4,4,5,5,6,6,6,7,7,8,8,9,9,10,10,11,11};
+    public static readonly int[] Contact = {1,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,5};
+    public static readonly int[] Shot = {2,2,2,3,3,3,3,3,4,4,4,4,5,5,5,5,6,6};
     public static readonly Color[] Colors = {new(129,201,233),new(222,162,165),new(172,141,205),new(226,166,192),new(235,201,110),new(214,209,189),new(221,152,153),new(197,166,235),new(182,206,169),new(177,186,189),new(171,181,199),new(206,162,172),new(194,159,112),new(138,205,202),new(218,190,226),new(153,178,219),new(166,200,175),new(232,223,195)};
     public static bool Valid(int i) => i >= 0 && i < Count;
     public static int BossType(int i) => ModContent.Find<ModNPC>("StarfallThrone", "FableBoss" + i).Type;

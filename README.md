@@ -1,4 +1,4 @@
-# 星落王座 · 金属与宝石的微型试炼 v0.14.0
+# 星落王座 · 金属与宝石的微型试炼 v0.14.1
 
 适用于 Terraria 1.4.4 / tModLoader。当前正式描述与 Boss 顺序以本文件和 `description.txt` 为准：保留此前内容，新增三位幼神誓约、三位终极神明、三种终局矿物和三座工作站，共109个新增 Boss/迷你Boss挑战。幼神与终极神明属于独立支线形态，不插入原版主线的时期排序；其余主线顺序如下。以下旧版章节是版本历史。
 
@@ -37,6 +37,14 @@ Formless Starpatroller → Slime Emperor → Terminal Eye → Infinite Devourer 
 Starport Gel Sovereign → Farwatcher, the Surveying Eye → Starwreck Belt Devourer → Consensus, the Many-Mind Nexus → Hive Carrier of the Golden Court → The Orbital Anchor Marshal → Warp Bulwark, Ark Blockade → Scintilla, Queen of Crystal Orbits → Binary Hunters, Redshift and Blueshift → Four-Armed Orbital Tribunal → Sunpiercer, the Warship Train → Worldseed, the Interstellar Flora → Precursor Guardian of the Megastructure → Leviathan, Aether-Cruising Beast → Solar Sail Empress → Star Navigator, Keeper of Coordinates → Celestial Ark, Sovereign of the Star Sea
 
 Aelion, First Star → Ophir, All-Seeing Star → Uroth, World Devourer → Velmora, Crimson Dream → Melith, Queen of Plenty → Neroth, Ferryman of Souls → Acheron, Gate of Two Worlds → Ilythia, Crystal Law → Solis and Nox, Eclipse Dyad → Valther, Four-Armed Judgment → Khaldran, Worldforging Dragon → Ephyra, Mother of All Life → Oranth, Bearer of Heaven → Thalor, Storm of the Seas → Iriselle, Sevenfold Star → Agnostos, Nameless Celebrant → Asterion, Source of Divinity → (Ultimate side route: Miroen, Genesis of All; Velsa, the Final Conflagration; NoDay, Beyond the Last Fate)
+
+## v0.14.1 开场绘本数值下调
+
+- 开场绘本 18 位 Boss 的生命整体下调，最强（空白小王·未写完的结局）由 960 降至 **300**，其余依次递减：
+  20 / 25 / 32 / 40 / 50 / 62 / 75 / 90 / 106 / 124 / 143 / 163 / 184 / 206 / 229 / 253 / 276 / 300。
+- 18 位 Boss 的接触伤害与招式伤害全部减半（接触 1～5，招式 2～6）；空白小王的纸星大招由 13 降至 **7**。
+- 防御、阶段阈值、弹幕数量、召唤方式、掉落、武器与封印规则均未改动；4 位四材试炼小兵与 3 位极致弱化神明不受影响。
+- 专家模式生命 ×1.25／伤害 ×1.2，大师模式生命 ×1.5／伤害 ×1.4 的倍率不变，按新基数计算。
 
 ## v0.14.0 金属与宝石的微型试炼
 

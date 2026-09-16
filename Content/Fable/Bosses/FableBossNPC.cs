@@ -152,7 +152,7 @@ public abstract class FableBossNPC : ModNPC
         if(Main.netMode==NetmodeID.MultiplayerClient)return;
         int count=0;foreach(Projectile p in Main.ActiveProjectiles)if(p.ModProjectile is FableHazard h && h.ParentSlot==NPC.whoAmI)count++;
         if(count>=6)return;
-        int id=Projectile.NewProjectile(NPC.GetSource_FromAI(),position??NPC.Center,velocity,ModContent.ProjectileType<FableHazard>(),Damage(kind==4?13:FableCatalog.Shot[Index]),0,Main.myPlayer,NPC.whoAmI,kind,Serial);
+        int id=Projectile.NewProjectile(NPC.GetSource_FromAI(),position??NPC.Center,velocity,ModContent.ProjectileType<FableHazard>(),Damage(kind==4?7:FableCatalog.Shot[Index]),0,Main.myPlayer,NPC.whoAmI,kind,Serial);
         if(id<Main.maxProjectiles){Main.projectile[id].netUpdate=true;}
     }
     public override bool CanHitPlayer(Player target,ref int cooldownSlot)=>!Cancelled && NPC.damage>0 && target.GetModPlayer<FablePlayer>().EncounterSlot==NPC.whoAmI;
